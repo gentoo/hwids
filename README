@@ -1,0 +1,5 @@
+This package is a simple copy of the pci.ids and usb.ids files that
+have been shipped with pciutils and usbutils, delivered in a separate
+ebuild because both of them are available under a more permissive
+license than the code of those two projects, and because a number of
+ebuilds actually require the databases without the utilities.
