@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.04.04
-#	Date:    2012-04-04 03:15:01
+#	Version: 2012.04.09
+#	Date:    2012-04-09 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1523,6 +1523,7 @@
 	6800  WIMBLEDON XT [Radeon HD 7970M]
 	6818  PITCAIRN [Radeon HD 7800]
 	6819  PITCAIRN PRO [Radeon HD 7800 Series]
+	683f  Cape Verde PRO [Radeon HD 7700 Series]
 	6840  Thames XT/GL [Radeon HD 7600M Series]
 	6841  Thames [Radeon 7500M/7600M Series]
 	6843  Thames [Radeon HD 7670M]
@@ -4344,6 +4345,7 @@
 		103c 12dd  4Gb Fibre Channel [AB429A]
 	2432  ISP2432-based 4Gb Fibre Channel to PCI Express HBA
 	2532  ISP2532-based 8Gb Fibre Channel to PCI Express HBA
+		1077 0167  QME2572 Dual Port FC8 HBA Mezzanine
 	3022  ISP4022-based Ethernet NIC
 	3032  ISP4032-based Ethernet IPv6 NIC
 	4010  ISP4010-based iSCSI TOE HBA
@@ -7638,6 +7640,7 @@
 		1043 836c  P7H55
 		1043 83c7  P5KPL-AM EPU
 	0409  VX855/VX875 Host Bridge: Host Control
+	0410  VX900 Host Bridge: Host Control
 	0415  VT6415 PATA IDE Host Controller
 		1043 838f  M5A88-V EVO
 	0501  VT8501 [Apollo MVP4]
@@ -7723,6 +7726,7 @@
 	1353  VX800/VX820 Error Reporting
 	1364  CN896/VN896/P4M900 Host Bridge
 	1409  VX855/VX875 Error Reporting
+	1410  VX900 Error Reporting
 	1571  VT82C576M/VT82C586
 	1595  VT82C595/97 [Apollo VP2/97]
 	1732  VT1732 [Envy24 II] PCI Multi-Channel Audio Controller
@@ -7747,6 +7751,7 @@
 	2353  VX800/VX820 Host Bus Control
 	2364  CN896/VN896/P4M900 Host Bridge
 	2409  VX855/VX875 Host Bus Control
+	2410  VX900 CPU Bus Controller
 	287a  VT8251 PCI to PCI Bridge
 	287b  VT8251 Host Bridge
 	287c  VT8251 PCIE Root Port
@@ -7987,6 +7992,7 @@
 		1043 8374  M5A88-V EVO
 		1043 8384  P8P67 Deluxe Motherboard
 	3409  VX855/VX875 DRAM Bus Control
+	3410  VX900 DRAM Bus Control
 	4149  VIA VT6420 (ATA133) Controller
 	4204  K8M800 Host Bridge
 	4208  PT890 Host Bridge
@@ -8078,6 +8084,7 @@
 	8a26  KL133/KL133A/KM133/KM133A [S3 ProSavage]
 	8d01  PN133/PN133T [S3 Twister]
 	8d04  KM266/P4M266/P4M266A/P4N266 [S3 ProSavageDDR]
+	9001  VX900 Serial ATA Controller
 	9530  Secure Digital Memory Card Controller
 	95d0  SDIO Host Controller
 	a208  PT890 PCI to PCI Bridge Controller
@@ -8099,7 +8106,7 @@
 		147b 1407  KV8-MAX3 motherboard
 	b198  VT8237/VX700 PCI Bridge
 	b213  VPX/VPX2 I/O APIC Interrupt Controller
-	b353  VX855/VX875 PCI to PCI Bridge
+	b353  VX855/VX875/VX900 PCI to PCI Bridge
 	b999  [K8T890 North / VT8237 South] PCI Bridge
 	c208  PT890 PCI to PCI Bridge Controller
 	c238  K8T890 PCI to PCI Bridge Controller
@@ -8691,6 +8698,7 @@
 1134  Mercury Computer Systems
 	0001  Raceway Bridge
 	0002  Dual PCI to RapidIO Bridge
+	000b  POET Serial RapidIO Bridge
 1135  Fuji Xerox Co Ltd
 	0001  Printer controller
 1136  Momentum Data Systems
@@ -10559,6 +10567,7 @@
 	8212  IT8212 Dual channel ATA RAID controller
 		1283 0001  IT/ITE8212 Dual channel ATA RAID controller
 	8213  IT8213 IDE Controller
+		1458 b000  GA-EG45M-DS2H Mainboard
 	8330  IT8330G
 	8872  IT8874F PCI Dual Serial Port Controller
 	8888  IT8888F/G PCI to ISA Bridge with SMB [Golden Gate]
@@ -14251,7 +14260,8 @@
 		13bd 1057  GN-WS32L-RH Half-size Mini PCIe Card
 	3091  RT3091 Wireless 802.11n 1T/2R PCIe
 	3092  RT3092 Wireless 802.11n 2T/2R PCIe
-	5360  RT5360
+	5360  RT5360 Wireless 802.11n 1T/1R
+		1186 3c05  DWA-525 Wireless N 150 Desktop Adapter (rev.A2)
 	5390  RT5390 Wireless 802.11n 1T/1R PCIe
 		103c 1636  U98Z077.00 Half-size Mini PCIe Card
 	539f  RT5390 [802.11 b/g/n 1T1R G-band PCI Express Single Chip]
@@ -16984,6 +16994,7 @@
 		1025 1016  Travelmate 612 TX
 		104d 80df  Vaio PCG-FX403
 	2448  82801 Mobile PCI Bridge
+		1028 040b  Latitude E6510
 # (rev d3) (prog-if (rev d3) (prog-if 01 [Subtractive decode])
 		103c 0934  HP Compaq nw8240 Mobile Workstation
 		103c 099c  NX6110/NC6120
@@ -17047,6 +17058,7 @@
 		1028 020d  Inspiron 530
 		1028 0211  Optiplex 755
 		103c 2a3b  Pavilion A1512X
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5000  GA-EP45-DS5 Motherboard
 		1775 11cc  CC11/CL11
 	2450  82801E ISA Bridge (LPC)
@@ -18883,7 +18895,7 @@
 	2e16  4 Series Chipset PT IDER Controller
 	2e17  4 Series Chipset Serial KT Controller
 	2e20  4 Series Chipset DRAM Controller
-		1458 5000  GA-EP45-DS5 Motherboard
+		1458 5000  GA-EP45-DS5/GA-EG45M-DS2H Motherboard
 	2e21  4 Series Chipset PCI Express Root Port
 		1458 5000  GA-EP45-DS5 Motherboard
 	2e22  4 Series Chipset Integrated Graphics Controller
@@ -18971,17 +18983,21 @@
 		1028 0287  PowerEdge M610 I/O Hub to ESI Port
 		1028 028c  PowerEdge R410 I/O Hub to ESI Port
 		1028 028d  PowerEdge T410 I/O Hub to ESI Port
+		103c 330b  ProLiant ML150 G6 Server
 	3404  5520/5500/X58 I/O Hub to ESI Port
 	3405  5520/5500/X58 I/O Hub to ESI Port
 	3406  5520 I/O Hub to ESI Port
 	3407  5520/5500/X58 I/O Hub to ESI Port
 	3408  5520/5500/X58 I/O Hub PCI Express Root Port 1
+		103c 330b  ProLiant ML150 G6 Server
 	3409  5520/5500/X58 I/O Hub PCI Express Root Port 2
 	340a  5520/5500/X58 I/O Hub PCI Express Root Port 3
+		103c 330b  ProLiant ML150 G6 Server
 	340b  5520/X58 I/O Hub PCI Express Root Port 4
 	340c  5520/X58 I/O Hub PCI Express Root Port 5
 	340d  5520/X58 I/O Hub PCI Express Root Port 6
 	340e  5520/5500/X58 I/O Hub PCI Express Root Port 7
+		103c 330b  ProLiant ML150 G6 Server
 	340f  5520/5500/X58 I/O Hub PCI Express Root Port 8
 	3410  5520/5500/X58 I/O Hub PCI Express Root Port 9
 	3411  5520/5500/X58 I/O Hub PCI Express Root Port 10
@@ -19192,6 +19208,7 @@
 	3a16  82801JIR (ICH10R) LPC Interface Controller
 		1028 028c  PowerEdge R410 LPC Interface Controller
 		1028 028d  PowerEdge T410 LPC Interface Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5001  GA-EP45-DS5 Motherboard
 	3a18  82801JIB (ICH10) LPC Interface Controller
 	3a1a  82801JD (ICH10D) LPC Interface Controller
@@ -19199,6 +19216,7 @@
 		1028 028c  PowerEdge R410 SATA IDE Controller
 		1028 028d  PowerEdge T410 SATA IDE Controller
 	3a22  82801JI (ICH10 Family) SATA AHCI Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1043 82d4  P5Q Deluxe Motherboard
 		1458 b005  GA-EP45-DS5 Motherboard
 	3a25  82801JIR (ICH10R) SATA RAID Controller
@@ -19214,34 +19232,42 @@
 	3a34  82801JI (ICH10 Family) USB UHCI Controller #1
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5004  GA-EP45-DS5 Motherboard
 	3a35  82801JI (ICH10 Family) USB UHCI Controller #2
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5004  GA-EP45-DS5 Motherboard
 	3a36  82801JI (ICH10 Family) USB UHCI Controller #3
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5004  GA-EP45-DS5 Motherboard
 	3a37  82801JI (ICH10 Family) USB UHCI Controller #4
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
-		1458 5004  GA-EP45-DS5 Motherboard
+		103c 330b  ProLiant ML150 G6 Server
+		1458 5004  GA-EP45-DS5/GA-EG45M-DS2H Motherboard
 	3a38  82801JI (ICH10 Family) USB UHCI Controller #5
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
-		1458 5004  GA-EP45-DS5 Motherboard
+		103c 330b  ProLiant ML150 G6 Server
+		1458 5004  GA-EP45-DS5/GA-EG45M-DS2H Motherboard
 	3a39  82801JI (ICH10 Family) USB UHCI Controller #6
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5004  GA-EP45-DS5 Motherboard
 	3a3a  82801JI (ICH10 Family) USB2 EHCI Controller #1
 		1028 028c  PowerEdge R410 USB EHCI Controller
 		1028 028d  PowerEdge T410 USB EHCI Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5006  GA-EP45-DS5 Motherboard
 	3a3c  82801JI (ICH10 Family) USB2 EHCI Controller #2
 		1028 028c  PowerEdge R410 USB EHCI Controller
 		1028 028d  PowerEdge T410 USB EHCI Controller
+		103c 330b  ProLiant ML150 G6 Server
 		1458 5006  GA-EP45-DS5 Motherboard
 	3a3e  82801JI (ICH10 Family) HD Audio Controller
 		1458 a002  GA-EP45-UD3R Motherboard
@@ -19249,6 +19275,7 @@
 	3a40  82801JI (ICH10 Family) PCI Express Root Port 1
 		1028 028c  PowerEdge R410 PCI Express Port 1
 		1028 028d  PowerEdge T410 PCI Express Port 1
+		103c 330b  ProLiant ML150 G6 Server
 		1043 82ea  P6T DeLuxe Motherboard
 		1458 5001  GA-EP45-DS5 Motherboard
 	3a42  82801JI (ICH10 Family) PCI Express Port 2
@@ -19258,9 +19285,11 @@
 		1043 82ea  P6T DeLuxe Motherboard
 		1458 5001  GA-EP45-DS5 Motherboard
 	3a48  82801JI (ICH10 Family) PCI Express Root Port 5
+		103c 330b  ProLiant ML150 G6 Server
 		1043 82ea  P6T Deluxe Motherboard
 		1458 5001  GA-EP45-DS5 Motherboard
 	3a4a  82801JI (ICH10 Family) PCI Express Root Port 6
+		103c 330b  ProLiant ML150 G6 Server
 		1043 82ea  P6T DeLuxe Motherboard
 		1458 5001  GA-EP45-DS5 Motherboard
 	3a4c  82801JI (ICH10 Family) Gigabit Ethernet Controller
@@ -19334,6 +19363,7 @@
 	3b2e  5 Series/3400 Series Chipset 4 port SATA IDE Controller
 		e4bf 50c1  PC1-GROOVE
 	3b2f  5 Series/3400 Series Chipset 6 port SATA AHCI Controller
+		1028 040b  Latitude E6510
 		e4bf 50c1  PC1-GROOVE
 	3b30  5 Series/3400 Series Chipset SMBus Controller
 		1025 0347  Aspire 7740G
@@ -19360,9 +19390,12 @@
 	3b40  5 Series/3400 Series Chipset USB Universal Host Controller
 	3b41  5 Series/3400 Series Chipset LAN Controller
 	3b42  5 Series/3400 Series Chipset PCI Express Root Port 1
+		1028 040b  Latitude E6510
 	3b44  5 Series/3400 Series Chipset PCI Express Root Port 2
+		1028 040b  Latitude E6510
 	3b46  5 Series/3400 Series Chipset PCI Express Root Port 3
 	3b48  5 Series/3400 Series Chipset PCI Express Root Port 4
+		1028 040b  Latitude E6510
 	3b4a  5 Series/3400 Series Chipset PCI Express Root Port 5
 	3b4c  5 Series/3400 Series Chipset PCI Express Root Port 6
 	3b4e  5 Series/3400 Series Chipset PCI Express Root Port 7
@@ -19910,6 +19943,7 @@
 	d136  Core Processor DMI
 	d137  Core Processor DMI
 	d138  Core Processor PCI Express Root Port 1
+		1028 040b  Latitude E6510
 	d139  Core Processor PCI Express Root Port 2
 	d13a  Core Processor PCI Express Root Port 3
 	d13b  Core Processor PCI Express Root Port 4
