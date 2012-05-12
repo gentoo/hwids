@@ -8,8 +8,5 @@ fetch:
 PV ?= $(shell date +%Y%m%d)
 P = hwids-$(PV)
 
-dist: $(P).tar.xz
-
-$(P).tar.xz:
+tag:
 	git tag $(P)
-	git archive --prefix=$(P)/ $(P) | xz -9e > $(P).tar.xz
