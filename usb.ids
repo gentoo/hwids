@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2012.04.11
-# Date:    2012-04-11 20:34:03
+# Version: 2012.06.11
+# Date:    2012-06-11 20:34:02
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -22,6 +22,7 @@
 
 0001  Fry's Electronics
 	142b  Arbiter Systems, Inc.
+	7778  Counterfeit flash drive [Kingston]
 0002  Ingram
 0003  Club Mac
 0004  Nebraska Furniture Mart
@@ -253,6 +254,7 @@
 	1311  OfficeJet V30
 	1312  DeskJet 460
 	1317  LaserJet 1005
+	1327  iLO Virtual Hub
 	1405  ScanJet 3670
 	1411  PSC 750
 	1424  f2105 Monitor Hub
@@ -328,6 +330,7 @@
 	2311  OfficeJet d series
 	2312  OfficeJet Pro L7700
 	2317  LaserJet 4350
+	231d  4 GB Flash Drive
 	2402  PhotoSmart 7700 series
 	2404  Deskjet F2280 series
 	2405  ScanJet 4070 PhotoSmart
@@ -839,6 +842,8 @@
 	0249  Aterm WL300NU-G
 	02b4  Aterm WL300NU-AG
 	02b6  Aterm WL300NU-GS 802.11n Wireless Adapter
+	0300  LifeTouch Note
+	0301  LifeTouch Note (debug mode)
 	55aa  Hub
 	55ab  Hub [iMac/iTouch kbd]
 	8010  Intellibase Hub
@@ -984,6 +989,7 @@
 	6510  Weltrend Bar Code Reader
 	6520  XBOX Xploder
 	6533  Speed-Link Competition Pro
+	6543  Manhattan Magnetic Card Strip Reader
 040c  VTech Computers, Ltd
 040d  VIA Technologies, Inc.
 	3184  VNT VT6656 USB-802.11 Wireless LAN Adapter
@@ -1307,6 +1313,8 @@
 	02e3  5230 (PC-Suite mode)
 	02e4  5230 (Imaging mode)
 	03a4  C5 (Storage mode)
+	03c0  C7-00
+	03d1  N950
 	0400  7600 Phone Parent
 	0401  6650 GSM Phone
 	0402  6255 Phone Parent
@@ -1368,6 +1376,7 @@
 	04f9  6300 (PC Suite mode)
 	0508  E65 (PC Suite mode)
 	0509  E65 (Storage mode)
+	0518  N9 Phone
 	0600  Digital Pen SU-1B
 	0610  CS-15 (Internet Stick 3G modem)
 	0800  Connectivity Cable DKU-5
@@ -1399,6 +1408,7 @@
 	2503  USB 2.0 Hub
 	2504  USB 2.0 Hub
 	2512  USB 2.0 Hub
+	2513  2.0 Hub
 	2514  USB 2.0 Hub
 	2517  Hub
 	2524  USB MultiSwitch Hub
@@ -3374,7 +3384,7 @@
 	309a  PowerShot A80
 	309b  Digital IXUS (ptp)
 	309c  PowerShot S1 IS
-	309d  Camera
+	309d  Powershot Pro 1
 	309f  Camera
 	30a0  Camera
 	30a1  Camera
@@ -3406,18 +3416,23 @@
 	30ef  EOS 350D (ptp)
 	30f0  PowerShot S2 IS (PTP mode)
 	30f2  Digital IXUS 700 (normal mode) / Digital IXUS 700 (PTP mode) / IXY Digital 600 (normal mode) / PowerShot SD500 (normal mode) / PowerShot SD500 (PTP mode)
+	30f4  PowerShot SD30 / Ixus iZoom / IXY DIGITAL L3
 	30f6  SELPHY CP400
 	30f8  Powershot A430
 	30f9  PowerShot A410 (PTP mode)
+	30fa  PowerShot S80
 	30fc  PowerShot A620 (PTP mode)
 	30fd  PowerShot A610 (normal mode)/PowerShot A610 (PTP mode)
 	30fe  Digital IXUS 65 (PTP mode)/PowerShot SD630 (PTP mode)
 	30ff  Digital IXUS 55 (PTP mode)/PowerShot SD450 (PTP mode)
+	3100  PowerShot TX1
 	310b  SELPHY CP600
 	310e  Digital IXUS 50 (PTP mode)
 	3110  EOS Digital Rebel XTi
-	3116  Digital IXUS 750 (PTP mode)
+	3116  Digital IXUS 750 / PowerShot SD550 (PTP mode)
 	3117  PowerShot A700
+	3119  PowerShot SD700 IS / Digital IXUS 800 IS / IXY Digital 800 IS
+	311b  PowerShot A540
 	312d  Elura 100
 	3138  PowerShot A710 IS
 	3147  EOS 1Ds Mark III
@@ -3432,18 +3447,39 @@
 	3184  Digital IXUS 80 IS (PTP mode)
 	3192  PowerShot SX110 IS
 	319a  EOS 7D
+	31ad  PowerShot E1
 	31bc  PowerShot D10
 	31bf  PowerShot A480
 	31c0  PowerShot SX200 IS
 	31e5  Digital IXUS 200 IS
 	31ee  SELPHY ES40
 	31ef  PowerShot A495
+	31f1  PowerShot A3100 IS / PowerShot A3150 IS
+	31f2  PowerShot A3000 IS
 	31f3  PowerShot Digital ELPH SD1400 IS
+	31f4  PowerShot SD1300 IS / IXUS 105
+	31f5  Powershot SD3500 IS / IXUS 210 IS
+	31f6  PowerShot SX210 IS
+	31f7  Powershot SD4000 IS / IXUS 300 HS / IXY 30S
+	31f8  Powershot SD4500 IS / IXUS 1000 HS / IXY 50S
 	31ff  Digital IXUS 55
 	3210  Powershot SX30 IS
+	3211  PowerShot SX130 IS
+	3212  Powershot S95
 	3214  SELPHY CP800
 	3218  EOS 600D / Rebel T3i (ptp)
+	3223  PowerShot A3300 IS
+	3224  PowerShot A3200 IS
+	3226  PowerShow A800
+	3228  PowerShot SX230 HS
 	3229  IXUS 220 HS
+	322a  PowerShot A2200
+	322b  Powershot A1200
+	3238  PowerShot SX40 HS
+	323f  PowerShot A810
+	3243  PowerShot A4000 IS
+	3244  PowerShot SX260 HS
+	3245  PowerShot SX240 HS
 04aa  DaeWoo Telecom, Ltd
 04ab  Chromatic Research
 04ac  Micro Audiometrics Corp.
@@ -3512,8 +3548,10 @@
 	040f  D200 (mass storage mode)
 	0410  D200 (ptp)
 	0413  D40 (mass storage mode)
+	041e  D60 digital camera (mass storage mode)
 	0422  D700 (ptp)
 	0425  D300S
+	042a  D800 (ptp)
 	0f03  PD-10 Wireless Printer Adapter
 	4000  Coolscan LS 40 ED
 	4001  LS 50 ED/Coolscan V ED
@@ -3600,46 +3638,56 @@
 	0005  Printer
 	0006  Printer
 	0007  Printer
-	0101  Perfection 636
+	0101  GT-7000U [Perfection 636]
 	0102  GT-2200
-	0103  Perfection 610
-	0104  Perfection 1200
-	0105  StylusScan 2000
+	0103  GT-6600U [Perfection 610]
+	0104  GT-7600UF [Perfection 1200U/1200U Photo]
+	0105  Stylus Scan 2000
 	0106  Stylus Scan 2500
-	0107  Expression 1600U
-	0109  Expression 1640 XL
-	010a  Perfection 1640SU
-	010b  Perfection 1240
-	010c  Perfection 640
-	010e  Perfection 1680
-	010f  Perfection 1250
-	0110  Perfection 1650
-	0112  Perfection 2450
+	0107  ES-2000 [Expression 1600U]
+	0108  CC-700
+	0109  ES-8500 [Expression 1640 XL]
+	010a  GT-8700/GT-8700F [Perfection 1640SU/1640SU PHOTO]
+	010b  GT-7700U [Perfection 1240U]
+	010c  GT-6700U [Perfection 640]
+	010d  CC-500L
+	010e  ES-2200 [Perfection 1680]
+	010f  GT-7200U [Perfection 1250/1250 PHOTO]
+	0110  GT-8200U/GT-8200UF [Perfection 1650/1650 PHOTO]
+	0112  GT-9700F [Perfection 2450 PHOTO]
 	0114  Perfection 660
-	0116  Perfection 3170 (GT-9400)
-	0118  Perfection 4180 (GF-F600)
-	0119  Perfection 4490 Photo
-	011a  1000 ICS
-	011b  Perfection 2400 Photo
-	011c  Perfection 3200
-	011d  Perfection 1260 Photo
-	011e  Perfection 1660 Photo
-	011f  Perfection 1670
-	0120  Perfection 1270 scanner
-	0121  Perfection 2480/2580 Photo [GT-F500]
-	0122  Perfection 3590 scanner
-	0126  GT-15000 (ES-7000)
-	0128  Perfection 4870 (GT-X700)
-	0129  Expression 10000XL (ES-10000G)
-	012a  Perfection 4990 Photo scanner
-	012b  GT-2500 (ES-H300)
-	012c  Perfection V700 Photo (GT-X900)
-	012d  Perfection V10/V100 (GT-S600/F650)
-	012f  Perfection V350 (GT-F700)
-	0130  Perfection V500 (GT-X770)
-	0131  Perfection V300
-	0136  GT-S80 (ES-D400)
-	0137  GT-S50 (ES-D200)
+	0116  GT-9400UF [Perfection 3170]
+	0118  GT-F600 [Perfection 4180]
+	0119  GT-X750 [Perfection 4490 Photo]
+	011a  CC-550L [1000 ICS]
+	011b  GT-9300UF [Perfection 2400 PHOTO]
+	011c  GT-9800F [Perfection 3200]
+	011d  GT-7300U [Perfection 1260/1260 PHOTO]
+	011e  GT-8300UF [Perfection 1660 PHOTO]
+	011f  GT-8400UF [Perfection 1670/1670 PHOTO]
+	0120  GT-7400U [Perfection 1270]
+	0121  GT-F500/GT-F550 [Perfection 2480/2580 PHOTO]
+	0122  GT-F520/GT-F570 [Perfection 3590 PHOTO]
+	0126  ES-7000H [GT-15000]
+	0128  GT-X700 [Perfection 4870]
+	0129  ES-10000G [Expression 10000XL]
+	012a  GT-X800 [Perfection 4990 PHOTO]
+	012b  ES-H300 [GT-2500]
+	012c  GT-X900 [Perfection V700/V750 Photo]
+	012d  GT-F650 [GT-S600/Perfection V10/V100]
+	012e  GT-F670 [Perfection V200 Photo]
+	012f  GT-F700 [Perfection V350]
+	0130  GT-X770 [Perfection V500]
+	0131  GT-F720 [GT-S620/Perfection V30/V300 Photo]
+	0133  GT-1500 [GT-D1000]
+	0135  GT-X970
+	0136  ES-D400 [GT-S80]
+	0137  ES-D200 [GT-S50]
+	0138  ES-H7200 [GT-20000]
+	013a  GT-X820 [Perfection V600 Photo]
+	0142  GT-F730 [GT-S630/Perfection V33/V330 Photo]
+	0143  GT-S55
+	0144  GT-S85
 	0202  Receipt Printer M129C
 	0401  CP 800 Digital Camera
 	0402  PhotoPC 850z
@@ -3647,38 +3695,38 @@
 	0509  JVC PIX-MC10
 	0601  Stylus Photo 875DC Card Reader
 	0602  Stylus Photo 895 Card Reader
-	0801  Stylus CX5200/CX5400/CX6600
-	0802  Stylus CX3200
+	0801  CC-600PX [Stylus CX5200/CX5400/CX6600]
+	0802  CC-570L [Stylus CX3100/CX3200]
 	0803  Printer (Composite Device)
 	0804  Storage Device
-	0805  Stylus CX6400
-	0806  Stylus Photo RX600/610
+	0805  Stylus CX6300/CX6400
+	0806  PM-A850 [Stylus Photo RX600/610]
 	0807  Stylus Photo RX500/510
-	0808  Stylus CX5200
+	0808  Stylus CX5200/CX5300/CX5400
 	0809  Storage Device
-	080a  Storage Device
-	080c  ME100
+	080a  F-3200
+	080c  ME100 [Stylus CX1500]
 	080d  Stylus CX4500/4600
-	080e  CX-3500/3600/3650 MFP
-	080f  Stylus Photo RX425 scanner
-	0810  Stylus Photo RX700 (PM-A900)
-	0811  Stylus Photo RX620 all-in-one
+	080e  PX-A550 [CX-3500/3600/3650 MFP]
+	080f  Stylus Photo RX420/RX425/RX430
+	0810  PM-A900 [Stylus Photo RX700]
+	0811  PM-A870 [Stylus Photo RX620/RX630]
 	0812  MFP Composite Device
 	0813  Stylus CX6500/6600
-	0814  (PM-A700)
-	0815  AcuLaser CX11 (LP-A500)
+	0814  PM-A700
+	0815  LP-A500 [AcuLaser CX1]
 	0816  Printer (Composite Device)
-	0817  (LP-M5500)
+	0817  LP-M5500/LP-M5500F
 	0818  Stylus CX3700/CX3800/DX3800
-	0819  Stylus CX4700/CX4800/DX4800 (PX-A750)
-	081a  Stylus Photo RX520/RX530 (PM-A750)
+	0819  PX-A650 [Stylus CX4700/CX4800/DX4800/DX4850]
+	081a  PM-A750 [Stylus Photo RX520/RX530]
 	081b  MFP Composite Device
-	081c  Stylus Photo RX640/RX650 (PM-A890)
-	081d  (PM-A950)
+	081c  PM-A890 [Stylus Photo RX640/RX650]
+	081d  PM-A950
 	081e  MFP Composite Device
 	081f  Stylus CX7700/7800
-	0820  CX4200 MP scanner
-	0821  MFP Composite Device
+	0820  Stylus CX4100/CX4200/DX4200
+	0821  Stylus CX5700F/CX5800F
 	0822  Storage Device
 	0823  MFP Composite Device
 	0824  Storage Device
