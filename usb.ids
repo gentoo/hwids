@@ -13345,6 +13345,7 @@
 	0101  Copperhead Mouse
 	0102  Tarantula Keyboard
 	0109  Lycosa Keyboard
+	0013  Orochi mouse
 1546  U-Blox AG
 154a  Celectronic GmbH
 	8180  CARD STAR/medic2
@@ -13656,6 +13657,8 @@
 	5289  FlashDisk
 	6211  FlashDisk
 1688  Saab AB
+1689  Razer USA, Ltd
+	fd00  Onza Tournament Edition gamepad
 168c  Atheros Communications
 	0001  AR5523
 	0002  AR5523 (no firmware)
