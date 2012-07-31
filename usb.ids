@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2012.06.11
-# Date:    2012-06-11 20:34:02
+# Version: 2012.07.30
+# Date:    2012-07-30 20:34:03
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -4386,7 +4386,9 @@
 	684e  Wave (GT-S8500)
 	685b  GT-I9100 Phone [Galaxy S II] (mass storage mode)
 	685e  GT-I9100 Phone [Galaxy S II] (USB Debugging mode)
-	6860  GT-I9100 Phone [Galaxy S II], GT-P7500 [Galaxy Tab 10.1]
+	6860  GT-I9100 Phone [Galaxy S II], GT-I9300 Phone [Galaxy S III], GT-P7500 [Galaxy Tab 10.1]
+	6865  GT-I9300 Phone [Galaxy S III] (PTP mode)
+	6866  GT-I9300 Phone [Galaxy S III] (debugging mode)
 	6875  GT-B3710 Standalone LTE device (Commercial)
 	6876  GT-B3710 LTE Modem
 	6877  Galaxy S
