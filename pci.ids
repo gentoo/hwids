@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.08.15
-#	Date:    2012-08-15 03:15:02
+#	Version: 2012.08.31
+#	Date:    2012-08-31 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -325,6 +325,8 @@
 		4c53 1080  CT8 mainboard
 		4c53 1300  P017 mezzanine (32-bit PMC)
 		4c53 1310  P017 mezzanine (64-bit PMC)
+	002f  MegaRAID SAS 2208 IOV [Thunderbolt]
+		1028 1f3e  SPERC 8
 	0030  53c1030 PCI-X Fusion-MPT Dual Ultra320 SCSI
 		0e11 00da  ProLiant ML 350
 		1028 0123  LSI Logic 1020/1030
