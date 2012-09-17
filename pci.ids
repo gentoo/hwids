@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.09.06
-#	Date:    2012-09-06 03:15:02
+#	Version: 2012.09.16
+#	Date:    2012-09-16 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1548,6 +1548,7 @@
 	6798  Tahiti XT [Radeon HD 7970]
 	6799  New Zealand [Radeon HD 7990]
 	679a  Tahiti PRO [Radeon HD 7950]
+	679e  Tahiti LE [Radeon HD 7800 Series]
 	6800  WIMBLEDON XT [Radeon HD 7970M]
 	6818  PITCAIRN [Radeon HD 7800]
 	6819  PITCAIRN PRO [Radeon HD 7800 Series]
@@ -1891,6 +1892,7 @@
 	9804  Wrestler [Radeon HD 6250]
 	9806  Wrestler [Radeon HD 6320]
 	9807  Wrestler [Radeon HD 6290]
+	9990  Trinity [Radeon HD 7520G]
 	aa00  R600 Audio Device [Radeon HD 2900 Series]
 	aa08  RV630 audio device [Radeon HD 2600 Series]
 	aa10  RV610 HDMI Audio [Radeon HD 2350/2400 Series]
@@ -3788,6 +3790,7 @@
 	823f  XIO2213A/B/XIO2221 IEEE-1394b OHCI Controller [Cheetah Express]
 		1546 803c  FWB-PCIE1X11B
 	8240  XIO2001 PCI Express-to-PCI Bridge
+	8241  TUSB73x0 SuperSpeed USB 3.0 xHCI Host Controller
 	8400  ACX 100 22Mbps Wireless Interface
 		1186 3b00  DWL-650+ PC Card cardbus 22Mbs Wireless Adapter [AirPlus]
 		1186 3b01  DWL-520+ 22Mbps PCI Wireless Adapter
@@ -4977,6 +4980,7 @@
 	8547  PEX 8547 48-lane, 3-port PCI Express Switch
 	8548  PEX 8548 48-lane, 9-port PCI Express Switch
 	8604  PEX 8604 4-lane, 4-Port PCI Express Gen 2 (5.0 GT/s) Switch
+	8605  PEX 8605 PCI Express 4-port Gen2 Switch
 	8606  PEX 8606 6 Lane, 6 Port PCI Express Gen 2 (5.0 GT/s) Switch
 	8608  PEX 8608 8-lane, 8-Port PCI Express Gen 2 (5.0 GT/s) Switch
 	8609  PEX 8609 8-lane, 8-Port PCI Express Gen 2 (5.0 GT/s) Switch with DMA
@@ -7050,6 +7054,8 @@
 	0a65  GT218 [GeForce 210]
 		1043 8334  EN210 SILENT
 	0a66  GT218 [GeForce 310]
+# taken from nv_disp.inf
+	0a67  GT218 [GeForce 315]
 	0a68  G98M [GeForce G105M]
 	0a69  G98M [GeForce G105M]
 	0a6a  GT218 [NVS 2100M]
@@ -7153,9 +7159,13 @@
 	0ca2  GT215 [GeForce GT 320]
 	0ca3  GT215 [GeForce GT 240]
 	0ca4  GT215 [GeForce GT 340]
+# taken from nv_disp.inf
+	0ca5  GT215 [GeForce GT 220]
 	0ca7  GT215 [GeForce GT 330]
 	0ca8  GT215 [GeForce GTS 260M]
 	0ca9  GT215 [GeForce GTS 250M]
+# GT215, not GT216 per http://www.techpowerup.com/gpuz/594cm/
+	0cac  GT215 [GeForce GT 220]
 	0caf  GT215 [GeForce GT 335M]
 	0cb0  GT215 [GeForce GTS 350M]
 	0cb1  GT215 [GeForce GTS 360M]
@@ -7176,7 +7186,13 @@
 	0d94  MCP89 High Definition Audio
 	0d9c  MCP89 OHCI USB 1.1 Controller
 	0d9d  MCP89 EHCI USB 2.0 Controller
+# taken from nv_disp.inf
+	0dc0  GF108 [GeForce GT 440]
 	0dc4  GF106 [GeForce GTS 450]
+# taken from nv_disp.inf
+	0dc5  GF106 [GeForce GTS 450]
+# taken from nv_disp.inf
+	0dc6  GF106 [GeForce GTS 450]
 	0dcd  GF106 [GeForce GT 555M]
 	0dce  GF106 [GeForce GT 555M]
 # rev a1
@@ -7190,7 +7206,11 @@
 	0de1  GF108 [GeForce GT 430]
 		3842 1430  GeForce GT 430
 	0de2  GF108 [GeForce GT 420]
-	0de9  GeForce GT 630M
+# taken from nv_disp.inf
+	0de4  GF108 [GeForce GT 520]
+# taken from nv_disp.inf
+	0de5  GF108 [GeForce GT 530]
+	0de9  GF108 [GeForce GT 630M]
 # Not fully sure that it's GF108, might also be GF106.
 	0deb  GF108 [GeForce GT 555M]
 	0dee  GF108 [GeForce GT 415M]
@@ -7212,13 +7232,33 @@
 	0e0c  GF114 HDMI Audio Controller
 	0e22  GF104 [GeForce GTX 460]
 		1462 2322  N460GTX Cyclone 1GD5/OC
+# taken from nv_disp.inf
+	0e23  GF104 [GeForce GTX 460 SE]
+# taken from nv_disp.inf
+	0e24  GF104 [GeForce GTX 460]
 	0e3a  GF104 [Quadro 3000M]
 	0e3b  GF104 [Quadro 4000M]
+# taken from nv_disp.inf
+	0f00  GK107 [GeForce GT 630]
+# Probably GF108
+	0f01  GeForce GT 620
+# taken from nv_disp.inf
+	0fc0  GK107 [GeForce GT 640]
+# taken from nv_disp.inf
+	0fc1  GK107 [GeForce GT 640]
 	0fd1  GK107 [GeForce GT 650M]
 	0fd2  GK107 [GeForce GT 640M]
 	0ffb  GK107 [Quadro K2000M]
 	0ffc  GK107 [Quadro K1000M]
 	1040  GF119 [GeForce GT 520]
+# taken from nv_disp.inf
+	1042  GF119 [GeForce 510]
+# taken from nv_disp.inf
+	1048  GF119 [GeForce 605]
+# taken from nv_disp.inf
+	1049  GF119 [GeForce GT 620]
+# taken from nv_disp.inf
+	104a  GF119 [GeForce GT 610]
 	1050  GF119 [GeForce GT 520M]
 	1051  GF119 [GeForce GT 520MX]
 	1056  GF119 [Quadro NVS 4200M]
@@ -7228,8 +7268,16 @@
 	1081  GF110 [GeForce GTX 570]
 		10de 087e  Leadtek WinFast GTX 570
 	1082  GF110 [GeForce GTX 560 Ti]
+# taken from nv_disp.inf
+	1084  GF110 [GeForce GTX 560]
 	1086  GF110 [GeForce GTX 570 HD]
 	1087  GF110 [GeForce GTX 560 Ti 448 Cores]
+# taken from nv_disp.inf
+	1088  GF110 [GeForce GTX 590]
+# taken from nv_disp.inf
+	1089  GF110 [GeForce GTX 580]
+# taken from nv_disp.inf
+	108b  GF110 [GeForce GTX 580]
 	1091  Tesla M2090
 	1094  Tesla M2075 Dual-Slot Computing Processor Module
 	1096  Tesla C2075
@@ -7248,9 +7296,23 @@
 	1200  GF114 [GeForce GTX 560 Ti]
 	1201  GF114 [GeForce GTX 560]
 	1205  GF114 [GeForce GTX 460 v2]
+# taken from nv_disp.inf
+	1206  GF114 [GeForce GTX 555]
+# taken from nv_disp.inf
+	1207  GF114 [GeForce GTX 645]
+# taken from nv_disp.inf
+	1208  GF114 [GeForce GTX 560 SE]
+# GT, not GTX
+	1241  GF116 [GeForce GT 545]
+# GT, not GTX
+	1243  GF116 [GeForce GT 545]
 	1244  GF116 [GeForce GTX 550 Ti]
 	1245  GF116 [GeForce GTS 450]
 	1247  GF106 [GeForce GT 555M]
+# taken from nv_disp.inf
+	1249  GF116 [GeForce GTS 450]
+# taken from nv_disp.inf
+	124b  GF116 [GeForce GT 640]
 10df  Emulex Corporation
 	0720  OneConnect NIC (Skyhawk)
 	0722  OneConnect iSCSI Initiator (Skyhawk)
@@ -8168,6 +8230,7 @@
 	5410  VX900 APIC and Central Traffic Control
 	6100  VT85C100A [Rhine II]
 	6287  SATA RAID Controller
+	6290  K8M890CE Host Bridge
 	6327  P4M890 Security Device
 	6353  VX800/VX820 Scratch Registers
 	6364  CN896/VN896/P4M900 Security Device
@@ -10079,6 +10142,7 @@
 	0805  RocketPort UPCI 8 port w/octa cable
 	080c  RocketModem III 8 port
 	080d  RocketModem III 4 port
+	0810  RocketPort UPCI Plus 4 port RS232
 	0811  RocketPort UPCI Plus 8 port RS232
 	0812  RocketPort UPCI Plus 8 port RS422
 	0903  RocketPort Compact PCI 16 port w/external I/F
@@ -11996,6 +12060,7 @@
 	9521  OX16PCI952 (Dual 16950 UART)
 	9523  OX16PCI952 Integrated Parallel Port
 	c158  OXPCIe952 Dual 16C950 UART
+		e4bf c504  CP4-SCAT Wireless Technologies Carrier Board
 	c308  EX-44016 16-port serial
 1416  Multiwave Innovation pte Ltd
 1417  Convergenet Technologies Inc
@@ -14059,6 +14124,7 @@
 		103c 1838  AR9485/HB125 802.11bgn 1×1 Wi-Fi Adapter
 	0033  AR9580 Wireless Network Adapter
 	0034  AR9462 Wireless Network Adapter
+	0036  AR9565 Wireless Network Adapter
 	0207  AR5210 Wireless Network Adapter [AR5000 802.11a]
 	1014  AR5212 802.11abg NIC
 		1014 058a  ThinkPad 11a/b/g Wireless LAN Mini Express Adapter (AR5BXB6)
@@ -14463,7 +14529,7 @@
 		13bd 1057  GN-WS32L-RH Half-size Mini PCIe Card
 	3091  RT3091 Wireless 802.11n 1T/2R PCIe
 	3092  RT3092 Wireless 802.11n 2T/2R PCIe
-	3592  RT3592 Wireless 802.11an 2T/2R PCIe
+	3592  RT3592 Wireless 802.11abgn 1T/1R PCIe
 	5360  RT5360 Wireless 802.11n 1T/1R
 		1186 3c05  DWA-525 Wireless N 150 Desktop Adapter (rev.A2)
 		20f4 703a  TEW-703PI N150 Wireless PCI Adapter
@@ -14643,9 +14709,13 @@
 	0091  NT20X Capture Card [New Rev]
 	00a1  NT4E-STD Capture Card
 	00a4  NT4E-STD Inline Card
+# 8 x 1 Gbps / 10 Gbps PCIe Optical Bypass Adapter
+	00b1  NTBPE Optical Bypass Adapter
 	00c5  NT20E2 Network Adapter 2x10Gb
 	00d5  NT40E2-4 Network Adapter 4x10Gb
 	00e5  NT40E2-1 Network Adapter 1x40Gb
+# 4-Port Adapter for 1 GbE In-Line Bypass Applications
+	00f5  NT4E2-4T-BP Network Adapter 4x1Gb with Electrical Bypass
 18f6  NextIO
 	1000  [Nexsis] Switch Virtual P2P PCIe Bridge
 	1050  [Nexsis] Switch Virtual P2P PCI Bridge
@@ -14717,6 +14787,7 @@
 		1924 5201  SFN4112F-R1
 		1924 5202  SFN4112F-R2
 	0803  SFC9020 [Solarstorm]
+		1924 1201  SFA6902F SFP+ AOE Adapter
 		1924 6200  SFN5122F-R0
 		1924 6201  SFN5122F-R1
 		1924 6202  SFN5122F-R2
@@ -14732,6 +14803,7 @@
 		1924 6501  SFN5802K-R1
 		1924 6511  SFN5814H-R1
 		1924 6521  SFN5812H-R1
+		1924 6562  SFN6832F SFP+ Mezzanine Adapter
 		1924 6a05  SFN5112F-R5
 		1924 6a06  SFN5112F-R6
 		1924 7206  SFN5162F-R6
@@ -15216,6 +15288,7 @@
 	2020  DC-390
 	690c  690c
 	dc29  DC290
+1fab  Samsung Opto-Electroncs Co., Ltd.
 # nee Tumsan Oy
 1fc0  Ascom (Finland) Oy
 	0300  E2200 Dual E1/Rawpipe Card
@@ -16768,6 +16841,7 @@
 		8086 000c  Ethernet X520 10GbE Dual Port KX4-KR Mezz
 	10f9  82599EB 10 Gigabit CX4 Dual Port Network Connection
 	10fb  82599EB 10-Gigabit SFI/SFP+ Network Connection
+		1028 1f72  Ethernet 10G 4P X520/I350 rNDC
 		103c 17d0  Ethernet 10Gb 2-port 560FLR-SFP+ Adapter
 		103c 17d2  Ethernet 10Gb 2-port 560M Adapter
 		103c 17d3  Ethernet 10Gb 2-port 560SFP+ Adapter
@@ -17083,6 +17157,15 @@
 		8086 5003  Ethernet 10G 2P X540-t Adapter
 	1529  82599 10 Gigabit Dual Port Backplane Connection with FCoE
 	152a  82599 10 Gigabit Dual port Network Connection with FCoE
+	1533  I210 Gigabit Network Connection
+		103c 0003  Ethernet Server Adapter I210-T1
+		8086 0001  Ethernet Server Adapter I210-T1
+		8086 0002  Ethernet Server Adapter I210-T1
+	1534  I210 Gigabit Network Connection
+	1536  I210 Gigabit Fiber Network Connection
+	1537  I210 Gigabit Backplane Connection
+	1538  I210 Gigabit Network Connection
+	1539  I211 Gigabit Network Connection
 	153a  Ethernet Connection I217-LM
 	153b  Ethernet Connection I217-V
 	1547  DSL3510 Thunderbolt Port [Cactus Ridge]
