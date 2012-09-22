@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.09.16
-#	Date:    2012-09-16 03:15:01
+#	Version: 2012.09.22
+#	Date:    2012-09-22 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1553,6 +1553,7 @@
 	6818  PITCAIRN [Radeon HD 7800]
 	6819  PITCAIRN PRO [Radeon HD 7800 Series]
 	682f  Cape Verde [Radeon HD 7700M Series]
+	683b  Cape Verde [Radeon HD 7700 Series]
 	683d  Cape Verde [Radeon HD 7700 Series]
 	683f  Cape Verde PRO [Radeon HD 7700 Series]
 	6840  Thames XT/GL [Radeon HD 7600M Series]
@@ -1892,6 +1893,8 @@
 	9804  Wrestler [Radeon HD 6250]
 	9806  Wrestler [Radeon HD 6320]
 	9807  Wrestler [Radeon HD 6290]
+# AMD A10-5800K CPU
+	9901  Trinity [Radeon HD 7660D]
 	9990  Trinity [Radeon HD 7520G]
 	aa00  R600 Audio Device [Radeon HD 2900 Series]
 	aa08  RV630 audio device [Radeon HD 2600 Series]
@@ -2564,7 +2567,6 @@
 	780b  Hudson SMBus Controller
 	780c  Hudson IDE Controller
 	780d  Hudson Azalia Controller
-		103c 168b  Integrated Device Technology, Inc. [IDT] 92HD87B1/3 Audio Processor
 	780e  Hudson LPC Bridge
 	780f  Hudson PCI Bridge
 	7812  Hudson USB XHCI Controller
@@ -9964,7 +9966,7 @@
 	5811  FW322/323 [TrueFire] 1394a Controller
 		103c 2a34  Pavilion a1677c
 		103c 2a9e  Pavilion p6310f
-		1043 8294  IEEE 1394a Firewire Controller
+		1043 8294  LSI FW322/323 IEEE 1394a FireWire Controller
 		8086 524c  D865PERL mainboard
 		dead 0800  FireWire Host Bus Adapter
 	5901  FW643 [TrueFire] PCIe 1394b Controller
@@ -11016,6 +11018,9 @@
 12d7  Biotronic SRL
 12d8  Pericom Semiconductor
 	01a7  PI7C21P100 PCI to PCI Bridge
+	400a  PI7C9X442SL PCI Express Bridge Port
+	400e  PI7C9X442SL USB OHCI Controller
+	400f  PI7C9X442SL USB EHCI Controller
 	71e2  PI7C7300A/PI7C7300D PCI-to-PCI Bridge
 	71e3  PI7C7300A/PI7C7300D PCI-to-PCI Bridge (Secondary Bus 2)
 	8140  PI7C8140A PCI-to-PCI Bridge
@@ -11815,6 +11820,7 @@
 		7284 9761  CLARO
 		7284 9781  CLARO halo
 		7284 9783  eCLARO
+		7284 9787  CLARO II
 	8828  CM8828 [Oxygen Express]
 	8888  CM8888 [Oxygen Express]
 		1043 84d5  ROG Xonar Phoebus
@@ -12061,6 +12067,7 @@
 	9523  OX16PCI952 Integrated Parallel Port
 	c158  OXPCIe952 Dual 16C950 UART
 		e4bf c504  CP4-SCAT Wireless Technologies Carrier Board
+		e4bf d551  DU1-MUSTANG Dual-Port RS-485 Interface
 	c308  EX-44016 16-port serial
 1416  Multiwave Innovation pte Ltd
 1417  Convergenet Technologies Inc
@@ -12101,6 +12108,8 @@
 	4008  T420-CX Unified Wire Ethernet Controller
 	4009  T420-BT Unified Wire Ethernet Controller
 	400a  T404-BT Unified Wire Ethernet Controller
+	400b  B420-SR Unified Wire Ethernet Controller
+	400c  B404-BT Unified Wire Ethernet Controller
 	400d  T480 Unified Wire Ethernet Controller
 	400e  T440-LP-CR Unified Wire Ethernet Controller
 	4401  T420-CR Unified Wire Ethernet Controller
@@ -12113,6 +12122,8 @@
 	4408  T420-CX Unified Wire Ethernet Controller
 	4409  T420-BT Unified Wire Ethernet Controller
 	440a  T404-BT Unified Wire Ethernet Controller
+	440b  B420-SR Unified Wire Ethernet Controller
+	440c  B404-BT Unified Wire Ethernet Controller
 	440d  T480 Unified Wire Ethernet Controller
 	440e  T440-LP-CR Unified Wire Ethernet Controller
 	4501  T420-CR Unified Wire Storage Controller
@@ -12125,6 +12136,8 @@
 	4508  T420-CX Unified Wire Storage Controller
 	4509  T420-BT Unified Wire Storage Controller
 	450a  T404-BT Unified Wire Storage Controller
+	450b  B420-SR Unified Wire Ethernet Controller
+	450c  B404-BT Unified Wire Ethernet Controller
 	450d  T480 Unified Wire Storage Controller
 	450e  T440-LP-CR Unified Wire Storage Controller
 	4601  T420-CR Unified Wire Storage Controller
@@ -12137,6 +12150,8 @@
 	4608  T420-CX Unified Wire Storage Controller
 	4609  T420-BT Unified Wire Storage Controller
 	460a  T404-BT Unified Wire Storage Controller
+	460b  B420-SR Unified Wire Ethernet Controller
+	460c  B404-BT Unified Wire Ethernet Controller
 	460d  T480 Unified Wire Storage Controller
 	460e  T440-LP-CR Unified Wire Storage Controller
 	4701  T420-CR Unified Wire Ethernet Controller
@@ -12149,6 +12164,8 @@
 	4708  T420-CX Unified Wire Ethernet Controller
 	4709  T420-BT Unified Wire Ethernet Controller
 	470a  T404-BT Unified Wire Ethernet Controller
+	470b  B420-SR Unified Wire Ethernet Controller
+	470c  B404-BT Unified Wire Ethernet Controller
 	470d  T480 Unified Wire Ethernet Controller
 	470e  T440-LP-CR Unified Wire Ethernet Controller
 	4801  T420-CR Unified Wire Ethernet Controller
@@ -12161,6 +12178,8 @@
 	4808  T420-CX Unified Wire Ethernet Controller
 	4809  T420-BT Unified Wire Ethernet Controller
 	480a  T404-BT Unified Wire Ethernet Controller
+	480b  B420-SR Unified Wire Ethernet Controller
+	480c  B404-BT Unified Wire Ethernet Controller
 	480d  T480 Unified Wire Ethernet Controller
 	480e  T440-LP-CR Unified Wire Ethernet Controller
 	a000  PE10K Unified Wire Ethernet Controller
@@ -12982,6 +13001,7 @@
 	432d  BCM4322 802.11an Wireless Network Controller
 	4331  BCM4331 802.11a/b/g/n
 		106b 00d6  AirPort Extreme
+	4333  Serial (EDGE/GPRS modem part of Option GT Combo Edge)
 	4344  EDGE/GPRS data and 802.11b/g combo cardbus [GC89]
 	4353  BCM43224 802.11a/b/g/n
 		1028 000e  Wireless 1520 Half-size Mini PCIe Card
@@ -13317,6 +13337,7 @@
 	8852  CX23885 PCI Video and Audio Decoder
 		0070 8010  Hauppauge WinTV HVR-1400 ExpressCard
 		1461 c039  AVerTV Hybrid Express (A577)
+		153b 117e  Cinergy T PCIe Dual
 		18ac db78  FusionHDTV DVB-T Dual Express
 	8880  CX23887/8 PCIe Broadcast Audio and Video Decoder with 3D Comb
 		0070 c108  WinTV-HVR-4400-HD model 1278
@@ -13667,6 +13688,7 @@
 15b3  Mellanox Technologies
 	0191  MT25408 [ConnectX IB Flash Recovery]
 	01f6  MT27500 Family [ConnectX-3 Flash Recovery]
+	01ff  MT27600 Family [Connect-IB Flash Recovery]
 	1002  MT25400 Family [ConnectX-2 Virtual Function]
 	1003  MT27500 Family [ConnectX-3]
 	1004  MT27500 Family [ConnectX-3 Virtual Function]
@@ -13682,6 +13704,8 @@
 	100e  MT27551 Family
 	100f  MT27560 Family
 	1010  MT27561 Family
+	1011  MT27600 [Connect-IB]
+	1012  MT27600 Family [Connect-IB Virtual Function]
 	5274  MT21108 InfiniBridge
 	5a44  MT23108 InfiniHost
 	5a45  MT23108 [Infinihost HCA Flash Recovery]
@@ -14787,7 +14811,7 @@
 		1924 5201  SFN4112F-R1
 		1924 5202  SFN4112F-R2
 	0803  SFC9020 [Solarstorm]
-		1924 1201  SFA6902F SFP+ AOE Adapter
+		1924 1201  SFA6902F-R1 SFP+ AOE Adapter
 		1924 6200  SFN5122F-R0
 		1924 6201  SFN5122F-R1
 		1924 6202  SFN5122F-R2
@@ -14803,7 +14827,7 @@
 		1924 6501  SFN5802K-R1
 		1924 6511  SFN5814H-R1
 		1924 6521  SFN5812H-R1
-		1924 6562  SFN6832F SFP+ Mezzanine Adapter
+		1924 6562  SFN6832F-R2 SFP+ Mezzanine Adapter
 		1924 6a05  SFN5112F-R5
 		1924 6a06  SFN5112F-R6
 		1924 7206  SFN5162F-R6
@@ -15289,6 +15313,7 @@
 	690c  690c
 	dc29  DC290
 1fab  Samsung Opto-Electroncs Co., Ltd.
+	104d  ES65
 # nee Tumsan Oy
 1fc0  Ascom (Finland) Oy
 	0300  E2200 Dual E1/Rawpipe Card
@@ -16020,7 +16045,7 @@
 	0412  Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller
 	0416  4th Gen Core Processor Integrated Graphics Controller
 	041a  Xeon E3-1200 v3 Processor Integrated Graphics Controller
-	0436  DH89xxCC Gigabit SGMII Connection
+	0436  DH8900CC Null Device
 	0438  DH8900CC Series Gigabit Network Connection
 	043a  DH8900CC Series Gigabit Fiber Network Connection
 	043c  DH8900CC Series Gigabit Backplane Network Connection
@@ -17176,6 +17201,7 @@
 		8086 011c  Ethernet Converged Network Adapter X520-4
 	154d  82599EB 10-Gigabit SFP+ Network Connection
 		8086 7b11  10GbE 2P X520 Adapter
+	1560  Ethernet Controller X540-AT1
 	1960  80960RP (i960RP) Microprocessor
 		101e 0431  MegaRAID 431 RAID Controller
 		101e 0438  MegaRAID 438 Ultra2 LVD RAID Controller
@@ -21116,6 +21142,10 @@ dada  Datapath Limited
 db10  Diablo Technologies
 dcba  Dynamic Engineering
 	0046  PCIeAlteraCycloneIV
+# VPX format Receiver Controller Board
+	0047  VPX-RCB
+# PMC Format FPGA design with 8 high speed UART channels
+	0048  PMC-Biserial-III-BAE9
 dd01  Digital Devices GmbH
 	0003  Octopus LE DVB adapter
 dead  Indigita Corporation
