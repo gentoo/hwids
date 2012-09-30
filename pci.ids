@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.09.26
-#	Date:    2012-09-26 03:15:01
+#	Version: 2012.09.29
+#	Date:    2012-09-29 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1749,14 +1749,16 @@
 		17f2 5000  KI690-AM2 Motherboard
 	791f  RS690M [Radeon X1200 Series]
 		1179 ff50  Satellite P305D-S8995E
-	7930  Radeon Xpress 7930 Host Bridge
-	7932  RS7932 PCI Bridge
-	7933  RS7933 PCI Bridge
-	7936  RS7936 PCI Bridge
-	793b  RS600 audio device [Radeon Xpress 12xx Series]
-	793f  RS600 [Radeon Xpress 1200 Series]
-	7941  RS600 [Radeon Xpress 1200 Series]
-	7942  Radeon Xpress 1250
+	7930  RS600 Host Bridge
+	7932  RS600 PCI to PCI Bridge (Internal gfx)
+	7933  RS600 PCI to PCI Bridge (PCI Express Graphics Port 0)
+	7935  RS600 PCI to PCI Bridge (PCI Express Port 1)
+	7936  RS600 PCI to PCI Bridge (PCI Express Port 2)
+	7937  RS690 PCI to PCI Bridge (PCI Express Port 3)
+	793b  RS600 HDMI Audio [Radeon Xpress 1250]
+	793f  RS600 [Radeon Xpress 1250]
+	7941  RS600 [Radeon Xpress 1250]
+	7942  RS600 [Radeon Xpress 1250]
 	796e  Radeon 2100
 	7c37  RV350 AQ [Radeon 9600 SE]
 	9400  R600 [Radeon HD 2900 Series]
@@ -12552,6 +12554,9 @@
 	163d  NetXtreme II BCM57811 10-Gigabit Ethernet
 	163e  NetXtreme II BCM57811 10 Gigabit Ethernet Multi Function
 	163f  NetXtreme II BCM57811 10-Gigabit Ethernet Virtual Function
+	1641  NetXtreme BCM57787 Gigabit Ethernet PCIe
+	1642  NetXtreme BCM57764 Gigabit Ethernet PCIe
+	1643  NetXtreme BCM5725 Gigabit Ethernet PCIe
 	1644  NetXtreme BCM5700 Gigabit Ethernet
 		1014 0277  Broadcom Vigil B5700 1000Base-T
 		1028 00d1  Broadcom BCM5700
@@ -12734,9 +12739,11 @@
 	1680  NetXtreme BCM5761e Gigabit Ethernet PCIe
 	1681  NetXtreme BCM5761 Gigabit Ethernet PCIe
 	1682  NetXtreme BCM57762 Gigabit Ethernet PCIe
+	1683  NetXtreme BCM57767 Gigabit Ethernet PCIe
 	1684  NetXtreme BCM5764M Gigabit Ethernet PCIe
 	1685  NetXtreme II BCM57500S Gigabit Ethernet
 	1686  NetXtreme BCM57766 Gigabit Ethernet PCIe
+	1687  NetXtreme BCM5762 Gigabit Ethernet PCIe
 # The Broadcom 57800 device has two 1Gig ports and two 10Gig ports. The subsystem information can be used to differentiate.
 	168a  NetXtreme II BCM57800 1/10 Gigabit Ethernet
 		1028 1f5c  BCM57800 10-Gigabit Ethernet
@@ -14983,13 +14990,13 @@
 	1062  AR8132 Fast Ethernet
 	1063  AR8131 Gigabit Ethernet
 		1458 e000  GA-G31M-ES2L Motherboard
-	1066  L2c Gigabit Ethernet
-	1067  L1c Gigabit Ethernet
+	1066  Attansic L2c Gigabit Ethernet
+	1067  Attansic L1c Gigabit Ethernet
 	1073  AR8151 v1.0 Gigabit Ethernet
 	1083  AR8151 v2.0 Gigabit Ethernet
 	1090  AR8162 Fast Ethernet
 	1091  AR8161 Gigabit Ethernet
-	2048  L2 Fast Ethernet
+	2048  Attansic L2 Fast Ethernet
 	2060  AR8152 v1.1 Fast Ethernet
 	2062  AR8152 v2.0 Fast Ethernet
 196a  Sensory Networks Inc.
@@ -15135,6 +15142,7 @@
 	0200  TILE-Gx36 processor
 1a4a  SLAC National Accelerator Lab PPA-REG
 	1000  MCOR Power Supply Controller
+	1010  AMC EVR - Stockholm Timing Board
 	2000  PGPCard - 4 Lane
 	2010  PCI-Express EVR
 1a51  Hectronic AB
@@ -15156,8 +15164,7 @@
 		1a78 0037  FlashMAX PCIe SSD [rev 3D]
 		1a78 0038  FlashMAX PCIe SSD [rev 4]
 		1a78 0039  FlashMAX PCIe SSD [rev 4D]
-	0040  Virident FlashMAX Drive V2
-		1a78 0040  PCIe SSD [LP Z1]
+	0040  FlashMAX Drive II
 1a84  Commex Technologies
 	0001  Vulcan SP HT6210 10-Gigabit Ethernet (rev 02)
 1a88  MEN Mikro Elektronik
