@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.09.29
-#	Date:    2012-09-29 03:15:01
+#	Version: 2012.10.01
+#	Date:    2012-10-01 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -9685,6 +9685,7 @@
 	4353  88E8039 PCI-E Fast Ethernet Controller
 		104d 902d  VAIO VGN-NR120E
 	4354  88E8040 PCI-E Fast Ethernet Controller
+		144d c072  Notebook N150P
 	4355  88E8040T PCI-E Fast Ethernet Controller
 		1179 ff50  Satellite P305D-S8995E
 	4356  88EC033 PCI-E Fast Ethernet Controller
@@ -11798,6 +11799,8 @@
 		584d 3771  X-Mystique 7.1 LP Value
 		7284 8384  Striker 7.1
 	0211  CM8738
+	5011  CM8888 [Oxygen Express]
+		13f6 5011  HDA Controller
 	8788  CMI8788 [Oxygen HD Audio]
 		1043 8269  Virtuoso 200 (Xonar D2)
 		1043 8275  Virtuoso 100 (Xonar DX)
@@ -11823,9 +11826,6 @@
 		7284 9781  CLARO halo
 		7284 9783  eCLARO
 		7284 9787  CLARO II
-	8828  CM8828 [Oxygen Express]
-	8888  CM8888 [Oxygen Express]
-		1043 84d5  ROG Xonar Phoebus
 	9880  CM9880
 13f7  Wildfire Communications
 13f8  Ad Lib Multimedia Inc
@@ -15261,6 +15261,7 @@
 	9192  88SE9172 SATA III 6Gb/s RAID Controller
 	91a0  88SE91A0 SATA 6Gb/s Controller
 	91a4  88SE9128 IDE Controller
+	9230  88SE9230 PCIe SATA 6Gb/s Controller
 	9480  88SE9480 SAS/SATA 6Gb/s RAID controller
 1b55  NetUP Inc.
 	2a2c  Dual DVB-S2-CI card
@@ -15319,8 +15320,6 @@
 	2020  DC-390
 	690c  690c
 	dc29  DC290
-1fab  Samsung Opto-Electroncs Co., Ltd.
-	104d  ES65
 # nee Tumsan Oy
 1fc0  Ascom (Finland) Oy
 	0300  E2200 Dual E1/Rawpipe Card
@@ -15928,13 +15927,13 @@
 	004b  Core Processor Secondary PCI Express Root Port
 	0050  Core Processor Thermal Management Controller
 	0069  Core Processor DRAM Controller
-	0082  Centrino Advanced-N 6205
+	0082  Centrino Advanced-N 6205 [Taylor Peak]
 		8086 1301  Centrino Advanced-N 6205 AGN
 		8086 1306  Centrino Advanced-N 6205 ABG
 		8086 1307  Centrino Advanced-N 6205 BG
 		8086 1321  Centrino Advanced-N 6205 AGN
 		8086 1326  Centrino Advanced-N 6205 ABG
-	0083  Centrino Wireless-N 1000
+	0083  Centrino Wireless-N 1000 [Condor Peak]
 		8086 1205  Centrino Wireless-N 1000 BGN
 		8086 1206  Centrino Wireless-N 1000 BG
 		8086 1225  Centrino Wireless-N 1000 BGN
@@ -15943,35 +15942,35 @@
 		8086 1306  Centrino Wireless-N 1000 BG
 		8086 1325  Centrino Wireless-N 1000 BGN
 		8086 1326  Centrino Wireless-N 1000 BG
-	0084  Centrino Wireless-N 1000
+	0084  Centrino Wireless-N 1000 [Condor Peak]
 		8086 1215  Centrino Wireless-N 1000 BGN
 		8086 1216  Centrino Wireless-N 1000 BG
 		8086 1315  Centrino Wireless-N 1000 BGN
 		8086 1316  Centrino Wireless-N 1000 BG
-	0085  Centrino Advanced-N 6205
+	0085  Centrino Advanced-N 6205 [Taylor Peak]
 		8086 1311  Centrino Advanced-N 6205 AGN
 		8086 1316  Centrino Advanced-N 6205 ABG
-	0087  Centrino Advanced-N + WiMAX 6250
+	0087  Centrino Advanced-N + WiMAX 6250 [Kilmer Peak]
 		8086 1301  Centrino Advanced-N + WiMAX 6250 2x2 AGN
 		8086 1306  Centrino Advanced-N + WiMAX 6250 2x2 ABG
 		8086 1321  Centrino Advanced-N + WiMAX 6250 2x2 AGN
 		8086 1326  Centrino Advanced-N + WiMAX 6250 2x2 ABG
-	0089  Centrino Advanced-N + WiMAX 6250
+	0089  Centrino Advanced-N + WiMAX 6250 [Kilmer Peak]
 		8086 1311  Centrino Advanced-N + WiMAX 6250 2x2 AGN
 		8086 1316  Centrino Advanced-N + WiMAX 6250 2x2 ABG
-	008a  Centrino Wireless-N 1030
+	008a  Centrino Wireless-N 1030 [Rainbow Peak]
 		8086 5305  Centrino Wireless-N 1030 BGN
 		8086 5307  Centrino Wireless-N 1030 BG
 		8086 5325  Centrino Wireless-N 1030 BGN
 		8086 5327  Centrino Wireless-N 1030 BG
-	008b  Centrino Wireless-N 1030
+	008b  Centrino Wireless-N 1030 [Rainbow Peak]
 		8086 5315  Centrino Wireless-N 1030 BGN
 		8086 5317  Centrino Wireless-N 1030 BG
-	0090  Centrino Advanced-N 6230
+	0090  Centrino Advanced-N 6230 [Rainbow Peak]
 		8086 5211  Centrino Advanced-N 6230 AGN
 		8086 5215  Centrino Advanced-N 6230 BGN
 		8086 5216  Centrino Advanced-N 6230 ABG
-	0091  Centrino Advanced-N 6230
+	0091  Centrino Advanced-N 6230 [Rainbow Peak]
 		8086 5201  Centrino Advanced-N 6230 AGN
 		8086 5205  Centrino Advanced-N 6230 BGN
 		8086 5206  Centrino Advanced-N 6230 ABG
@@ -17589,6 +17588,7 @@
 		103c 30c1  Compaq 6910p
 		104d 902d  VAIO VGN-NR120E
 		144d c00c  P30 notebook
+		144d c072  Notebook N150P
 		1734 1055  Amilo M1420
 		17aa 20ae  ThinkPad T61
 		e4bf cc47  CCG-RUMBA
@@ -18588,6 +18588,7 @@
 		10f7 8338  Panasonic CF-Y5 laptop
 		17aa 2009  ThinkPad T60/R60 series
 	27bc  NM10 Family LPC Controller
+		144d c072  Notebook N150P
 		8086 4f4d  DeskTop Board D510MO
 	27bd  82801GHM (ICH7-M DH) LPC Interface Bridge
 		1025 006c  9814 WKMI
@@ -18604,6 +18605,7 @@
 	27c1  NM10/ICH7 Family SATA Controller [AHCI mode]
 		1028 01df  PowerEdge SC440
 		103c 2a3b  Pavilion A1512X
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 		8086 4f4d  DeskTop Board D510MO
 		8086 5842  DeskTop Board D975XBX
@@ -18632,6 +18634,7 @@
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
 		107b 5048  E4500
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 		17aa 200a  ThinkPad T60/R60 series
 		8086 4f4d  DeskTop Board D510MO
@@ -18649,6 +18652,7 @@
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
 		107b 5048  E4500
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 		17aa 200a  ThinkPad T60/R60 series
 		8086 4f4d  DeskTop Board D510MO
@@ -18666,6 +18670,7 @@
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
 		107b 5048  E4500
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 		17aa 200a  ThinkPad T60/R60 series
 		8086 4f4d  DeskTop Board D510MO
@@ -18682,6 +18687,7 @@
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
 		107b 5048  E4500
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 		17aa 200a  ThinkPad T60/R60 series
 		8086 4f4d  DeskTop Board D510MO
@@ -18698,6 +18704,7 @@
 		103c 30a3  Compaq nw8440
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 		17aa 200b  ThinkPad T60/R60 series
 		8086 4f4d  DeskTop Board D510MO
@@ -18705,15 +18712,19 @@
 	27d0  NM10/ICH7 Family PCI Express Port 1
 		103c 309f  Compaq nx9420 Notebook
 		103c 30a3  Compaq nw8440
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 	27d2  NM10/ICH7 Family PCI Express Port 2
 		103c 309f  Compaq nx9420 Notebook
 		103c 30a3  Compaq nw8440
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 	27d4  NM10/ICH7 Family PCI Express Port 3
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 	27d6  NM10/ICH7 Family PCI Express Port 4
 		103c 30a3  Compaq nw8440
+		144d c072  Notebook N150P
 		1775 11cc  CC11/CL11
 	27d8  NM10/ICH7 Family High Definition Audio Controller
 		1025 006c  9814 WKMI
@@ -18732,6 +18743,7 @@
 		1179 ff10  Toshiba Satellite A100-796 audio (Realtek ALC861)
 		1179 ff31  AC97 Data Fax SoftModem with SmartCP
 		1447 1043  Asus A8JP (Analog Devices AD1986A)
+		144d c072  Notebook N150P
 		1458 a102  GA-8I945PG-RH Mainboard
 		152d 0753  Softmodem
 		1734 10ad  Conexant softmodem SmartCP
@@ -18750,6 +18762,7 @@
 		103c 2a3b  Pavilion A1512X
 		1043 8179  P5KPL-VM Motherboard
 		10f7 8338  Panasonic CF-Y5 laptop
+		144d c072  Notebook N150P
 		1458 5001  GA-8I945PG-RH Mainboard
 		1775 11cc  CC11/CL11
 		17aa 200f  ThinkPad T60/R60 series
@@ -20589,8 +20602,11 @@
 	a002  Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller
 	a003  Atom Processor D4xx/D5xx/N4xx/N5xx CHAPS counter
 	a010  Atom Processor D4xx/D5xx/N4xx/N5xx DMI Bridge
+		144d c072  Notebook N150P
 	a011  Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller
+		144d c072  Notebook N150P
 	a012  Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller
+		144d c072  Notebook N150P
 	a013  Atom Processor D4xx/D5xx/N4xx/N5xx CHAPS counter
 	a620  6400/6402 Advanced Memory Buffer (AMB)
 	b152  21152 PCI-to-PCI Bridge
