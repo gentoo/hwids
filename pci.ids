@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.01
-#	Date:    2012-10-01 03:15:02
+#	Version: 2012.10.08
+#	Date:    2012-10-08 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1431,6 +1431,7 @@
 	5a1e  RD890 PCI to PCI bridge (external gfx1 port B)
 	5a1f  RD890 PCI to PCI bridge (NB-SB link)
 		15d9 a811  H8DGU
+	5a20  RD890S PCI Express bridge for GPP2 port 1
 	5a23  RD990 I/O Memory Management Unit (IOMMU)
 	5a33  Radeon Xpress 200 Host Bridge
 	5a34  RS480 PCI-X Root Port
@@ -14255,6 +14256,10 @@
 	5807  XMC-SLX150: Reconfigurable Spartan-6 FPGA with plug-in I/O
 	5808  XMC-SLX150-1M: Reconfigurable Spartan-6 FPGA with plug-in I/O
 	5901  APCe8650 PCI Express IndustryPack Carrier Card
+	6301  XMC Module with user-configurable Virtex-6 FPGA, 240k logic cells, SFP front I/O
+	6302  XMC Module with user-configurable Virtex-6 FPGA, 365k logic cells, SFP front I/O
+	6303  XMC Module with user-configurable Virtex-6 FPGA, 240k logic cells, no front I/O
+	6304  XMC Module with user-configurable Virtex-6 FPGA, 365k logic cells, no front I/O
 16da  Advantech Co., Ltd.
 	0011  INES GPIB-PCI
 16df  PIKA Technologies Inc.
@@ -15271,6 +15276,7 @@
 	f1c4  Dual ASI-RX/TX-CI card
 1b6f  Etron Technology, Inc.
 	7023  EJ168 USB 3.0 Host Controller
+	7052  EJ188/EJ198 USB 3.0 Host Controller
 1b73  Fresco Logic
 	1000  FL1000G USB 3.0 Host Controller
 		1d5c 1000  Anker USB 3.0 Express Card
