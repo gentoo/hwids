@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.08
-#	Date:    2012-10-08 03:15:01
+#	Version: 2012.10.10
+#	Date:    2012-10-10 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1550,19 +1550,23 @@
 	6799  New Zealand [Radeon HD 7990]
 	679a  Tahiti PRO [Radeon HD 7950]
 	679e  Tahiti LE [Radeon HD 7800 Series]
-	6800  WIMBLEDON XT [Radeon HD 7970M]
-	6818  PITCAIRN [Radeon HD 7800]
-	6819  PITCAIRN PRO [Radeon HD 7800 Series]
+	6800  Wimbledon XT [Radeon HD 7970M]
+	6818  Pitcairn [Radeon HD 7800]
+	6819  Pitcairn PRO [Radeon HD 7800]
+	6825  Cape Verde [Radeon HD 7800M Series]
 	682f  Cape Verde [Radeon HD 7700M Series]
 	683b  Cape Verde [Radeon HD 7700 Series]
 	683d  Cape Verde [Radeon HD 7700 Series]
 	683f  Cape Verde PRO [Radeon HD 7700 Series]
 	6840  Thames XT/GL [Radeon HD 7600M Series]
 	6841  Thames [Radeon 7500M/7600M Series]
+	6842  Thames LE [Radeon HD 7000M Series]
 	6843  Thames [Radeon HD 7670M]
 	6850  Lombok GL AIO [Radeon HD 7570]
 	6858  Lombok [Radeon HD 7400 series]
+	6888  Cypress [FirePro 3D V8800]
 	6889  Cypress [FirePro V7800]
+	688a  Cypress XT [FirePro 3D V9800]
 	688c  Cypress [AMD FireStream 9370]
 	688d  Cypress [AMD FireStream 9350]
 	6898  Cypress XT [Radeon HD 5870]
@@ -5146,6 +5150,8 @@
 	a100  Blackmagic Design DeckLink
 	bb04  B&B 3PCIOSD1A Isolated PCI Serial
 	c001  CronyxOmega-PCI (8-port RS232)
+	d44d  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
+		10b5 17f6  entVoice E1 Card
 10b6  Madge Networks
 	0001  Smart 16/4 PCI Ringnode
 	0002  Smart 16/4 PCI Ringnode Mk2
@@ -7255,6 +7261,7 @@
 	0fd2  GK107 [GeForce GT 640M]
 	0ffb  GK107 [Quadro K2000M]
 	0ffc  GK107 [Quadro K1000M]
+	0fff  GK107 [Quadro 410]
 	1040  GF119 [GeForce GT 520]
 # taken from nv_disp.inf
 	1042  GF119 [GeForce 510]
@@ -7269,6 +7276,7 @@
 	1056  GF119 [Quadro NVS 4200M]
 	1057  GF119 [Quadro NVS 4200M]
 	105a  GF119 [GeForce 610M]
+	107d  GF119 [Quadro NVS 310]
 	1080  GF110 [GeForce GTX 580]
 	1081  GF110 [GeForce GTX 570]
 		10de 087e  Leadtek WinFast GTX 570
@@ -7295,6 +7303,7 @@
 	1183  GK104 [GeForce GTX 660 Ti]
 	1188  GK104 [GeForce GTX 690]
 	1189  GK104 [GeForce GTX 670]
+	11ba  GK104 [Quadro K5000]
 	11bc  GK104 [Quadro K5000M]
 	11bd  GK104 [Quadro K4000M]
 	11be  GK104 [Quadro K3000M]
@@ -12014,6 +12023,7 @@
 		153b 1151  PHASE88
 		16ce 1040  Edirol DA-2496
 	1724  VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller
+		10b0 0200  Hollywood@Home 7.1
 		1412 1724  Albatron PX865PE 7.1
 		1412 3630  M-Audio Revolution 7.1
 		1412 3631  M-Audio Revolution 5.1
@@ -16051,12 +16061,12 @@
 	0372  80333 Segment-B PCI Express-to-PCI Express Bridge
 	0373  80333 B-Bus IOAPIC
 	0374  80333 Address Translation Unit
-	0402  Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller
-	0406  4th Gen Core Processor Integrated Graphics Controller
-	040a  Xeon E3-1200 v3 Processor Integrated Graphics Controller
-	0412  Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller
-	0416  4th Gen Core Processor Integrated Graphics Controller
-	041a  Xeon E3-1200 v3 Processor Integrated Graphics Controller
+	0402  Haswell Integrated Graphics Controller
+	0406  Haswell Integrated Graphics Controller
+	040a  Haswell Integrated Graphics Controller
+	0412  Haswell Integrated Graphics Controller
+	0416  Haswell Integrated Graphics Controller
+	041a  Haswell Integrated Graphics Controller
 	0436  DH8900CC Null Device
 	0438  DH8900CC Series Gigabit Network Connection
 	043a  DH8900CC Series Gigabit Fiber Network Connection
@@ -16210,13 +16220,13 @@
 	0bf5  Atom Processor D2xxx/N2xxx DRAM Controller
 	0bf6  Atom Processor D2xxx/N2xxx DRAM Controller
 	0bf7  Atom Processor D2xxx/N2xxx DRAM Controller
-	0c00  4th Gen Core Processor DRAM Controller
-	0c01  Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller
-	0c04  Xeon E3-1200 v3/4th Gen Core Processor DRAM Controller
-	0c05  Xeon E3-1200 v3/4th Gen Core Processor PCI Express x8 Controller
-	0c08  Xeon E3-1200 v3 Processor DRAM Controller
-	0c09  Xeon E3-1200 v3/4th Gen Core Processor PCI Express x4 Controller
-	0c0c  Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller
+	0c00  Haswell DRAM Controller
+	0c01  Haswell PCI Express x16 Controller
+	0c04  Haswell DRAM Controller
+	0c05  Haswell PCI Express x8 Controller
+	0c08  Haswell DRAM Controller
+	0c09  Haswell PCI Express x4 Controller
+	0c0c  Haswell HD Audio Controller
 	0c46  Centerton PCI Express Root Port 1
 	0c47  Centerton PCI Express Root Port 2
 	0c48  Centerton PCI Express Root Port 3
@@ -20463,80 +20473,80 @@
 	8817  Platform Controller Hub EG20T I2C Controller
 	8818  Platform Controller Hub EG20T Controller Area Network (CAN) Controller
 	8819  Platform Controller Hub EG20T IEEE 1588 Hardware Assist
-	8c00  8 Series/C220 Series Chipset Family 4-port SATA Controller 1 [IDE mode]
-	8c01  8 Series Chipset Family 4-port SATA Controller 1 [IDE mode]
-	8c02  8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]
-	8c03  8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]
-	8c04  8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
-	8c05  8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
-	8c06  8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
-	8c07  8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
-	8c08  8 Series/C220 Series Chipset Family 2-port SATA Controller 2 [IDE mode]
-	8c09  8 Series/C220 Series Chipset Family 2-port SATA Controller 2 [IDE mode]
-	8c0e  8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
-	8c0f  8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
-	8c10  8 Series/C220 Series Chipset Family PCI Express Root Port #1
-	8c11  8 Series/C220 Series Chipset Family PCI Express Root Port #1
-	8c12  8 Series/C220 Series Chipset Family PCI Express Root Port #2
-	8c13  8 Series/C220 Series Chipset Family PCI Express Root Port #2
-	8c14  8 Series/C220 Series Chipset Family PCI Express Root Port #3
-	8c15  8 Series/C220 Series Chipset Family PCI Express Root Port #3
-	8c16  8 Series/C220 Series Chipset Family PCI Express Root Port #4
-	8c17  8 Series/C220 Series Chipset Family PCI Express Root Port #4
-	8c18  8 Series/C220 Series Chipset Family PCI Express Root Port #5
-	8c19  8 Series/C220 Series Chipset Family PCI Express Root Port #5
-	8c1a  8 Series/C220 Series Chipset Family PCI Express Root Port #6
-	8c1b  8 Series/C220 Series Chipset Family PCI Express Root Port #6
-	8c1c  8 Series/C220 Series Chipset Family PCI Express Root Port #7
-	8c1d  8 Series/C220 Series Chipset Family PCI Express Root Port #7
-	8c1e  8 Series/C220 Series Chipset Family PCI Express Root Port #8
-	8c1f  8 Series/C220 Series Chipset Family PCI Express Root Port #8
-	8c20  8 Series/C220 Series Chipset High Definition Audio Controller
-	8c21  8 Series/C220 Series Chipset High Definition Audio Controller
-	8c22  8 Series/C220 Series Chipset Family SMBus Controller
-	8c23  8 Series Chipset Family CHAP Counters
-	8c24  8 Series Chipset Family Thermal Management Controller
-	8c26  8 Series/C220 Series Chipset Family USB EHCI #1
-	8c2d  8 Series/C220 Series Chipset Family USB EHCI #2
-	8c31  8 Series/C220 Series Chipset Family USB xHCI
-	8c33  8 Series/C220 Series Chipset Family LAN Controller
-	8c34  8 Series/C220 Series Chipset Family NAND Controller
-	8c3a  8 Series/C220 Series Chipset Family MEI Controller #1
-	8c3b  8 Series/C220 Series Chipset Family MEI Controller #2
-	8c3c  8 Series/C220 Series Chipset Family IDE-r Controller
-	8c3d  8 Series/C220 Series Chipset Family KT Controller
-	8c40  8 Series/C220 Series Chipset Family LPC Controller
-	8c41  8 Series Chipset Family Mobile Super SKU LPC Controller
-	8c42  8 Series/C220 Series Chipset Family Desktop Super SKU LPC Controller
-	8c43  8 Series/C220 Series Chipset Family LPC Controller
-	8c44  Z87 Express Chipset LPC Controller
-	8c45  8 Series/C220 Series Chipset Family LPC Controller
-	8c46  Z85 Express Chipset LPC Controller
-	8c47  8 Series/C220 Series Chipset Family LPC Controller
-	8c48  8 Series/C220 Series Chipset Family LPC Controller
-	8c49  HM86 Express Chipset LPC Controller
-	8c4a  H87 Express Chipset LPC Controller
-	8c4b  HM87 Express Chipset LPC Controller
-	8c4c  Q85 Express Chipset LPC Controller
-	8c4d  8 Series/C220 Series Chipset Family LPC Controller
-	8c4e  Q87 Express Chipset LPC Controller
-	8c4f  QM87 Express Chipset LPC Controller
-	8c50  B85 Express Chipset LPC Controller
-	8c51  8 Series/C220 Series Chipset Family LPC Controller
-	8c52  C222 Series Chipset Family Server Essential SKU LPC Controller
-	8c53  8 Series/C220 Series Chipset Family LPC Controller
-	8c54  C224 Series Chipset Family Server Standard SKU LPC Controller
-	8c55  8 Series/C220 Series Chipset Family LPC Controller
-	8c56  C226 Series Chipset Family Server Advanced SKU LPC Controller
-	8c57  8 Series/C220 Series Chipset Family LPC Controller
-	8c58  8 Series/C220 Series Chipset Family WS SKU LPC Controller
-	8c59  8 Series/C220 Series Chipset Family LPC Controller
-	8c5a  8 Series/C220 Series Chipset Family LPC Controller
-	8c5b  8 Series/C220 Series Chipset Family LPC Controller
-	8c5c  H81 Express Chipset/C220 Series Chipset Family LPC Controller
-	8c5d  8 Series/C220 Series Chipset Family LPC Controller
-	8c5e  8 Series/C220 Series Chipset Family LPC Controller
-	8c5f  8 Series/C220 Series Chipset Family LPC Controller
+	8c00  Lynx Point 4-port SATA Controller 1 [IDE mode]
+	8c01  Lynx Point 4-port SATA Controller 1 [IDE mode]
+	8c02  Lynx Point 6-port SATA Controller 1 [AHCI mode]
+	8c03  Lynx Point 6-port SATA Controller 1 [AHCI mode]
+	8c04  Lynx Point SATA Controller 1 [RAID mode]
+	8c05  Lynx Point SATA Controller 1 [RAID mode]
+	8c06  Lynx Point SATA Controller 1 [RAID mode]
+	8c07  Lynx Point SATA Controller 1 [RAID mode]
+	8c08  Lynx Point 2-port SATA Controller 2 [IDE mode]
+	8c09  Lynx Point 2-port SATA Controller 2 [IDE mode]
+	8c0e  Lynx Point SATA Controller 1 [RAID mode]
+	8c0f  Lynx Point SATA Controller 1 [RAID mode]
+	8c10  Lynx Point PCI Express Root Port #1
+	8c11  Lynx Point PCI Express Root Port #1
+	8c12  Lynx Point PCI Express Root Port #2
+	8c13  Lynx Point PCI Express Root Port #2
+	8c14  Lynx Point PCI Express Root Port #3
+	8c15  Lynx Point PCI Express Root Port #3
+	8c16  Lynx Point PCI Express Root Port #4
+	8c17  Lynx Point PCI Express Root Port #4
+	8c18  Lynx Point PCI Express Root Port #5
+	8c19  Lynx Point PCI Express Root Port #5
+	8c1a  Lynx Point PCI Express Root Port #6
+	8c1b  Lynx Point PCI Express Root Port #6
+	8c1c  Lynx Point PCI Express Root Port #7
+	8c1d  Lynx Point PCI Express Root Port #7
+	8c1e  Lynx Point PCI Express Root Port #8
+	8c1f  Lynx Point PCI Express Root Port #8
+	8c20  Lynx Point High Definition Audio Controller
+	8c21  Lynx Point High Definition Audio Controller
+	8c22  Lynx Point SMBus Controller
+	8c23  Lynx Point CHAP Counters
+	8c24  Lynx Point Thermal Management Controller
+	8c26  Lynx Point USB Enhanced Host Controller #1
+	8c2d  Lynx Point USB Enhanced Host Controller #2
+	8c31  Lynx Point USB xHCI Host Controller
+	8c33  Lynx Point LAN Controller
+	8c34  Lynx Point NAND Controller
+	8c3a  Lynx Point MEI Controller #1
+	8c3b  Lynx Point MEI Controller #2
+	8c3c  Lynx Point IDE-r Controller
+	8c3d  Lynx Point KT Controller
+	8c40  Lynx Point LPC Controller
+	8c41  Lynx Point LPC Controller
+	8c42  Lynx Point LPC Controller
+	8c43  Lynx Point LPC Controller
+	8c44  Lynx Point LPC Controller
+	8c45  Lynx Point LPC Controller
+	8c46  Lynx Point LPC Controller
+	8c47  Lynx Point LPC Controller
+	8c48  Lynx Point LPC Controller
+	8c49  Lynx Point LPC Controller
+	8c4a  Lynx Point LPC Controller
+	8c4b  Lynx Point LPC Controller
+	8c4c  Lynx Point LPC Controller
+	8c4d  Lynx Point LPC Controller
+	8c4e  Lynx Point LPC Controller
+	8c4f  Lynx Point LPC Controller
+	8c50  Lynx Point LPC Controller
+	8c51  Lynx Point LPC Controller
+	8c52  Lynx Point LPC Controller
+	8c53  Lynx Point LPC Controller
+	8c54  Lynx Point LPC Controller
+	8c55  Lynx Point LPC Controller
+	8c56  Lynx Point LPC Controller
+	8c57  Lynx Point LPC Controller
+	8c58  Lynx Point LPC Controller
+	8c59  Lynx Point LPC Controller
+	8c5a  Lynx Point LPC Controller
+	8c5b  Lynx Point LPC Controller
+	8c5c  Lynx Point LPC Controller
+	8c5d  Lynx Point LPC Controller
+	8c5e  Lynx Point LPC Controller
+	8c5f  Lynx Point LPC Controller
 	9000  IXP2000 Family Network Processor
 	9001  IXP2400 Network Processor
 	9002  IXP2300 Network Processor
