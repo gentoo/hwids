@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.10
-#	Date:    2012-10-10 03:15:01
+#	Version: 2012.10.12
+#	Date:    2012-10-12 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1513,6 +1513,11 @@
 	5e6d  RV410 [Radeon X700 (PCIE)] (Secondary)
 		148c 2117  PowerColor Bravo X700
 	5f57  R423 [Radeon X800XT (PCIE)]
+	6600  Mars [Radeon HD 8600/8700M Series]
+	6601  Mars [Radeon HD 8500/8700M Series]
+	6606  Mars [Radeon HD 8790M]
+	6610  Oland [Radeon HD 8600 Series]
+	6611  Oland [Radeon HD 8500 Series]
 	6704  Cayman PRO GL [FirePro V7900]
 	6707  Cayman LE GL [FirePro V5900]
 	6718  Cayman XT [Radeon HD 6970]
@@ -1553,7 +1558,11 @@
 	6800  Wimbledon XT [Radeon HD 7970M]
 	6818  Pitcairn [Radeon HD 7800]
 	6819  Pitcairn PRO [Radeon HD 7800]
+	6820  Radeon HD 8800M Series
+	6821  Radeon HD 8800M Series
+	6823  Radeon HD 8800M Series
 	6825  Cape Verde [Radeon HD 7800M Series]
+	682b  Radeon HD 8800M Series
 	682f  Cape Verde [Radeon HD 7700M Series]
 	683b  Cape Verde [Radeon HD 7700 Series]
 	683d  Cape Verde [Radeon HD 7700 Series]
@@ -7258,6 +7267,7 @@
 # taken from nv_disp.inf
 	0fc1  GK107 [GeForce GT 640]
 	0fd1  GK107 [GeForce GT 650M]
+		1043 2103  N56VZ
 	0fd2  GK107 [GeForce GT 640M]
 	0ffb  GK107 [Quadro K2000M]
 	0ffc  GK107 [Quadro K1000M]
@@ -7307,6 +7317,7 @@
 	11bc  GK104 [Quadro K5000M]
 	11bd  GK104 [Quadro K4000M]
 	11be  GK104 [Quadro K3000M]
+	11fa  GK104 [Quadro K4000]
 	1200  GF114 [GeForce GTX 560 Ti]
 	1201  GF114 [GeForce GTX 560]
 	1205  GF114 [GeForce GTX 460 v2]
@@ -15011,6 +15022,7 @@
 	1083  AR8151 v2.0 Gigabit Ethernet
 	1090  AR8162 Fast Ethernet
 	1091  AR8161 Gigabit Ethernet
+		1043 1477  N56VZ
 	2048  Attansic L2 Fast Ethernet
 	2060  AR8152 v1.1 Fast Ethernet
 	2062  AR8152 v2.0 Fast Ethernet
@@ -15179,7 +15191,7 @@
 		1a78 0037  FlashMAX PCIe SSD [rev 3D]
 		1a78 0038  FlashMAX PCIe SSD [rev 4]
 		1a78 0039  FlashMAX PCIe SSD [rev 4D]
-	0040  FlashMAX Drive II
+	0040  FlashMAX II
 1a84  Commex Technologies
 	0001  Vulcan SP HT6210 10-Gigabit Ethernet (rev 02)
 1a88  MEN Mikro Elektronik
@@ -16023,8 +16035,10 @@
 		1028 04cc  Vostro 3350
 	0150  Xeon E3-1200 v2/3rd Gen Core processor DRAM Controller
 	0151  Xeon E3-1200 v2/3rd Gen Core processor PCI Express Root Port
+		1043 1477  N56VZ
 	0152  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0154  3rd Gen Core processor DRAM Controller
+		1043 1477  N56VZ
 	0155  Xeon E3-1200 v2/3rd Gen Core processor PCI Express Root Port
 	0156  3rd Gen Core processor Graphics Controller
 	0158  Xeon E3-1200 v2/Ivy Bridge DRAM Controller
@@ -16035,6 +16049,7 @@
 	015e  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0162  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0166  3rd Gen Core processor Graphics Controller
+		1043 2103  N56VZ
 	016a  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0172  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0176  3rd Gen Core processor Graphics Controller
@@ -17442,6 +17457,7 @@
 	1e01  7 Series Chipset Family 4-port SATA Controller [IDE mode]
 	1e02  7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]
 	1e03  7 Series Chipset Family 6-port SATA Controller [AHCI mode]
+		1043 1477  N56VZ
 	1e04  7 Series/C210 Series Chipset Family SATA Controller [RAID mode]
 	1e05  7 Series Chipset SATA Controller [RAID mode]
 	1e06  7 Series/C210 Series Chipset Family SATA Controller [RAID mode]
@@ -17450,22 +17466,31 @@
 	1e09  7 Series Chipset Family 2-port SATA Controller [IDE mode]
 	1e0e  7 Series/C210 Series Chipset Family SATA Controller [RAID mode]
 	1e10  7 Series/C210 Series Chipset Family PCI Express Root Port 1
+		1043 1477  N56VZ
 	1e12  7 Series/C210 Series Chipset Family PCI Express Root Port 2
+		1043 1477  N56VZ
 	1e14  7 Series/C210 Series Chipset Family PCI Express Root Port 3
 	1e16  7 Series/C210 Series Chipset Family PCI Express Root Port 4
+		1043 1477  N56VZ
 	1e18  7 Series/C210 Series Chipset Family PCI Express Root Port 5
 	1e1a  7 Series/C210 Series Chipset Family PCI Express Root Port 6
 	1e1c  7 Series/C210 Series Chipset Family PCI Express Root Port 7
 	1e1e  7 Series/C210 Series Chipset Family PCI Express Root Port 8
 	1e20  7 Series/C210 Series Chipset Family High Definition Audio Controller
+		1043 1477  N56VZ
 	1e22  7 Series/C210 Series Chipset Family SMBus Controller
+		1043 1477  N56VZ
 	1e24  7 Series/C210 Series Chipset Family Thermal Management Controller
 	1e25  7 Series/C210 Series Chipset Family DMI to PCI Bridge
 	1e26  7 Series/C210 Series Chipset Family USB Enhanced Host Controller #1
+		1043 1477  N56VZ
 	1e2d  7 Series/C210 Series Chipset Family USB Enhanced Host Controller #2
+		1043 1477  N56VZ
 	1e31  7 Series/C210 Series Chipset Family USB xHCI Host Controller
+		1043 1477  N56VZ
 	1e33  7 Series/C210 Series Chipset Family LAN Controller
 	1e3a  7 Series/C210 Series Chipset Family MEI Controller #1
+		1043 1477  N56VZ
 	1e3b  7 Series/C210 Series Chipset Family MEI Controller #2
 	1e3c  7 Series/C210 Series Chipset Family IDE-r Controller
 	1e3d  7 Series/C210 Series Chipset Family KT Controller
@@ -17494,6 +17519,7 @@
 	1e57  HM77 Express Chipset LPC Controller
 	1e58  UM77 Express Chipset LPC Controller
 	1e59  HM76 Express Chipset LPC Controller
+		1043 1477  N56VZ
 	1e5a  7 Series Chipset Family LPC Controller
 	1e5b  UM77 Express Chipset LPC Controller
 	1e5c  7 Series Chipset Family LPC Controller
