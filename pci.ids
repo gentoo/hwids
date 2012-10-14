@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.12
-#	Date:    2012-10-12 03:15:02
+#	Version: 2012.10.14
+#	Date:    2012-10-14 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -2516,6 +2516,10 @@
 	2097  CS5536 [Geode companion] UOC
 	209a  CS5536 [Geode companion] IDE
 	3000  ELanSC520 Microcontroller
+	43a0  Hudson PCI to PCI bridge (PCIE port 0)
+	43a1  Hudson PCI to PCI bridge (PCIE port 1)
+	43a2  Hudson PCI to PCI bridge (PCIE port 2)
+	43a3  Hudson PCI to PCI bridge (PCIE port 3)
 	7006  AMD-751 [Irongate] System Controller
 	7007  AMD-751 [Irongate] AGP Bridge
 	700a  AMD-IGR4 AGP Host to PCI Bridge
@@ -7269,8 +7273,10 @@
 	0fd1  GK107 [GeForce GT 650M]
 		1043 2103  N56VZ
 	0fd2  GK107 [GeForce GT 640M]
+	0ffa  GK107 [Quadro K600]
 	0ffb  GK107 [Quadro K2000M]
 	0ffc  GK107 [Quadro K1000M]
+	0ffe  GK107 [Quadro K2000]
 	0fff  GK107 [Quadro 410]
 	1040  GF119 [GeForce GT 520]
 # taken from nv_disp.inf
@@ -15327,6 +15333,7 @@
 1bb5  Quantenna Communications, Inc.
 1bbf  Maxeler Technologies Ltd.
 	0003  MAX3
+	0004  MAX4
 1bf4  VTI Instruments Corporation
 1c1c  Symphony
 	0001  82C101
