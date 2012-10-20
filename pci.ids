@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.14
-#	Date:    2012-10-14 03:15:01
+#	Version: 2012.10.20
+#	Date:    2012-10-20 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -5030,7 +5030,7 @@
 	87b0  PEX 8732 32-lane, 8-Port PCI Express Gen 3 (8.0 GT/s) Switch
 	9016  PLX 9016 8-port serial controller
 	9030  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		10b5 2695  Hilscher CIF50-PB Profibus Master Board
+		10b5 2695  Hilscher CIF50-PB/DPS Profibus
 		10b5 2862  Alpermann+Velte PCL PCI LV (3V/5V): Timecode Reader Board
 		10b5 2906  Alpermann+Velte PCI TS (3V/5V): Time Synchronisation Board
 		10b5 2940  Alpermann+Velte PCL PCI D (3V/5V): Timecode Reader Board
@@ -7273,6 +7273,7 @@
 	0fd1  GK107 [GeForce GT 650M]
 		1043 2103  N56VZ
 	0fd2  GK107 [GeForce GT 640M]
+	0ff2  GK107 [VGX K1]
 	0ffa  GK107 [Quadro K600]
 	0ffb  GK107 [Quadro K2000M]
 	0ffc  GK107 [Quadro K1000M]
@@ -7323,6 +7324,7 @@
 	11bc  GK104 [Quadro K5000M]
 	11bd  GK104 [Quadro K4000M]
 	11be  GK104 [Quadro K3000M]
+	11bf  GK104GL [VGX K2]
 	11fa  GK104 [Quadro K4000]
 	1200  GF114 [GeForce GTX 560 Ti]
 	1201  GF114 [GeForce GTX 560]
@@ -11378,7 +11380,8 @@
 134f  Algo System Co Ltd
 1350  Systec Co. Ltd
 1351  Sonix Inc
-1353  Thales Idatys
+# nee Thales Idatys
+1353  Vierling Communication SAS
 	0002  Proserver
 	0003  PCI-FUT
 	0004  PCI-S0
@@ -13741,6 +13744,10 @@
 	1010  MT27561 Family
 	1011  MT27600 [Connect-IB]
 	1012  MT27600 Family [Connect-IB Virtual Function]
+	1013  MT27620 Family
+	1014  MT27621 Family
+	1015  MT27630 Family
+	1016  MT27631 Family
 	5274  MT21108 InfiniBridge
 	5a44  MT23108 InfiniHost
 	5a45  MT23108 [Infinihost HCA Flash Recovery]
@@ -15320,6 +15327,8 @@
 1b96  Western Digital
 1b9a  XAVi Technologies Corp.
 1bad  ReFLEX CES
+1bb0  SimpliVity Corporation
+	0002  OmniCube Accelerator OA-3000
 1bb3  Bluecherry
 	4304  BC-04120A MPEG4 4 port video encoder / decoder
 	4309  BC-08240A MPEG4 4 port video encoder / decoder
