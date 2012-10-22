@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.20
-#	Date:    2012-10-20 03:15:01
+#	Version: 2012.10.22
+#	Date:    2012-10-22 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -15315,6 +15315,7 @@
 1b73  Fresco Logic
 	1000  FL1000G USB 3.0 Host Controller
 		1d5c 1000  Anker USB 3.0 Express Card
+	1009  FL1009 USB 3.0 Host Controller
 1b74  OpenVox Communication Co. Ltd.
 	0115  D115P/D115E Single-port E1/T1 card
 	d130  D130P/D130E Single-port E1/T1 card (3rd GEN)
