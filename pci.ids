@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.22
-#	Date:    2012-10-22 03:15:02
+#	Version: 2012.10.24
+#	Date:    2012-10-24 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -11807,7 +11807,7 @@
 		13f6 ffff  CMI8338/C3DX PCI Audio Device
 	0101  CM8338B
 		13f6 0101  CMI8338-031 PCI Audio Device
-	0111  CM8738
+	0111  CMI8738/CMI8768 PCI Audio
 		1019 0970  P6STP-FL motherboard
 		1043 8035  CUSI-FX motherboard
 		1043 8077  CMI8738 6-channel audio controller
