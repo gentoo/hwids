@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.10.24
-#	Date:    2012-10-24 03:15:01
+#	Version: 2012.11.09
+#	Date:    2012-11-09 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -21,7 +21,6 @@
 #	device  device_name				<-- single tab
 #		subvendor subdevice  subsystem_name	<-- two tabs
 
-0000  Gammagraphx, Inc. (or missing ID)
 0010  Allied Telesis, Inc
 # This is a relabelled RTL-8139
 	8139  AT-2500TX V3 Ethernet
@@ -1911,6 +1910,7 @@
 	9807  Wrestler [Radeon HD 6290]
 # AMD A10-5800K CPU
 	9901  Trinity [Radeon HD 7660D]
+	9902  Trinity HDMI Audio Controller
 	9990  Trinity [Radeon HD 7520G]
 	aa00  R600 Audio Device [Radeon HD 2900 Series]
 	aa08  RV630 audio device [Radeon HD 2600 Series]
@@ -12724,6 +12724,7 @@
 	165f  NetXtreme BCM5720 Gigabit Ethernet PCIe
 	1662  NetXtreme II BCM57712 10 Gigabit Ethernet
 	1663  NetXtreme II BCM57712 10 Gigabit Ethernet Multi Function
+	1665  NetXtreme BCM5717 Gigabit Ethernet PCIe
 	1668  NetXtreme BCM5714 Gigabit Ethernet
 		103c 7039  NC324i PCIe Dual Port Gigabit Server Adapter
 	1669  NetXtreme 5714S Gigabit Ethernet
@@ -14599,7 +14600,7 @@
 		13bd 1057  GN-WS32L-RH Half-size Mini PCIe Card
 	3091  RT3091 Wireless 802.11n 1T/2R PCIe
 	3092  RT3092 Wireless 802.11n 2T/2R PCIe
-	3592  RT3592 Wireless 802.11abgn 1T/1R PCIe
+	3592  RT3592 Wireless 802.11abgn 2T/2R PCIe
 	5360  RT5360 Wireless 802.11n 1T/1R
 		1186 3c05  DWA-525 Wireless N 150 Desktop Adapter (rev.A2)
 		20f4 703a  TEW-703PI N150 Wireless PCI Adapter
@@ -14820,6 +14821,7 @@
 	0011  SH7757 PCIe End-Point [PBI]
 	0012  SH7757 PCIe-PCI Bridge [PPB]
 	0013  SH7757 PCIe Switch [PS]
+	0014  uPD720201 USB 3.0 Host Controller
 1919  Soltek Computer Inc.
 1923  Sangoma Technologies Corp.
 	0040  A200/Remora FXO/FXS Analog AFT card
@@ -16285,6 +16287,7 @@
 	0c7d  Centerton Internal Fabric
 	0c7e  Centerton Internal Fabric
 	0c7f  Centerton Internal Fabric
+	0d0c  Crystal Well HD Audio Controller
 	0e00  Ivytown DMI2
 	0e01  Ivytown PCI Express Root Port in DMI2 Mode
 	0e04  Ivytown PCI Express Root Port 2a
@@ -17255,6 +17258,7 @@
 		8086 011c  Ethernet Converged Network Adapter X520-4
 	154d  82599EB 10-Gigabit SFP+ Network Connection
 		8086 7b11  10GbE 2P X520 Adapter
+	1557  82599 10 Gigabit Network Connection
 	1560  Ethernet Controller X540-AT1
 	1960  80960RP (i960RP) Microprocessor
 		101e 0431  MegaRAID 431 RAID Controller
@@ -18877,12 +18881,14 @@
 	2821  82801HR/HO/HH (ICH8R/DO/DH) 6 port SATA Controller [AHCI mode]
 	2822  82801 SATA Controller [RAID mode]
 		1028 020d  Inspiron 530
+	2823  Wellsburg sSATA RAID Controller
 	2824  82801HB (ICH8) 4 port SATA Controller [AHCI mode]
 		1043 81ec  P5B
 	2825  82801HR/HO/HH (ICH8R/DO/DH) 2 port SATA Controller [IDE mode]
 		1028 01da  OptiPlex 745
 		1462 7235  P965 Neo MS-7235 mainboard
 	2826  C600/X79 series chipset SATA RAID Controller
+	2827  Wellsburg sSATA RAID Controller
 	2828  82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [IDE mode]
 		1028 01f3  Inspiron 1420
 		103c 30c0  Compaq 6710b
@@ -20475,6 +20481,8 @@
 	8184  Atom Processor E6xx PCI Express Port 1
 	8185  Atom Processor E6xx PCI Express Port 2
 	8186  Atom Processor E6xx LPC Bridge
+	821c  Wellsburg PCI Express Root Port #7
+	821d  Wellsburg PCI Express Root Port #7
 	84c4  450KX/GX [Orion] - 82454KX/GX PCI bridge
 	84c5  450KX/GX [Orion] - 82453KX/GX Memory controller
 	84ca  450NX - 82451NX Memory & I/O Controller
@@ -20590,6 +20598,64 @@
 	8c5d  Lynx Point LPC Controller
 	8c5e  Lynx Point LPC Controller
 	8c5f  Lynx Point LPC Controller
+	8d00  Wellsburg 4-port SATA Controller [IDE mode]
+	8d02  Wellsburg 6-Port SATA Controller [AHCI mode]
+	8d04  Wellsburg SATA Controller [RAID mode]
+	8d06  Wellsburg SATA Controller [RAID mode]
+	8d08  Wellsburg 2-port SATA Controller [IDE mode]
+	8d0e  Wellsburg SATA Controller [RAID mode]
+	8d10  Wellsburg PCI Express Root Port #1
+	8d11  Wellsburg PCI Express Root Port #1
+	8d12  Wellsburg PCI Express Root Port #2
+	8d13  Wellsburg PCI Express Root Port #2
+	8d14  Wellsburg PCI Express Root Port #3
+	8d15  Wellsburg PCI Express Root Port #3
+	8d16  Wellsburg PCI Express Root Port #4
+	8d17  Wellsburg PCI Express Root Port #4
+	8d18  Wellsburg PCI Express Root Port #5
+	8d19  Wellsburg PCI Express Root Port #5
+	8d1a  Wellsburg PCI Express Root Port #6
+	8d1e  Wellsburg PCI Express Root Port #8
+	8d1f  Wellsburg PCI Express Root Port #8
+	8d20  Wellsburg HD Audio Controller
+	8d21  Wellsburg HD Audio Controller
+	8d22  Wellsburg SMBus Controller
+	8d24  Wellsburg Thermal Subsystem
+	8d26  Wellsburg USB Enhanced Host Controller #1
+	8d2d  Wellsburg USB Enhanced Host Controller #2
+	8d31  Wellsburg USB xHCI Host Controller
+	8d33  Wellsburg LAN Controller
+	8d34  Wellsburg NAND Controller
+	8d3a  Wellsburg MEI Controller #1
+	8d3b  Wellsburg MEI Controller #2
+	8d3c  Wellsburg IDE-r Controller
+	8d3d  Wellsburg KT Controller
+	8d40  Wellsburg LPC Controller
+	8d41  Wellsburg LPC Controller
+	8d42  Wellsburg LPC Controller
+	8d43  Wellsburg LPC Controller
+	8d44  Wellsburg LPC Controller
+	8d45  Wellsburg LPC Controller
+	8d46  Wellsburg LPC Controller
+	8d47  Wellsburg LPC Controller
+	8d48  Wellsburg LPC Controller
+	8d49  Wellsburg LPC Controller
+	8d4a  Wellsburg LPC Controller
+	8d4b  Wellsburg LPC Controller
+	8d4c  Wellsburg LPC Controller
+	8d4d  Wellsburg LPC Controller
+	8d4e  Wellsburg LPC Controller
+	8d4f  Wellsburg LPC Controller
+	8d60  Wellsburg sSATA Controller [IDE mode]
+	8d62  Wellsburg sSATA Controller [AHCI mode]
+	8d64  Wellsburg sSATA Controller [RAID mode]
+	8d66  Wellsburg sSATA Controller [RAID mode]
+	8d68  Wellsburg sSATA Controller [IDE mode]
+	8d6e  Wellsburg sSATA Controller [RAID mode]
+	8d7c  Wellsburg SPSR
+	8d7d  Wellsburg MS SMBus 0
+	8d7e  Wellsburg MS SMBus 1
+	8d7f  Wellsburg MS SMBus 2
 	9000  IXP2000 Family Network Processor
 	9001  IXP2400 Network Processor
 	9002  IXP2300 Network Processor
