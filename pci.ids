@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.10
-#	Date:    2012-11-10 03:15:01
+#	Version: 2012.11.11
+#	Date:    2012-11-11 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -7263,7 +7263,6 @@
 	0e24  GF104 [GeForce GTX 460]
 	0e3a  GF104 [Quadro 3000M]
 	0e3b  GF104 [Quadro 4000M]
-# taken from nv_disp.inf
 	0f00  GK107 [GeForce GT 630]
 # Probably GF108
 	0f01  GeForce GT 620
@@ -17228,6 +17227,7 @@
 		8086 0001  Ethernet Server Adapter I340-F4
 		8086 0002  Ethernet Server Adapter I340-F4
 	1528  Ethernet Controller 10-Gigabit X540-AT2
+		1028 1f61  Ethernet 10G 4P X540/I350 rNDC
 		103c 192d  561FLR-T 2-port 10Gb Ethernet Adapter
 		108e 7b14  Sun Dual Port 10 GbE PCIe 2.0 ExpressModule, Base-T
 		108e 7b15  Sun Dual Port 10 GbE PCIe 2.0 Low Profile Adapter, Base-T
