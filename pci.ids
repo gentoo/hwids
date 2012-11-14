@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.11
-#	Date:    2012-11-11 03:15:01
+#	Version: 2012.11.14
+#	Date:    2012-11-14 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -16287,7 +16287,15 @@
 	0c7d  Centerton Internal Fabric
 	0c7e  Centerton Internal Fabric
 	0c7f  Centerton Internal Fabric
+	0d00  Crystal Well DRAM Controller
+	0d01  Crystal Well PCI Express x16 Controller
+	0d04  Crystal Well DRAM Controller
+	0d05  Crystal Well PCI Express x8 Controller
+	0d09  Crystal Well PCI Express x4 Controller
 	0d0c  Crystal Well HD Audio Controller
+	0d16  Crystal Well Integrated Graphics Controller
+	0d26  Crystal Well Integrated Graphics Controller
+	0d36  Crystal Well Integrated Graphics Controller
 	0e00  Ivytown DMI2
 	0e01  Ivytown PCI Express Root Port in DMI2 Mode
 	0e04  Ivytown PCI Express Root Port 2a
@@ -17195,7 +17203,7 @@
 		1028 1f62  Intel GbE 2P I350crNDC
 		103c 337f  Ethernet 1Gb 2-port 361i Adapter
 		103c 3380  Ethernet 1Gb 4-port 366i Adapter
-		103c 339e  Ethernet 1Gb 2-port 361T Adapter [Wharton Stony Lake]
+		103c 339e  Ethernet 1Gb 2-port 361T Adapter
 		108e 7b16  Quad Port GbE PCIe 2.0 ExpressModule, UTP
 		108e 7b18  Quad Port GbE PCIe 2.0 Low Profile Adapter, UTP
 		10a9 802a  UV2-BaseIO dual-port GbE
@@ -17214,9 +17222,9 @@
 		8086 00a3  Ethernet Server Adapter I350-F4
 		8086 00a4  Ethernet Server Adapter I350-F2
 	1523  I350 Gigabit Backplane Connection
-		103c 1784  Ethernet 1Gb 2-port 361FLB Adapter [Badger Flat]
+		103c 1784  Ethernet 1Gb 2-port 361FLB Adapter
 		103c 18d1  Ethernet 1Gb 2-port 361FLB Adapter
-		103c 339f  Ethernet 1Gb 4-port 366M Adapter [Vaca Key]
+		103c 339f  Ethernet 1Gb 4-port 366M Adapter
 		8086 1f52  1GbE 4P I350 Mezz
 	1524  I350 Gigabit Connection
 	1525  82567V-4 Gigabit Network Connection
