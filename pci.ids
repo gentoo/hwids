@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.14
-#	Date:    2012-11-14 03:15:02
+#	Version: 2012.11.15
+#	Date:    2012-11-15 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -7341,7 +7341,7 @@
 	1243  GF116 [GeForce GT 545]
 	1244  GF116 [GeForce GTX 550 Ti]
 	1245  GF116 [GeForce GTS 450]
-	1247  GF106 [GeForce GT 555M]
+	1247  GF116 [GeForce GT 555M]
 # taken from nv_disp.inf
 	1249  GF116 [GeForce GTS 450]
 # taken from nv_disp.inf
