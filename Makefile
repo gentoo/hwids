@@ -14,7 +14,7 @@ fetch:
 	$(Q)$(HTTPCAT) http://www.linux-usb.org/usb.ids.bz2 | bzcat > usb.ids
 	$(Q)$(STATUS)
 
-PV ?= $(shell date +%Y%m%d)
+PV ?= $(shell awk '$$2 == "Date:" { gsub("-", "", $$3); print $$3; nextfile }' pci.ids usb.ids | sort | tail -n 1)
 P = hwids-$(PV)
 
 tag:
