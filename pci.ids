@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.15
-#	Date:    2012-11-15 03:15:01
+#	Version: 2012.11.19
+#	Date:    2012-11-19 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -946,6 +946,7 @@
 		1028 014a  PowerEdge 1750
 		1028 0165  PowerEdge 750
 		103c 10e1  NetServer Rage XL
+		103c 3208  ProLiant DL140 G2
 		107b 6400  6400 Server
 		1734 007a  PRIMERGY RX/TX series onboard VGA
 		8086 3411  SDS2 Mainboard
@@ -2445,6 +2446,7 @@
 	1417  Family 15h (Models 10h-1fh) Processor Root Port
 	1418  Family 15h (Models 10h-1fh) Processor Root Port
 	1419  Family 15h (Models 10h-1fh) I/O Memory Management Unit
+	1439  Family 16h Processor Functions 5:1
 	1510  Family 14h Processor Root Complex
 		174b 1001  Sapphire PURE Fusion Mini
 	1512  Family 14h Processor Root Port
@@ -2453,6 +2455,14 @@
 	1514  Family 14h Processor Root Port
 	1515  Family 14h Processor Root Port
 	1516  Family 14h Processor Root Port
+	1530  Family 16h Processor Function 0
+	1531  Family 16h Processor Function 1
+	1532  Family 16h Processor Function 2
+	1533  Family 16h Processor Function 3
+	1534  Family 16h Processor Function 4
+	1535  Family 16h Processor Function 5
+	1536  Family 16h Processor Root Complex
+	1538  Family 16h Processor Function 0
 	1600  Family 15h Processor Function 0
 	1601  Family 15h Processor Function 1
 	1602  Family 15h Processor Function 2
@@ -2575,22 +2585,24 @@
 		161f 3017  HDAMB
 	746e  AMD-8111 MC97 Modem
 	756b  AMD-8111 ACPI
-	7800  Hudson SATA Controller [IDE mode]
-	7801  Hudson SATA Controller [AHCI mode]
-	7802  Hudson SATA Controller [RAID mode]
-	7803  Hudson SATA Controller [RAID mode]
-	7804  Hudson SATA Controller [AHCI mode]
-	7805  Hudson SATA Controller [RAID mode]
-	7806  Hudson SD Flash Controller
-	7807  Hudson USB OHCI Controller
-	7808  Hudson USB EHCI Controller
-	7809  Hudson USB OHCI Controller
-	780b  Hudson SMBus Controller
-	780c  Hudson IDE Controller
-	780d  Hudson Azalia Controller
-	780e  Hudson LPC Bridge
-	780f  Hudson PCI Bridge
-	7812  Hudson USB XHCI Controller
+	7800  FCH SATA Controller [IDE mode]
+	7801  FCH SATA Controller [AHCI mode]
+	7802  FCH SATA Controller [RAID mode]
+	7803  FCH SATA Controller [RAID mode]
+	7804  FCH SATA Controller [AHCI mode]
+	7805  FCH SATA Controller [RAID mode]
+	7806  FCH SD Flash Controller
+	7807  FCH USB OHCI Controller
+	7808  FCH USB EHCI Controller
+	7809  FCH USB OHCI Controller
+	780b  FCH SMBus Controller
+	780c  FCH IDE Controller
+	780d  FCH Azalia Controller
+	780e  FCH LPC Bridge
+	780f  FCH PCI Bridge
+	7812  FCH USB XHCI Controller
+	7813  FCH SD Flash Controller
+	7814  FCH USB XHCI Controller
 	9600  RS780 Host Bridge
 		1043 82f1  M3A78-EH Motherboard
 	9601  RS880 Host Bridge
@@ -2839,6 +2851,7 @@
 		102b ff04  Marvel G200 AGP
 		110a 0032  MGA-G200 AGP
 	0522  MGA G200e [Pilot] ServerEngines (SEP1)
+		103c 31fa  ProLiant DL140 G3
 	0525  MGA G400/G450
 		0e11 b16f  MGA-G400 AGP
 		102b 0328  Millennium G400 16Mb SDRAM
@@ -3502,7 +3515,6 @@
 	4037  PCIe Local Bus Adapter
 	403b  PCIe Root Port
 	60e8  NetRAID-2M : ZX1/M (OEM AMI MegaRAID 493)
-	780d  Hudson Azalia Controller (rev 01) - Soundcard
 103e  Solliday Engineering
 103f  Synopsys/Logic Modeling Group
 1040  Accelgraphics Inc.
@@ -7290,6 +7302,7 @@
 	104a  GF119 [GeForce GT 610]
 	1050  GF119 [GeForce GT 520M]
 	1051  GF119 [GeForce GT 520MX]
+	1055  GF119 [GeForce 410M]
 	1056  GF119 [Quadro NVS 4200M]
 	1057  GF119 [Quadro NVS 4200M]
 	105a  GF119 [GeForce 610M]
@@ -7335,6 +7348,7 @@
 	1207  GF114 [GeForce GTX 645]
 # taken from nv_disp.inf
 	1208  GF114 [GeForce GTX 560 SE]
+	1210  GF114 [GeForce GTX 570M]
 # GT, not GTX
 	1241  GF116 [GeForce GT 545]
 # GT, not GTX
@@ -16075,8 +16089,10 @@
 	0309  80303 I/O Processor PCI-to-PCI Bridge
 	030d  80312 I/O Companion Chip PCI-to-PCI Bridge
 	0326  6700/6702PXH I/OxAPIC Interrupt Controller A
+		103c 3208  ProLiant DL140 G2
 		1775 1100  CR11/VR11 Single Board Computer
 	0327  6700PXH I/OxAPIC Interrupt Controller B
+		103c 3208  ProLiant DL140 G2
 		1775 1100  CR11/VR11 Single Board Computer
 	0329  6700PXH PCI Express-to-PCI Bridge A
 	032a  6700PXH PCI Express-to-PCI Bridge B
@@ -17717,6 +17733,7 @@
 		1028 0211  Optiplex 755
 		1028 02da  OptiPlex 980
 		103c 2a3b  Pavilion A1512X
+		103c 31fe  ProLiant DL140 G3
 		103c 330b  ProLiant ML150 G6 Server
 		1458 5000  GA-EP45-DS5 Motherboard
 		1775 11cc  CC11/CL11
@@ -17981,6 +17998,7 @@
 		1028 0169  Precision 470
 		1028 019a  PowerEdge SC1425
 		103c 12bc  d530 CMT (DG746A)
+		103c 3208  ProLiant DL140 G2
 		1043 80a6  P4P800 series motherboard
 		1458 24d1  GA-8IPE1000 Pro2 motherboard (865PE)
 		1462 7280  865PE Neo2 (MS-6728)
@@ -18002,6 +18020,7 @@
 		1028 019a  PowerEdge SC1425
 		103c 006a  NX9500
 		103c 12bc  d530 CMT (DG746A)
+		103c 3208  ProLiant DL140 G2
 		1043 80a6  P4P800/P5P800 series motherboard
 		1458 24d2  GA-8IPE1000/8KNXP motherboard
 		1462 7280  865PE Neo2 (MS-6728)
@@ -18018,6 +18037,7 @@
 		1028 0156  Precision 360
 		1028 0169  Precision 470
 		103c 12bc  d330 uT
+		103c 3208  ProLiant DL140 G2
 		1043 80a6  P4P800/P5P800 series motherboard
 		1458 24d2  GA-8IPE1000 Pro2 motherboard (865PE)
 		1462 7280  865PE Neo2 (MS-6728)
@@ -18040,6 +18060,7 @@
 		1028 019a  PowerEdge SC1425
 		103c 006a  NX9500
 		103c 12bc  d530 CMT (DG746A)
+		103c 3208  ProLiant DL140 G2
 		1043 80a6  P4P800/P5P800 series motherboard
 		1458 24d2  GA-8IPE1000 Pro2 motherboard (865PE)
 		1462 7280  865PE Neo2 (MS-6728)
@@ -18123,6 +18144,7 @@
 		1028 019a  PowerEdge SC1425
 		103c 006a  NX9500
 		103c 12bc  d530 CMT (DG746A)
+		103c 3208  ProLiant DL140 G2
 		1043 80a6  P4P800/P5P800 series motherboard
 		1458 5006  GA-8IPE1000 Pro2 motherboard (865PE)
 		1462 7280  865PE Neo2 (MS-6728)
@@ -18333,18 +18355,23 @@
 	25e7  5000 Series Chipset PCI Express x4 Port 7
 	25f0  5000 Series Chipset FSB Registers
 		1028 01bb  PowerEdge 1955 FSB Registers
+		103c 31fd  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	25f1  5000 Series Chipset Reserved Registers
+		103c 31fd  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	25f3  5000 Series Chipset Reserved Registers
+		103c 31fd  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	25f5  5000 Series Chipset FBD Registers
+		103c 31fd  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	25f6  5000 Series Chipset FBD Registers
+		103c 31fd  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	25f7  5000 Series Chipset PCI Express x8 Port 2-3
@@ -18543,10 +18570,12 @@
 		e4bf 0cd3  CD3-JIVE
 		e4bf 58b1  XB1
 	2670  631xESB/632xESB/3100 Chipset LPC Interface Controller
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	2680  631xESB/632xESB/3100 Chipset SATA IDE Controller
 	2681  631xESB/632xESB SATA AHCI Controller
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	2682  631xESB/632xESB SATA RAID Controller
@@ -18555,15 +18584,18 @@
 	2688  631xESB/632xESB/3100 Chipset UHCI USB Controller #1
 		1028 01bb  PowerEdge 1955 onboard USB
 		1028 01f0  PowerEdge R900 onboard USB
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	2689  631xESB/632xESB/3100 Chipset UHCI USB Controller #2
 		1028 01bb  PowerEdge 1955 onboard USB
 		1028 01f0  PowerEdge R900 onboard USB
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	268a  631xESB/632xESB/3100 Chipset UHCI USB Controller #3
 		1028 01f0  PowerEdge R900 onboard USB
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	268b  631xESB/632xESB/3100 Chipset UHCI USB Controller #4
@@ -18573,19 +18605,24 @@
 	268c  631xESB/632xESB/3100 Chipset EHCI USB2 Controller
 		1028 01bb  PowerEdge 1955 onboard USB
 		1028 01f0  PowerEdge R900 onboard USB
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	2690  631xESB/632xESB/3100 Chipset PCI Express Root Port 1
+		103c 31fe  ProLiant DL140 G3
 	2692  631xESB/632xESB/3100 Chipset PCI Express Root Port 2
+		103c 31fe  ProLiant DL140 G3
 	2694  631xESB/632xESB/3100 Chipset PCI Express Root Port 3
 	2696  631xESB/632xESB/3100 Chipset PCI Express Root Port 4
 	2698  631xESB/632xESB AC '97 Audio Controller
 	2699  631xESB/632xESB AC '97 Modem Controller
 	269a  631xESB/632xESB High Definition Audio Controller
 	269b  631xESB/632xESB/3100 Chipset SMBus Controller
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 		8086 3476  Intel S5000PSLSATA Server Board
 	269e  631xESB/632xESB IDE Controller
+		103c 31fe  ProLiant DL140 G3
 		15d9 8680  X7DVL-E-O motherboard
 	2770  82945G/GZ/P/PL Memory Controller Hub
 		1028 01ad  OptiPlex GX620
@@ -19704,12 +19741,15 @@
 	3433  5520/5500/X58 Chipset QuickData Technology Device
 	3438  7500/5520/5500/X58 I/O Hub Throttle Registers
 	3500  6311ESB/6321ESB PCI Express Upstream Port
+		103c 31fe  ProLiant DL140 G3
 	3501  6310ESB PCI Express Upstream Port
 	3504  6311ESB/6321ESB I/OxAPIC Interrupt Controller
 	3505  6310ESB I/OxAPIC Interrupt Controller
 	350c  6311ESB/6321ESB PCI Express to PCI-X Bridge
+		103c 31fe  ProLiant DL140 G3
 	350d  6310ESB PCI Express to PCI-X Bridge
 	3510  6311ESB/6321ESB PCI Express Downstream Port E1
+		103c 31fe  ProLiant DL140 G3
 	3511  6310ESB PCI Express Downstream Port E1
 	3514  6311ESB/6321ESB PCI Express Downstream Port E2
 	3515  6310ESB PCI Express Downstream Port E2
@@ -19796,6 +19836,7 @@
 	3591  E7525/E7520 Error Reporting Registers
 		1014 02dd  eServer xSeries server mainboard
 		1028 0169  Precision 470
+		103c 3208  ProLiant DL140 G2
 		4c53 10d0  Telum ASLP10 Processor AMC
 	3592  E7320 Memory Controller Hub
 	3593  E7320 Error Reporting Registers
@@ -21248,6 +21289,8 @@ b1d9  ATCOM Technology co., LTD.
 # Pinnacle should be 11bd, but they got it wrong several times --mj
 bd11  Pinnacle Systems, Inc. (Wrong ID)
 bdbd  Blackmagic Design
+# HD/SDI input and output card for PCI Express 1x
+	a11b  DeckLink SDI
 c001  TSI Telsys
 c0a9  Micron/Crucial Technology
 c0de  Motorola
