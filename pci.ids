@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.19
-#	Date:    2012-11-19 03:15:01
+#	Version: 2012.11.23
+#	Date:    2012-11-23 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -14614,6 +14614,8 @@
 		13bd 1057  GN-WS32L-RH Half-size Mini PCIe Card
 	3091  RT3091 Wireless 802.11n 1T/2R PCIe
 	3092  RT3092 Wireless 802.11n 2T/2R PCIe
+	3290  RT3290 Wireless 802.11n 1T/1R PCIe
+	3298  RT3290 Bluetooth
 	3592  RT3592 Wireless 802.11abgn 2T/2R PCIe
 	5360  RT5360 Wireless 802.11n 1T/1R
 		1186 3c05  DWA-525 Wireless N 150 Desktop Adapter (rev.A2)
