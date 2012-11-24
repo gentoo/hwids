@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2012.11.22
-# Date:    2012-11-22 20:34:03
+# Version: 2012.11.23
+# Date:    2012-11-23 20:34:02
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -9349,7 +9349,7 @@
 	0373  Silicon Motion Camera
 	037a  Silicon Motion Camera
 	037b  Silicon Motion Camera
-	1000  64MB QDI U2 DISK
+	1000  Flash Drive
 	1132  5-in-1 Card Reader
 	337b  Silicon Motion Camera
 	3710  Silicon Motion Camera
@@ -9445,6 +9445,7 @@
 	fffb  DocuPrint M750 (X750_USB)
 0925  Lakeview Research
 	0005  Gamtec.,Ltd SmartJoy PLUS Adapter
+	3881  Saleae Logic
 	8101  Phidgets, Inc., 1-Motor PhidgetServo v2.0
 	8104  Phidgets, Inc., 4-Motor PhidgetServo v2.0
 	8800  WiseGroup Ltd, MP-8800 Quad Joypad
@@ -10019,6 +10020,7 @@
 	2151  Bluetooth
 	217d  HP Bluethunder
 	217f  Bluetooth Controller
+	2198  Bluetooth 3.0 Device
 	219b  Bluetooth 2.1 Device
 	21b1  HP Bluetooth Module
 	21b4  BCM2070 Bluetooth 2.1 + EDR
@@ -10031,6 +10033,7 @@
 	21e1  HP Portable SoftSailing
 	21e3  HP Portable Valentine
 	21e6  BCM20702 Bluetooth 4.0 [ThinkPad]
+	21e8  BCM20702A0 Bluetooth 4.0
 	21f1  HP Portable Bumble Bee
 	22be  BCM2070 Bluetooth 3.0 + HS
 	4500  BCM2046B1 USB 2.0 Hub (part of BCM2046 Bluetooth)
@@ -13691,6 +13694,7 @@
 154d  ConnectCounty Holdings Berhad
 154e  D&M Holdings, Inc. (Denon/Marantz)
 	3000  Marantz RC9001 Remote Control
+154f  SNBC CO., Ltd
 1554  Prolink Microsystems Corp.
 	5010  PV-D231U(RN)-F [PixelView PlayTV SBTVD Full-Seg]
 1557  OQO
@@ -14582,7 +14586,13 @@
 	0172  AX226 WIMAX MODEM (After Modeswitch)
 	0325  LTE4G O2 ZTE MF821D LTE/UMTS/GSM Modem/Networkcard
 	0326  LTE4G O2 ZTE MF821D LTE/UMTS/GSM Modem/Networkcard
+	1008  K3570-Z
+	1010  K3571-Z
+	1017  K5006-Z vodafone LTE/UMTS/GSM Modem/Networkcard
+	1018  K5006-Z vodafone LTE/UMTS/GSM Modem/Networkcard
 	1203  MF691 [ T-Mobile webConnect Rocket 2.0]
+	1217  MF652
+	1218  MF652
 	2000  MF627/MF628/MF628+/MF636+ HSDPA/HSUPA
 	fff2  Gobi Wireless Modem (QDL mode)
 	fff3  Gobi Wireless Modem
@@ -14604,8 +14614,13 @@
 	0407  Mimi WiFi speakers
 1a25  Amphenol East Asia Ltd.
 1a2a  Seagate Branded Solutions
+1a2c  China Resource Semico Co., Ltd
+	0021  Keyboard
+	0024  Multimedia Keyboard
 1a32  Quanta Microsystems, Inc.
 	0304  802.11n Wireless LAN Card
+1a34  ACRUX
+	0802  Gamepad
 1a36  Biwin Technology Ltd.
 1a40  Terminus Technology Inc.
 	0101  4-Port HUB
@@ -14615,11 +14630,15 @@
 	0001  Digipass 905 SmartCard Reader
 1a4a  Silicon Image
 1a4b  SafeBoot International B.V.
+1a5a  Tandberg Data
 1a61  Abbott Diabetes Care
+	3410  CoPilot System Cable
 1a6a  Spansion Inc.
 1a6d  SamYoung Electronics Co., Ltd
 1a6e  Global Unichip Corp.
 1a6f  Sagem Orga GmbH
+1a72  Physik Instrumente
+	1008  E-861 PiezoWalk NEXACT Controller
 1a79  Bayer Health Care LLC
 1a7b  Lumberg Connect  GmbH & Co. KG
 1a7c  Evoluent
@@ -14629,6 +14648,7 @@
 1a81  Holtek Semiconductor, Inc.
 	2203  Laser Gaming mouse
 	2204  Optical Mouse
+	2205  Laser Mouse
 1a86  QinHeng Electronics
 	5523  CH341 in serial mode, usb to serial port converter
 	5584  CH341 in parallel mode, usb to printer port converter
@@ -14641,11 +14661,13 @@
 1a8d  BandRich, Inc.
 	1002  BandLuxe 3.5G HSDPA Adapter
 	1009  BandLuxe 3.5G HSPA Adapter
-1a90  Corsair Voyager GT 16GB
+	100d  4G LTE adapter
 1a98  Leica Camera AG
 1aa4  Data Drive Thru, Inc.
 1aa5  UBeacon Technologies, Inc.
 1aa6  eFortune Technology Corp.
+1aad  KeeTouch
+	0001  Touchscreen
 1ab1  Rigol Technologies
 	0588  DS1000 SERIES
 1acb  Salcomp Plc
@@ -14659,7 +14681,10 @@
 	2001  SpeedLink SL-6825
 1aed  High Top Precision Electronic Co., Ltd.
 1aef  Conntech Electronic (Suzhou) Corporation
-1b04  Meilhaus Electronic GmBH
+1af1  Connect One Ltd.
+1afe  A. Eberle GmbH & Co. KG
+	0001  PQ Box 100
+1b04  Meilhaus Electronic GmbH
 	0630  ME-630
 	0940  ME-94
 	0950  ME-95
@@ -14738,9 +14763,14 @@
 	820b  ME-8200B
 1b0e  BLUTRONICS S.r.l.
 	1078  BLUDRIVE II CCID
+	1079  BLUDRIVE II CCID
+	1080  WRITECHIP II CCID
 1b1c  Corsair
 	0890  Flash Padlock
 	0a00  SP2500 Speakers
+	0a60  Vengeance K60 Keyboard
+	1a01  Flash Voyager GT
+	1a0a  Survivor Stealth Flash Drive
 	1a90  Flash Voyager GT
 1b20  MStar Semiconductor, Inc.
 1b22  WiLinx Corp.
@@ -14776,6 +14806,8 @@
 	2968  PC Camera/Webcam controller
 	2969  PC Camera/Webcam controller
 1b3f  Generalplus Technology Inc.
+	0c52  808 Camera #9 (mass storage mode)
+	2002  808 Camera #9 (web-cam mode)
 1b47  Energizer Holdings, Inc.
 	0001  CHUSB Duo Charger (NiMH AA/AAA USB smart charger)
 1b48  Plastron Precision Co., Ltd.
@@ -14787,6 +14819,7 @@
 	1000  xHC1 Controller
 1b75  Ovislink Corp.
 	3072  AirLive WN-360USB adapter
+	8171  WN-370USB 802.11bgn Wireless Adapter [Realtek RTL8188SU]
 	8187  AirLive WL-1600USB 802.11g Adapter [Realtek RTL8187L]
 	9170  AirLive X.USB 802.11abgn [Atheros AR9170+AR9104]
 	a200  AirLive WN-200USB wireless 11b/g/n dongle
@@ -14805,6 +14838,7 @@
 	e399  DVB-T KWorld PlusTV 399U [af9015]
 	e39a  DVB-T395U [af9015]
 	e39b  DVB-T395U [af9015]
+	e401  Sveon STV22 DVB-T [af9015]
 	e409  IT9137FN Dual DVB-T [KWorld UB499-2T]
 1b86  Dongguan Guanshang Electronics Co., Ltd.
 1b88  ShenMing Electron (Dong Guan) Co., Ltd.
@@ -14830,6 +14864,13 @@
 1bbb  T & A Mobile Phones
 1bc4  Ford Motor Co.
 1bc5  AVIXE Technology (China) Ltd.
+1bc7  Telit
+	0020  HE863
+	1003  UC864-E
+	1004  UC864-G
+	1005  CC864-DUAL
+	1006  CC864-SINGLE
+	1010  DE910-DUAL
 1bce  Contac Cable Industrial Limited
 1bcf  Sunplus Innovation Technology Inc.
 	0007  Optical Mouse
@@ -14837,6 +14878,7 @@
 	05c5  SPRF2413A [2.4GHz Wireless Keyboard/Mouse Receiver]
 	05cf  Micro keyboard & mouse receiver
 	0c31  SPIF30x Serial-ATA bridge
+	2888  HP Universal Camera
 1bd0  Hangzhou Riyue Electronic Co., Ltd.
 1bd5  BG Systems, Inc.
 1bde  P-TWO INDUSTRIES, INC.
@@ -14855,6 +14897,8 @@
 	6968  Touch Screen
 1c02  Kreton Corporation
 1c04  QNAP System Inc.
+1c0c  Ionics EMS, Inc.
+	0102  Plug Computer
 1c0d  Relm Wireless
 1c10  Lanterra Industrial Co., Ltd.
 1c13  ALECTRONIC LIMITED
@@ -14904,12 +14948,16 @@
 1c9e  OMEGA TECHNOLOGY
 	6061  WL-72B 3.5G MODEM
 1ca0  ACCARIO Inc.
+1ca1  Symwave
+	18ab  SATA bridge
 1cac  Kinstone
 	a332  C8 Webcam
 	b288  C18 Webcam
 1cb3  Aces Electronic Co., Ltd.
 1cb4  OPEX CORPORATION
 1cbe  Luminary Micro Inc.
+	00fd  In-Circuit Debug Interface
+	00ff  Stellaris ROM DFU Bootloader
 1cbf  FORTAT SKYMARK INDUSTRIAL COMPANY
 1cc0  PlantSense
 1cca  NextWave Broadband Inc.
@@ -14921,6 +14969,20 @@
 1cdf  WonTen Technology Co., Ltd.
 1ce0  EDIMAX TECHNOLOGY CO., LTD.
 1ce1  Amphenol KAE
+1cf1  Dresden Elektronik
+	0001  Sensor Terminal Board
+	0004  Wireless Handheld Terminal
+	0017  deRFusbSniffer 2.4 GHz
+	0018  deRFusb24E001
+	0019  deRFusb14E001
+	001a  deRFusb23E00
+	001b  deRFusb13E00
+	001c  deRFnode
+	001d  deRFnode / gateway
+	0022  deUSB level shifter
+	0023  deRFusbSniffer Sub-GHz
+	0025  deRFusb23E06
+	0027  deRFusb13E06
 1cfc  ANDES TECHNOLOGY CORPORATION
 1cfd  Flextronics Digital Design Japan, LTD.
 1d03  iCON
@@ -14931,6 +14993,7 @@
 	1026  HSUPA Modem FLYING-LARK46-VER0.07 [Flying Angel]
 1d0a  Johnson Controls, Inc. The Automotive Business Unit
 1d0b  HAN HUA CABLE & WIRE TECHNOLOGY (J.X.) CO., LTD.
+1d0f  Sonix Technology Co., Ltd.
 1d14  ALPHA-SAT TECHNOLOGY LIMITED
 1d17  C-Thru Music Ltd.
 	0001  AXiS-49 Harmonic Table MIDI Keyboard
@@ -14942,6 +15005,13 @@
 	8202  DK DVBC/T DONGLE
 1d1f  Diostech Co., Ltd.
 1d20  SAMTACK INC.
+1d34  Dream Cheeky
+	0001  Dream Cheeky Fidget
+	0004  Dream Cheeky Webmail Notifier
+	0008  Dream Cheeky button
+	000a  Dream Cheeky Mailbox Friends Alert
+	000d  Dream Cheeky Big Red Button
+	0013  Dream Cheeky LED Message Board
 1d4d  PEGATRON CORPORATION
 	0002  Ralink RT2770/2720 802.11b/g/n Wireless LAN Mini-USB Device
 	000c  Ralink RT3070 802.11b/g/n Wireless Lan USB Device
@@ -14973,6 +15043,7 @@
 	1101  Generic Display Device (Mass storage mode)
 	c101  Generic Display Device
 1e0e  Qualcomm / Option
+	f000  iCON 210 UMTS Surfstick
 1e10  Point Grey Research, Inc.
 	2004  Sony 1.3MP 1/3" ICX445 IIDC video camera [Chameleon]
 1e17  Mirion Technologies Dosimetry Services Division
@@ -14993,12 +15064,20 @@
 	0408  LPC2378 [Robotino-Arm]
 	0409  LPC2378 [Robotino-Arm Bootloader]
 	040a  LPC2378 [Robotino Bootloader]
+	040b  LPC2378 [Robotino XT]
+	040c  LPC2378 [Robotino XT Bootloader]
+	040d  LPC2378 [Robotino 3]
+	040e  LPC2378 [Robotino 3 Bootloader]
 	0501  CP2102 [CMSP]
 	0601  CMMP-AS
 1e3d  Chipsbank Microelectronics Co., Ltd
+	2093  CBM209x Flash Drive (OEM)
 	4082  CBM4082 SD Card Reader
 1e41  Cleverscope
 	0001  CS328A PC Oscilloscope
+1e4e  Cubeternet
+	0100  WebCam
+	0102  GL-UPC822 UVC WebCam
 1e54  TypeMatrix
 	2030  2030 USB Keyboard
 1e68  TrekStor GmbH & Co. KG
@@ -15007,10 +15086,12 @@
 	0001  Avatar Optical Mouse
 1e74  Coby Electronics Corporation
 	2211  MP300
+	2647  2 GB 2 Go Video MP3 Player [MP601-2G]
 	2659  Coby 4GB Go Video MP3 Player [MP620-4G]
 	4641  A8705 MP3/Video Player
 	6511  MP705-8G MP3 player
 	6512  MP705-4G
+	7111  MP957 Music and Video Player
 1e7d  ROCCAT
 	2c24  Pyra Mouse (wired)
 	2ced  Kone Mouse
@@ -15037,8 +15118,17 @@
 	0021  CD INSTALLER USB Device
 1f44  The Neat Company
 	0001  NM-1000 scanner
+1f48  H-TRONIC GmbH
+	0627  Data capturing system
+	0628  Data capturing and control module
 1f4d  G-Tek Electronics Group
 	b803  Lifeview LV5TDLX DVB-T [RTL2832U]
+1f6f  Aliph
+	0023  Jawbone Jambox
+	8000  Jawbone Jambox - Updating
+1f75  Innostor Technology Corporation
+	0888  IS888 SATA Storage Controller
+	0902  IS902 UFD controller
 1f82  TANDBERG
 	0001  PrecisionHD Camera
 1f84  Alere, Inc.
@@ -15046,6 +15136,8 @@
 	0002  Multi-touch HID Controller
 1f9b  Ubiquiti Networks, Inc.
 	0241  AirView2-EXT
+1fab  Samsung Opto-Electroncs Co., Ltd.
+	104d  ES65
 1fbd  Delphin Technology AG
 	0001  Expert Key - Data aquisition system
 1fc9  NXP Semiconductors
@@ -15054,10 +15146,15 @@
 	0001  UART Bridge
 1fe7  Vertex Wireless Co., Ltd.
 	1000  VW100 series CDMA EV-DO Rev.A modem
+1ff7  CVT Electronics.Co.,Ltd
+	0013  CVTouch Screen (HID)
+	001a  Human Interface Device
+1fff  Ideofy Inc.
 2001  D-Link Corp.
 	0001  DWL-120 WIRELESS ADAPTER
 	0201  DHN-120 10Mb Home Phoneline Adapter
-	1a00  10/100 Ethernet
+	1a00  DUB-E100 10/100 Ethernet
+	1a02  DUB-E100 Ethernet Adapter
 	200c  10/100 Ethernet
 	3200  DWL-120 802.11b Wireless Adapter(rev.E1) [Atmel at76c503a]
 	3301  DWA-130 802.11n Wireless N Adapter(rev.C1) [Realtek RTL8192U]
@@ -15089,7 +15186,11 @@
 	3c01  AirPlus AG DWL-AG122 Wireless Adapter
 	3c02  AirPlus G DWL-G122 Wireless Adapter
 	3c05  DUB-E100 Fast Ethernet [asix]
+	3c15  DWA-140 RangeBooster N Adapter(rev.B3) [Ralink RT5372]
+	3c17  DWA-123 Wireless N 150 Adapter(rev.A1) [Ralink RT3370]
 	3c19  DWA-125 Wireless N 150 Adapter(rev.A3) [Ralink RT5370]
+	3c1a  DWA-160 802.11abgn Xtreme N Dual Band Adapter(rev.B2) [Ralink RT5572]
+	3c1b  DWA-127 Wireless N 150 High-Gain Adapter(rev.A1) [Ralink RT3070]
 	4000  DSB-650C Ethernet [klsi]
 	4001  DSB-650TX Ethernet [pegasus]
 	4002  DSB-650TX Ethernet [pegasus]
@@ -15112,6 +15213,8 @@
 	f117  Formosa 3
 	f118  Formosa 4
 2002  DAP Technologies
+200c  Reloop
+	100b  Play audio soundcard
 2013  PCTV Systems
 	0245  PCTV 73ESE
 	0246  PCTV 74E
@@ -15119,7 +15222,9 @@
 	024f  nanoStick T2 290e
 2019  PLANEX
 	3220  GW-US11S WLAN [Atmel AT76C503A]
+	4901  GW-USSuper300 802.11bgn Wireless Adapter [Realtek RTL8191SU]
 	4903  GW-USFang300 802.11abgn Wireless Adapter [Realtek RTL8192DU]
+	4904  GW-USUltra300 802.11abgn Wireless Adapter [Realtek RTL8192DU]
 	5303  GW-US54GXS 802.11bg
 	5304  GWUS300 802.11n
 	ab01  GW-US54HP
@@ -15128,6 +15233,7 @@
 	ab28  GW-USNano
 	ab29  GW-USMicro300
 	ab2a  GW-USNano2 802.11n Wireless Adapter [Realtek RTL8188CUS]
+	ab2b  GW-USEco300 802.11bgn Wireless Adapter [Realtek RTL8192CU]
 	ab2c  GW-USDual300 802.11abgn Wireless Adapter [Realtek RTL8192DU]
 	ab50  GW-US54Mini2
 	c002  GW-US54SG
@@ -15136,7 +15242,9 @@
 	ed06  GW-US300MiniW 802.11bgn Wireless Adapter
 	ed10  GW-US300Mini2
 	ed14  GW-USMicroN
+	ed16  GW-USMicroN2W 802.11bgn Wireless Adapter [Realtek RTL8188SU]
 	ed17  GW-USValue-EZ 802.11n Wireless Adapter [Realtek RTL8188CUS]
+	ed18  GW-USHyper300 / GW-USH300N 802.11bgn Wireless Adapter [Realtek RTL8191SU]
 2040  Hauppauge
 	0c80  Windham
 	0c90  Windham
@@ -15689,6 +15797,9 @@
 4971  SimpleTech
 	cb01  SP-U25/120G
 	ce17  1TB SimpleDrive II USB External Hard Drive
+4d46  Musical Fidelity
+	0001  V-Link
+	0002  V-DAC II
 5032  Grandtec
 	0bb8  Grandtec USB1.1 DVB-T (cold)
 	0bb9  Grandtec USB1.1 DVB-T (warm)
