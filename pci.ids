@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.24
-#	Date:    2012-11-24 03:15:02
+#	Version: 2012.11.25
+#	Date:    2012-11-25 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -3504,6 +3504,8 @@
 		103c 330e  iLO3
 		103c 3381  iLO4
 	3307  Integrated Lights-Out Standard Management Processor Support and Messaging
+# HP DL380 G6
+		103c 3309  iLO 2
 		103c 330e  iLO3
 		103c 3381  iLO4
 	3308  Integrated Lights-Out Standard MS Watchdog Timer
