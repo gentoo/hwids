@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.25
-#	Date:    2012-11-25 03:15:02
+#	Version: 2012.11.30
+#	Date:    2012-11-30 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -379,6 +379,7 @@
 		1000 9265  MegaRAID SAS 9265-8i
 		1000 9266  MegaRAID SAS 9266-8i
 		1000 9268  MegaRAID SAS 9265CV-8i / 9270CV-8i
+		1000 9269  MegaRAID SAS 9266-4i
 		1014 040b  ServeRAID M5110 SAS/SATA Controller
 		1014 0412  ServeRAID M5110e SAS/SATA Controller
 		1028 1f2d  PERC H810 Adapter
@@ -7759,8 +7760,8 @@
 	0009  [SB X-Fi Xtreme Audio] CA0110-IBG
 		1102 0010  [SB X-Fi Xtreme Audio] CA0110-IBG
 		1102 0018  SB1040
-	000b  X-Fi Titanium series [EMU20k2]
-		1102 0041  SB X-Fi Titanium PCI-e [SB0880]
+	000b  EMU20k2 [X-Fi Titanium Series]
+		1102 0041  SB0880 [SoundBlaster X-Fi Titanium PCI-e]
 	4001  SB Audigy FireWire Port
 		1102 0010  SB Audigy FireWire Port
 	7002  SB Live! Game Port
@@ -15207,6 +15208,23 @@
 	2000  PGPCard - 4 Lane
 	2010  PCI-Express EVR
 1a51  Hectronic AB
+1a55  Rohde & Schwarz DVS GmbH
+	0010  SDStationOEM
+	0011  SDStationOEM II
+	0020  Centaurus
+	0021  Centaurus II
+	0022  Centaurus II LT
+	0030  CLIPSTER-VPU 1.x (Hugo)
+	0040  Hydra Cinema (JPEG)
+	0050  CLIPSTER-VPU 2.x (DigiLab)
+	0060  CLIPSTER-DCI 2.x (HydraX)
+	0061  Atomix
+	0062  Atomix LT
+	0063  Atomix HDMI
+	0064  Atomix STAN
+	0065  Atomix HDMI STAN
+	0070  RED Rocket
+	0090  CinePlay
 1a56  Bigfoot Networks, Inc.
 1a57  Highly Reliable Systems
 1a58  Razer USA Ltd.
@@ -16077,6 +16095,7 @@
 	0152  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0154  3rd Gen Core processor DRAM Controller
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	0155  Xeon E3-1200 v2/3rd Gen Core processor PCI Express Root Port
 	0156  3rd Gen Core processor Graphics Controller
 	0158  Xeon E3-1200 v2/Ivy Bridge DRAM Controller
@@ -16087,6 +16106,7 @@
 	015e  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0162  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0166  3rd Gen Core processor Graphics Controller
+		1043 1517  Zenbook Prime UX31A
 		1043 2103  N56VZ
 	016a  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
 	0172  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
@@ -16319,6 +16339,8 @@
 	0d36  Crystal Well Integrated Graphics Controller
 	0e00  Ivytown DMI2
 	0e01  Ivytown PCI Express Root Port in DMI2 Mode
+	0e02  Ivytown PCI Express Root Port 1a
+	0e03  Ivytown PCI Express Root Port 1b
 	0e04  Ivytown PCI Express Root Port 2a
 	0e05  Ivytown PCI Express Root Port 2b
 	0e06  Ivytown PCI Express Root Port 2c
@@ -17289,6 +17311,8 @@
 	154d  82599EB 10-Gigabit SFP+ Network Connection
 		8086 7b11  10GbE 2P X520 Adapter
 	1557  82599 10 Gigabit Network Connection
+	1559  Ethernet Connection I218-V
+	155a  Ethernet Connection I218-LM
 	1560  Ethernet Controller X540-AT1
 	1960  80960RP (i960RP) Microprocessor
 		101e 0431  MegaRAID 431 RAID Controller
@@ -17367,6 +17391,8 @@
 		1028 04b2  Vostro 3350
 		1028 04da  Vostro 3750
 		1043 8418  P8P67 Deluxe Motherboard
+# Realtek ALC888 audio codec
+		8086 2008  DQ67SW board
 		8086 7270  Apple MacBookPro8,2 [Core i7, 15", 2011]
 	1c22  6 Series/C200 Series Chipset Family SMBus Controller
 		1028 04aa  XPS 8300
@@ -17509,6 +17535,7 @@
 	1e02  7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]
 	1e03  7 Series Chipset Family 6-port SATA Controller [AHCI mode]
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e04  7 Series/C210 Series Chipset Family SATA Controller [RAID mode]
 	1e05  7 Series Chipset SATA Controller [RAID mode]
 	1e06  7 Series/C210 Series Chipset Family SATA Controller [RAID mode]
@@ -17518,8 +17545,10 @@
 	1e0e  7 Series/C210 Series Chipset Family SATA Controller [RAID mode]
 	1e10  7 Series/C210 Series Chipset Family PCI Express Root Port 1
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e12  7 Series/C210 Series Chipset Family PCI Express Root Port 2
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e14  7 Series/C210 Series Chipset Family PCI Express Root Port 3
 	1e16  7 Series/C210 Series Chipset Family PCI Express Root Port 4
 		1043 1477  N56VZ
@@ -17529,19 +17558,26 @@
 	1e1e  7 Series/C210 Series Chipset Family PCI Express Root Port 8
 	1e20  7 Series/C210 Series Chipset Family High Definition Audio Controller
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e22  7 Series/C210 Series Chipset Family SMBus Controller
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e24  7 Series/C210 Series Chipset Family Thermal Management Controller
+		1043 1517  Zenbook Prime UX31A
 	1e25  7 Series/C210 Series Chipset Family DMI to PCI Bridge
 	1e26  7 Series/C210 Series Chipset Family USB Enhanced Host Controller #1
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e2d  7 Series/C210 Series Chipset Family USB Enhanced Host Controller #2
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e31  7 Series/C210 Series Chipset Family USB xHCI Host Controller
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e33  7 Series/C210 Series Chipset Family LAN Controller
 	1e3a  7 Series/C210 Series Chipset Family MEI Controller #1
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e3b  7 Series/C210 Series Chipset Family MEI Controller #2
 	1e3c  7 Series/C210 Series Chipset Family IDE-r Controller
 	1e3d  7 Series/C210 Series Chipset Family KT Controller
@@ -17571,6 +17607,7 @@
 	1e58  UM77 Express Chipset LPC Controller
 	1e59  HM76 Express Chipset LPC Controller
 		1043 1477  N56VZ
+		1043 1517  Zenbook Prime UX31A
 	1e5a  7 Series Chipset Family LPC Controller
 	1e5b  UM77 Express Chipset LPC Controller
 	1e5c  7 Series Chipset Family LPC Controller
