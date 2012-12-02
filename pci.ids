@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.11.30
-#	Date:    2012-11-30 03:15:01
+#	Version: 2012.12.02
+#	Date:    2012-12-02 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -378,8 +378,20 @@
 	005b  MegaRAID SAS 2208 [Thunderbolt]
 		1000 9265  MegaRAID SAS 9265-8i
 		1000 9266  MegaRAID SAS 9266-8i
+		1000 9267  MegaRAID SAS 9267-8i
 		1000 9268  MegaRAID SAS 9265CV-8i / 9270CV-8i
 		1000 9269  MegaRAID SAS 9266-4i
+		1000 9270  MegaRAID SAS 9270-8i
+		1000 9271  MegaRAID SAS 9271-8i
+		1000 9272  MegaRAID SAS 9272-8i
+		1000 9273  MegaRAID SAS 9270CV-8i
+		1000 9274  MegaRAID SAS 9270-4i
+		1000 9275  MegaRAID SAS 9271-8iCC
+		1000 9285  MegaRAID SAS 9285-8e
+		1000 9288  MegaRAID SAS 9285CV-8e
+		1000 9290  MegaRAID SAS 9286-8e
+		1000 9291  MegaRAID SAS 9286CV-8e
+		1000 9295  MegaRAID SAS 9286CV-8eCC
 		1014 040b  ServeRAID M5110 SAS/SATA Controller
 		1014 0412  ServeRAID M5110e SAS/SATA Controller
 		1028 1f2d  PERC H810 Adapter
@@ -3344,6 +3356,7 @@
 	7007  FireWire Controller
 		1462 701d  MS-6701
 	7012  SiS7012 AC'97 Sound Controller
+		1019 0f05  A928 (i-Buddie)
 		1039 7012  SiS 7012 onboard [Asus P4SC-EA] AC'97 Sound Controller
 		1043 818f  A8S-X Motherboard
 		13f6 0300  CMI9739(A) on ECS K7SOM+ motherboard
@@ -16093,6 +16106,8 @@
 	0151  Xeon E3-1200 v2/3rd Gen Core processor PCI Express Root Port
 		1043 1477  N56VZ
 	0152  Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
+	0153  3rd Gen Core Processor Thermal Subsystem
+		1043 1517  Zenbook Prime UX31A
 	0154  3rd Gen Core processor DRAM Controller
 		1043 1477  N56VZ
 		1043 1517  Zenbook Prime UX31A
