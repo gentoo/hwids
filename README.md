@@ -24,7 +24,7 @@ Updates
 The hwids tarball is updated generally on the weekends, and tagged if
 there are new files available. You can download the tags in form of
 tarballs directly from [the GitHub
-repository](https://github.com/Flameeyes/hwids).
+repository](https://github.com/gentoo/hwids).
 
 License
 -------
