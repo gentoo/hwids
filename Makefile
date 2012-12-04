@@ -13,6 +13,7 @@ fetch:
 	$(Q)$(HTTPCAT) http://pci-ids.ucw.cz/v2.2/pci.ids.bz2 | bzcat > pci.ids
 	$(Q)$(HTTPCAT) http://www.linux-usb.org/usb.ids.bz2 | bzcat > usb.ids
 	$(Q)$(HTTPCAT) http://standards.ieee.org/develop/regauth/oui/oui.txt > oui.txt
+	$(Q)$(HTTPCAT) http://standards.ieee.org/develop/regauth/iab/iab.txt > iab.txt
 	$(Q)$(HTTPCAT) http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/20-acpi-vendor.hwdb > udev/20-acpi-vendor.hwdb
 	$(Q)$(HTTPCAT) http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/ids-update.pl > udev-hwdb-update.pl
 	$(Q)$(STATUS)
