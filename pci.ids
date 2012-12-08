@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.02
-#	Date:    2012-12-02 03:15:01
+#	Version: 2012.12.08
+#	Date:    2012-12-08 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -2345,6 +2345,7 @@
 	0339  Obsidian-E PCI-E SCSI controller
 		1014 030a  PCIe 3Gb SAS RAID Adapter (574E)
 		1014 033a  PCIe 3Gb SAS Adapter (57B3)
+		1014 035c  PCIe x8 Internal 3Gb SAS adapter (57CC)
 		1014 0360  PCI-E Auxiliary Cache Adapter (57B7)
 	033d  PCI-E IPR SAS Adapter (FPGA)
 		1014 033c  PCIe2 1.8GB Cache 6Gb SAS RAID Adapter Tri-port (57B5)
@@ -2358,6 +2359,7 @@
 		1014 0357  PCIe2 6Gb SAS Adapter Quad-port (57C6)
 		1014 035d  PCIe3 1.8GB Cache RAID SAS Adapter Quad-port 6GB (57C8)
 		1014 035e  PCIe2 3.6GB Cache 6Gb SAS RAID Adapter Quad-port (57CE)
+		1014 03fb  PCIe3 28GB Cache RAID SAS Enclosure 6Gb x 16 (57D5)
 	3022  QLA3022 Network Adapter
 	4022  QLA3022 Network Adapter
 	ffff  MPIC-2 interrupt controller
@@ -8250,6 +8252,7 @@
 	3409  VX855/VX875 DRAM Bus Control
 	3410  VX900 DRAM Bus Control
 		19da a179  ZBOX nano VD01
+	3432  VL80x xHCI USB 3.0 Controller
 	4149  VIA VT6420 (ATA133) Controller
 	4204  K8M800 Host Bridge
 	4208  PT890 Host Bridge
@@ -12499,8 +12502,6 @@
 		14c1 0008  10G-PCIE-8A
 		14c1 0009  10G-PCIE-8A (MSI-X firmware)
 		14c1 000a  10G-PCIE-8B
-		14c1 000b  10G-PCIE-8B2
-		14c1 000c  10G-PCIE2-8B2
 	8043  Myrinet 2000 Scalable Cluster Interconnect
 		103c 1240  Myrinet M2L-PCI64/2-3.0 LANai 7.4 (HP OEM)
 14c2  DTK Computer
@@ -12815,6 +12816,7 @@
 		1028 1f68  BCM57800 1-Gigabit Ethernet
 	168d  NetXtreme II BCM57840 10/20 Gigabit Ethernet
 	168e  NetXtreme II BCM57810 10 Gigabit Ethernet
+		103c 1798  Flex-10 10Gb 2-port 530FLB Adapter [Meru]
 	1690  NetXtreme BCM57760 Gigabit Ethernet PCIe
 	1691  NetLink BCM57788 Gigabit Ethernet PCIe
 		1028 04aa  XPS 8300
@@ -14825,25 +14827,30 @@
 	1050  [Nexsis] Switch Virtual P2P PCI Bridge
 	2000  [Nexsis] Switch Integrated Mgmt. Endpoint
 18f7  Commtech, Inc.
-	0001  Fastcom ESCC-PCI-335
-	0002  Fastcom 422/4-PCI-335
-	0003  Fastcom 232/4-1M-PCI
-	0004  Fastcom 422/2-PCI-335
-	0005  Fastcom IGESCC-PCI-ISO/1
-	000a  Fastcom 232/4-PCI-335
-	000b  Fastcom 232/8-PCI-335 Async 8-Port RS-232 Serial PCI Adapter
-	000f  Fastcom FSCC
-	0010  Fastcom GSCC
-	0011  Fastcom QSSB
-	0014  SuperFSCC
-	0015  SuperFSCC-104
-	0016  Fastcom FSCC-232 Sync/Async 2-Port RS-232 Serial PCI Adapter (F-Core)
-	0017  SuperFSCC-104-NOUART
-	0018  Fastcom SuperFSCC/4 Sync/Async 4-Port RS-422 Serial PCI Adapter with DMA (F-Core)
-	0019  SuperFSCC with soft UARTs
-	001a  Fastcom SuperFSCC-104-LVDS Sync/Async 2-Port RS-644 Serial PC/104+ Adapter with DMA (F-Core)
-	001b  Fastcom FSCC/4 Sync/Async 4-Port RS-422 Serial PCI Adapter (F-Core)
-	001c  Fastcom SuperFSCC/4-LVDSSync/Async 4-Port RS-644 Serial PCI Adapter with DMA (F-Core)
+	0001  ESCC-PCI-335 Serial PCI Adapter [Fastcom]
+	0002  422/4-PCI-335 Serial PCI Adapter [Fastcom]
+	0003  232/4-1M-PCI Serial PCI Adapter [Fastcom]
+	0004  422/2-PCI-335 Serial PCI Adapter [Fastcom]
+	0005  IGESCC-PCI-ISO/1 Serial PCI Adapter [Fastcom]
+	000a  232/4-PCI-335 Serial PCI Adapter [Fastcom]
+	000b  232/8-PCI-335 Serial PCI Adapter [Fastcom]
+	000f  FSCC Serial PCI Adapter [Fastcom]
+	0010  GSCC Serial PCI Adapter [Fastcom]
+	0011  QSSB Serial PCI Adapter [Fastcom]
+	0014  SuperFSCC Serial PCI Adapter [Fastcom]
+	0015  SuperFSCC-104 Serial PCI/104+ Adapter [Fastcom]
+	0016  FSCC-232 RS-232 Serial PCI Adapter [Fastcom]
+# Synchronous Only
+	0017  SuperFSCC-104-NOUART Serial PCI/104+ Adapter [Fastcom]
+	0018  SuperFSCC/4 Serial PCI Adapter [Fastcom]
+	0019  SuperFSCC Serial PCI Adapter [Fastcom]
+# RS-644 Only
+	001a  SuperFSCC-104-LVDS Serial PC/104+ Adapter [Fastcom]
+	001b  FSCC/4 Serial PCI Adapter [Fastcom]
+# RS-644 Only
+	001c  SuperFSCC/4-LVDS Serial PCI Adapter [Fastcom]
+	0020  422/4-PCIe Serial PCIe Adapter [Fastcom]
+	0021  422/8-PCIe Serial PCIe Adapter [Fastcom]
 18fb  Resilience Corporation
 1904  Hangzhou Silan Microelectronics Co., Ltd.
 	2031  SC92031 PCI Fast Ethernet Adapter
