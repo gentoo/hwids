@@ -49,7 +49,7 @@ install-base: compress
 	mkdir -p $(DESTDIR)$(DOCDIR)
 	install -p README.md $(DESTDIR)$(DOCDIR)
 	mkdir -p $(DESTDIR)$(MISCDIR)
-	for file in {usb,pci}.ids{,.gz} {oui,iab}.txt; do \
+	for file in usb.ids pci.ids usb.ids.gz pci.ids.gz oui.txt iab.txt; do \
 		install -p $$file $(DESTDIR)$(MISCDIR); \
 	done
 
