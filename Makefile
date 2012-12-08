@@ -50,11 +50,11 @@ install-base: compress
 	install -p README.md $(DESTDIR)$(DOCDIR)
 	mkdir -p $(DESTDIR)$(MISCDIR)
 	for file in {usb,pci}.ids{,.gz} {oui,iab}.txt; do \
-		install -p $$file $(DESTDIR)$(MISCDIR)
+		install -p $$file $(DESTDIR)$(MISCDIR); \
 	done
 
 install-hwdb:
 	mkdir -p $(DESTDIR)$(HWDBDIR)
 	for file in udev/*.hwdb; do \
-		install -p $$file $(DESTDIR)$(HWDBDIR)
+		install -p $$file $(DESTDIR)$(HWDBDIR); \
 	done
