@@ -7,11 +7,11 @@ else
 endif
 
 ifeq "$(UDEV)" "yes"
-  ALL_TARGETS="compress udev-hwdb"
-  INSTALL_TARGETS="install-base install-hwdb"
+  ALL_TARGETS=compress udev-hwdb
+  INSTALL_TARGETS=install-base install-hwdb
 else
-  ALL_TARGETS="compress"
-  INSTALL_TARGETS="install-base"
+  ALL_TARGETS=compress
+  INSTALL_TARGETS=install-base
 endif
 
 all: $(ALL_TARGETS)
