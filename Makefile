@@ -6,6 +6,18 @@ else
   Q=
 endif
 
+ifeq "$(UDEV)" "yes"
+  ALL_TARGETS="compress udev-hwdb"
+  INSTALL_TARGETS="install-base install-hwdb"
+else
+  ALL_TARGETS="compress"
+  INSTALL_TARGETS="install-base"
+endif
+
+all: $(ALL_TARGETS)
+
+install: $(INSTALL_TARGETS)
+
 fetch:
 	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
 	$(Q)curl -z usb.ids -o usb.ids -R http://www.linux-usb.org/usb.ids
@@ -23,3 +35,26 @@ tag:
 
 udev-hwdb:
 	perl ./udev-hwdb-update.pl && mv *.hwdb udev/
+
+compress: pci.ids.gz usb.ids.gz
+
+%.gz: %
+	gzip -c $< > $@
+
+MISCDIR=/usr/share/misc
+HWDBDIR=/usr/lib/udev/hwdb.d
+DOCDIR=/usr/share/doc/hwids
+
+install-base: compress
+	mkdir -p $(DESTDIR)$(DOCDIR)
+	install -p README.md $(DESTDIR)$(DOCDIR)
+	mkdir -p $(DESTDIR)$(MISCDIR)
+	for file in {usb,pci}.ids{,.gz} {oui,iab}.txt; do \
+		install -p $$file $(DESTDIR)$(MISCDIR)
+	done
+
+install-udev:
+	mkdir -p $(DESTDIR)$(HWDBDIR)
+	for file in udev/*.hwdb; do \
+		install -p $$file $(DESTDIR)$(HWDBDIR)
+	done
