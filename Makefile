@@ -53,7 +53,7 @@ install-base: compress
 		install -p $$file $(DESTDIR)$(MISCDIR)
 	done
 
-install-udev:
+install-hwdb:
 	mkdir -p $(DESTDIR)$(HWDBDIR)
 	for file in udev/*.hwdb; do \
 		install -p $$file $(DESTDIR)$(HWDBDIR)
