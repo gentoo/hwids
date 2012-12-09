@@ -2,7 +2,9 @@ Combined hardware identification databases
 ==========================================
 
 This repository contain a specially re-packaged copy of the pci.ids
-and usb.ids files, as well as a copy of IEEE's oui.txt file
+and usb.ids files, as well as a copy of IEEE's databases for the
+Organizationally Unique Identifiers (OUI) and Individual Address Block
+(IAB).
 
 The two IDs databases are maintained by Martin Mares and Michal Vaner
 (pci.ids) and Stephen J. Gowdy (usb.ids) through the help of
@@ -11,8 +13,11 @@ volunteers who can submit them to the two submission web applications:
  * [pci.ids](http://pci-ids.ucw.cz/)
  * [usb.ids](https://usb-ids.gowdy.us/index.html)
 
-The OUI database is an officially maintained index by IEEE, and can be
-accessed at https://standards.ieee.org/develop/regauth/oui/public.html .
+The OUI and IAB databases are two officially maintained indexes by
+IEEE, and can be accessed at:
+
+ * [OUI](http://standards.ieee.org/develop/regauth/oui/public.html)
+ * [IAB](http://standards.ieee.org/develop/regauth/iab/public.html)
 
 The reason to repackage the files together is to make it simpler for
 applications to require them, without having to bring in either
@@ -57,6 +62,7 @@ you'll find in the archive, in the file named gpl-2.0.txt), or the
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-The OUI database is not officially licensed by IEEE, but should be
-possible to consider it as freely distributable, as a collection of
-facts.
+The IEEE datafiles for OUI and IAB assignments are provided by the
+IEEE without an explicit license, but are considered in all effect as
+public domain, as they are simple representation of factual
+information, which would then fail the threshold of originality test.
