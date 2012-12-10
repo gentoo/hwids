@@ -999,15 +999,15 @@ IAB Range    			Organization
 				Etobicoke Ontario M8Z 1K2
 				CANADA
 
-00-50-C2	(hex)		JÃƒÂ¤ger Computergesteuerte Messtechnik GmbH
-0A2000-0A2FFF	(base 16)	JÃƒÂ¤ger Computergesteuerte Messtechnik GmbH
-				RheinstraÃƒÅ¸e 2-4
+00-50-C2	(hex)		Jäger Computergesteuerte Messtechnik GmbH
+0A2000-0A2FFF	(base 16)	Jäger Computergesteuerte Messtechnik GmbH
+				Rheinstraße 2-4
 				Lorsch Hessen 64653
 				GERMANY
 
 00-50-C2	(hex)		BaSyTec GmbH
 0A3000-0A3FFF	(base 16)	BaSyTec GmbH
-				Karlstrabe 14
+				Karlstraße 14
 				89561 Dischingen  
 				GERMANY
 
@@ -1326,7 +1326,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Inco Startec GmbH
 0D6000-0D6FFF	(base 16)	Inco Startec GmbH
-				Potsdamer Strabe 8
+				Potsdamer Straße 8
 				D-14513 Teltow  
 				GERMANY
 
@@ -3539,7 +3539,7 @@ IAB Range    			Organization
 00-50-C2	(hex)		Schwer+Kopka GmbH
 238000-238FFF	(base 16)	Schwer+Kopka GmbH
 				Herknerstr. 4
-				Weingarten Baden-Wuerttemberg 88250
+				Weingarten Baden-Württemberg 88250
 				GERMANY
 
 00-50-C2	(hex)		Stins Coman
@@ -3706,8 +3706,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		DSM-Messtechnik GmbH
 253000-253FFF	(base 16)	DSM-Messtechnik GmbH
-				Dieselstr. 16
-				Aalen Baden-Wuerttemberg 73431
+				Dieselstraße 16
+				Aalen Baden-Württemberg 73431
 				GERMANY
 
 00-50-C2	(hex)		Thales Communications Ltd
@@ -4240,8 +4240,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Dr. Staiger, Mohilo + Co GmbH
 2A9000-2A9FFF	(base 16)	Dr. Staiger, Mohilo + Co GmbH
-				Maierhofstrasse 35
-				Lorch Baden Wuerttemberg D 73547
+				Maierhofstraße 35
+				Lorch Baden-Württemberg D 73547
 				GERMANY
 
 00-50-C2	(hex)		DEUTA Werke GmbH
@@ -7107,8 +7107,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		ISEPOS GmbH
 475000-475FFF	(base 16)	ISEPOS GmbH
-				Untere Strasse 33
-				Tuebingen Baden-Wuerttemberg 72070
+				Untere Straße 33
+				Tuebingen Baden-Württemberg 72070
 				GERMANY
 
 00-50-C2	(hex)		Ascon S.p.a.
@@ -7668,8 +7668,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Ziehl-Abegg AG
 4CF000-4CFFFF	(base 16)	Ziehl-Abegg AG
-				Heinz-Ziehl-Strasse
-				Kuenzelsau Baden-Wuerttemberg 74653
+				Heinz-Ziehl-Straße
+				Kuenzelsau Baden-Württemberg 74653
 				GERMANY
 
 00-50-C2	(hex)		Radford Control Systems
@@ -10653,8 +10653,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Softwareentwicklung
 6AB000-6ABFFF	(base 16)	Softwareentwicklung
-				Bluecherstr. 32
-				Pforzheim Baden-Wuerttemberg 75177
+				Bluecherstraße 32
+				Pforzheim Baden-Württemberg 75177
 				GERMANY
 
 00-50-C2	(hex)		Thales UK
@@ -11319,7 +11319,7 @@ IAB Range    			Organization
 00-50-C2	(hex)		RIEXINGER Elektronik
 715000-715FFF	(base 16)	RIEXINGER Elektronik
 				Horschelweg 15
-				Oberrot Baden-Wuerttemberg D-74420
+				Oberrot Baden-Württemberg D-74420
 				GERMANY
 
 00-50-C2	(hex)		MITROL S.R.L.
@@ -11691,7 +11691,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		e&s Engineering & Software GmbH
 751000-751FFF	(base 16)	e&s Engineering & Software GmbH
-				SchmÃ¼cker Str. 82a
+				Schmücker Straße 82a
 				MANEBACH Thueringen D98693
 				GERMANY
 
@@ -12559,8 +12559,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Mueller Elektronik
 7DB000-7DBFFF	(base 16)	Mueller Elektronik
-				Hauptstrasse 86
-				Spaichingen Baden-Wuerttemberg 78549
+				Hauptstraße 86
+				Spaichingen Baden-Württemberg 78549
 				GERMANY
 
 00-50-C2	(hex)		aiXtrusion GmbH
@@ -13111,7 +13111,7 @@ IAB Range    			Organization
 00-50-C2	(hex)		ANTEK GmbH
 834000-834FFF	(base 16)	ANTEK GmbH
 				Im Koechersgrund 3
-				Beilstein Baden-Wuerttemberg 71717
+				Beilstein Baden-Württemberg 71717
 				GERMANY
 
 00-50-C2	(hex)		Communications Laboratories Inc
@@ -14854,8 +14854,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Piller engineering Ltd.
 94B000-94BFFF	(base 16)	Piller engineering Ltd.
-				Stauffenbergstr. 15
-				Ostfildern Badenwuertenberg 73760
+				Stauffenbergstraße 15
+				Ostfildern Baden-Württemberg 73760
 				GERMANY
 
 00-50-C2	(hex)		TEMIX
@@ -14926,8 +14926,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		STRATEC Control Systems
 957000-957FFF	(base 16)	STRATEC Control Systems
-				Ankerstr. 73
-				Koenigsbach Baden-Wuertemberg 75203
+				Ankerstraße 73
+				Koenigsbach Baden-Württemberg 75203
 				GERMANY
 
 00-50-C2	(hex)		Sensoptics Ltd
@@ -17108,8 +17108,8 @@ AB3000-AB3FFF	(base 16)	Compañía de Instrumentacion y control, S.L.
 
 00-50-C2	(hex)		n3k Informatik GmbH
 AB4000-AB4FFF	(base 16)	n3k Informatik GmbH
-				Ferdinand-Braun-Str. 3
-				Heilbronn Baden-Wuerttemberg 74074
+				Ferdinand-Braun-Straße 3
+				Heilbronn Baden-Württemberg 74074
 				GERMANY
 
 00-50-C2	(hex)		METTLER-TOLEDO HI-SPEED
@@ -17241,8 +17241,8 @@ AC8000-AC8FFF	(base 16)	Palladio Systeme GmbH
 
 00-50-C2	(hex)		Steinbeis-Transferzentrum Embedded Design und Networking
 AC9000-AC9FFF	(base 16)	Steinbeis-Transferzentrum Embedded Design und Networking
-				Poststrasse 35
-				Heitersheim Baden-Wuerttemberg 79423
+				Poststraße 35
+				Heitersheim Baden-Württemberg 79423
 				GERMANY
 
 00-50-C2	(hex)		Soft & Control Technology s.r.o.
@@ -17648,8 +17648,8 @@ B09000-B09FFF	(base 16)	Harper Chalice Group Limited
 
 00-50-C2	(hex)		Indutherm Giesstechnologie GmbH
 B0A000-B0AFFF	(base 16)	Indutherm Giesstechnologie GmbH
-				Brettener Strasse 32
-				Walzbachtal Baden-Wuerttemberg 75045
+				Brettener Straße 32
+				Walzbachtal Baden-Württemberg 75045
 				GERMANY
 
 00-50-C2	(hex)		Honeywell
@@ -18380,9 +18380,9 @@ B80000-B80FFF	(base 16)	iScreen LLC
 				Memphis TN 38111-4717
 				UNITED STATES
 
-00-50-C2	(hex)		GHL GmbH &amp; Co.KG
-B81000-B81FFF	(base 16)	GHL GmbH &amp; Co.KG
-				Jung-Stilling-Str. 21
+00-50-C2	(hex)		GHL GmbH & Co.KG
+B81000-B81FFF	(base 16)	GHL GmbH & Co.KG
+				Jung-Stilling-Straße 21
 				Kaiserslautern Rheinland-Pfalz 67663
 				GERMANY
 
@@ -18578,9 +18578,9 @@ BA0000-BA0FFF	(base 16)	txtr GmbH
 				Berlin  10119
 				GERMANY
 
-00-50-C2	(hex)		Transtechnik GmbH &amp; Co.KG
-BA1000-BA1FFF	(base 16)	Transtechnik GmbH &amp; Co.KG
-				Ohmstrasse 1
+00-50-C2	(hex)		Transtechnik GmbH & Co.KG
+BA1000-BA1FFF	(base 16)	Transtechnik GmbH & Co.KG
+				Ohmstraße 1
 				Holzkirchen Bavaria 83607
 				GERMANY
 
@@ -19173,8 +19173,8 @@ C01000-C01FFF	(base 16)	QUERCUS TECHNOLOGIES, S.L.
 				Reus Tarragona 43205
 				SPAIN
 
-00-50-C2	(hex)		Hanning Elektro-Werke GmbH &amp; Co. KG
-C02000-C02FFF	(base 16)	Hanning Elektro-Werke GmbH &amp; Co. KG
+00-50-C2	(hex)		Hanning Elektro-Werke GmbH & Co. KG
+C02000-C02FFF	(base 16)	Hanning Elektro-Werke GmbH & Co. KG
 				Holter Strasse 90
 				Oerlinghausen NRW 33813
 				GERMANY
@@ -19332,8 +19332,8 @@ C1A000-C1AFFF	(base 16)	SAM Co., Ltd.
 
 00-50-C2	(hex)		Graesslin GmbH
 C1B000-C1BFFF	(base 16)	Graesslin GmbH
-				Bundesstrasse 36
-				St. Georgen Baden Wuerttemberg 78112
+				Bundesstraße 36
+				St. Georgen Baden-Württemberg 78112
 				GERMANY
 
 00-50-C2	(hex)		Becton Dickinson
@@ -19581,15 +19581,15 @@ C44000-C44FFF	(base 16)	Beijing Zhongherongzhi Elec.&Tech.Co.,Ltd.
 				Beijing  100080
 				CHINA
 
-00-50-C2	(hex)		Galvamat &amp; Unican Technologies SA
-C45000-C45FFF	(base 16)	Galvamat &amp; Unican Technologies SA
+00-50-C2	(hex)		Galvamat & Unican Technologies SA
+C45000-C45FFF	(base 16)	Galvamat & Unican Technologies SA
 				Alexis-Marie-Piaget 71-73
 				La Chaux-de-Fonds NE 2300
 				SWITZERLAND
 
-00-50-C2	(hex)		QNE GmbH &amp; Co. KG
-C46000-C46FFF	(base 16)	QNE GmbH &amp; Co. KG
-				Alexanderstrasse 124
+00-50-C2	(hex)		QNE GmbH & Co. KG
+C46000-C46FFF	(base 16)	QNE GmbH & Co. KG
+				Alexanderstraße 124
 				Oldenburg Niedersachsen 26121
 				GERMANY
 
@@ -19700,8 +19700,8 @@ C57000-C57FFF	(base 16)	High Speed Design, Inc.
 
 00-50-C2	(hex)		Foerster-Technik GmbH
 C58000-C58FFF	(base 16)	Foerster-Technik GmbH
-				Gerwigstr. 25
-				Engen Baden-Wuerttemberg 78234
+				Gerwigstraße 25
+				Engen Baden-Württemberg 78234
 				GERMANY
 
 00-50-C2	(hex)		SKD System AB
@@ -20646,10 +20646,10 @@ CF1000-CF1FFF	(base 16)	TelGaAs, Inc.
 				O'Fallon MO 63366
 				UNITED STATES
 
-00-50-C2	(hex)		Weiss Robotics GmbH &amp; Co. KG
-CF2000-CF2FFF	(base 16)	Weiss Robotics GmbH &amp; Co. KG
+00-50-C2	(hex)		Weiss Robotics GmbH & Co. KG
+CF2000-CF2FFF	(base 16)	Weiss Robotics GmbH & Co. KG
 				In der Gerste 2
-				Ludwigsburg Baden-Wuerttemberg 71636
+				Ludwigsburg Baden-Württemberg 71636
 				GERMANY
 
 00-50-C2	(hex)		Daiken Automacao Ltda
@@ -20739,7 +20739,7 @@ CFF000-CFFFFF	(base 16)	INFRASAFE INCORPORATED
 00-50-C2	(hex)		Bodensee Gravitymeter Geosystem GmbH
 D00000-D00FFF	(base 16)	Bodensee Gravitymeter Geosystem GmbH
 				Im Gehren 15
-				Uberlingen Baden-Wurttemberg 88662
+				Uberlingen Baden-Württemberg 88662
 				GERMANY
 
 00-50-C2	(hex)		Aanderaa Data Instruments
@@ -20864,8 +20864,8 @@ D14000-D14FFF	(base 16)	SAET I.S.
 
 00-50-C2	(hex)		MSR-Office GmbH
 D15000-D15FFF	(base 16)	MSR-Office GmbH
-				Ravensburger Str. 71
-				Wangen Baden Wurtthemberg 88239
+				Ravensburger Straße 71
+				Wangen Baden-Württemberg 88239
 				GERMANY
 
 00-50-C2	(hex)		Imricor Medical Systems, Inc.
@@ -21075,8 +21075,8 @@ D36000-D36FFF	(base 16)	Enatel Limited
 				Christchurch Canterbury 8011
 				NEW ZEALAND
 
-00-50-C2	(hex)		LJT &amp; Associates, Inc.
-D37000-D37FFF	(base 16)	LJT &amp; Associates, Inc.
+00-50-C2	(hex)		LJT & Associates, Inc.
+D37000-D37FFF	(base 16)	LJT & Associates, Inc.
 				9881 Brokenland Pkwy, Suite 400
 				Columbia MD 21046
 				UNITED STATES
@@ -21122,8 +21122,8 @@ D3D000-D3DFFF	(base 16)	Tellabs Operations Inc.
 
 00-50-C2	(hex)		Synatec Electronic GmbH
 D3E000-D3EFFF	(base 16)	Synatec Electronic GmbH
-				Bruehlhofstr. 4
-				Leinfelden-Echterdingen Baden-Wuerttemberg 70771
+				Bruehlhofstraße 4
+				Leinfelden-Echterdingen Baden-Württemberg 70771
 				GERMANY
 
 00-50-C2	(hex)		CSS, LLC
@@ -21580,9 +21580,9 @@ D87000-D87FFF	(base 16)	Electrolight Shivuk (1994) Ltd.
 				Moshav Bazra  60944
 				ISRAEL
 
-00-50-C2	(hex)		T+A elektroakustik GmbH &amp; Co KG
-D88000-D88FFF	(base 16)	T+A elektroakustik GmbH &amp; Co KG
-				Planckstrasse 9-11
+00-50-C2	(hex)		T+A elektroakustik GmbH & Co KG
+D88000-D88FFF	(base 16)	T+A elektroakustik GmbH & Co KG
+				Planckstraße 9-11
 				Herford NRW 32052
 				GERMANY
 
@@ -21613,12 +21613,12 @@ D8C000-D8CFFF	(base 16)	iRphotonics
 
 00-50-C2	(hex)		CS-Instruments
 D8D000-D8DFFF	(base 16)	CS-Instruments
-				Zindelsteiner StraBe 15
-				VS-Tannheim Baden-Wurttemberg 78052
+				Zindelsteiner Straße 15
+				VS-Tannheim Baden-Württemberg 78052
 				GERMANY
 
-00-50-C2	(hex)		LSD Science&amp;Technology Co.,Ltd.
-D8E000-D8EFFF	(base 16)	LSD Science&amp;Technology Co.,Ltd.
+00-50-C2	(hex)		LSD Science&Technology Co.,Ltd.
+D8E000-D8EFFF	(base 16)	LSD Science&Technology Co.,Ltd.
 				Lierda Building,No.425 Dengyun Road
 				Hangzhou Zhejiang 310011
 				CHINA
@@ -21845,8 +21845,8 @@ DB2000-DB2FFF	(base 16)	SoftwareCannery
 
 00-50-C2	(hex)		LAUDA DR. R. WOBSER GMBH & CO. KG
 DB3000-DB3FFF	(base 16)	LAUDA DR. R. WOBSER GMBH & CO. KG
-				Pfarrstrasse 41/43
-				Lauda-Koenigshofen Baden-Wuerttemberg 97922
+				Pfarrstraße 41/43
+				Lauda-Koenigshofen Baden-Württemberg 97922
 				GERMANY
 
 00-50-C2	(hex)		ZAO NPC "Kompjuternie Technologii"
@@ -22297,7 +22297,7 @@ DFB000-DFBFFF	(base 16)	BETTINI SRL
 DFC000-DFCFFF	(base 16)	I-Evo Ltd
 				Henson House
 				George Stephenson Ind Est
-				Newcastle Upon Tyne Tyne &amp; Wear NE12 6RZ
+				Newcastle Upon Tyne Tyne & Wear NE12 6RZ
 				UNITED KINGDOM
 
 00-50-C2	(hex)		Wotbox ltd
@@ -22392,7 +22392,7 @@ E0A000-E0AFFF	(base 16)	Sicon srl
 00-50-C2	(hex)		Seartech
 E0B000-E0BFFF	(base 16)	Seartech
 				C2 Newlands Plaza
-				Cnr Lois &amp; Dely Avenue
+				Cnr Lois & Dely Avenue
 				Newlands Gauteng 0049
 				SOUTH AFRICA
 
@@ -22947,8 +22947,8 @@ E64000-E64FFF	(base 16)	Edgeware AB
 
 00-50-C2	(hex)		IB Elektronik GmbH
 E65000-E65FFF	(base 16)	IB Elektronik GmbH
-				Daimlerstrasse 51
-				Karlsruhe Baden-Wuerttemberg 76185
+				Daimlerstraße 51
+				Karlsruhe Baden-Württemberg 76185
 				GERMANY
 
 00-50-C2	(hex)		EMAC, Inc.
@@ -23554,7 +23554,7 @@ EC5000-EC5FFF	(base 16)	RSUPPORT Co., Ltd.
 
 00-50-C2	(hex)		INFRONICS SYSTEMS LIMITED
 EC6000-EC6FFF	(base 16)	INFRONICS SYSTEMS LIMITED
-				PLOT NO: 2 &amp; 3, EKTHA TOWERS
+				PLOT NO: 2 & 3, EKTHA TOWERS
 				WHITE FIELDS, KONDAPUR
 				HYDERABAD ANDHRA PRADESH 500084
 				INDIA
@@ -23837,9 +23837,9 @@ EF2000-EF2FFF	(base 16)	Specialty Microwave Corp
 				Ronkonkoma New York 11779
 				UNITED STATES
 
-00-50-C2	(hex)		Smart Power Electronics GmbH &amp; Co. KG
-EF3000-EF3FFF	(base 16)	Smart Power Electronics GmbH &amp; Co. KG
-				Lise-Meitner-Str. 21
+00-50-C2	(hex)		Smart Power Electronics GmbH & Co. KG
+EF3000-EF3FFF	(base 16)	Smart Power Electronics GmbH & Co. KG
+				Lise-Meitner-Straße 21
 				Itzehoe Schleswig-Holstein 25524
 				GERMANY
 
@@ -24794,7 +24794,7 @@ F8C000-F8CFFF	(base 16)	UBSTechnology Co., Ltd
 
 00-50-C2	(hex)		GUANGDONG EAST POWER CO.,LTD.
 F8D000-F8DFFF	(base 16)	GUANGDONG EAST POWER CO.,LTD.
-				No 6 Northern Industry Road,Songshan lake SCI&amp;TECH Industry Park
+				No 6 Northern Industry Road,Songshan lake SCI&TECH Industry Park
 				DongGuan GuangDong P.R.China 523808
 				CHINA
 
@@ -24832,7 +24832,7 @@ F92000-F92FFF	(base 16)	CONET Solutions GmbH
 00-50-C2	(hex)		Baudisch Electronic GmbH
 F93000-F93FFF	(base 16)	Baudisch Electronic GmbH
 				Im Gewerbegebiet 7-9
-				Wäschenbeuren Baden Württemberg 73116
+				Wäschenbeuren Baden-Württemberg 73116
 				GERMANY
 
 00-50-C2	(hex)		Digital Barriers
@@ -24969,7 +24969,7 @@ FA9000-FA9FFF	(base 16)	Hijet Print d.o.o.
 
 00-50-C2	(hex)		YJSYSTEM
 FAA000-FAAFFF	(base 16)	YJSYSTEM
-				#902, E&amp;C Venture Tower
+				#902, E&C Venture Tower
 				GuroDong, GuroGu Seoul 152-719
 				KOREA, REPUBLIC OF
 
@@ -25499,8 +25499,8 @@ FFE000-FFEFFF	(base 16)	Sensata Technologies
 
 00-50-C2	(hex)		MSR-Solutions GmbH
 FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
-				Friedrich-Ebert-Strasse 20/2
-				Wangen Baden-Wuerttemberg 88239
+				Friedrich-Ebert-Straße 20/2
+				Wangen Baden-Württemberg 88239
 				GERMANY
 
 40-D8-55	(hex)		XRONOS.INC

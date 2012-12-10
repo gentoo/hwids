@@ -24878,7 +24878,7 @@ company_id			Organization
 
 00-0F-6C   (hex)		ADDI-DATA GmbH
 000F6C     (base 16)		ADDI-DATA GmbH
-				Dieselstrasse 3
+				Dieselstraße 3
 				OTTERSWEIER BW 77833
 				GERMANY
 
@@ -65493,7 +65493,7 @@ company_id			Organization
 
 00-40-55   (hex)		METRONIX GMBH
 004055     (base 16)		METRONIX GMBH
-				NEUE KNOCHENHAUERSTRABE 5
+				NEUE KNOCHENHAUERSTRAßE 5
 				D-3300 BRAUNSCHWEIG
 				WEST 
 				GERMANY
@@ -70209,7 +70209,7 @@ company_id			Organization
 
 00-80-41   (hex)		VEB KOMBINAT ROBOTRON
 008041     (base 16)		VEB KOMBINAT ROBOTRON
-				GRUNAER STRABE 2, DRESDEN 8010
+				GRUNAER STRAßE 2, DRESDEN 8010
 				GDR EAST 
 				GERMANY
 
@@ -70339,7 +70339,7 @@ company_id			Organization
 00-80-56   (hex)		SPHINX ELEKTRONIK GMBH
 008056     (base 16)		SPHINX ELEKTRONIK GMBH
 				WALDMATTENSTR, 13
-				7808 WALDKIRCH 3 RAPPENECKSTRABE 1
+				7808 WALDKIRCH 3 RAPPENECKSTRAßE 1
 				WEST 
 				GERMANY
 
@@ -70768,7 +70768,7 @@ company_id			Organization
 
 00-80-99   (hex)		Eaton Industries GmbH
 008099     (base 16)		Eaton Industries GmbH
-				Hein-Moeller - Strabe 7-11
+				Hein-Moeller - Straße 7-11
 				53115 Bonn
 				GERMANY
 
@@ -80563,7 +80563,7 @@ company_id			Organization
 
 04-E0-C4   (hex)		TRIUMPH-ADLER AG
 04E0C4     (base 16)		TRIUMPH-ADLER AG
-				HUNDINGSTRABE 11B
+				HUNDINGSTRAßE 11B
 				8500 NURNBURG 80
 				GERMANY
 
@@ -89405,7 +89405,7 @@ company_id			Organization
 
 50-8C-77   (hex)		DIRMEIER Schanktechnik GmbH &Co KG
 508C77     (base 16)		DIRMEIER Schanktechnik GmbH &Co KG
-				Alfons-Goppel-Strabe 5
+				Alfons-Goppel-Straße 5
 				92526 Oberviechtach  
 				GERMANY
 
@@ -89579,6 +89579,12 @@ company_id			Organization
 				18-24 Ricketts Road
 				Mount Waverley Victoria 3149
 				AUSTRALIA
+
+54-1F-D5   (hex)		Advantage Electronics
+541FD5     (base 16)		Advantage Electronics
+				PO Box 407
+				Greenwood IN 46143
+				UNITED STATES
 
 54-20-18   (hex)		Tely Labs
 542018     (base 16)		Tely Labs
@@ -90647,6 +90653,13 @@ company_id			Organization
 				Lake Havasu City AZ 86403
 				UNITED STATES
 
+5C-D2-E4   (hex)		Intel Corporate
+5CD2E4     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
 5C-D4-1B   (hex)		UCZOON Technology Co., LTD
 5CD41B     (base 16)		UCZOON Technology Co., LTD
 				9 th Floor,Pan Gu Plaza,No.27 North  4 th Ring,
@@ -90671,6 +90684,13 @@ company_id			Organization
 				10-1, Higashikotari 1-chome
 				Nagaokakyo-shi Kyoto 617-8555
 				JAPAN
+
+5C-E0-CA   (hex)		FeiTian United (Beijing) System Technology Co., Ltd.
+5CE0CA     (base 16)		FeiTian United (Beijing) System Technology Co., Ltd.
+				3 Floor, Tower B, Huizhi Tower
+				No.9 Xueqing Rd
+				Haidian District Beijing 100085
+				CHINA
 
 5C-E0-F6   (hex)		NIC.br- Nucleo de Informacao e Coordenacao do Ponto BR
 5CE0F6     (base 16)		NIC.br- Nucleo de Informacao e Coordenacao do Ponto BR
@@ -92287,6 +92307,13 @@ company_id			Organization
 				Nya Vattentornet
 				Lund SE 221 88
 				SWEDEN
+
+6C-29-95   (hex)		Intel Corporate
+6C2995     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
 6C-2E-33   (hex)		Accelink Technologies Co.,Ltd.
 6C2E33     (base 16)		Accelink Technologies Co.,Ltd.
@@ -94329,6 +94356,13 @@ company_id			Organization
 				Holzkoppelweg 23
 				Kiel Schleswig-Holstein 24251
 				GERMANY
+
+7C-7A-91   (hex)		Intel Corporate
+7C7A91     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
 7C-7B-E4   (hex)		Z'SEDAI KENKYUSHO CORPORATION
 7C7BE4     (base 16)		Z'SEDAI KENKYUSHO CORPORATION
@@ -96718,6 +96752,13 @@ company_id			Organization
 				66,Chung Shan Rd.Tu-Cheng
 				Taipei Hsien  236
 				TAIWAN, PROVINCE OF CHINA
+
+90-FF-79   (hex)		Metro Ethernet Forum
+90FF79     (base 16)		Metro Ethernet Forum
+				6033 W. Century Boulevard
+				Suite 1107
+				Los Angeles California 90045
+				UNITED STATES
 
 94-00-70   (hex)		Nokia Corporation
 940070     (base 16)		Nokia Corporation
@@ -99518,6 +99559,13 @@ AC7A42     (base 16)		iConnectivity
 				Calgary Alberta T2E 7P6
 				CANADA
 
+AC-7B-A1   (hex)		Intel Corporate
+AC7BA1     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
 AC-80-D6   (hex)		Hexatronic AB
 AC80D6     (base 16)		Hexatronic AB
 				Exportgatan 47B
@@ -100176,6 +100224,13 @@ B0F1BC     (base 16)		Dhemax Ingenieros Ltda
 				Siete Oriente 1234
 				Vina del Mar Region de Valparaiso 2530954
 				CHILE
+
+B0-FA-EB   (hex)		Cisco
+B0FAEB     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
 B4-00-9C   (hex)		CableWorld Ltd.
 B4009C     (base 16)		CableWorld Ltd.
@@ -100875,6 +100930,13 @@ B889CA     (base 16)		ILJIN ELECTRIC Co., Ltd.
 				112-83, Annyeong-dong
 				Hwaseong Gyeonggi-do 445-380
 				KOREA, REPUBLIC OF
+
+B8-8A-60   (hex)		Intel Corporate
+B88A60     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
 B8-8D-12   (hex)		Apple, Inc.
 B88D12     (base 16)		Apple, Inc.
@@ -105289,6 +105351,13 @@ E09579     (base 16)		ORTHOsoft inc, d/b/a Zimmer CAS
 				Montreal Quebec H3C 2N6
 				CANADA
 
+E0-9D-31   (hex)		Intel Corporate
+E09D31     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
 E0-9D-B8   (hex)		PLANEX COMMUNICATIONS INC.
 E09DB8     (base 16)		PLANEX COMMUNICATIONS INC.
 				Planex Volta Bldg., 2-11-9 Ebisu-Nishi,Shibuya-ku,
@@ -106837,6 +106906,13 @@ F0264C     (base 16)		Dr. Sigrist AG
 				Hofurlistrasse 1
 				Ennetbürgen  6373
 				SWITZERLAND
+
+F0-29-29   (hex)		Cisco
+F02929     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
 F0-2A-61   (hex)		Waldo Networks, Inc.
 F02A61     (base 16)		Waldo Networks, Inc.
