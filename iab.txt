@@ -26144,3 +26144,10 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				TIJUANA BAJA CALIFORNIA 22420
 				MEXICO
 
+40-D8-55	(hex)		Parallel Wireless
+065000-065FFF	(base 16)	Parallel Wireless
+				1 Tara Blvd
+				Suite LL8
+				Nashua NH 03062
+				UNITED STATES
+
