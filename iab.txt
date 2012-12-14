@@ -24608,7 +24608,7 @@ F6E000-F6EFFF	(base 16)	Smith Meter, Inc.
 
 00-50-C2	(hex)		Aplex Technology Inc.
 F6F000-F6FFFF	(base 16)	Aplex Technology Inc.
-				NanYouTianAn industrial park Tower4 ,Nanshan District
+				2Q , NanYouTianAn Industrial Park Tower4 ,Nanshan District
 				Shenzhen Guangdong 518054
 				CHINA
 
@@ -26149,5 +26149,57 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				1 Tara Blvd
 				Suite LL8
 				Nashua NH 03062
+				UNITED STATES
+
+40-D8-55	(hex)		TeraTron GmbH
+066000-066FFF	(base 16)	TeraTron GmbH
+				Bunsenstr. 10
+				Windhagen
+				Gummersbach DE 51647
+				GERMANY
+
+40-D8-55	(hex)		Tronic Control ltd.
+067000-067FFF	(base 16)	Tronic Control ltd.
+				Nad Safinou I, 449
+				Vestec u Prahy  25242
+				CZECH REPUBLIC
+
+40-D8-55	(hex)		Oki Seatec Co., Ltd.
+068000-068FFF	(base 16)	Oki Seatec Co., Ltd.
+				UchiuraMito 537-5
+				Numazu Shizuoka 410-0223
+				JAPAN
+
+40-D8-55	(hex)		Smartcom-Bulgaria AD
+069000-069FFF	(base 16)	Smartcom-Bulgaria AD
+				Tsarigradsko shosse 7th km
+				BIC IZOT, Office 317
+				Sofia 1784
+				BULGARIA
+
+40-D8-55	(hex)		elgris
+06A000-06AFFF	(base 16)	elgris
+				Krantzstr 7
+				Halle 6
+				Aachen NRW 52070
+				GERMANY
+
+40-D8-55	(hex)		BRS Sistemas Eletronicos
+06B000-06BFFF	(base 16)	BRS Sistemas Eletronicos
+				Rua Gomes de Freitas, 491/204
+				Porto Alegre RS 91380-000
+				BRAZIL
+
+40-D8-55	(hex)		Rohde&Schwarz Topex SA
+06C000-06CFFF	(base 16)	Rohde&Schwarz Topex SA
+				10 Feleacu street, district 1
+				Bucharest  014186
+				ROMANIA
+
+40-D8-55	(hex)		BroadSoft, INC
+06D000-06DFFF	(base 16)	BroadSoft, INC
+				550 S Winchester Blvd
+				STE 250
+				San Jose CA 95128
 				UNITED STATES
 

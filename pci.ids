@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.08
-#	Date:    2012-12-08 03:15:01
+#	Version: 2012.12.13
+#	Date:    2012-12-13 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -7286,6 +7286,8 @@
 	0e09  GF110 High Definition Audio Controller
 	0e0a  GK104 HDMI Audio Controller
 	0e0c  GF114 HDMI Audio Controller
+	0e1b  GK107 HDMI Audio Controller
+		1043 8428  GTX650-DC-1GD5
 	0e22  GF104 [GeForce GTX 460]
 		1462 2322  N460GTX Cyclone 1GD5/OC
 # taken from nv_disp.inf
@@ -7301,6 +7303,8 @@
 	0fc0  GK107 [GeForce GT 640]
 # taken from nv_disp.inf
 	0fc1  GK107 [GeForce GT 640]
+	0fc6  GK107 [GeForce GTX 650]
+		1043 8428  GTX650-DC-1GD5
 	0fd1  GK107 [GeForce GT 650M]
 		1043 2103  N56VZ
 	0fd2  GK107 [GeForce GT 640M]

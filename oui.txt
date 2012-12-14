@@ -1961,9 +1961,9 @@ company_id			Organization
 
 00-01-36   (hex)		CyberTAN Technology, Inc.
 000136     (base 16)		CyberTAN Technology, Inc.
-				626, Bldg.53, 195-56 Sec.4
-				Chung Hsing Rd Chutung, Hsinchu
-				TAIWAN R.O.C.
+				99, Park Avenue III
+				Science-Based Industrial Park
+				Hsinchu  308
 				TAIWAN, PROVINCE OF CHINA
 
 00-01-37   (hex)		IT Farm Corporation
@@ -2038,16 +2038,18 @@ company_id			Organization
 				B  - 9420 Erpe-Mere
 				BELGIUM
 
-00-01-42   (hex)		Cisco Systems, Inc.
-000142     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-01-42   (hex)		CISCO SYSTEMS, INC.
+000142     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-01-43   (hex)		Cisco Systems, Inc.
-000143     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-01-43   (hex)		CISCO SYSTEMS, INC.
+000143     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-01-44   (hex)		EMC Corporation
@@ -2243,16 +2245,18 @@ company_id			Organization
 				Carrollton TX 75007
 				UNITED STATES
 
-00-01-63   (hex)		Cisco Systems, Inc.
-000163     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-01-63   (hex)		CISCO SYSTEMS, INC.
+000163     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-01-64   (hex)		Cisco Systems, Inc.
-000164     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-01-64   (hex)		CISCO SYSTEMS, INC.
+000164     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-01-65   (hex)		AirSwitch Corporation
@@ -2563,16 +2567,18 @@ company_id			Organization
 				KOREA
 				KOREA, REPUBLIC OF
 
-00-01-96   (hex)		Cisco Systems, Inc.
-000196     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-01-96   (hex)		CISCO SYSTEMS, INC.
+000196     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-01-97   (hex)		Cisco Systems, Inc.
-000197     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-01-97   (hex)		CISCO SYSTEMS, INC.
+000197     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-01-98   (hex)		Darim Vision
@@ -2877,10 +2883,11 @@ company_id			Organization
 				Burlington MA 01803
 				UNITED STATES
 
-00-01-C7   (hex)		Cisco Systems, Inc.
-0001C7     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-01-C7   (hex)		CISCO SYSTEMS, INC.
+0001C7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-01-C8   (hex)		THOMAS CONRAD CORP.
@@ -2893,10 +2900,11 @@ company_id			Organization
 0001C8     (base 16)		CONRAD CORP.
 				
 
-00-01-C9   (hex)		Cisco Systems, Inc.
-0001C9     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive
-				San Jose CA 95134
+00-01-C9   (hex)		CISCO SYSTEMS, INC.
+0001C9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-01-CA   (hex)		Geocast Network Systems, Inc.
@@ -3384,16 +3392,18 @@ company_id			Organization
 				DK-8200 Aarhus N
 				DENMARK
 
-00-02-16   (hex)		Cisco Systems, Inc.
-000216     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive
-				San Jose CA 95134
+00-02-16   (hex)		CISCO SYSTEMS, INC.
+000216     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-02-17   (hex)		Cisco Systems, Inc.
-000217     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive
-				San Jose CA 95134
+00-02-17   (hex)		CISCO SYSTEMS, INC.
+000217     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-02-18   (hex)		Advanced Scientific Corp
@@ -3714,16 +3724,18 @@ company_id			Organization
 				Korea (ROK)
 				KOREA, REPUBLIC OF
 
-00-02-4A   (hex)		Cisco Systems, Inc.
-00024A     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-4A   (hex)		CISCO SYSTEMS, INC.
+00024A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-02-4B   (hex)		Cisco Systems, Inc.
-00024B     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-4B   (hex)		CISCO SYSTEMS, INC.
+00024B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-02-4C   (hex)		SiByte, Inc.
@@ -4045,16 +4057,18 @@ company_id			Organization
 				Indianapolis IN 46235
 				UNITED STATES
 
-00-02-7D   (hex)		Cisco Systems, Inc.
-00027D     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-7D   (hex)		CISCO SYSTEMS, INC.
+00027D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-02-7E   (hex)		Cisco Systems, Inc.
-00027E     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-7E   (hex)		CISCO SYSTEMS, INC.
+00027E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-02-7F   (hex)		ask-technologies.com
@@ -4429,16 +4443,18 @@ company_id			Organization
 				Stockholm SE-112 28
 				SWEDEN
 
-00-02-B9   (hex)		Cisco Systems, Inc.
-0002B9     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-B9   (hex)		CISCO SYSTEMS, INC.
+0002B9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-02-BA   (hex)		Cisco Systems, Inc.
-0002BA     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-BA   (hex)		CISCO SYSTEMS, INC.
+0002BA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-02-BB   (hex)		Continuous Computing Corp
@@ -4858,16 +4874,18 @@ company_id			Organization
 				D-90482 Nuruberg
 				GERMANY
 
-00-02-FC   (hex)		Cisco Systems, Inc.
-0002FC     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-FC   (hex)		CISCO SYSTEMS, INC.
+0002FC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-02-FD   (hex)		Cisco Systems, Inc.
-0002FD     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-02-FD   (hex)		CISCO SYSTEMS, INC.
+0002FD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-02-FE   (hex)		Viditec, Inc.
@@ -5200,16 +5218,18 @@ company_id			Organization
 				182-0022 
 				JAPAN
 
-00-03-31   (hex)		Cisco Systems, Inc.
-000331     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-31   (hex)		CISCO SYSTEMS, INC.
+000331     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-03-32   (hex)		Cisco Systems, Inc.
-000332     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-32   (hex)		CISCO SYSTEMS, INC.
+000332     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-03-33   (hex)		Digitel Co., Ltd.
@@ -5574,16 +5594,18 @@ company_id			Organization
 				Kfar Saba 44641
 				ISRAEL
 
-00-03-6B   (hex)		Cisco Systems, Inc.
-00036B     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-6B   (hex)		CISCO SYSTEMS, INC.
+00036B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-03-6C   (hex)		Cisco Systems, Inc.
-00036C     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-6C   (hex)		CISCO SYSTEMS, INC.
+00036C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-03-6D   (hex)		Runtop, Inc.
@@ -5905,16 +5927,18 @@ company_id			Organization
 				Republic of Korea
 				KOREA, REPUBLIC OF
 
-00-03-9F   (hex)		Cisco Systems, Inc.
-00039F     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-9F   (hex)		CISCO SYSTEMS, INC.
+00039F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-03-A0   (hex)		Cisco Systems, Inc.
-0003A0     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-A0   (hex)		CISCO SYSTEMS, INC.
+0003A0     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-03-A1   (hex)		HIPER Information & Communication, Inc.
@@ -6342,16 +6366,18 @@ company_id			Organization
 				Coppell TX 75019
 				UNITED STATES
 
-00-03-E3   (hex)		Cisco Systems, Inc.
-0003E3     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-E3   (hex)		CISCO SYSTEMS, INC.
+0003E3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-03-E4   (hex)		Cisco Systems, Inc.
-0003E4     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-E4   (hex)		CISCO SYSTEMS, INC.
+0003E4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-03-E5   (hex)		Hermstedt SG
@@ -6507,16 +6533,18 @@ company_id			Organization
 				174 44 Sundbyberg
 				SWEDEN
 
-00-03-FD   (hex)		Cisco Systems, Inc.
-0003FD     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-FD   (hex)		CISCO SYSTEMS, INC.
+0003FD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-03-FE   (hex)		Cisco Systems, Inc.
-0003FE     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-03-FE   (hex)		CISCO SYSTEMS, INC.
+0003FE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-03-FF   (hex)		Microsoft Corporation
@@ -6774,16 +6802,18 @@ company_id			Organization
 				Seoul Seoul KOREA
 				KOREA, REPUBLIC OF
 
-00-04-27   (hex)		Cisco Systems, Inc.
-000427     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-27   (hex)		CISCO SYSTEMS, INC.
+000427     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-04-28   (hex)		Cisco Systems, Inc.
-000428     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-28   (hex)		CISCO SYSTEMS, INC.
+000428     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-04-29   (hex)		Pixord Corporation
@@ -7018,16 +7048,18 @@ company_id			Organization
 				Einkauf, Prussingstraße 41 D-07745 Jena
 				GERMANY
 
-00-04-4D   (hex)		Cisco Systems, Inc.
-00044D     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-4D   (hex)		CISCO SYSTEMS, INC.
+00044D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-04-4E   (hex)		Cisco Systems, Inc.
-00044E     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-4E   (hex)		CISCO SYSTEMS, INC.
+00044E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-04-4F   (hex)		Leukhardt Systemelektronik GmbH
@@ -7227,16 +7259,18 @@ company_id			Organization
 				Kyeong Gi-Do Kyeong Gi-Do KOREA
 				KOREA, REPUBLIC OF
 
-00-04-6D   (hex)		Cisco Systems, Inc.
-00046D     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-6D   (hex)		CISCO SYSTEMS, INC.
+00046D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-04-6E   (hex)		Cisco Systems, Inc.
-00046E     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-6E   (hex)		CISCO SYSTEMS, INC.
+00046E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-04-6F   (hex)		Digitel S/A Industria Eletronica
@@ -7511,16 +7545,18 @@ company_id			Organization
 				Zip: 375-8505
 				JAPAN
 
-00-04-9A   (hex)		Cisco Systems, Inc.
-00049A     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-9A   (hex)		CISCO SYSTEMS, INC.
+00049A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-04-9B   (hex)		Cisco Systems, Inc.
-00049B     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-9B   (hex)		CISCO SYSTEMS, INC.
+00049B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-04-9C   (hex)		Surgient Networks, Inc.
@@ -7752,16 +7788,18 @@ company_id			Organization
 				Eugene OR 97402
 				UNITED STATES
 
-00-04-C0   (hex)		Cisco Systems, Inc.
-0004C0     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-C0   (hex)		CISCO SYSTEMS, INC.
+0004C0     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-04-C1   (hex)		Cisco Systems, Inc.
-0004C1     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-C1   (hex)		CISCO SYSTEMS, INC.
+0004C1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-04-C2   (hex)		Magnipix, Inc.
@@ -7940,16 +7978,18 @@ company_id			Organization
 				8200 Dixie Road, Suite 100 Brapton ON L6
 				CANADA
 
-00-04-DD   (hex)		Cisco Systems, Inc.
-0004DD     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-DD   (hex)		CISCO SYSTEMS, INC.
+0004DD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-04-DE   (hex)		Cisco Systems, Inc.
-0004DE     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-04-DE   (hex)		CISCO SYSTEMS, INC.
+0004DE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-04-DF   (hex)		Teracom Telematica Ltda.
@@ -8162,16 +8202,18 @@ company_id			Organization
 				137-064
 				KOREA, REPUBLIC OF
 
-00-05-00   (hex)		Cisco Systems, Inc.
-000500     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-00   (hex)		CISCO SYSTEMS, INC.
+000500     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-05-01   (hex)		Cisco Systems, Inc.
-000501     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-01   (hex)		CISCO SYSTEMS, INC.
+000501     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-05-02   (hex)		APPLE COMPUTER
@@ -8470,16 +8512,18 @@ company_id			Organization
 				Saratoga CA 95070
 				UNITED STATES
 
-00-05-31   (hex)		Cisco Systems, Inc.
-000531     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-31   (hex)		CISCO SYSTEMS, INC.
+000531     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-05-32   (hex)		Cisco Systems, Inc.
-000532     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-32   (hex)		CISCO SYSTEMS, INC.
+000532     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-05-33   (hex)		Brocade Communications Systems, Inc.
@@ -8750,16 +8794,18 @@ company_id			Organization
 				Irvine CA 92618
 				UNITED STATES
 
-00-05-5E   (hex)		Cisco Systems, Inc.
-00055E     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-5E   (hex)		CISCO SYSTEMS, INC.
+00055E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-05-5F   (hex)		Cisco Systems, Inc.
-00055F     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-5F   (hex)		CISCO SYSTEMS, INC.
+00055F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-05-60   (hex)		LEADER COMM.CO., LTD
@@ -8885,16 +8931,18 @@ company_id			Organization
 				Seoul  
 				KOREA, REPUBLIC OF
 
-00-05-73   (hex)		Cisco Systems, Inc.
-000573     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-73   (hex)		CISCO SYSTEMS, INC.
+000573     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-05-74   (hex)		Cisco Systems, Inc.
-000574     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-74   (hex)		CISCO SYSTEMS, INC.
+000574     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-05-75   (hex)		CDS-Electronics BV
@@ -9132,16 +9180,18 @@ company_id			Organization
 				Huntsville AL 35805
 				UNITED STATES
 
-00-05-9A   (hex)		Cisco Systems, Inc.
-00059A     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive
-				San Jose CA 95134
+00-05-9A   (hex)		CISCO SYSTEMS, INC.
+00059A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-05-9B   (hex)		Cisco Systems, Inc.
-00059B     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive
-				San Jose CA 95134
+00-05-9B   (hex)		CISCO SYSTEMS, INC.
+00059B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-05-9C   (hex)		Kleinknecht GmbH, Ing. Büro
@@ -9552,16 +9602,18 @@ company_id			Organization
 				Karlsruhe  76229
 				GERMANY
 
-00-05-DC   (hex)		Cisco Systems, Inc.
-0005DC     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-DC   (hex)		CISCO SYSTEMS, INC.
+0005DC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-05-DD   (hex)		Cisco Systems, Inc.
-0005DD     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-05-DD   (hex)		CISCO SYSTEMS, INC.
+0005DD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-05-DE   (hex)		Gi Fone Korea, Inc.
@@ -10042,10 +10094,11 @@ company_id			Organization
 				Taejon 302-122, 
 				KOREA, REPUBLIC OF
 
-00-06-28   (hex)		Cisco Systems, Inc.
-000628     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-06-28   (hex)		CISCO SYSTEMS, INC.
+000628     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-06-29   (hex)		IBM Corp
@@ -10055,10 +10108,11 @@ company_id			Organization
 				Research Triangle Park NC 27709-2195
 				UNITED STATES
 
-00-06-2A   (hex)		Cisco Systems, Inc.
-00062A     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-06-2A   (hex)		CISCO SYSTEMS, INC.
+00062A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-06-2B   (hex)		INTRASERVER TECHNOLOGY
@@ -10311,16 +10365,18 @@ company_id			Organization
 				Santa Clara CA 95051
 				UNITED STATES
 
-00-06-52   (hex)		Cisco Systems, Inc.
-000652     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-06-52   (hex)		CISCO SYSTEMS, INC.
+000652     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-06-53   (hex)		Cisco Systems, Inc.
-000653     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-06-53   (hex)		CISCO SYSTEMS, INC.
+000653     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-06-54   (hex)		Winpresa Building Automation Technologies GmbH
@@ -11151,16 +11207,18 @@ company_id			Organization
 				Newark CA 94560
 				UNITED STATES
 
-00-06-D6   (hex)		Cisco Systems, Inc.
-0006D6     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-06-D6   (hex)		CISCO SYSTEMS, INC.
+0006D6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-06-D7   (hex)		Cisco Systems, Inc.
-0006D7     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-06-D7   (hex)		CISCO SYSTEMS, INC.
+0006D7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-06-D8   (hex)		Maple Optical Systems
@@ -11353,11 +11411,11 @@ company_id			Organization
 				Osaki Miyagi-pref 989-6181
 				JAPAN
 
-00-06-F6   (hex)		Cisco Systems
-0006F6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+00-06-F6   (hex)		CISCO SYSTEMS, INC.
+0006F6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-06-F7   (hex)		ALPS Electric Co,. Ltd.
@@ -11506,18 +11564,18 @@ company_id			Organization
 				Shanghai  20233
 				CHINA
 
-00-07-0D   (hex)		Cisco Systems Inc.
-00070D     (base 16)		Cisco Systems Inc.
-				SJ-M/1
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-0D   (hex)		CISCO SYSTEMS, INC.
+00070D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-07-0E   (hex)		Cisco Systems Inc.
-00070E     (base 16)		Cisco Systems Inc.
-				SJ-M/1
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-0E   (hex)		CISCO SYSTEMS, INC.
+00070E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-07-0F   (hex)		Fujant, Inc.
@@ -11927,16 +11985,18 @@ company_id			Organization
 				Tokyo 101-0021
 				JAPAN
 
-00-07-4F   (hex)		Cisco Systems, Inc.
-00074F     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-4F   (hex)		CISCO SYSTEMS, INC.
+00074F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-07-50   (hex)		Cisco Systems, Inc.
-000750     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-50   (hex)		CISCO SYSTEMS, INC.
+000750     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-07-51   (hex)		m-u-t AG
@@ -12223,11 +12283,11 @@ company_id			Organization
 				Stora Sundby  
 				SWEDEN
 
-00-07-7D   (hex)		Cisco Systems
-00077D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+00-07-7D   (hex)		CISCO SYSTEMS, INC.
+00077D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-07-7E   (hex)		Elrest GmbH
@@ -12267,16 +12327,18 @@ company_id			Organization
 				Hsinchu Hsien,
 				TAIWAN, PROVINCE OF CHINA
 
-00-07-84   (hex)		Cisco Systems Inc.
-000784     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-84   (hex)		CISCO SYSTEMS, INC.
+000784     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-07-85   (hex)		Cisco Systems Inc.
-000785     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-85   (hex)		CISCO SYSTEMS, INC.
+000785     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-07-86   (hex)		Wireless Networks Inc.
@@ -12567,16 +12629,18 @@ company_id			Organization
 				São Paulo SP  
 				BRAZIL
 
-00-07-B3   (hex)		Cisco Systems Inc.
-0007B3     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-B3   (hex)		CISCO SYSTEMS, INC.
+0007B3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-07-B4   (hex)		Cisco Systems Inc.
-0007B4     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-B4   (hex)		CISCO SYSTEMS, INC.
+0007B4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-07-B5   (hex)		Any One Wireless Ltd.
@@ -12932,16 +12996,18 @@ company_id			Organization
 				Santa Clara CA 95054
 				UNITED STATES
 
-00-07-EB   (hex)		Cisco Systems Inc.
-0007EB     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-EB   (hex)		CISCO SYSTEMS, INC.
+0007EB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-07-EC   (hex)		Cisco Systems Inc.
-0007EC     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-07-EC   (hex)		CISCO SYSTEMS, INC.
+0007EC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-07-ED   (hex)		Altera Corporation
@@ -13265,16 +13331,18 @@ company_id			Organization
 				Taichung City 407,
 				TAIWAN, PROVINCE OF CHINA
 
-00-08-20   (hex)		Cisco Systems Inc.
-000820     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-08-20   (hex)		CISCO SYSTEMS, INC.
+000820     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-08-21   (hex)		Cisco Systems Inc.
-000821     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-08-21   (hex)		CISCO SYSTEMS, INC.
+000821     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-08-22   (hex)		InPro Comm
@@ -13361,25 +13429,25 @@ company_id			Organization
 				Basingstoke RG23 7LL
 				UNITED KINGDOM
 
-00-08-2F   (hex)		Cisco Systems
-00082F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+00-08-2F   (hex)		CISCO SYSTEMS, INC.
+00082F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-08-30   (hex)		Cisco Systems
-000830     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+00-08-30   (hex)		CISCO SYSTEMS, INC.
+000830     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-08-31   (hex)		Cisco Systems
-000831     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+00-08-31   (hex)		CISCO SYSTEMS, INC.
+000831     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-08-32   (hex)		Cisco
@@ -13676,16 +13744,18 @@ company_id			Organization
 				DK 9400 Noerresundby
 				DENMARK
 
-00-08-7C   (hex)		Cisco Systems, Inc.
-00087C     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-08-7C   (hex)		CISCO SYSTEMS, INC.
+00087C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-08-7D   (hex)		Cisco Systems Inc.
-00087D     (base 16)		Cisco Systems Inc.
-				170 West Tasman Dr.
-				San Jose CA 95134
+00-08-7D   (hex)		CISCO SYSTEMS, INC.
+00087D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-08-7E   (hex)		Bon Electro-Telecom Inc.
@@ -13924,18 +13994,18 @@ company_id			Organization
 				Charlottesville VA 22911
 				UNITED STATES
 
-00-08-A3   (hex)		Cisco Systems
-0008A3     (base 16)		Cisco Systems
-				170 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-08-A3   (hex)		CISCO SYSTEMS, INC.
+0008A3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-08-A4   (hex)		Cisco Systems
-0008A4     (base 16)		Cisco Systems
-				170 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-08-A4   (hex)		CISCO SYSTEMS, INC.
+0008A4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-08-A5   (hex)		Peninsula Systems Inc.
@@ -14119,10 +14189,11 @@ company_id			Organization
 				Addison TX 75001
 				UNITED STATES
 
-00-08-C2   (hex)		Cisco Systems
-0008C2     (base 16)		Cisco Systems
-				80 West Tasman Dr
-				San Jose CA 95134
+00-08-C2   (hex)		CISCO SYSTEMS, INC.
+0008C2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-08-C3   (hex)		Contex A/S
@@ -14320,18 +14391,18 @@ company_id			Organization
 				Zürich ZH 8008
 				SWITZERLAND
 
-00-08-E2   (hex)		Cisco Systems
-0008E2     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-Bld M/1
-				San Jose CA 95134
+00-08-E2   (hex)		CISCO SYSTEMS, INC.
+0008E2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-08-E3   (hex)		Cisco Systems
-0008E3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-Bld M/1
-				San Jose CA 95134
+00-08-E3   (hex)		CISCO SYSTEMS, INC.
+0008E3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-08-E4   (hex)		Envenergy Inc
@@ -14615,18 +14686,18 @@ company_id			Organization
 				St-Laurent Quebec H4T1N1
 				CANADA
 
-00-09-11   (hex)		Cisco Systems
-000911     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-09-11   (hex)		CISCO SYSTEMS, INC.
+000911     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-09-12   (hex)		Cisco Systems
-000912     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-09-12   (hex)		CISCO SYSTEMS, INC.
+000912     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-09-13   (hex)		SystemK Corporation
@@ -14932,18 +15003,18 @@ company_id			Organization
 				Tokyo  143-0023
 				JAPAN
 
-00-09-43   (hex)		Cisco Systems
-000943     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-09-43   (hex)		CISCO SYSTEMS, INC.
+000943     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-09-44   (hex)		Cisco Systems
-000944     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-09-44   (hex)		CISCO SYSTEMS, INC.
+000944     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-09-45   (hex)		Palmmicro Communications Inc
@@ -15285,18 +15356,18 @@ company_id			Organization
 				Hsin-Tien Taipei Hsien 231
 				TAIWAN, PROVINCE OF CHINA
 
-00-09-7B   (hex)		Cisco Systems
-00097B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-09-7B   (hex)		CISCO SYSTEMS, INC.
+00097B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-09-7C   (hex)		Cisco Systems
-00097C     (base 16)		Cisco Systems
-				80 West Tasman Dr
-				SJ-M/1
-				San Jose CA 95134
+00-09-7C   (hex)		CISCO SYSTEMS, INC.
+00097C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-09-7D   (hex)		SecWell Networks Oy
@@ -15661,18 +15732,18 @@ company_id			Organization
 				Taipei  104
 				TAIWAN, PROVINCE OF CHINA
 
-00-09-B6   (hex)		Cisco Systems
-0009B6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose Ca 95134
+00-09-B6   (hex)		CISCO SYSTEMS, INC.
+0009B6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-09-B7   (hex)		Cisco Systems
-0009B7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 94134
+00-09-B7   (hex)		CISCO SYSTEMS, INC.
+0009B7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-09-B8   (hex)		Entise Systems
@@ -15980,18 +16051,18 @@ company_id			Organization
 				Nagoya Aichi 4600008
 				JAPAN
 
-00-09-E8   (hex)		Cisco Systems
-0009E8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-09-E8   (hex)		CISCO SYSTEMS, INC.
+0009E8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-09-E9   (hex)		Cisco Systems
-0009E9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-09-E9   (hex)		CISCO SYSTEMS, INC.
+0009E9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-09-EA   (hex)		YEM Inc.
@@ -16540,16 +16611,18 @@ company_id			Organization
 				Elkhart IN 46517
 				UNITED STATES
 
-00-0A-41   (hex)		Cisco Systems
-000A41     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				San Jose CA 95134
+00-0A-41   (hex)		CISCO SYSTEMS, INC.
+000A41     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0A-42   (hex)		Cisco Systems
-000A42     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				San Jose CA 95134
+00-0A-42   (hex)		CISCO SYSTEMS, INC.
+000A42     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0A-43   (hex)		Chunghwa Telecom Co., Ltd.
@@ -17001,16 +17074,18 @@ company_id			Organization
 				Seoul  136-120
 				KOREA, REPUBLIC OF
 
-00-0A-8A   (hex)		Cisco Systems
-000A8A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				San Jose CA 95134
+00-0A-8A   (hex)		CISCO SYSTEMS, INC.
+000A8A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0A-8B   (hex)		Cisco Systems
-000A8B     (base 16)		Cisco Systems
-				80 West Tasman DR.
-				San Jose CA 95134
+00-0A-8B   (hex)		CISCO SYSTEMS, INC.
+000A8B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0A-8C   (hex)		Guardware Systems Ltd.
@@ -17287,18 +17362,18 @@ company_id			Organization
 				MONROEVILLE PA 15146
 				UNITED STATES
 
-00-0A-B7   (hex)		Cisco Systems
-000AB7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0A-B7   (hex)		CISCO SYSTEMS, INC.
+000AB7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0A-B8   (hex)		Cisco Systems
-000AB8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose Ca 95134
+00-0A-B8   (hex)		CISCO SYSTEMS, INC.
+000AB8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0A-B9   (hex)		Astera Technologies Corp.
@@ -17677,18 +17752,18 @@ company_id			Organization
 				San Jose CA 95131
 				UNITED STATES
 
-00-0A-F3   (hex)		Cisco Systems
-000AF3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0A-F3   (hex)		CISCO SYSTEMS, INC.
+000AF3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0A-F4   (hex)		Cisco Systems
-000AF4     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0A-F4   (hex)		CISCO SYSTEMS, INC.
+000AF4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0A-F5   (hex)		Airgo Networks, Inc.
@@ -18188,18 +18263,18 @@ company_id			Organization
 				Markham Ontario L3R 0J3
 				CANADA
 
-00-0B-45   (hex)		Cisco
-000B45     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-45   (hex)		CISCO SYSTEMS, INC.
+000B45     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0B-46   (hex)		Cisco
-000B46     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-46   (hex)		CISCO SYSTEMS, INC.
+000B46     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0B-47   (hex)		Advanced Energy
@@ -18355,18 +18430,18 @@ company_id			Organization
 				New York NY 10165-2520
 				UNITED STATES
 
-00-0B-5F   (hex)		Cisco Systems
-000B5F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-5F   (hex)		CISCO SYSTEMS, INC.
+000B5F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0B-60   (hex)		Cisco Systems
-000B60     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-60   (hex)		CISCO SYSTEMS, INC.
+000B60     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0B-61   (hex)		Friedrich Lütze GmbH & Co. KG
@@ -18592,11 +18667,11 @@ company_id			Organization
 				TREMENTINES FRANCE 49340
 				FRANCE
 
-00-0B-85   (hex)		Cisco Systems
-000B85     (base 16)		Cisco Systems
-				80 W. Tasman Drive
-				MS SJCM/1/1
-				San Jose CA 95134
+00-0B-85   (hex)		CISCO SYSTEMS, INC.
+000B85     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0B-86   (hex)		Aruba Networks
@@ -18947,18 +19022,18 @@ company_id			Organization
 				Christchurch Canterbury 8004
 				NEW ZEALAND
 
-00-0B-BE   (hex)		Cisco Systems
-000BBE     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-BE   (hex)		CISCO SYSTEMS, INC.
+000BBE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0B-BF   (hex)		Cisco Systems
-000BBF     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-BF   (hex)		CISCO SYSTEMS, INC.
+000BBF     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0B-C0   (hex)		China IWNComm Co., Ltd.
@@ -19336,18 +19411,18 @@ company_id			Organization
 				Taipei  Hsieh  248
 				TAIWAN, PROVINCE OF CHINA
 
-00-0B-FC   (hex)		Cisco Systems
-000BFC     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-FC   (hex)		CISCO SYSTEMS, INC.
+000BFC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0B-FD   (hex)		Cisco Systems
-000BFD     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0B-FD   (hex)		CISCO SYSTEMS, INC.
+000BFD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0B-FE   (hex)		CASTEL Broadband Limited
@@ -19666,18 +19741,18 @@ company_id			Organization
 				SEOUL  137-072
 				KOREA, REPUBLIC OF
 
-00-0C-30   (hex)		Cisco
-000C30     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0C-30   (hex)		CISCO SYSTEMS, INC.
+000C30     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0C-31   (hex)		Cisco
-000C31     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose Ca 95134
+00-0C-31   (hex)		CISCO SYSTEMS, INC.
+000C31     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0C-32   (hex)		Avionic Design Development GmbH
@@ -20201,18 +20276,18 @@ company_id			Organization
 				Muntinlupa City Rizal 1770
 				PHILIPPINES
 
-00-0C-85   (hex)		Cisco Systems
-000C85     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0C-85   (hex)		CISCO SYSTEMS, INC.
+000C85     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0C-86   (hex)		Cisco Systems
-000C86     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-m/1
-				San Jose CA 95134
+00-0C-86   (hex)		CISCO SYSTEMS, INC.
+000C86     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0C-87   (hex)		AMD
@@ -20667,18 +20742,18 @@ company_id			Organization
 				Geneva GE 1211
 				SWITZERLAND
 
-00-0C-CE   (hex)		Cisco Systems
-000CCE     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0C-CE   (hex)		CISCO SYSTEMS, INC.
+000CCE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0C-CF   (hex)		Cisco Systems
-000CCF     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0C-CF   (hex)		CISCO SYSTEMS, INC.
+000CCF     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0C-D0   (hex)		Symetrix
@@ -21242,18 +21317,18 @@ company_id			Organization
 				Varel Niedersachsen 26316
 				GERMANY
 
-00-0D-28   (hex)		Cisco
-000D28     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-28   (hex)		CISCO SYSTEMS, INC.
+000D28     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0D-29   (hex)		Cisco
-000D29     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-29   (hex)		CISCO SYSTEMS, INC.
+000D29     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0D-2A   (hex)		Scanmatic AS
@@ -21625,18 +21700,18 @@ company_id			Organization
 				Goeppingen Baden-Württemberg 73037
 				GERMANY
 
-00-0D-65   (hex)		Cisco Systems
-000D65     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-65   (hex)		CISCO SYSTEMS, INC.
+000D65     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0D-66   (hex)		Cisco Systems
-000D66     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-66   (hex)		CISCO SYSTEMS, INC.
+000D66     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0D-67   (hex)		BelAir Networks Inc.
@@ -22167,18 +22242,18 @@ company_id			Organization
 				Osaka  552-0003
 				JAPAN
 
-00-0D-BC   (hex)		Cisco Systems
-000DBC     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-BC   (hex)		CISCO SYSTEMS, INC.
+000DBC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0D-BD   (hex)		Cisco Systems
-000DBD     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-BD   (hex)		CISCO SYSTEMS, INC.
+000DBD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0D-BE   (hex)		Bel Fuse Europe Ltd.,UK
@@ -22466,18 +22541,18 @@ company_id			Organization
 				Redhill Surrey RH1 4HW
 				UNITED KINGDOM
 
-00-0D-EC   (hex)		Cisco Systems
-000DEC     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-EC   (hex)		CISCO SYSTEMS, INC.
+000DEC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0D-ED   (hex)		Cisco Systems
-000DED     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0D-ED   (hex)		CISCO SYSTEMS, INC.
+000DED     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0D-EE   (hex)		Andrew RF Power Amplifier Group
@@ -22935,18 +23010,18 @@ company_id			Organization
 				Hamburg  D-21079
 				GERMANY
 
-00-0E-38   (hex)		Cisco Systems
-000E38     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0E-38   (hex)		CISCO SYSTEMS, INC.
+000E38     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0E-39   (hex)		Cisco Systems
-000E39     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0E-39   (hex)		CISCO SYSTEMS, INC.
+000E39     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0E-3A   (hex)		Cirrus Logic
@@ -23411,18 +23486,18 @@ company_id			Organization
 				Perth WA 6017
 				AUSTRALIA
 
-00-0E-83   (hex)		Cisco Systems
-000E83     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0E-83   (hex)		CISCO SYSTEMS, INC.
+000E83     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0E-84   (hex)		Cisco Systems
-000E84     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0E-84   (hex)		CISCO SYSTEMS, INC.
+000E84     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0E-85   (hex)		Catalyst Enterprises, Inc.
@@ -23929,18 +24004,18 @@ company_id			Organization
 				Longmont CO 80503
 				UNITED STATES
 
-00-0E-D6   (hex)		Cisco Systems
-000ED6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0E-D6   (hex)		CISCO SYSTEMS, INC.
+000ED6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0E-D7   (hex)		Cisco Systems
-000ED7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0E-D7   (hex)		CISCO SYSTEMS, INC.
+000ED7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0E-D8   (hex)		Aktino, Inc.
@@ -24406,18 +24481,18 @@ company_id			Organization
 				Lindon UT 84042
 				UNITED STATES
 
-00-0F-23   (hex)		Cisco Systems
-000F23     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-23   (hex)		CISCO SYSTEMS, INC.
+000F23     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0F-24   (hex)		Cisco Systems
-000F24     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-24   (hex)		CISCO SYSTEMS, INC.
+000F24     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0F-25   (hex)		AimValley B.V.
@@ -24517,18 +24592,18 @@ company_id			Organization
 				Suwon Gyeonggi-do 442-824
 				KOREA, REPUBLIC OF
 
-00-0F-34   (hex)		Cisco Systems
-000F34     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-34   (hex)		CISCO SYSTEMS, INC.
+000F34     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0F-35   (hex)		Cisco Systems
-000F35     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-35   (hex)		CISCO SYSTEMS, INC.
+000F35     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0F-36   (hex)		Accurate Techhnologies, Inc.
@@ -25099,18 +25174,18 @@ company_id			Organization
 				SEOUL KANGSE-GU 157-841
 				KOREA, REPUBLIC OF
 
-00-0F-8F   (hex)		Cisco Systems
-000F8F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-8F   (hex)		CISCO SYSTEMS, INC.
+000F8F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0F-90   (hex)		Cisco Systems
-000F90     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-90   (hex)		CISCO SYSTEMS, INC.
+000F90     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0F-91   (hex)		Aerotelecom Co.,Ltd.
@@ -25756,18 +25831,18 @@ company_id			Organization
 				Taoyuan  333
 				TAIWAN, PROVINCE OF CHINA
 
-00-0F-F7   (hex)		Cisco Systems
-000FF7     (base 16)		Cisco Systems
-				80 West Tasman DR.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-F7   (hex)		CISCO SYSTEMS, INC.
+000FF7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0F-F8   (hex)		Cisco  Systems
-000FF8     (base 16)		Cisco  Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-0F-F8   (hex)		CISCO SYSTEMS, INC.
+000FF8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-0F-F9   (hex)		Valcretec, Inc.
@@ -27616,18 +27691,18 @@ company_id			Organization
 				Burbank CA 91502
 				UNITED STATES
 
-00-11-20   (hex)		Cisco Systems
-001120     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-11-20   (hex)		CISCO SYSTEMS, INC.
+001120     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-11-21   (hex)		Cisco Systems
-001121     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-11-21   (hex)		CISCO SYSTEMS, INC.
+001121     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-11-22   (hex)		CIMSYS Inc
@@ -27991,18 +28066,18 @@ company_id			Organization
 				Taipei  114
 				TAIWAN, PROVINCE OF CHINA
 
-00-11-5C   (hex)		Cisco
-00115C     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-11-5C   (hex)		CISCO SYSTEMS, INC.
+00115C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-11-5D   (hex)		Cisco
-00115D     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/2
-				San Jose CA 95134
+00-11-5D   (hex)		CISCO SYSTEMS, INC.
+00115D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-11-5E   (hex)		ProMinent Dosiertechnik GmbH
@@ -28332,18 +28407,18 @@ company_id			Organization
 				Hechingen Baden-Württemberg 72379
 				GERMANY
 
-00-11-92   (hex)		Cisco Systems
-001192     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-11-92   (hex)		CISCO SYSTEMS, INC.
+001192     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-11-93   (hex)		Cisco Systems
-001193     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-m/1
-				San Jose CA 95134
+00-11-93   (hex)		CISCO SYSTEMS, INC.
+001193     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-11-94   (hex)		Chi Mei Communication Systems, Inc.
@@ -28592,18 +28667,18 @@ company_id			Organization
 				Bundall Queensland 4217
 				AUSTRALIA
 
-00-11-BB   (hex)		Cisco Systems
-0011BB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-11-BB   (hex)		CISCO SYSTEMS, INC.
+0011BB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-11-BC   (hex)		Cisco Systems
-0011BC     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-11-BC   (hex)		CISCO SYSTEMS, INC.
+0011BC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-11-BD   (hex)		Bombardier Transportation
@@ -29030,18 +29105,18 @@ company_id			Organization
 				Florianópolis Santa Catarina 88085-040
 				BRAZIL
 
-00-12-00   (hex)		Cisco
-001200     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-00   (hex)		CISCO SYSTEMS, INC.
+001200     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-12-01   (hex)		Cisco
-001201     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-01   (hex)		CISCO SYSTEMS, INC.
+001201     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-12-02   (hex)		Decrane Aerospace - Audio International Inc.
@@ -29459,18 +29534,18 @@ company_id			Organization
 				Chelmsford MA 01803
 				UNITED STATES
 
-00-12-43   (hex)		Cisco
-001243     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-43   (hex)		CISCO SYSTEMS, INC.
+001243     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-12-44   (hex)		Cisco
-001244     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-44   (hex)		CISCO SYSTEMS, INC.
+001244     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-12-45   (hex)		Zellweger Analytics, Inc.
@@ -29832,18 +29907,18 @@ company_id			Organization
 				City of Industry CA 91748
 				UNITED STATES
 
-00-12-7F   (hex)		Cisco
-00127F     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-7F   (hex)		CISCO SYSTEMS, INC.
+00127F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-12-80   (hex)		Cisco
-001280     (base 16)		Cisco
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-80   (hex)		CISCO SYSTEMS, INC.
+001280     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-12-81   (hex)		March Networks S.p.A.
@@ -30402,18 +30477,18 @@ company_id			Organization
 				Taipei  248
 				TAIWAN, PROVINCE OF CHINA
 
-00-12-D9   (hex)		Cisco Systems
-0012D9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-D9   (hex)		CISCO SYSTEMS, INC.
+0012D9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-12-DA   (hex)		Cisco Systems
-0012DA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-12-DA   (hex)		CISCO SYSTEMS, INC.
+0012DA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-12-DB   (hex)		ZIEHL industrie-elektronik GmbH + Co KG
@@ -30806,18 +30881,18 @@ company_id			Organization
 				Sungnam Gyunggi 463-760
 				KOREA, REPUBLIC OF
 
-00-13-19   (hex)		Cisco Systems
-001319     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-19   (hex)		CISCO SYSTEMS, INC.
+001319     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-13-1A   (hex)		Cisco Systems
-00131A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-1A   (hex)		CISCO SYSTEMS, INC.
+00131A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-13-1B   (hex)		BeCell Innovations Corp.
@@ -31247,18 +31322,18 @@ company_id			Organization
 				Stockholm Kista 164 80
 				SWEDEN
 
-00-13-5F   (hex)		Cisco Systems
-00135F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-5F   (hex)		CISCO SYSTEMS, INC.
+00135F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-13-60   (hex)		Cisco Systems
-001360     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-60   (hex)		CISCO SYSTEMS, INC.
+001360     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-13-61   (hex)		Biospace Co., Ltd.
@@ -31451,18 +31526,18 @@ company_id			Organization
 				Brooklyn Park MN 55428
 				UNITED STATES
 
-00-13-7F   (hex)		Cisco Systems
-00137F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-7F   (hex)		CISCO SYSTEMS, INC.
+00137F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-13-80   (hex)		Cisco Systems
-001380     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-80   (hex)		CISCO SYSTEMS, INC.
+001380     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-13-81   (hex)		CHIPS & Systems, Inc.
@@ -31886,18 +31961,18 @@ company_id			Organization
 				Kitasaitama-gun Saitama 349-1148
 				JAPAN
 
-00-13-C3   (hex)		Cisco Systems
-0013C3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-C3   (hex)		CISCO SYSTEMS, INC.
+0013C3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-13-C4   (hex)		Cisco Systems
-0013C4     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-13-C4   (hex)		CISCO SYSTEMS, INC.
+0013C4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-13-C5   (hex)		LIGHTRON FIBER-OPTIC DEVICES INC.
@@ -32451,18 +32526,18 @@ company_id			Organization
 				Tokyo 205-0002
 				JAPAN
 
-00-14-1B   (hex)		Cisco Systems
-00141B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-1B   (hex)		CISCO SYSTEMS, INC.
+00141B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-14-1C   (hex)		Cisco Systems
-00141C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-1C   (hex)		CISCO SYSTEMS, INC.
+00141C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-14-1D   (hex)		Lust Antriebstechnik GmbH
@@ -32950,18 +33025,18 @@ company_id			Organization
 				Reston VA 20191
 				UNITED STATES
 
-00-14-69   (hex)		Cisco Systems
-001469     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-69   (hex)		CISCO SYSTEMS, INC.
+001469     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-14-6A   (hex)		Cisco Systems
-00146A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-6A   (hex)		CISCO SYSTEMS, INC.
+00146A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-14-6B   (hex)		Anagran, Inc.
@@ -33353,18 +33428,18 @@ company_id			Organization
 				Copenhagen V  1790V
 				DENMARK
 
-00-14-A8   (hex)		Cisco Systems
-0014A8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-A8   (hex)		CISCO SYSTEMS, INC.
+0014A8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-14-A9   (hex)		Cisco Systems
-0014A9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-A9   (hex)		CISCO SYSTEMS, INC.
+0014A9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-14-AA   (hex)		Ashly Audio, Inc.
@@ -33817,18 +33892,18 @@ company_id			Organization
 				Lund  220 11
 				SWEDEN
 
-00-14-F1   (hex)		Cisco Systems
-0014F1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-F1   (hex)		CISCO SYSTEMS, INC.
+0014F1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-14-F2   (hex)		Cisco Systems
-0014F2     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-14-F2   (hex)		CISCO SYSTEMS, INC.
+0014F2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-14-F3   (hex)		ViXS Systems Inc
@@ -34180,18 +34255,18 @@ company_id			Organization
 				Bochum NRW 44807
 				GERMANY
 
-00-15-2B   (hex)		Cisco Systems
-00152B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-2B   (hex)		CISCO SYSTEMS, INC.
+00152B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-15-2C   (hex)		Cisco Systems
-00152C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-2C   (hex)		CISCO SYSTEMS, INC.
+00152C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-15-2D   (hex)		TenX Networks, LLC
@@ -34535,18 +34610,18 @@ company_id			Organization
 				Cambridge MA 02139
 				UNITED STATES
 
-00-15-62   (hex)		Cisco Systems
-001562     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-62   (hex)		CISCO SYSTEMS, INC.
+001562     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-15-63   (hex)		Cisco Systems
-001563     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-63   (hex)		CISCO SYSTEMS, INC.
+001563     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-15-64   (hex)		BEHRINGER Spezielle Studiotechnik GmbH
@@ -35168,18 +35243,18 @@ company_id			Organization
 				Round Rock Texas 78682
 				UNITED STATES
 
-00-15-C6   (hex)		Cisco Systems
-0015C6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-C6   (hex)		CISCO SYSTEMS, INC.
+0015C6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-15-C7   (hex)		Cisco Systems
-0015C7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-C7   (hex)		CISCO SYSTEMS, INC.
+0015C7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-15-C8   (hex)		FlexiPanel Ltd
@@ -35490,18 +35565,18 @@ company_id			Organization
 				Kowloon  
 				HONG KONG
 
-00-15-F9   (hex)		Cisco Systems
-0015F9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-F9   (hex)		CISCO SYSTEMS, INC.
+0015F9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-15-FA   (hex)		Cisco Systems
-0015FA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-15-FA   (hex)		CISCO SYSTEMS, INC.
+0015FA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-15-FB   (hex)		setex schermuly textile computer gmbh
@@ -35977,18 +36052,18 @@ company_id			Organization
 				Richmond VA 23223
 				UNITED STATES
 
-00-16-46   (hex)		Cisco Systems
-001646     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-16-46   (hex)		CISCO SYSTEMS, INC.
+001646     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-16-47   (hex)		Cisco Systems
-001647     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-16-47   (hex)		CISCO SYSTEMS, INC.
+001647     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-16-48   (hex)		SSD Company Limited
@@ -36520,18 +36595,18 @@ company_id			Organization
 				Villeurbanne Rhone 69100
 				FRANCE
 
-00-16-9C   (hex)		Cisco Systems
-00169C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-16-9C   (hex)		CISCO SYSTEMS, INC.
+00169C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-16-9D   (hex)		Cisco Systems
-00169D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-16-9D   (hex)		CISCO SYSTEMS, INC.
+00169D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-16-9E   (hex)		TV One Ltd
@@ -36790,17 +36865,18 @@ company_id			Organization
 				Bohemia NY 11716
 				UNITED STATES
 
-00-16-C7   (hex)		Cisco Systems
-0016C7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				San Jose CA 95134
+00-16-C7   (hex)		CISCO SYSTEMS, INC.
+0016C7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-16-C8   (hex)		Cisco Systems
-0016C8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-16-C8   (hex)		CISCO SYSTEMS, INC.
+0016C8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-16-C9   (hex)		NAT Seattle, Inc.
@@ -37231,18 +37307,18 @@ company_id			Organization
 				Hayward Ca. 94544
 				UNITED STATES
 
-00-17-0E   (hex)		Cisco Systems
-00170E     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-0E   (hex)		CISCO SYSTEMS, INC.
+00170E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-17-0F   (hex)		Cisco Systems
-00170F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-0F   (hex)		CISCO SYSTEMS, INC.
+00170F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-17-10   (hex)		Casa Systems Inc.
@@ -37699,18 +37775,18 @@ company_id			Organization
 				Abingdon Oxfordshire OX14 4SA
 				UNITED KINGDOM
 
-00-17-59   (hex)		Cisco Systems
-001759     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-59   (hex)		CISCO SYSTEMS, INC.
+001759     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-17-5A   (hex)		Cisco Systems
-00175A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-5A   (hex)		CISCO SYSTEMS, INC.
+00175A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-17-5B   (hex)		ACS Solutions Switzerland Ltd.
@@ -38074,18 +38150,18 @@ company_id			Organization
 				Vienna Va 22182
 				UNITED STATES
 
-00-17-94   (hex)		Cisco Systems
-001794     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-94   (hex)		CISCO SYSTEMS, INC.
+001794     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-17-95   (hex)		Cisco Systems
-001795     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-95   (hex)		CISCO SYSTEMS, INC.
+001795     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-17-96   (hex)		Rittmeyer AG
@@ -38555,18 +38631,18 @@ company_id			Organization
 				OLDHAM Lancs OL2 8DR
 				UNITED KINGDOM
 
-00-17-DF   (hex)		Cisco Systems
-0017DF     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-DF   (hex)		CISCO SYSTEMS, INC.
+0017DF     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-17-E0   (hex)		Cisco Systems
-0017E0     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-17-E0   (hex)		CISCO SYSTEMS, INC.
+0017E0     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-17-E1   (hex)		DACOS Technologies Co., Ltd.
@@ -38917,18 +38993,18 @@ company_id			Organization
 				New York NY 10036
 				UNITED STATES
 
-00-18-18   (hex)		Cisco Systems
-001818     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-18-18   (hex)		CISCO SYSTEMS, INC.
+001818     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-18-19   (hex)		Cisco Systems
-001819     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-18-19   (hex)		CISCO SYSTEMS, INC.
+001819     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-18-1A   (hex)		AVerMedia Information Inc.
@@ -39493,18 +39569,18 @@ company_id			Organization
 				San Diego CA 92121
 				UNITED STATES
 
-00-18-73   (hex)		Cisco Systems
-001873     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-18-73   (hex)		CISCO SYSTEMS, INC.
+001873     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-18-74   (hex)		Cisco Systems
-001874     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-18-74   (hex)		CISCO SYSTEMS, INC.
+001874     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-18-75   (hex)		AnaCise Testnology Pte Ltd
@@ -39930,18 +40006,18 @@ company_id			Organization
 				Lachen SZ 8853
 				SWITZERLAND
 
-00-18-B9   (hex)		Cisco Systems
-0018B9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-18-B9   (hex)		CISCO SYSTEMS, INC.
+0018B9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-18-BA   (hex)		Cisco Systems
-0018BA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-18-BA   (hex)		CISCO SYSTEMS, INC.
+0018BA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-18-BB   (hex)		Eliwell Controls srl
@@ -40420,18 +40496,18 @@ company_id			Organization
 				Wien Österreich 1122
 				AUSTRIA
 
-00-19-06   (hex)		Cisco Systems
-001906     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-06   (hex)		CISCO SYSTEMS, INC.
+001906     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-19-07   (hex)		Cisco Systems
-001907     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-07   (hex)		CISCO SYSTEMS, INC.
+001907     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-19-08   (hex)		Duaxes Corporation
@@ -40677,18 +40753,18 @@ company_id			Organization
 				Tucson AZ 85745
 				UNITED STATES
 
-00-19-2F   (hex)		Cisco Systems
-00192F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-2F   (hex)		CISCO SYSTEMS, INC.
+00192F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-19-30   (hex)		Cisco Systems
-001930     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-30   (hex)		CISCO SYSTEMS, INC.
+001930     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-19-31   (hex)		Balluff GmbH
@@ -40913,18 +40989,18 @@ company_id			Organization
 				Isehara City Kanagawa-Pref. 259-1117
 				JAPAN
 
-00-19-55   (hex)		Cisco Systems
-001955     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-55   (hex)		CISCO SYSTEMS, INC.
+001955     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-19-56   (hex)		Cisco Systems
-001956     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-56   (hex)		CISCO SYSTEMS, INC.
+001956     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-19-57   (hex)		Saafnet Canada Inc.
@@ -41453,18 +41529,18 @@ company_id			Organization
 				Allen Texas 75013
 				UNITED STATES
 
-00-19-A9   (hex)		Cisco Systems
-0019A9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-A9   (hex)		CISCO SYSTEMS, INC.
+0019A9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-19-AA   (hex)		Cisco Systems
-0019AA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-AA   (hex)		CISCO SYSTEMS, INC.
+0019AA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-19-AB   (hex)		Raycom CO ., LTD
@@ -41850,18 +41926,18 @@ company_id			Organization
 				Osaka  550-0014
 				JAPAN
 
-00-19-E7   (hex)		Cisco Systems
-0019E7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-E7   (hex)		CISCO SYSTEMS, INC.
+0019E7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-19-E8   (hex)		Cisco Systems
-0019E8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-19-E8   (hex)		CISCO SYSTEMS, INC.
+0019E8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-19-E9   (hex)		S-Information Technolgy, Co., Ltd.
@@ -42306,18 +42382,18 @@ company_id			Organization
 				Lonsdale S.A. 5160
 				AUSTRALIA
 
-00-1A-2F   (hex)		Cisco Systems
-001A2F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-2F   (hex)		CISCO SYSTEMS, INC.
+001A2F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1A-30   (hex)		Cisco Systems
-001A30     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-30   (hex)		CISCO SYSTEMS, INC.
+001A30     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1A-31   (hex)		SCAN COIN Industries AB
@@ -42692,18 +42768,18 @@ company_id			Organization
 				NANTOU  54261
 				TAIWAN, PROVINCE OF CHINA
 
-00-1A-6C   (hex)		Cisco Systems
-001A6C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-6C   (hex)		CISCO SYSTEMS, INC.
+001A6C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1A-6D   (hex)		Cisco Systems
-001A6D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-6D   (hex)		CISCO SYSTEMS, INC.
+001A6D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1A-6E   (hex)		Impro Technologies
@@ -43029,18 +43105,18 @@ company_id			Organization
 				Round Rock Texas 78682
 				UNITED STATES
 
-00-1A-A1   (hex)		Cisco Systems
-001AA1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-A1   (hex)		CISCO SYSTEMS, INC.
+001AA1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1A-A2   (hex)		Cisco Systems
-001AA2     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-A2   (hex)		CISCO SYSTEMS, INC.
+001AA2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1A-A3   (hex)		DELORME
@@ -43447,18 +43523,18 @@ company_id			Organization
 				TAMPA FL 33634
 				UNITED STATES
 
-00-1A-E2   (hex)		Cisco Systems
-001AE2     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-E2   (hex)		CISCO SYSTEMS, INC.
+001AE2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1A-E3   (hex)		Cisco Systems
-001AE3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1A-E3   (hex)		CISCO SYSTEMS, INC.
+001AE3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1A-E4   (hex)		Medicis Technologies Corporation
@@ -43714,18 +43790,18 @@ company_id			Organization
 				Calgary Alberta T2M 3R7
 				CANADA
 
-00-1B-0C   (hex)		Cisco Systems
-001B0C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-0C   (hex)		CISCO SYSTEMS, INC.
+001B0C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1B-0D   (hex)		Cisco Systems
-001B0D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-0D   (hex)		CISCO SYSTEMS, INC.
+001B0D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1B-0E   (hex)		InoTec GmbH Organisationssysteme
@@ -43909,18 +43985,18 @@ company_id			Organization
 				SEOUL  132-872
 				KOREA, REPUBLIC OF
 
-00-1B-2A   (hex)		Cisco Systems
-001B2A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-2A   (hex)		CISCO SYSTEMS, INC.
+001B2A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1B-2B   (hex)		Cisco Systems
-001B2B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-2B   (hex)		CISCO SYSTEMS, INC.
+001B2B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1B-2C   (hex)		ATRON electronic GmbH
@@ -44175,18 +44251,18 @@ company_id			Organization
 				Libertyville IL 60048
 				UNITED STATES
 
-00-1B-53   (hex)		Cisco Systems
-001B53     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-53   (hex)		CISCO SYSTEMS, INC.
+001B53     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1B-54   (hex)		Cisco Systems
-001B54     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-54   (hex)		CISCO SYSTEMS, INC.
+001B54     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1B-55   (hex)		Hurco Automation Ltd.
@@ -44559,18 +44635,18 @@ company_id			Organization
 				Kista Stockholm 164 40
 				SWEDEN
 
-00-1B-8F   (hex)		Cisco Systems
-001B8F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-8F   (hex)		CISCO SYSTEMS, INC.
+001B8F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1B-90   (hex)		Cisco Systems
-001B90     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJ-M/1
-				San Jose CA 95134
+00-1B-90   (hex)		CISCO SYSTEMS, INC.
+001B90     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1B-91   (hex)		EFKON AG
@@ -44994,18 +45070,18 @@ company_id			Organization
 				Kadoma Osaka 571-8504
 				JAPAN
 
-00-1B-D4   (hex)		Cisco Systems
-001BD4     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1B-D4   (hex)		CISCO SYSTEMS, INC.
+001BD4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1B-D5   (hex)		Cisco Systems
-001BD5     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1B-D5   (hex)		CISCO SYSTEMS, INC.
+001BD5     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1B-D6   (hex)		Kelvin Hughes Ltd
@@ -45365,18 +45441,18 @@ company_id			Organization
 				Santa Monica CA 90404
 				UNITED STATES
 
-00-1C-0E   (hex)		Cisco Systems
-001C0E     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-0E   (hex)		CISCO SYSTEMS, INC.
+001C0E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1C-0F   (hex)		Cisco Systems
-001C0F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-0F   (hex)		CISCO SYSTEMS, INC.
+001C0F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1C-10   (hex)		Cisco-Linksys, LLC
@@ -45822,18 +45898,18 @@ company_id			Organization
 				SungNam Gyung gi-Do 463-810
 				KOREA, REPUBLIC OF
 
-00-1C-57   (hex)		Cisco Systems
-001C57     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-57   (hex)		CISCO SYSTEMS, INC.
+001C57     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1C-58   (hex)		Cisco Systems
-001C58     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-58   (hex)		CISCO SYSTEMS, INC.
+001C58     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1C-59   (hex)		DEVON IT
@@ -45886,10 +45962,11 @@ company_id			Organization
 				Shibuya-ku Tokyo 151-0073
 				JAPAN
 
-00-1C-61   (hex)		Galaxy Technology (HK) Ltd.
-001C61     (base 16)		Galaxy Technology (HK) Ltd.
-				Unit 802, 8/F, Shui Hing Centre, 13 Sheung Yuet Road,
-				Kowloon Bay  Kln., 
+00-1C-61   (hex)		Galaxy  Microsystems LImited
+001C61     (base 16)		Galaxy  Microsystems LImited
+				Room 1101-03, 11/F Enterprise Square Two
+				3 Sheung Yuet Road
+				Kowloon Bay Kowloon 
 				HONG KONG
 
 00-1C-62   (hex)		LG Electronics Inc
@@ -46387,18 +46464,18 @@ company_id			Organization
 				Santa Clara CA 95051
 				UNITED STATES
 
-00-1C-B0   (hex)		Cisco Systems
-001CB0     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-B0   (hex)		CISCO SYSTEMS, INC.
+001CB0     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1C-B1   (hex)		Cisco Systems
-001CB1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-B1   (hex)		CISCO SYSTEMS, INC.
+001CB1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1C-B2   (hex)		BPT SPA
@@ -46832,11 +46909,11 @@ company_id			Organization
 				Kwai Chung N.T. 
 				HONG KONG
 
-00-1C-F6   (hex)		Cisco Systems
-001CF6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-F6   (hex)		CISCO SYSTEMS, INC.
+001CF6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1C-F7   (hex)		AudioScience
@@ -46853,11 +46930,11 @@ company_id			Organization
 				Sunnyvale CA 94085
 				UNITED STATES
 
-00-1C-F9   (hex)		Cisco Systems
-001CF9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1C-F9   (hex)		CISCO SYSTEMS, INC.
+001CF9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1C-FA   (hex)		Alarm.com
@@ -47337,18 +47414,18 @@ company_id			Organization
 				Dordrecht ZH 3313 LC
 				NETHERLANDS
 
-00-1D-45   (hex)		Cisco Systems
-001D45     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-45   (hex)		CISCO SYSTEMS, INC.
+001D45     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1D-46   (hex)		Cisco Systems
-001D46     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-46   (hex)		CISCO SYSTEMS, INC.
+001D46     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1D-47   (hex)		Covote GmbH & Co KG
@@ -47606,18 +47683,18 @@ company_id			Organization
 				Foshan Guangdong 528200
 				CHINA
 
-00-1D-70   (hex)		Cisco Systems
-001D70     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-70   (hex)		CISCO SYSTEMS, INC.
+001D70     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1D-71   (hex)		Cisco Systems
-001D71     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-71   (hex)		CISCO SYSTEMS, INC.
+001D71     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1D-72   (hex)		Wistron Corporation
@@ -47920,18 +47997,18 @@ company_id			Organization
 				Kowloon  
 				HONG KONG
 
-00-1D-A1   (hex)		Cisco Systems
-001DA1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-A1   (hex)		CISCO SYSTEMS, INC.
+001DA1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1D-A2   (hex)		Cisco Systems
-001DA2     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-A2   (hex)		CISCO SYSTEMS, INC.
+001DA2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1D-A3   (hex)		SabiOso
@@ -48345,18 +48422,18 @@ company_id			Organization
 				Garden Grove California 92843
 				UNITED STATES
 
-00-1D-E5   (hex)		Cisco Systems
-001DE5     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-E5   (hex)		CISCO SYSTEMS, INC.
+001DE5     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1D-E6   (hex)		Cisco Systems
-001DE6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1D-E6   (hex)		CISCO SYSTEMS, INC.
+001DE6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1D-E7   (hex)		Marine Sonic Technology, Ltd.
@@ -48640,18 +48717,18 @@ company_id			Organization
 				Eagan MN 55121
 				UNITED STATES
 
-00-1E-13   (hex)		Cisco Systems
-001E13     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-13   (hex)		CISCO SYSTEMS, INC.
+001E13     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1E-14   (hex)		Cisco Systems
-001E14     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-14   (hex)		CISCO SYSTEMS, INC.
+001E14     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1E-15   (hex)		Beech Hill Electronics
@@ -48980,18 +49057,18 @@ company_id			Organization
 				Limassol  3725
 				CYPRUS
 
-00-1E-49   (hex)		Cisco Systems
-001E49     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-49   (hex)		CISCO SYSTEMS, INC.
+001E49     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1E-4A   (hex)		Cisco Systems
-001E4A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-4A   (hex)		CISCO SYSTEMS, INC.
+001E4A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1E-4B   (hex)		City Theatrical
@@ -49280,18 +49357,18 @@ company_id			Organization
 				Taoyuan County  32657
 				TAIWAN, PROVINCE OF CHINA
 
-00-1E-79   (hex)		Cisco Systems
-001E79     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-79   (hex)		CISCO SYSTEMS, INC.
+001E79     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1E-7A   (hex)		Cisco Systems
-001E7A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-7A   (hex)		CISCO SYSTEMS, INC.
+001E7A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1E-7B   (hex)		R.I.CO. S.r.l.
@@ -49719,18 +49796,18 @@ company_id			Organization
 				SUWON-SI KYUNGGI 443-816
 				KOREA, REPUBLIC OF
 
-00-1E-BD   (hex)		Cisco Systems
-001EBD     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-BD   (hex)		CISCO SYSTEMS, INC.
+001EBD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1E-BE   (hex)		Cisco Systems
-001EBE     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-BE   (hex)		CISCO SYSTEMS, INC.
+001EBE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1E-BF   (hex)		Haas Automation Inc.
@@ -50079,18 +50156,18 @@ company_id			Organization
 				Hangzhou  310012
 				CHINA
 
-00-1E-F6   (hex)		Cisco Systems
-001EF6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-F6   (hex)		CISCO SYSTEMS, INC.
+001EF6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1E-F7   (hex)		Cisco Systems
-001EF7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1E-F7   (hex)		CISCO SYSTEMS, INC.
+001EF7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1E-F8   (hex)		Emfinity Inc.
@@ -50383,18 +50460,18 @@ company_id			Organization
 				Krefeld Nordrhein-Westfalen 47809
 				GERMANY
 
-00-1F-26   (hex)		Cisco Systems
-001F26     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-26   (hex)		CISCO SYSTEMS, INC.
+001F26     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1F-27   (hex)		Cisco Systems
-001F27     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-27   (hex)		CISCO SYSTEMS, INC.
+001F27     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1F-28   (hex)		ProCurve Networking by HP
@@ -50827,18 +50904,18 @@ company_id			Organization
 				Seoul  153-023
 				KOREA, REPUBLIC OF
 
-00-1F-6C   (hex)		Cisco Systems
-001F6C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-6C   (hex)		CISCO SYSTEMS, INC.
+001F6C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1F-6D   (hex)		Cisco Systems
-001F6D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-6D   (hex)		CISCO SYSTEMS, INC.
+001F6D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1F-6E   (hex)		Vtech Engineering Corporation
@@ -51139,18 +51216,18 @@ company_id			Organization
 				Plymouth MI 48170
 				UNITED STATES
 
-00-1F-9D   (hex)		Cisco Systems
-001F9D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-9D   (hex)		CISCO SYSTEMS, INC.
+001F9D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1F-9E   (hex)		Cisco Systems
-001F9E     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-9E   (hex)		CISCO SYSTEMS, INC.
+001F9E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1F-9F   (hex)		Thomson Telecom Belgium
@@ -51418,18 +51495,18 @@ company_id			Organization
 				Kowloon  
 				HONG KONG
 
-00-1F-C9   (hex)		Cisco Systems
-001FC9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-C9   (hex)		CISCO SYSTEMS, INC.
+001FC9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-1F-CA   (hex)		Cisco Systems
-001FCA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-1F-CA   (hex)		CISCO SYSTEMS, INC.
+001FCA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-1F-CB   (hex)		NIW Solutions
@@ -52824,11 +52901,11 @@ company_id			Organization
 				SEC.4, CHUNG HSIAO EAST ROAD TAIPEI
 				TAIWAN, PROVINCE OF CHINA
 
-00-20-AA   (hex)		DIGIMEDIA VISION LTD.
-0020AA     (base 16)		DIGIMEDIA VISION LTD.
-				CRAWLEY COURT
-				WINCHESTER, HAMPSHIRE
-				SO21 2QA UNITED KINGDOM
+00-20-AA   (hex)		Ericsson Television Limited
+0020AA     (base 16)		Ericsson Television Limited
+				Solution Area Media
+				Unit 2 Stratefic Park
+				Comines Way, Hedge End Southhampton SO 30 4DA
 				UNITED KINGDOM
 
 00-20-AB   (hex)		MICRO INDUSTRIES CORP.
@@ -53532,18 +53609,18 @@ company_id			Organization
 				Moscow  111250
 				RUSSIAN FEDERATION
 
-00-21-1B   (hex)		Cisco Systems
-00211B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-1B   (hex)		CISCO SYSTEMS, INC.
+00211B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-21-1C   (hex)		Cisco Systems
-00211C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-1C   (hex)		CISCO SYSTEMS, INC.
+00211C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-21-1D   (hex)		Dataline AB
@@ -53900,18 +53977,18 @@ company_id			Organization
 				East Kilbride Lanarkshire G75 0QD
 				UNITED KINGDOM
 
-00-21-55   (hex)		Cisco Systems
-002155     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-55   (hex)		CISCO SYSTEMS, INC.
+002155     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-21-56   (hex)		Cisco Systems
-002156     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-56   (hex)		CISCO SYSTEMS, INC.
+002156     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-21-57   (hex)		National Datacast, Inc.
@@ -54373,18 +54450,18 @@ company_id			Organization
 				SALO Lansi-Suomen Laani 24100
 				FINLAND
 
-00-21-A0   (hex)		Cisco Systems
-0021A0     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-A0   (hex)		CISCO SYSTEMS, INC.
+0021A0     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-21-A1   (hex)		Cisco Systems
-0021A1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-A1   (hex)		CISCO SYSTEMS, INC.
+0021A1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-21-A2   (hex)		EKE-Electronics Ltd.
@@ -54719,18 +54796,18 @@ company_id			Organization
 				Niwot CO 80544-1016
 				UNITED STATES
 
-00-21-D7   (hex)		Cisco Systems
-0021D7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-D7   (hex)		CISCO SYSTEMS, INC.
+0021D7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-21-D8   (hex)		Cisco Systems
-0021D8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-21-D8   (hex)		CISCO SYSTEMS, INC.
+0021D8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-21-D9   (hex)		SEKONIC CORPORATION
@@ -55049,18 +55126,18 @@ company_id			Organization
 				Beijing  100085
 				CHINA
 
-00-22-0C   (hex)		Cisco Systems
-00220C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-0C   (hex)		CISCO SYSTEMS, INC.
+00220C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-22-0D   (hex)		Cisco Systems
-00220D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-0D   (hex)		CISCO SYSTEMS, INC.
+00220D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-22-0E   (hex)		Indigo Security Co., Ltd.
@@ -55505,18 +55582,18 @@ company_id			Organization
 				North Las Vegas NV 89032
 				UNITED STATES
 
-00-22-55   (hex)		Cisco Systems
-002255     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-55   (hex)		CISCO SYSTEMS, INC.
+002255     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-22-56   (hex)		Cisco Systems
-002256     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-56   (hex)		CISCO SYSTEMS, INC.
+002256     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-22-57   (hex)		3Com Europe Ltd
@@ -55877,18 +55954,18 @@ company_id			Organization
 				Meudon Ile de France 92195
 				FRANCE
 
-00-22-90   (hex)		Cisco Systems
-002290     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-90   (hex)		CISCO SYSTEMS, INC.
+002290     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-22-91   (hex)		Cisco Systems
-002291     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-91   (hex)		CISCO SYSTEMS, INC.
+002291     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-22-92   (hex)		Cinetal
@@ -56161,18 +56238,18 @@ company_id			Organization
 				SAINT ETIENNE LOIRE 42000
 				FRANCE
 
-00-22-BD   (hex)		Cisco Systems
-0022BD     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-BD   (hex)		CISCO SYSTEMS, INC.
+0022BD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-22-BE   (hex)		Cisco Systems
-0022BE     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-22-BE   (hex)		CISCO SYSTEMS, INC.
+0022BE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-22-BF   (hex)		SieAmp Group of Companies
@@ -56609,18 +56686,18 @@ company_id			Organization
 				Taipei City  114
 				TAIWAN, PROVINCE OF CHINA
 
-00-23-04   (hex)		Cisco Systems
-002304     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-04   (hex)		CISCO SYSTEMS, INC.
+002304     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-23-05   (hex)		Cisco Systems
-002305     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-05   (hex)		CISCO SYSTEMS, INC.
+002305     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-23-06   (hex)		ALPS Electric Co., Ltd
@@ -56911,18 +56988,18 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
-00-23-33   (hex)		Cisco Systems
-002333     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-33   (hex)		CISCO SYSTEMS, INC.
+002333     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-23-34   (hex)		Cisco Systems
-002334     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-34   (hex)		CISCO SYSTEMS, INC.
+002334     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-23-35   (hex)		Linkflex Co.,Ltd
@@ -57175,18 +57252,18 @@ company_id			Organization
 				Sunnyvale CA 94085
 				UNITED STATES
 
-00-23-5D   (hex)		Cisco Systems
-00235D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-5D   (hex)		CISCO SYSTEMS, INC.
+00235D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-23-5E   (hex)		Cisco Systems
-00235E     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-5E   (hex)		CISCO SYSTEMS, INC.
+00235E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-23-5F   (hex)		Silicon Micro Sensors GmbH
@@ -57668,18 +57745,18 @@ company_id			Organization
 				Sungnam-si Kyunggi-do 463-870
 				KOREA, REPUBLIC OF
 
-00-23-AB   (hex)		Cisco Systems
-0023AB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-AB   (hex)		CISCO SYSTEMS, INC.
+0023AB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-23-AC   (hex)		Cisco Systems
-0023AC     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-AC   (hex)		CISCO SYSTEMS, INC.
+0023AC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-23-AD   (hex)		Xmark Corporation
@@ -58068,18 +58145,18 @@ company_id			Organization
 				Seattle WA 98119
 				UNITED STATES
 
-00-23-EA   (hex)		Cisco Systems
-0023EA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-EA   (hex)		CISCO SYSTEMS, INC.
+0023EA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-23-EB   (hex)		Cisco Systems
-0023EB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-23-EB   (hex)		CISCO SYSTEMS, INC.
+0023EB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-23-EC   (hex)		Algorithmix GmbH
@@ -58322,18 +58399,18 @@ company_id			Organization
 				Shenzhen Guangdong 518057
 				CHINA
 
-00-24-13   (hex)		Cisco Systems
-002413     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-13   (hex)		CISCO SYSTEMS, INC.
+002413     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-24-14   (hex)		Cisco Systems
-002414     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-14   (hex)		CISCO SYSTEMS, INC.
+002414     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-24-15   (hex)		Magnetic Autocontrol GmbH
@@ -58693,18 +58770,18 @@ company_id			Organization
 				Taipei  11166
 				TAIWAN, PROVINCE OF CHINA
 
-00-24-50   (hex)		Cisco Systems
-002450     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-50   (hex)		CISCO SYSTEMS, INC.
+002450     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-24-51   (hex)		Cisco Systems
-002451     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-51   (hex)		CISCO SYSTEMS, INC.
+002451     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-24-52   (hex)		Silicon Software GmbH
@@ -59138,18 +59215,18 @@ company_id			Organization
 				Weng Upper Austria 4952
 				AUSTRIA
 
-00-24-97   (hex)		Cisco Systems
-002497     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-97   (hex)		CISCO SYSTEMS, INC.
+002497     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-24-98   (hex)		Cisco Systems
-002498     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-98   (hex)		CISCO SYSTEMS, INC.
+002498     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-24-99   (hex)		Aquila Technologies
@@ -59416,18 +59493,18 @@ company_id			Organization
 				EBINA-CITY KANAGAWA-PREF. 243-0419
 				JAPAN
 
-00-24-C3   (hex)		Cisco Systems
-0024C3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-C3   (hex)		CISCO SYSTEMS, INC.
+0024C3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-24-C4   (hex)		Cisco Systems
-0024C4     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-C4   (hex)		CISCO SYSTEMS, INC.
+0024C4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-24-C5   (hex)		Meridian Audio Limited
@@ -59747,11 +59824,11 @@ company_id			Organization
 				KAWANISHI-CITY HYOGO-PREF. 666-0024
 				JAPAN
 
-00-24-F7   (hex)		Cisco Systems
-0024F7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-F7   (hex)		CISCO SYSTEMS, INC.
+0024F7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-24-F8   (hex)		Technical Solutions Company Ltd.
@@ -59760,11 +59837,11 @@ company_id			Organization
 				Whitehorse Yukon Y1A 6L3
 				CANADA
 
-00-24-F9   (hex)		Cisco Systems
-0024F9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-24-F9   (hex)		CISCO SYSTEMS, INC.
+0024F9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-24-FA   (hex)		Hilger u. Kern GMBH
@@ -60219,18 +60296,18 @@ company_id			Organization
 				MA 02021
 				UNITED STATES
 
-00-25-45   (hex)		Cisco Systems
-002545     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-25-45   (hex)		CISCO SYSTEMS, INC.
+002545     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-25-46   (hex)		Cisco Systems
-002546     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-25-46   (hex)		CISCO SYSTEMS, INC.
+002546     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-25-47   (hex)		Nokia Danmark A/S
@@ -60605,18 +60682,18 @@ company_id			Organization
 				New Delhi  110020
 				INDIA
 
-00-25-83   (hex)		Cisco Systems
-002583     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-25-83   (hex)		CISCO SYSTEMS, INC.
+002583     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-25-84   (hex)		Cisco Systems
-002584     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-25-84   (hex)		CISCO SYSTEMS, INC.
+002584     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-25-85   (hex)		KOKUYO S&T Co., Ltd.
@@ -60913,18 +60990,18 @@ company_id			Organization
 				Houston Texas 77070
 				UNITED STATES
 
-00-25-B4   (hex)		Cisco Systems
-0025B4     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-25-B4   (hex)		CISCO SYSTEMS, INC.
+0025B4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-25-B5   (hex)		Cisco Systems
-0025B5     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-25-B5   (hex)		CISCO SYSTEMS, INC.
+0025B5     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-25-B6   (hex)		Telecom FM
@@ -61446,18 +61523,18 @@ company_id			Organization
 				Taipei  104
 				TAIWAN, PROVINCE OF CHINA
 
-00-26-0A   (hex)		Cisco Systems
-00260A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-0A   (hex)		CISCO SYSTEMS, INC.
+00260A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-26-0B   (hex)		Cisco Systems
-00260B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-0B   (hex)		CISCO SYSTEMS, INC.
+00260B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-26-0C   (hex)		Dataram
@@ -61886,18 +61963,18 @@ company_id			Organization
 				San Jose CA 95131
 				UNITED STATES
 
-00-26-51   (hex)		Cisco Systems
-002651     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-51   (hex)		CISCO SYSTEMS, INC.
+002651     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-26-52   (hex)		Cisco Systems
-002652     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-52   (hex)		CISCO SYSTEMS, INC.
+002652     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-26-53   (hex)		DaySequerra Corporation
@@ -62337,18 +62414,18 @@ company_id			Organization
 				Pittsburgh PA 15220
 				UNITED STATES
 
-00-26-98   (hex)		Cisco Systems
-002698     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-98   (hex)		CISCO SYSTEMS, INC.
+002698     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-26-99   (hex)		Cisco Systems
-002699     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-99   (hex)		CISCO SYSTEMS, INC.
+002699     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-26-9A   (hex)		carina system co., ltd.
@@ -62650,18 +62727,18 @@ company_id			Organization
 				Birmingham AL 35242
 				UNITED STATES
 
-00-26-CA   (hex)		Cisco Systems
-0026CA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-CA   (hex)		CISCO SYSTEMS, INC.
+0026CA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-26-CB   (hex)		Cisco Systems
-0026CB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-26-CB   (hex)		CISCO SYSTEMS, INC.
+0026CB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-26-CC   (hex)		Nokia Danmark A/S
@@ -63065,18 +63142,18 @@ company_id			Organization
 				San Francisco CA 94105
 				UNITED STATES
 
-00-27-0C   (hex)		Cisco Systems
-00270C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-27-0C   (hex)		CISCO SYSTEMS, INC.
+00270C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-27-0D   (hex)		Cisco Systems
-00270D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+00-27-0D   (hex)		CISCO SYSTEMS, INC.
+00270D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-27-0E   (hex)		Intel Corporate
@@ -63221,11 +63298,11 @@ company_id			Organization
 				San Jose CA 95110
 				UNITED STATES
 
-00-2A-6A   (hex)		Cisco Systems
-002A6A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+00-2A-6A   (hex)		CISCO SYSTEMS, INC.
+002A6A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-2A-AF   (hex)		LARsys-Automation GmbH
@@ -63404,8 +63481,9 @@ company_id			Organization
 
 00-30-19   (hex)		CISCO SYSTEMS, INC.
 003019     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE - SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-1A   (hex)		SMARTBRIDGES PTE. LTD.
@@ -63474,8 +63552,9 @@ company_id			Organization
 
 00-30-24   (hex)		CISCO SYSTEMS, INC.
 003024     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE -SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-25   (hex)		CHECKOUT COMPUTER SYSTEMS, LTD
@@ -63650,8 +63729,9 @@ company_id			Organization
 
 00-30-40   (hex)		CISCO SYSTEMS, INC.
 003040     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE -SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-41   (hex)		SAEJIN T & M CO., LTD.
@@ -63954,10 +64034,11 @@ company_id			Organization
 				Somerset NJ 08873
 				UNITED STATES
 
-00-30-71   (hex)		Cisco Systems, Inc.
-003071     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Driv - SJA-2
-				San Jose CA 95134
+00-30-71   (hex)		CISCO SYSTEMS, INC.
+003071     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-72   (hex)		Intellibyte Inc.
@@ -63998,10 +64079,11 @@ company_id			Organization
 				FREMONT CA 94538
 				UNITED STATES
 
-00-30-78   (hex)		Cisco Systems, Inc.
-003078     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-30-78   (hex)		CISCO SYSTEMS, INC.
+003078     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-79   (hex)		CQOS, INC.
@@ -64017,10 +64099,11 @@ company_id			Organization
 				240-0005
 				JAPAN
 
-00-30-7B   (hex)		Cisco Systems, Inc.
-00307B     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-30-7B   (hex)		CISCO SYSTEMS, INC.
+00307B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-7C   (hex)		ADID SA
@@ -64049,8 +64132,9 @@ company_id			Organization
 
 00-30-80   (hex)		CISCO SYSTEMS, INC.
 003080     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE - SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-81   (hex)		ALTOS C&C
@@ -64082,8 +64166,9 @@ company_id			Organization
 
 00-30-85   (hex)		CISCO SYSTEMS, INC.
 003085     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-86   (hex)		Transistor Devices, Inc.
@@ -64172,10 +64257,11 @@ company_id			Organization
 				Irvine, CA 92618
 				UNITED STATES
 
-00-30-94   (hex)		Cisco Systems, Inc.
-003094     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-30-94   (hex)		CISCO SYSTEMS, INC.
+003094     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-95   (hex)		Procomp Informatics, Ltd.
@@ -64187,8 +64273,9 @@ company_id			Organization
 
 00-30-96   (hex)		CISCO SYSTEMS, INC.
 003096     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE - SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-97   (hex)		AB Regin
@@ -64269,8 +64356,9 @@ company_id			Organization
 
 00-30-A3   (hex)		CISCO SYSTEMS, INC.
 0030A3     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE -SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-A4   (hex)		Woodwind Communications System
@@ -64390,8 +64478,9 @@ company_id			Organization
 
 00-30-B6   (hex)		CISCO SYSTEMS, INC.
 0030B6     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE - SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-B7   (hex)		Teletrol Systems, Inc.
@@ -64767,8 +64856,9 @@ company_id			Organization
 
 00-30-F2   (hex)		CISCO SYSTEMS, INC.
 0030F2     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE - SJA-2
-				SAN JOSE CA 85134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-30-F3   (hex)		At Work Computers
@@ -64889,39 +64979,39 @@ company_id			Organization
 				Nagaokakyo-shi Kyoto 617-8555
 				JAPAN
 
-00-3A-98   (hex)		Cisco Systems
-003A98     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+00-3A-98   (hex)		CISCO SYSTEMS, INC.
+003A98     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-3A-99   (hex)		Cisco Systems
-003A99     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+00-3A-99   (hex)		CISCO SYSTEMS, INC.
+003A99     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-3A-9A   (hex)		Cisco Systems
-003A9A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+00-3A-9A   (hex)		CISCO SYSTEMS, INC.
+003A9A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-3A-9B   (hex)		Cisco Systems
-003A9B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+00-3A-9B   (hex)		CISCO SYSTEMS, INC.
+003A9B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-3A-9C   (hex)		Cisco Systems
-003A9C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+00-3A-9C   (hex)		CISCO SYSTEMS, INC.
+003A9C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-3A-9D   (hex)		NEC AccessTechnica, Ltd.
@@ -66960,7 +67050,7 @@ company_id			Organization
 00-50-3E   (hex)		CISCO SYSTEMS, INC.
 00503E     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
-				M/S/ SJA-2
+				M/S SJA-2
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
@@ -69737,11 +69827,11 @@ company_id			Organization
 				TOPEKA KS 66614
 				UNITED STATES
 
-00-64-40   (hex)		Cisco Systems
-006440     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+00-64-40   (hex)		CISCO SYSTEMS, INC.
+006440     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-64-A6   (hex)		Maquet CardioVascular
@@ -72475,9 +72565,9 @@ company_id			Organization
 
 00-90-A2   (hex)		CYBERTAN TECHNOLOGY, INC.
 0090A2     (base 16)		CYBERTAN TECHNOLOGY, INC.
-				BLDG.53, 195-56 SEC. 4,
-				CHUNG HSING ROAD,
-				CHUTUNG HSINCHU 
+				99, Park Avenue III
+				Science-Based Industrial Park
+				Hsinchu  
 				TAIWAN, PROVINCE OF CHINA
 
 00-90-A3   (hex)		Corecess Inc.
@@ -74799,10 +74889,11 @@ company_id			Organization
 				Irving TX 75063
 				UNITED STATES
 
-00-B0-4A   (hex)		Cisco Systems, Inc.
-00B04A     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-B0-4A   (hex)		CISCO SYSTEMS, INC.
+00B04A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-B0-52   (hex)		Atheros Communications
@@ -74811,10 +74902,11 @@ company_id			Organization
 				Ocala FL 32822
 				UNITED STATES
 
-00-B0-64   (hex)		Cisco Systems, Inc.
-00B064     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-B0-64   (hex)		CISCO SYSTEMS, INC.
+00B064     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-B0-69   (hex)		Honewell Oy
@@ -74841,10 +74933,11 @@ company_id			Organization
 				Clitheroe Lancashire BB7 1NW
 				UNITED KINGDOM
 
-00-B0-8E   (hex)		Cisco Systems, Inc.
-00B08E     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive -SJA-2
-				San Jose CA 95134
+00-B0-8E   (hex)		CISCO SYSTEMS, INC.
+00B08E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-B0-91   (hex)		Transmeta Corp.
@@ -74890,10 +74983,11 @@ company_id			Organization
 				Oxford 0X4 4GA  
 				UNITED KINGDOM
 
-00-B0-C2   (hex)		Cisco Systems, Inc.
-00B0C2     (base 16)		Cisco Systems, Inc.
-				170 West Tasman Drive - SJA-2
-				San Jose CA 95134
+00-B0-C2   (hex)		CISCO SYSTEMS, INC.
+00B0C2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-B0-C7   (hex)		Tellabs Operations, Inc.
@@ -76733,8 +76827,9 @@ company_id			Organization
 
 00-D0-06   (hex)		CISCO SYSTEMS, INC.
 00D006     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-07   (hex)		MIC ASSOCIATES, INC.
@@ -77255,8 +77350,9 @@ company_id			Organization
 
 00-D0-58   (hex)		CISCO SYSTEMS, INC.
 00D058     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-59   (hex)		AMBIT MICROSYSTEMS CORP.
@@ -77325,8 +77421,9 @@ company_id			Organization
 
 00-D0-63   (hex)		CISCO SYSTEMS, INC.
 00D063     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-64   (hex)		MULTITEL
@@ -77465,8 +77562,9 @@ company_id			Organization
 
 00-D0-79   (hex)		CISCO SYSTEMS, INC.
 00D079     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-7A   (hex)		AMAQUEST COMPUTER CORP.
@@ -77608,8 +77706,9 @@ company_id			Organization
 
 00-D0-90   (hex)		CISCO SYSTEMS, INC.
 00D090     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-91   (hex)		SMARTSAN SYSTEMS, INC.
@@ -77651,9 +77750,9 @@ company_id			Organization
 
 00-D0-97   (hex)		CISCO SYSTEMS, INC.
 00D097     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
+				170 W. TASMAN DRIVE
 				M/S SJA-2
-				SAN JOSE CA 95134
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-98   (hex)		Photon Dynamics Canada Inc.
@@ -77873,20 +77972,23 @@ company_id			Organization
 
 00-D0-BA   (hex)		CISCO SYSTEMS, INC.
 00D0BA     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE- SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-BB   (hex)		CISCO SYSTEMS, INC.
 00D0BB     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE  SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-BC   (hex)		CISCO SYSTEMS, INC.
 00D0BC     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE-SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-BD   (hex)		Silicon Image GmbH
@@ -77909,8 +78011,9 @@ company_id			Organization
 
 00-D0-C0   (hex)		CISCO SYSTEMS, INC.
 00D0C0     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DR.  SJA-2
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-C1   (hex)		HARMONIC DATA SYSTEMS, LTD.
@@ -78030,9 +78133,9 @@ company_id			Organization
 
 00-D0-D3   (hex)		CISCO SYSTEMS, INC.
 00D0D3     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
+				170 W. TASMAN DRIVE
 				M/S SJA-2
-				SAN JOSE CA 95134
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D0-D4   (hex)		V-BITS, INC.
@@ -78308,8 +78411,9 @@ company_id			Organization
 
 00-D0-FF   (hex)		CISCO SYSTEMS, INC.
 00D0FF     (base 16)		CISCO SYSTEMS, INC.
-				170 WEST TASMAN DRIVE
-				SAN JOSE CA 95134
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-D1-1C   (hex)		ACETEL
@@ -78449,11 +78553,11 @@ company_id			Organization
 				SANTA CLARA CA 95054
 				UNITED STATES
 
-00-DE-FB   (hex)		Cisco Systems
-00DEFB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+00-DE-FB   (hex)		CISCO SYSTEMS, INC.
+00DEFB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 00-E0-00   (hex)		Fujitsu Limited
@@ -80528,11 +80632,11 @@ company_id			Organization
 				Wuhan City Hubei Province 430074
 				CHINA
 
-04-C5-A4   (hex)		Cisco Systems
-04C5A4     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+04-C5-A4   (hex)		CISCO SYSTEMS, INC.
+04C5A4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 04-C8-80   (hex)		Samtec Inc
@@ -80654,11 +80758,11 @@ company_id			Organization
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
-04-FE-7F   (hex)		Cisco Systems
-04FE7F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+04-FE-7F   (hex)		CISCO SYSTEMS, INC.
+04FE7F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 04-FF-51   (hex)		NOVAMEDIA INNOVISION SP. Z O.O.
@@ -81628,11 +81732,11 @@ company_id			Organization
 				ShenZhen GuangDong 518116
 				CHINA
 
-08-17-35   (hex)		Cisco Systems
-081735     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+08-17-35   (hex)		CISCO SYSTEMS, INC.
+081735     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 08-17-F4   (hex)		IBM Corp
@@ -81666,11 +81770,11 @@ company_id			Organization
 				Shanghai 201615
 				CHINA
 
-08-1F-F3   (hex)		Cisco Systems
-081FF3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+08-1F-F3   (hex)		CISCO SYSTEMS, INC.
+081FF3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 08-25-22   (hex)		ADVANSEE
@@ -81905,10 +82009,11 @@ company_id			Organization
 				Oberrohrdorf AG 5452
 				SWITZERLAND
 
-08-D0-9F   (hex)		Cisco Systems
-08D09F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				San Jose CA 95134
+08-D0-9F   (hex)		CISCO SYSTEMS, INC.
+08D09F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 08-D2-9A   (hex)		Proformatique
@@ -82189,11 +82294,11 @@ company_id			Organization
 				McBee SC 29101
 				UNITED STATES
 
-0C-85-25   (hex)		Cisco Systems
-0C8525     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+0C-85-25   (hex)		CISCO SYSTEMS, INC.
+0C8525     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 0C-8B-FD   (hex)		Intel Corporate
@@ -82380,10 +82485,11 @@ company_id			Organization
 				Irwindale CA 91702
 				UNITED STATES
 
-0C-D9-96   (hex)		Cisco Systems
-0CD996     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				San Jose CA 95134
+0C-D9-96   (hex)		CISCO SYSTEMS, INC.
+0CD996     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 0C-D9-C1   (hex)		Johnson Controls-ASG
@@ -82781,11 +82887,11 @@ company_id			Organization
 				Taubaté São Paulo 12032-000
 				BRAZIL
 
-10-8C-CF   (hex)		Cisco Systems
-108CCF     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+10-8C-CF   (hex)		CISCO SYSTEMS, INC.
+108CCF     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 10-93-E9   (hex)		Apple, Inc.
@@ -82832,17 +82938,23 @@ company_id			Organization
 				Kwai Chung  
 				HONG KONG
 
+10-B9-FE   (hex)		Lika srl
+10B9FE     (base 16)		Lika srl
+				Via San Lorenzo 25
+				Carrè Vicenza 36010
+				ITALY
+
 10-BA-A5   (hex)		GANA I&C CO., LTD
 10BAA5     (base 16)		GANA I&C CO., LTD
 				154-17 kyoungdong B/D 3F karak-dong songpa-gu
 				Seoul Korea 138-160
 				KOREA, REPUBLIC OF
 
-10-BD-18   (hex)		Cisco Systems
-10BD18     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+10-BD-18   (hex)		CISCO SYSTEMS, INC.
+10BD18     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 10-BF-48   (hex)		ASUSTEK COMPUTER INC.
@@ -83459,11 +83571,11 @@ company_id			Organization
 				Irvine CA 92614-5623
 				UNITED STATES
 
-18-33-9D   (hex)		Cisco Systems
-18339D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+18-33-9D   (hex)		CISCO SYSTEMS, INC.
+18339D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 18-34-51   (hex)		Apple, Inc.
@@ -83753,6 +83865,12 @@ company_id			Organization
 				Austin TX 78746-2001
 				UNITED STATES
 
+18-DC-56   (hex)		Yulong Computer Telecommunication Scientific(shenzhen)Co.,Lt
+18DC56     (base 16)		Yulong Computer Telecommunication Scientific(shenzhen)Co.,Lt
+				Coolpad Information Harbor, 2nd Mengxi road, Hi-Tech Industrial Park(North), Nanshan District
+				Shenzhen Guangdong 518057
+				CHINA
+
 18-E2-88   (hex)		STT Condigi
 18E288     (base 16)		STT Condigi
 				Agnesfridsvagen 113 A
@@ -83777,11 +83895,11 @@ company_id			Organization
 				Hudson WI 54016
 				UNITED STATES
 
-18-EF-63   (hex)		Cisco Systems
-18EF63     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+18-EF-63   (hex)		CISCO SYSTEMS, INC.
+18EF63     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 18-F4-6A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
@@ -83849,11 +83967,11 @@ company_id			Organization
 				San Diego CA 92121
 				UNITED STATES
 
-1C-17-D3   (hex)		Cisco Systems
-1C17D3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+1C-17-D3   (hex)		CISCO SYSTEMS, INC.
+1C17D3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 1C-18-4A   (hex)		ShenZhen RicherLink Technologies Co.,LTD
@@ -84087,11 +84205,11 @@ company_id			Organization
 				Peyton CO 80831
 				UNITED STATES
 
-1C-AA-07   (hex)		Cisco Systems
-1CAA07     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+1C-AA-07   (hex)		CISCO SYSTEMS, INC.
+1CAA07     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 1C-AB-A7   (hex)		Apple, Inc.
@@ -84168,11 +84286,11 @@ company_id			Organization
 				Forchtenberg Baden-Würtemberg D-74670
 				GERMANY
 
-1C-DF-0F   (hex)		Cisco Systems
-1CDF0F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+1C-DF-0F   (hex)		CISCO SYSTEMS, INC.
+1CDF0F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 1C-E1-65   (hex)		Marshal Corporation
@@ -84312,11 +84430,11 @@ company_id			Organization
 				Jiangmen Guangdong 529141
 				CHINA
 
-20-37-06   (hex)		Cisco Systems
-203706     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+20-37-06   (hex)		CISCO SYSTEMS, INC.
+203706     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 20-37-BC   (hex)		Kuipers Electronic Engineering BV
@@ -84822,6 +84940,13 @@ company_id			Organization
 				Uniondale NY 11553
 				UNITED STATES
 
+24-69-A5   (hex)		Huawei Technologies Co., Ltd
+2469A5     (base 16)		Huawei Technologies Co., Ltd
+				Building 17,Nangang Industrial Park
+				Tangtou 3nd Industrial Estate,Shiyan Baoan District
+				Shenzhen Guangdong 518057
+				CHINA
+
 24-76-7D   (hex)		Cisco SPVTG
 24767D     (base 16)		Cisco SPVTG
 				5030 Sugarloaf Parkway
@@ -84897,11 +85022,11 @@ company_id			Organization
 				Chung Ho Taipei Hsien 235
 				TAIWAN, PROVINCE OF CHINA
 
-24-B6-57   (hex)		Cisco Systems
-24B657     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+24-B6-57   (hex)		CISCO SYSTEMS, INC.
+24B657     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 24-B6-B8   (hex)		FRIEM SPA
@@ -85276,18 +85401,18 @@ company_id			Organization
 				Houston Texas 77070
 				UNITED STATES
 
-28-93-FE   (hex)		Cisco Systems
-2893FE     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+28-93-FE   (hex)		CISCO SYSTEMS, INC.
+2893FE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-28-94-0F   (hex)		Cisco Systems
-28940F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+28-94-0F   (hex)		CISCO SYSTEMS, INC.
+28940F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 28-98-7B   (hex)		Samsung Electronics Co.,Ltd
@@ -85594,11 +85719,11 @@ company_id			Organization
 				Auckland  0943
 				NEW ZEALAND
 
-2C-36-F8   (hex)		Cisco Systems
-2C36F8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+2C-36-F8   (hex)		CISCO SYSTEMS, INC.
+2C36F8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 2C-3A-28   (hex)		Fagor Electrónica
@@ -85613,11 +85738,11 @@ company_id			Organization
 				New Taipei City  23145
 				TAIWAN, PROVINCE OF CHINA
 
-2C-3F-38   (hex)		Cisco Systems
-2C3F38     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+2C-3F-38   (hex)		CISCO SYSTEMS, INC.
+2C3F38     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 2C-3F-3E   (hex)		Alge-Timing GmbH
@@ -85646,11 +85771,11 @@ company_id			Organization
 				Gloucester  GL2 9QL
 				UNITED KINGDOM
 
-2C-54-2D   (hex)		Cisco Systems
-2C542D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+2C-54-2D   (hex)		CISCO SYSTEMS, INC.
+2C542D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 2C-5A-A3   (hex)		PROMATE ELECTRONIC CO.LTD
@@ -85967,11 +86092,11 @@ company_id			Organization
 				Seongnam Kyonggi-do 462-120
 				KOREA, REPUBLIC OF
 
-30-37-A6   (hex)		Cisco Systems
-3037A6     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+30-37-A6   (hex)		CISCO SYSTEMS, INC.
+3037A6     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 30-38-55   (hex)		Nokia Corporation
@@ -86204,11 +86329,11 @@ company_id			Organization
 				Newbury Berkshire RG142FN
 				UNITED KINGDOM
 
-30-E4-DB   (hex)		Cisco Systems
-30E4DB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+30-E4-DB   (hex)		CISCO SYSTEMS, INC.
+30E4DB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 30-EB-25   (hex)		INTEK DIGITAL
@@ -87414,11 +87539,11 @@ company_id			Organization
 				Dongguan Guangdong 523849
 				CHINA
 
-3C-CE-73   (hex)		Cisco Systems
-3CCE73     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+3C-CE-73   (hex)		CISCO SYSTEMS, INC.
+3CCE73     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 3C-D0-F8   (hex)		Apple, Inc.
@@ -87447,11 +87572,11 @@ company_id			Organization
 				Houston Texas 77070
 				UNITED STATES
 
-3C-DF-1E   (hex)		Cisco Systems
-3CDF1E     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+3C-DF-1E   (hex)		CISCO SYSTEMS, INC.
+3CDF1E     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 3C-E0-72   (hex)		Apple
@@ -87680,11 +87805,11 @@ company_id			Organization
 				St Neots Cambridgeshire  PE19 8YP
 				UNITED KINGDOM
 
-40-55-39   (hex)		Cisco Systems
-405539     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+40-55-39   (hex)		CISCO SYSTEMS, INC.
+405539     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 40-5A-9B   (hex)		ANOVO
@@ -87994,11 +88119,11 @@ company_id			Organization
 				KYOTO  601-8501
 				JAPAN
 
-40-F4-EC   (hex)		Cisco Systems
-40F4EC     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+40-F4-EC   (hex)		CISCO SYSTEMS, INC.
+40F4EC     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 40-F5-2E   (hex)		Leica Microsystems (Schweiz) AG
@@ -88073,11 +88198,11 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
-44-2B-03   (hex)		Cisco Systems
-442B03     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+44-2B-03   (hex)		CISCO SYSTEMS, INC.
+442B03     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 44-32-2A   (hex)		Avaya Inc
@@ -88393,11 +88518,11 @@ company_id			Organization
 				SEINAJOKI  FIN60101
 				FINLAND
 
-44-D3-CA   (hex)		Cisco Systems
-44D3CA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+44-D3-CA   (hex)		CISCO SYSTEMS, INC.
+44D3CA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 44-D6-3D   (hex)		Talari Networks
@@ -88444,11 +88569,11 @@ company_id			Organization
 				OSBORNE PARK WA 6017
 				AUSTRALIA
 
-44-E4-D9   (hex)		Cisco Systems
-44E4D9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+44-E4-D9   (hex)		CISCO SYSTEMS, INC.
+44E4D9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 44-E8-A5   (hex)		Myreka Technologies Sdn. Bhd.
@@ -89300,11 +89425,11 @@ company_id			Organization
 				Lawrenceville GA 30044
 				UNITED STATES
 
-50-3D-E5   (hex)		Cisco Systems
-503DE5     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+50-3D-E5   (hex)		CISCO SYSTEMS, INC.
+503DE5     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 50-3F-56   (hex)		Syncmold Enterprise Corp
@@ -89332,17 +89457,23 @@ company_id			Organization
 				Irvine California 92618
 				UNITED STATES
 
+50-4F-94   (hex)		Loxone Electronics GmbH
+504F94     (base 16)		Loxone Electronics GmbH
+				Falkensteinstraße 6
+				Kollerschlag Upper Austria 4154
+				AUSTRIA
+
 50-56-63   (hex)		Texas Instruments
 505663     (base 16)		Texas Instruments
 				12500 TI Boulevard
 				Dallas TX 75243
 				UNITED STATES
 
-50-57-A8   (hex)		Cisco Systems
-5057A8     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+50-57-A8   (hex)		CISCO SYSTEMS, INC.
+5057A8     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 50-60-28   (hex)		Xirrus Inc.
@@ -89726,11 +89857,11 @@ company_id			Organization
 				Burnaby BC V5G 1H3
 				CANADA
 
-54-75-D0   (hex)		Cisco Systems
-5475D0     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+54-75-D0   (hex)		CISCO SYSTEMS, INC.
+5475D0     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 54-78-1A   (hex)		Cisco
@@ -89759,11 +89890,11 @@ company_id			Organization
 				Banska Bystrica Slovak republic 974 05
 				SLOVAKIA
 
-54-7F-EE   (hex)		Cisco Systems
-547FEE     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+54-7F-EE   (hex)		CISCO SYSTEMS, INC.
+547FEE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 54-81-AD   (hex)		Eagle Research Corporation
@@ -89992,11 +90123,11 @@ company_id			Organization
 				Taipei  105
 				TAIWAN, PROVINCE OF CHINA
 
-58-35-D9   (hex)		Cisco Systems
-5835D9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+58-35-D9   (hex)		CISCO SYSTEMS, INC.
+5835D9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 58-3C-C6   (hex)		Omneality Ltd.
@@ -90158,11 +90289,11 @@ company_id			Organization
 				Shenzhen Guangdong 518057
 				CHINA
 
-58-8D-09   (hex)		Cisco Systems
-588D09     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+58-8D-09   (hex)		CISCO SYSTEMS, INC.
+588D09     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 58-91-CF   (hex)		Intel Corporate
@@ -90242,11 +90373,11 @@ company_id			Organization
 				Spokane Valley WA 99216
 				UNITED STATES
 
-58-BC-27   (hex)		Cisco Systems
-58BC27     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+58-BC-27   (hex)		CISCO SYSTEMS, INC.
+58BC27     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 58-BD-A3   (hex)		Nintendo Co., Ltd.
@@ -90256,11 +90387,11 @@ company_id			Organization
 				KYOTO  601-8501
 				JAPAN
 
-58-BF-EA   (hex)		Cisco Systems
-58BFEA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+58-BF-EA   (hex)		CISCO SYSTEMS, INC.
+58BFEA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 58-C2-32   (hex)		NEC Corporation
@@ -90502,11 +90633,11 @@ company_id			Organization
 				Shenzhen Guangdong 510108
 				CHINA
 
-5C-50-15   (hex)		Cisco Systems
-5C5015     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+5C-50-15   (hex)		CISCO SYSTEMS, INC.
+5C5015     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 5C-51-4F   (hex)		Intel Corporate
@@ -91089,6 +91220,12 @@ company_id			Organization
 				Taipei  112
 				TAIWAN, PROVINCE OF CHINA
 
+60-B1-85   (hex)		ATH system
+60B185     (base 16)		ATH system
+				Osady lezaku 498
+				Chrast CZ 53851
+				CZECH REPUBLIC
+
 60-B3-C4   (hex)		Elber Srl
 60B3C4     (base 16)		Elber Srl
 				via Pontevecchio 42 W
@@ -91112,6 +91249,13 @@ company_id			Organization
 				Via Parini, 2
 				Sirmione Brescia 25019
 				ITALY
+
+60-BB-0C   (hex)		Beijing HuaqinWorld Technology Co,Ltd
+60BB0C     (base 16)		Beijing HuaqinWorld Technology Co,Ltd
+				30F,Beijing Silver Tower,No.2 North Road
+				Dong San Huan.
+				Chao Yang District Beijing 100027
+				CHINA
 
 60-BC-4C   (hex)		EWM Hightec Welding GmbH
 60BC4C     (base 16)		EWM Hightec Welding GmbH
@@ -91271,11 +91415,11 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
-64-00-F1   (hex)		Cisco Systems
-6400F1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+64-00-F1   (hex)		CISCO SYSTEMS, INC.
+6400F1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 64-09-4C   (hex)		Beijing Superbee Wireless Technology Co.,Ltd
@@ -91310,11 +91454,11 @@ company_id			Organization
 				BUDAPEST  H-1134
 				HUNGARY
 
-64-16-8D   (hex)		Cisco Systems
-64168D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+64-16-8D   (hex)		CISCO SYSTEMS, INC.
+64168D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 64-16-F0   (hex)		Shehzhen Huawei Communication Technologies Co., Ltd.
@@ -91644,11 +91788,11 @@ company_id			Organization
 				Dallas TX 75243
 				UNITED STATES
 
-64-9E-F3   (hex)		Cisco Systems
-649EF3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+64-9E-F3   (hex)		CISCO SYSTEMS, INC.
+649EF3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 64-9F-F7   (hex)		Kone OYj
@@ -91657,11 +91801,11 @@ company_id			Organization
 				Hyvinkaa Hyvinkaa 05830
 				FINLAND
 
-64-A0-E7   (hex)		Cisco Systems
-64A0E7     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+64-A0-E7   (hex)		CISCO SYSTEMS, INC.
+64A0E7     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 64-A2-32   (hex)		OOO Samlight
@@ -91696,11 +91840,11 @@ company_id			Organization
 				Seongnam Gyeonggi 463-760
 				KOREA, REPUBLIC OF
 
-64-AE-0C   (hex)		Cisco Systems
-64AE0C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+64-AE-0C   (hex)		CISCO SYSTEMS, INC.
+64AE0C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 64-AE-88   (hex)		Polytec GmbH
@@ -91773,11 +91917,11 @@ company_id			Organization
 				Kulim Kedah 09000
 				MALAYSIA
 
-64-D8-14   (hex)		Cisco Systems
-64D814     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+64-D8-14   (hex)		CISCO SYSTEMS, INC.
+64D814     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 64-D9-12   (hex)		Solidica, Inc.
@@ -91787,11 +91931,11 @@ company_id			Organization
 				Ann Arbor Michigan 48103
 				UNITED STATES
 
-64-D9-89   (hex)		Cisco Systems
-64D989     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+64-D9-89   (hex)		CISCO SYSTEMS, INC.
+64D989     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 64-DB-18   (hex)		OpenPattern
@@ -92201,18 +92345,18 @@ company_id			Organization
 				Seoul  138-834
 				KOREA, REPUBLIC OF
 
-68-BC-0C   (hex)		Cisco Systems
-68BC0C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+68-BC-0C   (hex)		CISCO SYSTEMS, INC.
+68BC0C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-68-BD-AB   (hex)		Cisco Systems
-68BDAB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+68-BD-AB   (hex)		CISCO SYSTEMS, INC.
+68BDAB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 68-CA-00   (hex)		Octopus Systems Limited
@@ -92290,11 +92434,11 @@ company_id			Organization
 				Waterloo Ontario N2L 3W8
 				CANADA
 
-68-EF-BD   (hex)		Cisco Systems
-68EFBD     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+68-EF-BD   (hex)		CISCO SYSTEMS, INC.
+68EFBD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 68-F1-25   (hex)		Data Controls Inc.
@@ -92431,11 +92575,11 @@ company_id			Organization
 				South San Francisco CA 94080
 				UNITED STATES
 
-6C-50-4D   (hex)		Cisco Systems
-6C504D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+6C-50-4D   (hex)		CISCO SYSTEMS, INC.
+6C504D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 6C-5A-34   (hex)		Shenzhen Haitianxiong Electronic Co., Ltd.
@@ -92544,11 +92688,11 @@ company_id			Organization
 				San Jose CA 95134
 				UNITED STATES
 
-6C-9C-ED   (hex)		Cisco Systems
-6C9CED     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+6C-9C-ED   (hex)		CISCO SYSTEMS, INC.
+6C9CED     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 6C-A6-82   (hex)		EDAM information & communications
@@ -92772,6 +92916,12 @@ company_id			Organization
 				Kanata Ontario K2K 2E6
 				CANADA
 
+70-25-59   (hex)		CyberTAN Technology, Inc.
+702559     (base 16)		CyberTAN Technology, Inc.
+				99, Park Avenue III, Science-Based Industrial Park
+				Hsinchu  308
+				TAIWAN, PROVINCE OF CHINA
+
 70-2B-1D   (hex)		E-Domus International Limited
 702B1D     (base 16)		E-Domus International Limited
 				1st Floor
@@ -92983,11 +93133,11 @@ company_id			Organization
 				Khabarovsk  680006
 				RUSSIAN FEDERATION
 
-70-81-05   (hex)		Cisco Systems
-708105     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+70-81-05   (hex)		CISCO SYSTEMS, INC.
+708105     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 70-82-8E   (hex)		OleumTech Corporation
@@ -93093,11 +93243,11 @@ company_id			Organization
 				Wuhan Hubei 430074
 				CHINA
 
-70-CA-9B   (hex)		Cisco Systems
-70CA9B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+70-CA-9B   (hex)		CISCO SYSTEMS, INC.
+70CA9B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 70-CD-60   (hex)		Apple, Inc.
@@ -95570,6 +95720,13 @@ company_id			Organization
 				Nagaokakyo-shi Kyoto 617-8555
 				JAPAN
 
+88-32-9B   (hex)		Samsung Electro Mechanics co.,LTD.
+88329B     (base 16)		Samsung Electro Mechanics co.,LTD.
+				93Moo5T. Bangsamak
+				THAI, WEELGROW INDUSTRIAL ESTATE
+				Bangpakong Chachoengsao 24180
+				THAILAND
+
 88-41-C1   (hex)		ORBISAT DA AMAZONIA IND E AEROL SA
 8841C1     (base 16)		ORBISAT DA AMAZONIA IND E AEROL SA
 				AV SHISHIMA HIFUMI, 2911
@@ -95577,11 +95734,11 @@ company_id			Organization
 				SAO JOSE DOS CAMPOS São Paulo 12244-000
 				BRAZIL
 
-88-43-E1   (hex)		Cisco Systems
-8843E1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+88-43-E1   (hex)		CISCO SYSTEMS, INC.
+8843E1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 88-4B-39   (hex)		Siemens AG, Healthcare Sector
@@ -95836,11 +95993,11 @@ company_id			Organization
 				Seoul  137-868
 				KOREA, REPUBLIC OF
 
-88-F0-77   (hex)		Cisco Systems
-88F077     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+88-F0-77   (hex)		CISCO SYSTEMS, INC.
+88F077     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 88-F4-88   (hex)		cellon communications technology(shenzhen)Co.,Ltd.
@@ -95867,6 +96024,12 @@ company_id			Organization
 8C04FF     (base 16)		Technicolor USA Inc.
 				101 West 103rd Street
 				Indianapolis IN 46290
+				UNITED STATES
+
+8C-07-8C   (hex)		FLOW DATA INC
+8C078C     (base 16)		FLOW DATA INC
+				2309 GRAND PARK DRIVE
+				GRAND JUNCTION CO 81505
 				UNITED STATES
 
 8C-0C-90   (hex)		Ruckus Wireless
@@ -96020,11 +96183,11 @@ company_id			Organization
 				Beiijng  102613
 				CHINA
 
-8C-60-4F   (hex)		Cisco Systems
-8C604F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+8C-60-4F   (hex)		CISCO SYSTEMS, INC.
+8C604F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 8C-64-0B   (hex)		Beyond Devices d.o.o.
@@ -96176,11 +96339,11 @@ company_id			Organization
 				Bellevue WA 98005
 				UNITED STATES
 
-8C-B6-4F   (hex)		Cisco Systems
-8CB64F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+8C-B6-4F   (hex)		CISCO SYSTEMS, INC.
+8CB64F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 8C-B8-2C   (hex)		IPitomy Communications
@@ -97353,6 +97516,13 @@ company_id			Organization
 				Houston Texas 77070
 				UNITED STATES
 
+98-4C-04   (hex)		Zhangzhou Cannet electrical appliances Co.Ltd
+984C04     (base 16)		Zhangzhou Cannet electrical appliances Co.Ltd
+				Cannet Technology Park,HengliuRoad
+				Lantian Economic Development Zone
+				Zhangzhou Fujian 363005
+				CHINA
+
 98-4C-D3   (hex)		Mantis Deposition
 984CD3     (base 16)		Mantis Deposition
 				2 Goodson Industrial Mews
@@ -97465,11 +97635,11 @@ company_id			Organization
 				JINHUA CITY ZHEJIANG PROVINCE, 321017
 				CHINA
 
-98-8E-DD   (hex)		Raychem International
-988EDD     (base 16)		Raychem International
-				Bay 105,
-				Shannon Industrial Estate,
-				Shannon, Co. Clare Eire
+98-8E-DD   (hex)		TE Connectivity Limerick
+988EDD     (base 16)		TE Connectivity Limerick
+				International Science Centre, Block 1
+				Univeristy of Limerick (NTP)
+				Castletroy Co. Limerick 
 				IRELAND
 
 98-90-80   (hex)		Linkpower Network System Inc Ltd.
@@ -97721,11 +97891,11 @@ company_id			Organization
 				Bozeman MT 59715
 				UNITED STATES
 
-9C-4E-20   (hex)		Cisco Systems
-9C4E20     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+9C-4E-20   (hex)		CISCO SYSTEMS, INC.
+9C4E20     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 9C-4E-36   (hex)		Intel Corporate
@@ -97920,11 +98090,11 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
-9C-AF-CA   (hex)		Cisco Systems
-9CAFCA     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+9C-AF-CA   (hex)		CISCO SYSTEMS, INC.
+9CAFCA     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 9C-B0-08   (hex)		Ubiquitous Computing Technology Corporation
@@ -98435,11 +98605,11 @@ A0C3DE     (base 16)		 Triton Electronic Systems Ltd.
 				Ekaterinburg Sverdlovskaya obl. 620063
 				RUSSIAN FEDERATION
 
-A0-CF-5B   (hex)		Cisco Systems
-A0CF5B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+A0-CF-5B   (hex)		CISCO SYSTEMS, INC.
+A0CF5B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 A0-DC-04   (hex)		Becker-Antriebe GmbH
@@ -98554,11 +98724,11 @@ A40BED     (base 16)		Carry Technology Co.,Ltd
 				Jhonghe Dist. New Taipei City 23585
 				TAIWAN, PROVINCE OF CHINA
 
-A4-0C-C3   (hex)		Cisco Systems
-A40CC3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+A4-0C-C3   (hex)		CISCO SYSTEMS, INC.
+A40CC3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 A4-13-4E   (hex)		Luxul
@@ -98575,11 +98745,11 @@ A41731     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Shanghai  201613
 				CHINA
 
-A4-18-75   (hex)		Cisco Systems
-A41875     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+A4-18-75   (hex)		CISCO SYSTEMS, INC.
+A41875     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 A4-1B-C0   (hex)		Fastec Imaging Corporation
@@ -98614,6 +98784,12 @@ A429B7     (base 16)		bluesky
 				Beijing  100088
 				CHINA
 
+A4-2C-08   (hex)		Masterwork Automodules
+A42C08     (base 16)		Masterwork Automodules
+				11F-3, 3,PARK ST., NAN GANG
+				TAIPEI  11503
+				TAIWAN, PROVINCE OF CHINA
+
 A4-33-D1   (hex)		Fibrlink Communications Co.,Ltd.
 A433D1     (base 16)		Fibrlink Communications Co.,Ltd.
 				28F Ages Wealth World, No.1 Hangfeng Road
@@ -98646,11 +98822,11 @@ A44B15     (base 16)		Sun Cupid Technology (HK) LTD
 				Tsim Sha Tsui  
 				HONG KONG
 
-A4-4C-11   (hex)		Cisco Systems
-A44C11     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+A4-4C-11   (hex)		CISCO SYSTEMS, INC.
+A44C11     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 A4-4E-2D   (hex)		Adaptive Wireless Solutions, LLC
@@ -98684,11 +98860,11 @@ A4561B     (base 16)		MCOT Corporation
 				Matsuyama city Ehime prefecture 790-0044
 				JAPAN
 
-A4-56-30   (hex)		Cisco Systems
-A45630     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+A4-56-30   (hex)		CISCO SYSTEMS, INC.
+A45630     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 A4-5A-1C   (hex)		smart-electronic GmbH
@@ -98755,11 +98931,11 @@ A49005     (base 16)		CHINA GREATWALL COMPUTER SHENZHEN CO.,LTD
 				Shenzhen Guangdong 51807
 				CHINA
 
-A4-93-4C   (hex)		Cisco Systems
-A4934C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+A4-93-4C   (hex)		CISCO SYSTEMS, INC.
+A4934C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 A4-97-BB   (hex)		Hitachi Industrial Equipment Systems Co.,Ltd
@@ -99240,11 +99416,11 @@ A8B0AE     (base 16)		LEONI
 				Santa Clara California 95054
 				UNITED STATES
 
-A8-B1-D4   (hex)		Cisco Systems
-A8B1D4     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+A8-B1-D4   (hex)		CISCO SYSTEMS, INC.
+A8B1D4     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 A8-BD-1A   (hex)		Honey Bee (Hong Kong) Limited
@@ -99724,11 +99900,11 @@ AC9CE4     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
 				Shanghai  201206
 				CHINA
 
-AC-A0-16   (hex)		Cisco Systems
-ACA016     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+AC-A0-16   (hex)		CISCO SYSTEMS, INC.
+ACA016     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 AC-A2-2C   (hex)		Baycity Technologies Ltd
@@ -99842,6 +100018,13 @@ ACD9D6     (base 16)		tci GmbH
 				Ludwig-Rinn-Straße 10-14
 				Heuchelheim Hessen 35452
 				GERMANY
+
+AC-DB-DA   (hex)		Shenzhen Geniatech Inc, Ltd
+ACDBDA     (base 16)		Shenzhen Geniatech Inc, Ltd
+				18th F, GDC Building,No.9 ,Gaoxin Central Avenue 3rd
+				Nanshan District
+				Shenzhen GuangDong 518057
+				CHINA
 
 AC-DE-48   (hex)		PRIVATE
 ACDE48     (base 16)		 
@@ -100364,11 +100547,11 @@ B40EDC     (base 16)		LG-Ericsson Co.,Ltd.
 				Anyang-shi Kyungki-do 431-749
 				KOREA, REPUBLIC OF
 
-B4-14-89   (hex)		Cisco Systems
-B41489     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+B4-14-89   (hex)		CISCO SYSTEMS, INC.
+B41489     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 B4-1D-EF   (hex)		Internet Laboratories, Inc.
@@ -100592,11 +100775,11 @@ B4A4B5     (base 16)		Zen Eye Co.,Ltd
 				Bucheon-si Gyeonggi-do 420-859
 				KOREA, REPUBLIC OF
 
-B4-A4-E3   (hex)		Cisco Systems
-B4A4E3     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+B4-A4-E3   (hex)		CISCO SYSTEMS, INC.
+B4A4E3     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 B4-A5-A9   (hex)		MODI GmbH
@@ -100927,11 +101110,11 @@ B8616F     (base 16)		Accton Wireless Broadband(AWB), Corp.
 				Hsinchu  30077
 				TAIWAN, PROVINCE OF CHINA
 
-B8-62-1F   (hex)		Cisco Systems
-B8621F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+B8-62-1F   (hex)		CISCO SYSTEMS, INC.
+B8621F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 B8-64-91   (hex)		CK Telecom Ltd
@@ -101151,11 +101334,11 @@ B8BB6D     (base 16)		ENERES Co.,Ltd.
 				Adahci-ku Tokyo 120-0034
 				JAPAN
 
-B8-BE-BF   (hex)		Cisco Systems
-B8BEBF     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+B8-BE-BF   (hex)		CISCO SYSTEMS, INC.
+B8BEBF     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 B8-C6-8E   (hex)		Samsung Electronics Co.,Ltd
@@ -101877,11 +102060,11 @@ C05E79     (base 16)		SHENZHEN HUAXUN ARK TECHNOLOGIES CO.,LTD
 				shenzhen guangdong 518102
 				CHINA
 
-C0-62-6B   (hex)		Cisco Systems
-C0626B     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+C0-62-6B   (hex)		CISCO SYSTEMS, INC.
+C0626B     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C0-6C-0F   (hex)		Dobbs Stanford
@@ -102121,11 +102304,11 @@ C401B1     (base 16)		SeekTech INC
 				San Diego California 92123
 				UNITED STATES
 
-C4-0A-CB   (hex)		Cisco Systems
-C40ACB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+C4-0A-CB   (hex)		CISCO SYSTEMS, INC.
+C40ACB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C4-0F-09   (hex)		Hermes electronic GmbH
@@ -102303,11 +102486,11 @@ C46354     (base 16)		U-Raku, Inc.
 				Ritto-shi Shiga 520-3041
 				JAPAN
 
-C4-64-13   (hex)		Cisco Systems
-C46413     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+C4-64-13   (hex)		CISCO SYSTEMS, INC.
+C46413     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C4-67-B5   (hex)		Libratone A/S
@@ -102335,11 +102518,11 @@ C47130     (base 16)		Fon Technology S.L.
 				Madrid  28050
 				SPAIN
 
-C4-71-FE   (hex)		Cisco Systems
-C471FE     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+C4-71-FE   (hex)		CISCO SYSTEMS, INC.
+C471FE     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C4-73-1E   (hex)		Samsung Eletronics Co., Ltd
@@ -102360,11 +102543,11 @@ C47BA3     (base 16)		NAVIS Inc.
 				Moscow  127411
 				RUSSIAN FEDERATION
 
-C4-7D-4F   (hex)		Cisco Systems
-C47D4F     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/1
-				San Jose CA 95134
+C4-7D-4F   (hex)		CISCO SYSTEMS, INC.
+C47D4F     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C4-82-3F   (hex)		Fujian Newland Auto-ID Tech. Co,.Ltd.
@@ -102667,11 +102850,11 @@ C848F5     (base 16)		MEDISON Xray Co., Ltd
 				Seoul  135-280
 				KOREA, REPUBLIC OF
 
-C8-4C-75   (hex)		Cisco Systems
-C84C75     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+C8-4C-75   (hex)		CISCO SYSTEMS, INC.
+C84C75     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C8-56-45   (hex)		Intermas France
@@ -102796,11 +102979,11 @@ C8979F     (base 16)		Nokia Corporation
 				Oulu  90570
 				FINLAND
 
-C8-9C-1D   (hex)		Cisco Systems
-C89C1D     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+C8-9C-1D   (hex)		CISCO SYSTEMS, INC.
+C89C1D     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C8-9C-DC   (hex)		ELITEGROUP COMPUTER SYSTEM CO., LTD.
@@ -103017,11 +103200,11 @@ C8F981     (base 16)		Seneca s.r.l.
 				PADOVA  35127
 				ITALY
 
-C8-F9-F9   (hex)		Cisco Systems
-C8F9F9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+C8-F9-F9   (hex)		CISCO SYSTEMS, INC.
+C8F9F9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 C8-FB-26   (hex)		Cisco SPVTG
@@ -103043,6 +103226,12 @@ CC0080     (base 16)		TRUST SYSTEM Co.,
 				takatsu-ku
 				Kawasaki-shi Kanagawa 213-0014
 				JAPAN
+
+CC-04-7C   (hex)		G-WAY Microwave
+CC047C     (base 16)		G-WAY Microwave
+				38 Leuning Street
+				South Hackensack New Jersey 07078
+				UNITED STATES
 
 CC-05-1B   (hex)		Samsung Electronics Co.,Ltd
 CC051B     (base 16)		Samsung Electronics Co.,Ltd
@@ -103454,11 +103643,11 @@ CCEED9     (base 16)		Deto Mechatronic GmbH
 				Kufstein Tirol 6330
 				AUSTRIA
 
-CC-EF-48   (hex)		Cisco Systems
-CCEF48     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+CC-EF-48   (hex)		CISCO SYSTEMS, INC.
+CCEF48     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 CC-F3-A5   (hex)		Chi Mei Communication Systems, Inc
@@ -103609,11 +103798,11 @@ D0542D     (base 16)		Cambridge Industries(Group) Co.,Ltd.
 				Shanghai  200233
 				CHINA
 
-D0-57-4C   (hex)		Cisco Systems
-D0574C     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+D0-57-4C   (hex)		CISCO SYSTEMS, INC.
+D0574C     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D0-57-85   (hex)		Pantech Co., Ltd.
@@ -103784,11 +103973,11 @@ D0C1B1     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
-D0-C2-82   (hex)		Cisco Systems
-D0C282     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+D0-C2-82   (hex)		CISCO SYSTEMS, INC.
+D0C282     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D0-CD-E1   (hex)		Scientech Electronics
@@ -103804,11 +103993,11 @@ D0CF5E     (base 16)		Energy Micro AS
 				Oslo  N-0484
 				NORWAY
 
-D0-D0-FD   (hex)		Cisco Systems
-D0D0FD     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+D0-D0-FD   (hex)		CISCO SYSTEMS, INC.
+D0D0FD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D0-D2-12   (hex)		K2NET Co.,Ltd.
@@ -103988,6 +104177,12 @@ D4206D     (base 16)		HTC Corporation
 				Taoyuan County Taiwan 330
 				TAIWAN, PROVINCE OF CHINA
 
+D4-27-51   (hex)		Infopia Co., Ltd
+D42751     (base 16)		Infopia Co., Ltd
+				891, Hogye-dong, Dongan-gu
+				Anyang Gyeonggi 431-080
+				KOREA, REPUBLIC OF
+
 D4-28-B2   (hex)		ioBridge, Inc.
 D428B2     (base 16)		ioBridge, Inc.
 				225 Cedar Hill Street
@@ -104156,11 +104351,11 @@ D48890     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
-D4-8C-B5   (hex)		Cisco Systems
-D48CB5     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+D4-8C-B5   (hex)		CISCO SYSTEMS, INC.
+D48CB5     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D4-8F-AA   (hex)		Sogecam Industrial, S.A.
@@ -104225,11 +104420,11 @@ D49E6D     (base 16)		Wuhan Zhongyuan Huadian Science & Technology Co.,
 				Wuhan Hubei 430223
 				CHINA
 
-D4-A0-2A   (hex)		Cisco Systems
-D4A02A     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+D4-A0-2A   (hex)		CISCO SYSTEMS, INC.
+D4A02A     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D4-A4-25   (hex)		SMAX Technology Co., Ltd.
@@ -104319,10 +104514,11 @@ D4D249     (base 16)		Power Ethernet
 				London  WC2A 1AH
 				UNITED KINGDOM
 
-D4-D7-48   (hex)		Cisco Systems
-D4D748     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				San Jose CA 95134
+D4-D7-48   (hex)		CISCO SYSTEMS, INC.
+D4D748     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D4-D8-98   (hex)		Korea CNO Tech Co., Ltd
@@ -104463,11 +104659,11 @@ D81C14     (base 16)		Compacta International, Ltd.
 				San Juan Capistrano CA 92675
 				UNITED STATES
 
-D8-24-BD   (hex)		Cisco Systems
-D824BD     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+D8-24-BD   (hex)		CISCO SYSTEMS, INC.
+D824BD     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D8-26-B9   (hex)		Guangdong Coagent Electronics S &T Co., Ltd.
@@ -104563,11 +104759,11 @@ D85D84     (base 16)		CAx soft GmbH
 				Karlsbad BW 76307
 				GERMANY
 
-D8-67-D9   (hex)		Cisco Systems
-D867D9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+D8-67-D9   (hex)		CISCO SYSTEMS, INC.
+D867D9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 D8-6B-F7   (hex)		Nintendo Co., Ltd.
@@ -105010,11 +105206,11 @@ DC7144     (base 16)		Samsung Electro Mechanics
 				Suwon Gyeunggi-Do 443-743
 				KOREA, REPUBLIC OF
 
-DC-7B-94   (hex)		Cisco Systems
-DC7B94     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+DC-7B-94   (hex)		CISCO SYSTEMS, INC.
+DC7B94     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 DC-85-DE   (hex)		Azurewave Technologies., inc.
@@ -105358,11 +105554,11 @@ E05DA6     (base 16)		Detlef Fink Elektronik & Softwareentwicklung
 				Mössingen  72116
 				GERMANY
 
-E0-5F-B9   (hex)		Cisco Systems
-E05FB9     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+E0-5F-B9   (hex)		CISCO SYSTEMS, INC.
+E05FB9     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 E0-61-B2   (hex)		HANGZHOU ZENOINTEL TECHNOLOGY CO., LTD
@@ -105893,6 +106089,13 @@ E49069     (base 16)		Rockwell Automation
 				Mayfield Heights Ohio 44124
 				UNITED STATES
 
+E4-92-E7   (hex)		Gridlink Tech. Co.,Ltd.
+E492E7     (base 16)		Gridlink Tech. Co.,Ltd.
+				Room No. 619, No. 108 Jiang Bin Dong Road
+				Mawei District
+				Fuzhou Fujian 350015
+				CHINA
+
 E4-96-AE   (hex)		ALTOGRAPHICS Inc.
 E496AE     (base 16)		ALTOGRAPHICS Inc.
 				Daegu Venture Center 13F
@@ -106050,11 +106253,11 @@ E8040B     (base 16)		Apple, Inc.
 				Cupertino CA 95014
 				UNITED STATES
 
-E8-04-62   (hex)		Cisco Systems
-E80462     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+E8-04-62   (hex)		CISCO SYSTEMS, INC.
+E80462     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 E8-04-F3   (hex)		Throughtek Co., Ltd.
@@ -106170,11 +106373,11 @@ E83EFC     (base 16)		ARRIS Group, Inc
 				Suwanee Georgia 30024
 				UNITED STATES
 
-E8-40-40   (hex)		Cisco Systems
-E84040     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+E8-40-40   (hex)		CISCO SYSTEMS, INC.
+E84040     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 E8-40-F2   (hex)		PEGATRON CORPORATION
@@ -106378,18 +106581,18 @@ E8B4AE     (base 16)		Shenzhen C&D Electronics Co.,Ltd
 				Shenzhen Guang Dong 518000
 				CHINA
 
-E8-B7-48   (hex)		Cisco Systems
-E8B748     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+E8-B7-48   (hex)		CISCO SYSTEMS, INC.
+E8B748     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-E8-BA-70   (hex)		Cisco Systems
-E8BA70     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+E8-BA-70   (hex)		CISCO SYSTEMS, INC.
+E8BA70     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 E8-BE-81   (hex)		SAGEMCOM
@@ -106547,11 +106750,11 @@ EC2368     (base 16)		IntelliVoice Co.,Ltd.
 				Chiyoda Tokyo 102-0094
 				JAPAN
 
-EC-30-91   (hex)		Cisco Systems
-EC3091     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+EC-30-91   (hex)		CISCO SYSTEMS, INC.
+EC3091     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 EC-3B-F0   (hex)		NovelSat
@@ -106586,11 +106789,11 @@ EC43F6     (base 16)		ZyXEL Communications Corporation
 				HsinChu Taiwan 300
 				TAIWAN, PROVINCE OF CHINA
 
-EC-44-76   (hex)		Cisco Systems
-EC4476     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+EC-44-76   (hex)		CISCO SYSTEMS, INC.
+EC4476     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 EC-46-44   (hex)		TTK SAS
@@ -106807,11 +107010,11 @@ ECC38A     (base 16)		Accuenergy (CANADA) Inc
 				Toronto Ontario M2J 4P8
 				CANADA
 
-EC-C8-82   (hex)		Cisco Systems
-ECC882     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+EC-C8-82   (hex)		CISCO SYSTEMS, INC.
+ECC882     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 EC-CD-6D   (hex)		Allied Telesis, Inc.
@@ -106989,11 +107192,11 @@ F02408     (base 16)		Talaris (Sweden) AB
 				Flen  64284
 				SWEDEN
 
-F0-25-72   (hex)		Cisco Systems
-F02572     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+F0-25-72   (hex)		CISCO SYSTEMS, INC.
+F02572     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 F0-26-4C   (hex)		Dr. Sigrist AG
@@ -107367,11 +107570,11 @@ F0F669     (base 16)		Motion Analysis Corporation
 				Santa Rosa CA 95403
 				UNITED STATES
 
-F0-F7-55   (hex)		Cisco Systems
-F0F755     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+F0-F7-55   (hex)		CISCO SYSTEMS, INC.
+F0F755     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 F0-F7-B3   (hex)		Phorm
@@ -107614,11 +107817,11 @@ F47B5E     (base 16)		Samsung Eletronics Co., Ltd
 				Suwon Gyeonggi-Do 443742
 				KOREA, REPUBLIC OF
 
-F4-7F-35   (hex)		Cisco Systems
-F47F35     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+F4-7F-35   (hex)		CISCO SYSTEMS, INC.
+F47F35     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 F4-87-71   (hex)		Infoblox
@@ -107663,11 +107866,11 @@ F4A52A     (base 16)		Hawa Technologies Inc
 				San Francisco California 94102
 				UNITED STATES
 
-F4-AC-C1   (hex)		Cisco Systems
-F4ACC1     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJC-M/1
-				San Jose CA 95134
+F4-AC-C1   (hex)		CISCO SYSTEMS, INC.
+F4ACC1     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 F4-B1-64   (hex)		Lightning Telecommunications Technology Co. Ltd
@@ -107758,11 +107961,11 @@ F4E6D7     (base 16)		Solar Power Technologies, Inc.
 				Austin Texas 78746
 				UNITED STATES
 
-F4-EA-67   (hex)		Cisco Systems
-F4EA67     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM1-1
-				San Jose CA 95134
+F4-EA-67   (hex)		CISCO SYSTEMS, INC.
+F4EA67     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 F4-EC-38   (hex)		TP-LINK TECHNOLOGIES CO., LTD.
@@ -107777,6 +107980,13 @@ F4FC32     (base 16)		Texas Instruments
 				12500 TI Boulevard
 				Dallas TX 75243
 				UNITED STATES
+
+F8-01-13   (hex)		Huawei Technologies Co., Ltd
+F80113     (base 16)		Huawei Technologies Co., Ltd
+				Building 17,Nangang Industrial Park
+				Tangtou 3nd Industrial Estate,Shiyan Baoan District
+				Shenzhen Guangdong 518057
+				CHINA
 
 F8-03-32   (hex)		Khomp
 F80332     (base 16)		Khomp
@@ -107935,11 +108145,11 @@ F85F2A     (base 16)		Nokia Corporation
 				Oulu  90230
 				FINLAND
 
-F8-66-F2   (hex)		Cisco Systems
-F866F2     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+F8-66-F2   (hex)		CISCO SYSTEMS, INC.
+F866F2     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
 F8-69-71   (hex)		Seibu Electric Co.,
@@ -108632,10 +108842,10 @@ FCFAF7     (base 16)		Shanghai Baud Data Communication Co.,Ltd.
 				SHANGHAI  201203
 				CHINA
 
-FC-FB-FB   (hex)		Cisco Systems
-FCFBFB     (base 16)		Cisco Systems
-				80 West Tasman Dr.
-				SJCM/2
-				San Jose CA 95134
+FC-FB-FB   (hex)		CISCO SYSTEMS, INC.
+FCFBFB     (base 16)		CISCO SYSTEMS, INC.
+				170 W. TASMAN DRIVE
+				M/S SJA-2
+				SAN JOSE CA 95134-1706
 				UNITED STATES
 
