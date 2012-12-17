@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.13
-#	Date:    2012-12-13 03:15:01
+#	Version: 2012.12.17
+#	Date:    2012-12-17 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -4999,6 +4999,7 @@
 	2540  IXXAT CAN-Interface PC-I 04/PCI
 	2724  Thales PCSM Security Card
 	3376  Cosateq 4 Port CAN Card
+	4000  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
 	6140  PCI6140 32-bit 33MHz PCI-to-PCI Bridge
 	6150  PCI6150 32-bit 33MHz PCI-to-PCI Bridge
 	6152  PCI6152 32-bit 66MHz PCI-to-PCI Bridge
@@ -5194,8 +5195,12 @@
 	a100  Blackmagic Design DeckLink
 	bb04  B&B 3PCIOSD1A Isolated PCI Serial
 	c001  CronyxOmega-PCI (8-port RS232)
+	d00d  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
+		10b5 9030  Digium Tormenta 2 T400P or E400P Quad T1 or E1 PCI card
 	d44d  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
 		10b5 17f6  entVoice E1 Card
+		10b5 17f7  Allo CP400P/E 4-port E1/T1/J1 PCI/PCIe card
+		10b5 17f8  Allo CP200P/E 2-port E1/T1/J1 PCI/PCIe card
 10b6  Madge Networks
 	0001  Smart 16/4 PCI Ringnode
 	0002  Smart 16/4 PCI Ringnode Mk2
