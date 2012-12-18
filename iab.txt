@@ -26203,3 +26203,9 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				San Jose CA 95128
 				UNITED STATES
 
+40-D8-55	(hex)		C-COM Satellite Systems Inc.
+06E000-06EFFF	(base 16)	C-COM Satellite Systems Inc.
+				2574 Sheffield Road
+				Ottawa ONTARIO K1B3V7
+				CANADA
+

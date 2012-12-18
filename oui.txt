@@ -83652,6 +83652,12 @@ company_id			Organization
 				Hsinchu  30076
 				TAIWAN, PROVINCE OF CHINA
 
+18-53-E0   (hex)		Hanyang Digitech Co.Ltd
+1853E0     (base 16)		Hanyang Digitech Co.Ltd
+				103, BANWOL-DONG, HWASEONG-SI, KYUNGGI-DO, KOREA
+				HWASEONG KYUNGGI 445-330
+				KOREA, REPUBLIC OF
+
 18-55-0F   (hex)		Cisco SPVTG
 18550F     (base 16)		Cisco SPVTG
 				5030 Sugarloaf Parkway
@@ -85488,6 +85494,12 @@ company_id			Organization
 28C0DA     (base 16)		Juniper Networks
 				1194 N Mathilda Avenue
 				Sunnyvale CA 94089
+				UNITED STATES
+
+28-C6-8E   (hex)		NETGEAR INC.,
+28C68E     (base 16)		NETGEAR INC.,
+				350 EAST PLUMERIA DRIVE
+				SAN JOSE CALIFORNIA 95134
 				UNITED STATES
 
 28-C7-18   (hex)		Altierre
@@ -92885,6 +92897,12 @@ company_id			Organization
 				Shanghai 200120
 				CHINA
 
+70-11-24   (hex)		Apple
+701124     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
 70-14-04   (hex)		Limited Liability Company "Research Center "Bresler"
 701404     (base 16)		Limited Liability Company "Research Center "Bresler"
 				I.Yakovleva St., 1
@@ -93446,6 +93464,12 @@ company_id			Organization
 				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+74-46-A0   (hex)		Hewlett Packard
+7446A0     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston TX 77070
+				UNITED STATES
 
 74-4D-79   (hex)		Arrive Systems Inc.
 744D79     (base 16)		Arrive Systems Inc.
@@ -96736,6 +96760,12 @@ company_id			Organization
 				No.25, Wu-Gong 6th Rd., Wu Ku Industrial Park,
 				Taipei Hsien,  248
 				TAIWAN, PROVINCE OF CHINA
+
+90-82-60   (hex)		IEEE 1904.1 Working Group
+908260     (base 16)		IEEE 1904.1 Working Group
+				1351 Redwood Way
+				Petaluma CA 94954
+				UNITED STATES
 
 90-84-0D   (hex)		Apple, Inc
 90840D     (base 16)		Apple, Inc
@@ -102656,6 +102686,12 @@ C4DA26     (base 16)		NOBLEX SA
 				Ushuaia Tierra del fuego 9410
 				ARGENTINA
 
+C4-E0-32   (hex)		IEEE 1904.1 Working Group
+C4E032     (base 16)		IEEE 1904.1 Working Group
+				1351 Redwood Way
+				Petaluma CA 94954
+				UNITED STATES
+
 C4-E1-7C   (hex)		U2S co.
 C4E17C     (base 16)		U2S co.
 				104-706, SK Ventium Building, 522, Dangjeong-Dong
@@ -104565,6 +104601,13 @@ D4EC0C     (base 16)		Harley-Davidson Motor Company
 				Milwaukee Wisconsin 53208
 				UNITED STATES
 
+D4-EE-07   (hex)		HIWIFI Co., Ltd.
+D4EE07     (base 16)		HIWIFI Co., Ltd.
+				Room 1002, Zhongguancun e-Plaza A,
+				No.11 Zhongguancun Street
+				Haidian District Beijing 100080
+				CHINA
+
 D4-F0-27   (hex)		Navetas Energy Management
 D4F027     (base 16)		Navetas Energy Management
 				17A Deben Mill Business Centre
@@ -105200,6 +105243,13 @@ DC4EDE     (base 16)		SHINYEI TECHNOLOGY CO., LTD.
 				KOBE HYOGO 650-0047
 				JAPAN
 
+DC-6F-08   (hex)		Bay Storage Technology
+DC6F08     (base 16)		Bay Storage Technology
+				6200 Stoneridge Mall Road
+				Suite 300
+				Pleasanton CA 94588
+				UNITED STATES
+
 DC-71-44   (hex)		Samsung Electro Mechanics
 DC7144     (base 16)		Samsung Electro Mechanics
 				314, Maetan3-Dong, Yeongtong-Gu
@@ -105686,6 +105736,13 @@ E0AE5E     (base 16)		ALPS Electric Co,. Ltd.
 				6-3-36 Furukawanakazato,
 				Osaki Miyagi-pref 989-6181
 				JAPAN
+
+E0-AE-ED   (hex)		LOENK
+E0AEED     (base 16)		LOENK
+				41, Cheongdam-dong, Gangnam-gu
+				F9, Cheongdam Venture Plaza
+				SEOUL 135-951
+				KOREA, REPUBLIC OF
 
 E0-B7-B1   (hex)		Pace plc
 E0B7B1     (base 16)		Pace plc
@@ -107975,6 +108032,12 @@ F4EC38     (base 16)		TP-LINK TECHNOLOGIES CO., LTD.
 				Shenzhen Guangdong 518000
 				CHINA
 
+F4-F1-5A   (hex)		Apple
+F4F15A     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
 F4-FC-32   (hex)		Texas Instruments
 F4FC32     (base 16)		Texas Instruments
 				12500 TI Boulevard
@@ -108728,6 +108791,13 @@ FC-A9-B0   (hex)		MIARTECH (SHANGHAI),INC.
 FCA9B0     (base 16)		MIARTECH (SHANGHAI),INC.
 				3F,Building 4,No 290 Zhangheng Road Zhangjiang Hi-Tech Park,Pudong New District Shanghai,P.R.China
 				SHANGHAI SHANGHAI 201204
+				CHINA
+
+FC-AD-0F   (hex)		QTS NETWORKS
+FCAD0F     (base 16)		QTS NETWORKS
+				Jinyanlong Plaza, Huilongguan,
+				Changping District
+				Beijing 100092
 				CHINA
 
 FC-AF-6A   (hex)		Conemtech AB
