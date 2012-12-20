@@ -82738,6 +82738,13 @@ company_id			Organization
 				Trondheim  N-7004
 				NORWAY
 
+10-3D-EA   (hex)		 HFC Technology (Beijing) Ltd. Co.
+103DEA     (base 16)		 HFC Technology (Beijing) Ltd. Co.
+				Building #3, Room 1214
+				Zhongguancun Software Park (ZPARK)
+				Beijing AP (Area Pacific) 100193
+				CHINA
+
 10-40-F3   (hex)		Apple, Inc.
 1040F3     (base 16)		Apple, Inc.
 				1 infinite Loop
@@ -89065,6 +89072,12 @@ company_id			Organization
 				Suite 1350
 				San Francisco CA 94105
 				UNITED STATES
+
+4C-25-78   (hex)		Nokia Corporation
+4C2578     (base 16)		Nokia Corporation
+				P.O.Box 86
+				SALO  24280
+				FINLAND
 
 4C-2C-80   (hex)		Beijing Skyway Technologies Co.,Ltd
 4C2C80     (base 16)		Beijing Skyway Technologies Co.,Ltd
@@ -104289,6 +104302,12 @@ D428B2     (base 16)		ioBridge, Inc.
 				Suite 200
 				Marlborough MA 01752
 				UNITED STATES
+
+D4-29-EA   (hex)		Zimory GmbH
+D429EA     (base 16)		Zimory GmbH
+				Revalerstrasse 100
+				Berlin Brandenburg 10245
+				GERMANY
 
 D4-2C-3D   (hex)		Sky Light Digital Limited
 D42C3D     (base 16)		Sky Light Digital Limited

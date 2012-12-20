@@ -26228,3 +26228,21 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Mairano Brescia 25030
 				ITALY
 
+40-D8-55	(hex)		CT Company
+072000-072FFF	(base 16)	CT Company
+				Nizhni Krasnoselsky st.,35
+				Moscow RUSSIA 140070
+				RUSSIAN FEDERATION
+
+40-D8-55	(hex)		Diamond Technologies, Inc
+073000-073FFF	(base 16)	Diamond Technologies, Inc
+				6 Clock Tower Place, Suite 100
+				Maynard MA 01754
+				UNITED STATES
+
+40-D8-55	(hex)		Sphere Medical Ltd
+074000-074FFF	(base 16)	Sphere Medical Ltd
+				Harston Mill
+				Cambridge  CB22 7GG
+				UNITED KINGDOM
+
