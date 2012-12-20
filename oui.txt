@@ -34288,10 +34288,10 @@ company_id			Organization
 				San Diego CA 92121
 				UNITED STATES
 
-00-15-30   (hex)		Bus-Tech, Inc.
-001530     (base 16)		Bus-Tech, Inc.
-				129 Middlesex Turnpike
-				Burlington Ma 01803
+00-15-30   (hex)		EMC Corporation
+001530     (base 16)		EMC Corporation
+				176 South Street
+				Hopkinton MA 01748
 				UNITED STATES
 
 00-15-31   (hex)		KOCOM
@@ -81770,6 +81770,13 @@ company_id			Organization
 				Shanghai 201615
 				CHINA
 
+08-1F-3F   (hex)		WondaLink Inc.
+081F3F     (base 16)		WondaLink Inc.
+				2F, No. 23, R&D Road 2
+				Science-Based Industrial Park
+				Hsinchu  300
+				TAIWAN, PROVINCE OF CHINA
+
 08-1F-F3   (hex)		CISCO SYSTEMS, INC.
 081FF3     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
@@ -83669,6 +83676,13 @@ company_id			Organization
 				5030 Sugarloaf Pkwy
 				Lawrenceville GA 30044
 				UNITED STATES
+
+18-5A-E8   (hex)		Zenotech.Co.,Ltd
+185AE8     (base 16)		Zenotech.Co.,Ltd
+				E-503, BundangTechno Park, Yatap-dong
+				Bundang-Gu
+				Seongnam  463-760
+				KOREA, REPUBLIC OF
 
 18-66-E3   (hex)		Veros Systems, Inc.
 1866E3     (base 16)		Veros Systems, Inc.
@@ -85839,6 +85853,12 @@ company_id			Organization
 				Charlotte NC 28262
 				UNITED STATES
 
+2C-7B-5A   (hex)		Milper Ltd
+2C7B5A     (base 16)		Milper Ltd
+				32 Shaham St.
+				Petach Tikva  49250
+				ISRAEL
+
 2C-7E-CF   (hex)		Onzo Ltd
 2C7ECF     (base 16)		Onzo Ltd
 				6 Great Newport Street
@@ -86621,6 +86641,13 @@ company_id			Organization
 				Savanoriu pr. 125
 				Kaunas  LT44146
 				LITHUANIA
+
+34-AD-E4   (hex)		Shanghai Chint Power Systems Co., Ltd.
+34ADE4     (base 16)		Shanghai Chint Power Systems Co., Ltd.
+				855 Wenhe Road, Block 4
+				 Songjiang District
+				201614
+				CHINA
 
 34-AF-2C   (hex)		Nintendo Co., Ltd.
 34AF2C     (base 16)		Nintendo Co., Ltd.
@@ -87454,6 +87481,12 @@ company_id			Organization
 				High-Tech Park(South), Nanshan District,
 				Shenzhen Guandong 518057
 				CHINA
+
+3C-94-D5   (hex)		Juniper Networks
+3C94D5     (base 16)		Juniper Networks
+				1194 N Mathilda Avenue
+				Sunnyvale CA 94089
+				UNITED STATES
 
 3C-97-0E   (hex)		Wistron InfoComm(Kunshan)Co.,Ltd.
 3C970E     (base 16)		Wistron InfoComm(Kunshan)Co.,Ltd.
@@ -95959,6 +95992,12 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
+88-CB-87   (hex)		Apple
+88CB87     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
 88-D7-BC   (hex)		DEP Company
 88D7BC     (base 16)		DEP Company
 				Poryadkovy pereulok,21
@@ -97546,9 +97585,9 @@ company_id			Organization
 				Houston Texas 77070
 				UNITED STATES
 
-98-4C-04   (hex)		Zhangzhou Cannet electrical appliances Co.Ltd
-984C04     (base 16)		Zhangzhou Cannet electrical appliances Co.Ltd
-				Cannet Technology Park,HengliuRoad
+98-4C-04   (hex)		Zhangzhou Keneng Electrical Equipment Co Ltd
+984C04     (base 16)		Zhangzhou Keneng Electrical Equipment Co Ltd
+				Keneng Technology Park,No.12 Wuqiao Zhong Rd
 				Lantian Economic Development Zone
 				Zhangzhou Fujian 363005
 				CHINA
@@ -100137,6 +100176,13 @@ ACF2C5     (base 16)		Cisco
 				San Jose CA 95134
 				UNITED STATES
 
+AC-F7-F3   (hex)		XIAOMI CORPORATION
+ACF7F3     (base 16)		XIAOMI CORPORATION
+				Quanshitiandi Tower A,12th Floor, Jia 50 Wangjing Xilu
+				Chaoyang Dist
+				Beijing 100102
+				CHINA
+
 AC-F9-7E   (hex)		ELESYS INC.
 ACF97E     (base 16)		ELESYS INC.
 				Suit 623, 812-1, Hyomun-dong
@@ -102580,6 +102626,12 @@ C47D4F     (base 16)		CISCO SYSTEMS, INC.
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
+C4-7D-CC   (hex)		Motorola Solutions Inc.
+C47DCC     (base 16)		Motorola Solutions Inc.
+				1 Motorola Plaza
+				Holtsville NY 11742
+				UNITED STATES
+
 C4-82-3F   (hex)		Fujian Newland Auto-ID Tech. Co,.Ltd.
 C4823F     (base 16)		Fujian Newland Auto-ID Tech. Co,.Ltd.
 				Newland Science & Technology Park, No.1 Rujiang West Rd., Mawei
@@ -102774,6 +102826,12 @@ C80E77     (base 16)		Le Shi Zhi Xin Electronic Technology (Tianjin)  Co.,Ltd
 				Tianjin  300467
 				CHINA
 
+C8-0E-95   (hex)		OmniLync Inc.
+C80E95     (base 16)		OmniLync Inc.
+				51a Bennington St.
+				Newton MA 02458
+				UNITED STATES
+
 C8-19-F7   (hex)		Samsung Electronics Co.,Ltd
 C819F7     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -102929,6 +102987,12 @@ C86CB6     (base 16)		Optcom Co., Ltd.
 				792-3 Tomigaoka
 				Iwata Shizuoka 438-0803
 				JAPAN
+
+C8-6F-1D   (hex)		Apple
+C86F1D     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
 C8-72-48   (hex)		Aplicom Oy
 C87248     (base 16)		Aplicom Oy
@@ -105635,6 +105699,12 @@ E06995     (base 16)		PEGATRON CORPORATION
 				No. 76, Ligong St., Beitou,
 				Taipei  112
 				TAIWAN, PROVINCE OF CHINA
+
+E0-75-7D   (hex)		Motorola Mobility LLC
+E0757D     (base 16)		Motorola Mobility LLC
+				600 North US Highway 45
+				Libertyville IL 60048
+				UNITED STATES
 
 E0-81-77   (hex)		GreenBytes, Inc.
 E08177     (base 16)		GreenBytes, Inc.
