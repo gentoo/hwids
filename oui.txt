@@ -31677,10 +31677,10 @@ company_id			Organization
 				Tamsui Taipei 251
 				TAIWAN, PROVINCE OF CHINA
 
-00-13-97   (hex)		Xsigo Systems, Inc.
-001397     (base 16)		Xsigo Systems, Inc.
-				940 Stewart Drive
-				Sunnyvale CA 94085
+00-13-97   (hex)		Oracle Corporation
+001397     (base 16)		Oracle Corporation
+				4200 Network Circle
+				Santa Clara CA 95054
 				UNITED STATES
 
 00-13-98   (hex)		TrafficSim Co.,Ltd
@@ -80380,6 +80380,12 @@ company_id			Organization
 				Verl  33415
 				GERMANY
 
+04-26-65   (hex)		Apple
+042665     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
 04-2B-BB   (hex)		PicoCELA, Inc.
 042BBB     (base 16)		PicoCELA, Inc.
 				3-8-33, Momochihama
@@ -86308,6 +86314,12 @@ company_id			Organization
 				625 Market Street
 				Suite 1010
 				San Francisco CA 94105
+				UNITED STATES
+
+30-90-AB   (hex)		Apple
+3090AB     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95014
 				UNITED STATES
 
 30-92-F6   (hex)		SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD
@@ -106839,6 +106851,12 @@ E8E776     (base 16)		Shenzhen Kootion Technology Co., Ltd
 				Songbai Road, Nanshan District,
 				Shenzhen Guangdong Province 518108
 				CHINA
+
+E8-E8-75   (hex)		iS5 Communications Inc.
+E8E875     (base 16)		iS5 Communications Inc.
+				8 Quatro Crescent
+				Brampton Ontario L6P 2T4
+				CANADA
 
 E8-F1-B0   (hex)		SAGEMCOM SAS
 E8F1B0     (base 16)		SAGEMCOM SAS
