@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.19
-#	Date:    2012-12-19 03:15:01
+#	Version: 2012.12.22
+#	Date:    2012-12-22 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -10506,7 +10506,8 @@
 	5201  PCI-2000
 1257  Vertex Networks, Inc.
 1258  Gilbarco, Inc.
-1259  Allied Telesyn International
+# nee Allied Telesyn International
+1259  Allied Telesis
 	2560  AT-2560 Fast Ethernet Adapter (i82557B)
 	2801  AT-2801FX (RTL-8139)
 	a117  RTL81xx Fast Ethernet
@@ -12818,6 +12819,8 @@
 	1685  NetXtreme II BCM57500S Gigabit Ethernet
 	1686  NetXtreme BCM57766 Gigabit Ethernet PCIe
 	1687  NetXtreme BCM5762 Gigabit Ethernet PCIe
+	1688  NetXtreme BCM5761 10/100/1000BASE-T Ethernet
+		1259 2708  AT-2712 FX
 # The Broadcom 57800 device has two 1Gig ports and two 10Gig ports. The subsystem information can be used to differentiate.
 	168a  NetXtreme II BCM57800 1/10 Gigabit Ethernet
 		1028 1f5c  BCM57800 10-Gigabit Ethernet

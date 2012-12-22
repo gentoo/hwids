@@ -81871,6 +81871,13 @@ company_id			Organization
 				Taipei Taiwan 112
 				TAIWAN, PROVINCE OF CHINA
 
+08-68-D0   (hex)		Japan System Design
+0868D0     (base 16)		Japan System Design
+				Skyhills Deshio 3F
+				3-4-1 Deshio Minami-ku
+				Hiroshima 734-0001
+				JAPAN
+
 08-68-EA   (hex)		EITO ELECTRONICS CO., LTD.
 0868EA     (base 16)		EITO ELECTRONICS CO., LTD.
 				1-34-1 Shinmeidai
@@ -84698,6 +84705,13 @@ company_id			Organization
 				Oberes Ried 1
 				Klaus  6833
 				AUSTRIA
+
+20-BB-C0   (hex)		Cisco
+20BBC0     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
 20-BB-C6   (hex)		Jabil Circuit Hungary Ltd.
 20BBC6     (base 16)		Jabil Circuit Hungary Ltd.
@@ -89141,6 +89155,13 @@ company_id			Organization
 				 8F-1, No. 145, Sianjheng 9th Rd.,
 				Jhubei City, Hsinchu County 30251
 				TAIWAN, PROVINCE OF CHINA
+
+4C-4E-35   (hex)		Cisco
+4C4E35     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
 4C-54-27   (hex)		Linepro Sp. z o.o.
 4C5427     (base 16)		Linepro Sp. z o.o.
@@ -104301,6 +104322,13 @@ D4206D     (base 16)		HTC Corporation
 				No. 23, Xinghua Rd,
 				Taoyuan County Taiwan 330
 				TAIWAN, PROVINCE OF CHINA
+
+D4-22-3F   (hex)		Lenovo Mobile Communication Technology Ltd.
+D4223F     (base 16)		Lenovo Mobile Communication Technology Ltd.
+				No.999,Qishan North 2nd Road,Information&Optoelectronics Park
+				Torch Hi-tech Industry Development Zone
+				Xiamen Fujian 361006
+				CHINA
 
 D4-27-51   (hex)		Infopia Co., Ltd
 D42751     (base 16)		Infopia Co., Ltd

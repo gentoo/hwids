@@ -26246,3 +26246,9 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Cambridge  CB22 7GG
 				UNITED KINGDOM
 
+40-D8-55	(hex)		Teraflops
+075000-075FFF	(base 16)	Teraflops
+				1326 Monde
+				Sojya city Okayama prefecture 7191156
+				JAPAN
+
