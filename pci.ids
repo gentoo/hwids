@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.22
-#	Date:    2012-12-22 03:15:02
+#	Version: 2012.12.23
+#	Date:    2012-12-23 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -12605,6 +12605,7 @@
 		1028 01c2  Latitude D620
 		103c 3015  PCIe LAN on Motherboard
 		107b 5048  E4500 Onboard
+		1259 2705  AT-2711FX
 	1601  NetXtreme BCM5752M Gigabit Ethernet PCI Express
 	1612  BCM70012 Video Decoder [Crystal HD]
 	1615  BCM70015 Video Decoder [Crystal HD]
