@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.23
-#	Date:    2012-12-23 03:15:01
+#	Version: 2012.12.25
+#	Date:    2012-12-25 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -3758,6 +3758,7 @@
 		103c 006a  NX9500
 		1043 808d  A7V333 mainboard.
 	8027  PCI4451 IEEE-1394 Controller
+		1028 00e5  Latitude C810
 		1028 00e6  PCI4451 IEEE-1394 Controller (Dell Inspiron 8100)
 	8029  PCI4510 IEEE-1394 Controller
 		1028 0163  Latitude D505
@@ -7077,6 +7078,7 @@
 	0865  C79 [GeForce 9300]
 	0866  C79 [GeForce 9400M G]
 	0867  C79 [GeForce 9400]
+		106b 00ad  iMac 9,1
 	0868  C79 [nForce 760i SLI]
 	086a  C79 [GeForce 9400]
 	086c  C79 [GeForce 9300 / nForce 730i]
@@ -7146,29 +7148,39 @@
 	0a88  MCP79 Memory Controller
 	0a89  MCP79 Memory Controller
 	0aa0  MCP79 PCI Express Bridge
+		10de cb79  Apple iMac 9,1
 	0aa2  MCP79 SMBus
+		10de cb79  Apple iMac 9,1
 		19da a123  IONITX-F-E
 	0aa3  MCP79 Co-processor
+		10de cb79  Apple iMac 9,1
 		19da a123  IONITX-F-E
 	0aa4  MCP79 Memory Controller
 		19da a123  IONITX-F-E
 	0aa5  MCP79 OHCI USB 1.1 Controller
+		10de cb79  Apple iMac 9,1
 		19da a123  IONITX-F-E
 	0aa6  MCP79 EHCI USB 2.0 Controller
+		10de cb79  Apple iMac 9,1
 		19da a123  IONITX-F-E
 	0aa7  MCP79 OHCI USB 1.1 Controller
+		10de cb79  Apple iMac 9,1
 		19da a123  IONITX-F-E
 	0aa8  MCP79 OHCI USB 1.1 Controller
 	0aa9  MCP79 EHCI USB 2.0 Controller
+		10de cb79  Apple iMac 9,1
 		19da a123  IONITX-F-E
 	0aaa  MCP79 EHCI USB 2.0 Controller
 	0aab  MCP79 PCI Bridge
+		10de cb79  Apple iMac 9,1
 	0aac  MCP79 LPC Bridge
 	0aad  MCP79 LPC Bridge
 		19da a123  IONITX-F-E
 	0aae  MCP79 LPC Bridge
+		10de cb79  Apple iMac 9,1
 	0aaf  MCP79 LPC Bridge
 	0ab0  MCP79 Ethernet
+		10de cb79  Apple iMac 9,1
 		19da a123  IONITX-F-E
 	0ab1  MCP79 Ethernet
 	0ab2  MCP79 Ethernet
@@ -7180,6 +7192,7 @@
 	0ab7  MCP79 SATA Controller
 	0ab8  MCP79 AHCI Controller
 	0ab9  MCP79 AHCI Controller
+		10de cb79  Apple iMac 9,1
 	0aba  MCP79 AHCI Controller
 	0abb  MCP79 AHCI Controller
 	0abc  MCP79 RAID Controller
@@ -7187,13 +7200,17 @@
 	0abe  MCP79 RAID Controller
 	0abf  MCP79 RAID Controller
 	0ac0  MCP79 High Definition Audio
+		10de cb79  Apple iMac 9,1
 	0ac1  MCP79 High Definition Audio
 	0ac2  MCP79 High Definition Audio
 	0ac3  MCP79 High Definition Audio
 	0ac4  MCP79 PCI Express Bridge
+		10de cb79  Apple iMac 9,1
 	0ac5  MCP79 PCI Express Bridge
 	0ac6  MCP79 PCI Express Bridge
+		10de cb79  Apple iMac 9,1
 	0ac7  MCP79 PCI Express Bridge
+		10de cb79  Apple iMac 9,1
 	0ac8  MCP79 PCI Express Bridge
 	0ad0  MCP78S [GeForce 8200] SATA Controller (non-AHCI mode)
 		1462 7508  K9N2GM-FIH
@@ -10547,6 +10564,7 @@
 		125d 1989  ESS Modem
 	1998  ES1983S Maestro-3i PCI Audio Accelerator
 		1028 00b1  Latitude C600
+		1028 00e5  Latitude C810
 		1028 00e6  ES1983S Maestro-3i (Dell Inspiron 8100)
 	1999  ES1983S Maestro-3i PCI Modem Accelerator
 	199a  ES1983S Maestro-3i PCI Audio Accelerator
