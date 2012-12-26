@@ -87714,6 +87714,13 @@ company_id			Organization
 				Oulu  90570
 				FINLAND
 
+3C-FB-96   (hex)		Emcraft Systems LLC
+3CFB96     (base 16)		Emcraft Systems LLC
+				2191 S. El Camino Real
+				Suite 208C
+				Oceanside CA 92054
+				UNITED STATES
+
 40-01-C6   (hex)		3COM EUROPE LTD
 4001C6     (base 16)		3COM EUROPE LTD
 				Peoplebuilding 2
@@ -91970,6 +91977,13 @@ company_id			Organization
 				Auckland Park Gauteng 2006
 				SOUTH AFRICA
 
+64-C6-67   (hex)		Barnes&Noble
+64C667     (base 16)		Barnes&Noble
+				400 Hamilton Avenue
+				Suite 130
+				Palo Alto CA 94301
+				UNITED STATES
+
 64-C6-AF   (hex)		AXERRA Networks Ltd
 64C6AF     (base 16)		AXERRA Networks Ltd
 				24  Raoul Wallenberg St. ,
@@ -95816,6 +95830,13 @@ company_id			Organization
 				Hsinchu Science Park
 				Hsinchu  300
 				TAIWAN, PROVINCE OF CHINA
+
+88-2E-5A   (hex)		storONE
+882E5A     (base 16)		storONE
+				POB 2660
+				4 Hayezira st.
+				Ra'anana  
+				ISRAEL
 
 88-30-8A   (hex)		Murata Manufactuaring Co.,Ltd.
 88308A     (base 16)		Murata Manufactuaring Co.,Ltd.
@@ -104165,6 +104186,12 @@ D0D3FC     (base 16)		Mios, Ltd.
 				12 Harcout Road
 				Central  .
 				HONG KONG
+
+D0-D4-71   (hex)		MVTECH co., Ltd
+D0D471     (base 16)		MVTECH co., Ltd
+				#1004, Hanshin IT Tower, 235, Guro 3-dong, Guro-Gu
+				SEOUL  152-768
+				KOREA, REPUBLIC OF
 
 D0-D6-CC   (hex)		Wintop
 D0D6CC     (base 16)		Wintop

@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.25
-#	Date:    2012-12-25 03:15:01
+#	Version: 2012.12.26
+#	Date:    2012-12-26 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -7147,6 +7147,8 @@
 	0a87  MCP79 Host Bridge
 	0a88  MCP79 Memory Controller
 	0a89  MCP79 Memory Controller
+	0a98  MCP79 Memory Controller
+		10de cb79  iMac 9,1
 	0aa0  MCP79 PCI Express Bridge
 		10de cb79  Apple iMac 9,1
 	0aa2  MCP79 SMBus
@@ -7295,6 +7297,7 @@
 	0dee  GF108 [GeForce GT 415M]
 	0def  GF108 [Quadro NVS 5400M]
 	0df0  GF108 [GeForce GT 425M]
+	0df1  GF108 [GeForce GT 420M]
 	0df2  GF108 [GeForce GT 435M]
 	0df4  GF108 [GeForce GT 540M]
 	0df5  GF108 [GeForce GT 540M]
