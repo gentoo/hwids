@@ -84050,6 +84050,13 @@ company_id			Organization
 				Graefelfing Bavaria 82166
 				GERMANY
 
+1C-37-BF   (hex)		Cloudium Systems Ltd.
+1C37BF     (base 16)		Cloudium Systems Ltd.
+				Hartnett Centre
+				Moylish Park
+				Limerick  00
+				IRELAND
+
 1C-3A-4F   (hex)		AccuSpec Electronics, LLC
 1C3A4F     (base 16)		AccuSpec Electronics, LLC
 				8140 Hawthorne Drive
@@ -84061,6 +84068,13 @@ company_id			Organization
 				1-19-9 Midori
 				Sumida-ku Tokyo 130-0021
 				JAPAN
+
+1C-3E-84   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+1C3E84     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				NO.1925,Nanle Road
+				Songjiang Export Processing Zone
+				Shanghai 201613
+				CHINA
 
 1C-43-EC   (hex)		JAPAN CIRCUIT CO.,LTD
 1C43EC     (base 16)		JAPAN CIRCUIT CO.,LTD
@@ -87883,6 +87897,12 @@ company_id			Organization
 				Fullerton CA 92832
 				UNITED STATES
 
+40-51-6C   (hex)		Grandex International Corporation
+40516C     (base 16)		Grandex International Corporation
+				4F, 525 Chung Cheng Road
+				Hsin Tien Dist. New Taipei City 231
+				TAIWAN, PROVINCE OF CHINA
+
 40-52-0D   (hex)		Pico Technology
 40520D     (base 16)		Pico Technology
 				James House, Marlborough Road
@@ -89395,6 +89415,12 @@ company_id			Organization
 				San Jose CA 95131
 				UNITED STATES
 
+4C-CC-34   (hex)		Motorola Solutions Inc.
+4CCC34     (base 16)		Motorola Solutions Inc.
+				One Motorola Plaza
+				Holtsville NY 11742
+				UNITED STATES
+
 4C-E6-76   (hex)		Buffalo Inc.
 4CE676     (base 16)		Buffalo Inc.
 				15, Shibata Hondori 4-chome
@@ -89790,6 +89816,12 @@ company_id			Organization
 				Advanced Research Center #411
 				Ya-Tap 68
 				Bun-Dang, Seong-Nam Gyung-Gi 463-816
+				KOREA, REPUBLIC OF
+
+50-F5-20   (hex)		Samsung Electronics Co.,Ltd
+50F520     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
 50-F6-1A   (hex)		Kunshan JADE Technologies co., Ltd.
@@ -91950,6 +91982,12 @@ company_id			Organization
 				Polytec Platz 1-7
 				Waldbronn BW 76337
 				GERMANY
+
+64-B3-10   (hex)		Samsung Electronics Co.,Ltd
+64B310     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 64-B6-4A   (hex)		ViVOtech, Inc.
 64B64A     (base 16)		ViVOtech, Inc.
@@ -98333,6 +98371,12 @@ company_id			Organization
 				KYOTO KYOTO 601-8501
 				JAPAN
 
+9C-E6-E7   (hex)		Samsung Electronics Co.,Ltd
+9CE6E7     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 9C-EB-E8   (hex)		BizLink (Kunshan) Co.,Ltd
 9CEBE8     (base 16)		BizLink (Kunshan) Co.,Ltd
 				No.168,Nanhe Road,Economic & Technological Development Zone,
@@ -99274,6 +99318,12 @@ A4E7E4     (base 16)		Connex GmbH
 				Elbestrasse 12
 				Oldenburg  26135
 				GERMANY
+
+A4-EB-D3   (hex)		Samsung Electronics Co.,Ltd
+A4EBD3     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 A4-ED-4E   (hex)		Motorola Mobility, Inc.
 A4ED4E     (base 16)		Motorola Mobility, Inc.
@@ -103569,6 +103619,13 @@ CC5D4E     (base 16)		ZyXEL Communications Corporation
 				Hsin Chu  300
 				TAIWAN, PROVINCE OF CHINA
 
+CC-5D-57   (hex)		Information  System Research Institute,Inc.
+CC5D57     (base 16)		Information  System Research Institute,Inc.
+				Metro city minamiikebukuro-bldg.5F
+				Minami-ikebukuro
+				Toshima-ku Tokyo 171-0022
+				JAPAN
+
 CC-60-BB   (hex)		Empower RF Systems
 CC60BB     (base 16)		Empower RF Systems
 				316 W. Florence Ave
@@ -107504,6 +107561,12 @@ F05849     (base 16)		CareView Communications
 				Lewisville Texas 75067
 				UNITED STATES
 
+F0-5A-09   (hex)		Samsung Electronics Co.,Ltd
+F05A09     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 F0-5D-89   (hex)		Dycon Limited
 F05D89     (base 16)		Dycon Limited
 				Unit D
@@ -108313,6 +108376,13 @@ F82F5B     (base 16)		eGauge Systems LLC
 				1510 28th St, Suite 205
 				Boulder CO 80303
 				UNITED STATES
+
+F8-2F-A8   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F82FA8     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				NO.1925,Nanle Road
+				Songjiang Export Processing Zone
+				Shanghai  201613
+				CHINA
 
 F8-30-94   (hex)		Alcatel-Lucent Telecom Limited
 F83094     (base 16)		Alcatel-Lucent Telecom Limited

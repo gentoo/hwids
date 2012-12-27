@@ -26252,3 +26252,10 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Sojya city Okayama prefecture 7191156
 				JAPAN
 
+40-D8-55	(hex)		INTERNET PROTOCOLO LOGICA SL
+076000-076FFF	(base 16)	INTERNET PROTOCOLO LOGICA SL
+				Sector Foresta 43. local 26
+				Edificio OfiCentro
+				Tres Cantos Madrid 28760
+				SPAIN
+
