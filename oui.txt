@@ -92317,6 +92317,13 @@ company_id			Organization
 				Irvine California 92612
 				UNITED STATES
 
+68-83-1A   (hex)		Pandora Mobility Corporation
+68831A     (base 16)		Pandora Mobility Corporation
+				1F., No.33, Fude St.,
+				Guishan Township
+				Taoyuan Guishan 333
+				TAIWAN, PROVINCE OF CHINA
+
 68-84-70   (hex)		eSSys Co.,Ltd
 688470     (base 16)		eSSys Co.,Ltd
 				Daerung Post Tower 5 15F, 60-3
@@ -102240,6 +102247,13 @@ C0847A     (base 16)		Apple, Inc.
 				1 infinite Loop
 				cupertino cA 95014
 				UNITED STATES
+
+C0-88-5B   (hex)		SnD Tech Co., Ltd.
+C0885B     (base 16)		SnD Tech Co., Ltd.
+				 1140-4 Triple Tower C-406
+				Wonmi-gu, Jung 1-Dong
+				Bucheon Si Gyeonggi-Do 420-852
+				KOREA, REPUBLIC OF
 
 C0-8A-DE   (hex)		Ruckus Wireless
 C08ADE     (base 16)		Ruckus Wireless
