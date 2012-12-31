@@ -26259,3 +26259,15 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Tres Cantos Madrid 28760
 				SPAIN
 
+40-D8-55	(hex)		TOEC TECHNOLOGY CO.,LTD
+077000-077FFF	(base 16)	TOEC TECHNOLOGY CO.,LTD
+				6 Taishan Road Hexi District
+				Tianjin 300211
+				CHINA
+
+40-D8-55	(hex)		NACHI-FUJIKOSHI CORP
+078000-078FFF	(base 16)	NACHI-FUJIKOSHI CORP
+				1-1-1 Fujikoshi honmachi
+				Toyama 930-8511
+				JAPAN
+

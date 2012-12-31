@@ -86018,6 +86018,13 @@ company_id			Organization
 				Somerset NJ 08873
 				UNITED STATES
 
+2C-D0-5A   (hex)		Liteon Technology Corporation
+2CD05A     (base 16)		Liteon Technology Corporation
+				4F,90,Chien 1 Road,ChungHo,
+				New Taipei City
+				Taipei  23585
+				TAIWAN, PROVINCE OF CHINA
+
 2C-D1-DA   (hex)		Sanjole, Inc.
 2CD1DA     (base 16)		Sanjole, Inc.
 				2800 Woodlawn Drive, #271
@@ -89031,6 +89038,13 @@ company_id			Organization
 				600 March Drive
 				Ottawa Ontario k2k 2e6
 				CANADA
+
+48-F9-25   (hex)		Maestronic
+48F925     (base 16)		Maestronic
+				Futura plaza 2103
+				How Ming street 111
+				Kwun Tong  88
+				HONG KONG
 
 48-FC-B8   (hex)		Woodstream Corporation
 48FCB8     (base 16)		Woodstream Corporation
@@ -94119,6 +94133,13 @@ company_id			Organization
 				3F,East of Building25,Keyuanxi,Number 5,Kezhixi Road, Science & Industry Park ,Nan Shan District ,Shenzhen
 				ShenZhen GuangDong 508057
 				CHINA
+
+78-54-2E   (hex)		D-Link International
+78542E     (base 16)		D-Link International
+				1 Internal Business Park, #03-12.
+				 The Synergy Singapore
+				Singapore 609917
+				TAIWAN, PROVINCE OF CHINA
 
 78-55-17   (hex)		SankyuElectronics
 785517     (base 16)		SankyuElectronics
@@ -101541,6 +101562,13 @@ B8BEBF     (base 16)		CISCO SYSTEMS, INC.
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
+B8-C4-6F   (hex)		PRIMMCON INDUSTRIES INC
+B8C46F     (base 16)		PRIMMCON INDUSTRIES INC
+				137 MinQuan Rd, 5th Floor,
+				XinDian dist.
+				New Taipei  23141
+				TAIWAN, PROVINCE OF CHINA
+
 B8-C6-8E   (hex)		Samsung Electronics Co.,Ltd
 B8C68E     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -105149,6 +105177,13 @@ D8AFF1     (base 16)		Panasonic Appliances Company
 				Kusatsu City Shiga 525-8555
 				JAPAN
 
+D8-B0-2E   (hex)		Guangzhou Zonerich Business Machine Co., Ltd
+D8B02E     (base 16)		Guangzhou Zonerich Business Machine Co., Ltd
+				F4, Office Building, No.17 Xiangshan Road
+				Science City, Luogang
+				Guangzhou Guangdong 510663
+				CHINA
+
 D8-B1-2A   (hex)		Panasonic Mobile Communications Co., Ltd.
 D8B12A     (base 16)		Panasonic Mobile Communications Co., Ltd.
 				600 Saedo-cho Tsuzuki-ku
@@ -107040,6 +107075,12 @@ EC2368     (base 16)		IntelliVoice Co.,Ltd.
 				Chiyoda Tokyo 102-0094
 				JAPAN
 
+EC-2C-49   (hex)		University of Tokyo
+EC2C49     (base 16)		University of Tokyo
+				4-6-1 Komaba
+				Meguro-ku Tokyo 153-8904
+				JAPAN
+
 EC-30-91   (hex)		CISCO SYSTEMS, INC.
 EC3091     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
@@ -107573,6 +107614,12 @@ F05D89     (base 16)		Dycon Limited
 				Cwm Cynon Business Park
 				Mountain Ash Rhondda Cynon Taff CF45 4ER
 				UNITED KINGDOM
+
+F0-5D-C8   (hex)		Duracell Powermat
+F05DC8     (base 16)		Duracell Powermat
+				230 Park Ave, suit 910
+				New York NY 10169
+				UNITED STATES
 
 F0-5F-5A   (hex)		Getriebebau NORD GmbH and Co. KG
 F05F5A     (base 16)		Getriebebau NORD GmbH and Co. KG
