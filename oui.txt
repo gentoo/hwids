@@ -83346,6 +83346,12 @@ company_id			Organization
 				Shenzhen Guangdong 518000
 				CHINA
 
+14-94-48   (hex)		BLU CASTLE S.A.
+149448     (base 16)		BLU CASTLE S.A.
+				5 RUE BONNEVOIE
+				LUXEMBOURG L-1260
+				UNITED STATES
+
 14-9F-E8   (hex)		Lenovo Mobile Communication Technology Ltd.
 149FE8     (base 16)		Lenovo Mobile Communication Technology Ltd.
 				No.999,Qishan North 2nd Road,Information&Optoelectronics Park,Torch Hi-tech Industry Development Zone
@@ -85752,6 +85758,12 @@ company_id			Organization
 				Mailcode 6.3.049
 				Houston Texas 77070
 				UNITED STATES
+
+2C-28-2D   (hex)		BBK COMMUNICATIAO TECHNOLOGY CO.,LTD.
+2C282D     (base 16)		BBK COMMUNICATIAO TECHNOLOGY CO.,LTD.
+				255#,BBKRoad,Wusha,Chang'an
+				Dongguan Guangdong 523860
+				CHINA
 
 2C-2D-48   (hex)		bct electronic GesmbH
 2C2D48     (base 16)		bct electronic GesmbH
@@ -89479,6 +89491,13 @@ company_id			Organization
 				Taipei  10462
 				TAIWAN, PROVINCE OF CHINA
 
+50-06-04   (hex)		Cisco
+500604     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
 50-0B-32   (hex)		Foxda Technology Industrial(ShenZhen)Co.,LTD
 500B32     (base 16)		Foxda Technology Industrial(ShenZhen)Co.,LTD
 				G F,Block1,Foxda Industrial Park, Lanzhu Rd, Shenzhen Grand Industrial Zone, Longgang District,Shenzhen,518122,PR China
@@ -91067,6 +91086,12 @@ company_id			Organization
 				P.O. BOX 12195
 				Research Triangle Park NC 27709-2195
 				UNITED STATES
+
+5C-F8-A1   (hex)		Murata Manufactuaring Co.,Ltd.
+5CF8A1     (base 16)		Murata Manufactuaring Co.,Ltd.
+				1-10-1 Higashikotari　
+				Nagaokakyo-shi Kyoto 617-8555
+				JAPAN
 
 5C-F9-DD   (hex)		Dell Inc
 5CF9DD     (base 16)		Dell Inc
@@ -93049,6 +93074,13 @@ company_id			Organization
 				Shanghai 200120
 				CHINA
 
+70-10-5C   (hex)		Cisco
+70105C     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
 70-11-24   (hex)		Apple
 701124     (base 16)		Apple
 				1 Infinite Loop
@@ -93730,6 +93762,12 @@ company_id			Organization
 				Beijing Economic&Tecnnological Development Area
 				Beijing  100176
 				CHINA
+
+74-86-7A   (hex)		Dell Inc PCBA Test
+74867A     (base 16)		Dell Inc PCBA Test
+				one dell way
+				Round rock Texas 78682
+				UNITED STATES
 
 74-88-8B   (hex)		ADB Broadband Italia
 74888B     (base 16)		ADB Broadband Italia
@@ -104132,6 +104170,12 @@ D0738E     (base 16)		DONG OH PRECISION CO., LTD.
 				#282 SHINGAL-RI, JICSAN-EUP
 				CHEONAN-SI CHUNGCHEONGNAM-DO 331-814
 				KOREA, REPUBLIC OF
+
+D0-73-D5   (hex)		LIFI LABS MANAGEMENT PTY LTD
+D073D5     (base 16)		LIFI LABS MANAGEMENT PTY LTD
+				7 Cubitt St
+				Richmond Victoria 3121
+				AUSTRALIA
 
 D0-75-BE   (hex)		Reno A&E
 D075BE     (base 16)		Reno A&E
