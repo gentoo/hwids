@@ -26271,3 +26271,22 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Toyama 930-8511
 				JAPAN
 
+40-D8-55	(hex)		DelfiSolutions A/S
+079000-079FFF	(base 16)	DelfiSolutions A/S
+				Augustenborglandevej 7
+				Sønderborg Denmark 6400
+				DENMARK
+
+40-D8-55	(hex)		4embedded
+07A000-07AFFF	(base 16)	4embedded
+				1679 N 850 W
+				Orem UT 84057
+				UNITED STATES
+
+40-D8-55	(hex)		IPS Technology Limited
+07B000-07BFFF	(base 16)	IPS Technology Limited
+				7 Floor,E block,Dong Hai Wang Building,BuLong Road,
+				LongGang District
+				Shenzhen Guangdong 518000
+				CHINA
+

@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2012.12.26
-#	Date:    2012-12-26 03:15:02
+#	Version: 2013.01.05
+#	Date:    2013-01-05 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1941,6 +1941,7 @@
 	aa98  Caicos HDMI Audio [Radeon HD 6400 Series]
 		174b aa98  Sapphire HD 6450 1GB DDR3
 	aaa0  Tahiti XT HDMI Audio [Radeon HD 7970 Series]
+	aab0  Cape Verde HDMI Audio [Radeon HD 7700 Series]
 	ac00  Theater 600 Pro
 	ac02  TV Wonder HD 600 PCIe
 	ac12  Theater HD T507 (DVB-T) TV tuner/capture device
@@ -5162,6 +5163,7 @@
 		10b5 3354  Alpermann+Velte PCL PCIe LV: Timecode Reader Board
 		10b5 3355  Alpermann+Velte PCL PCIe L: Timecode Reader Board
 		10b5 3415  Alpermann+Velte PCIe TS: Time Synchronisation Board
+		10b5 3493  Alpermann+Velte PCL PCIe 3G: Timecode Reader Board
 		1369 c001  LX6464ES
 		1369 c201  LX1616ES
 		14b4 d10a  DekTec DTA-110T
