@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.05
-#	Date:    2013-01-05 03:15:02
+#	Version: 2013.01.06
+#	Date:    2013-01-06 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -4977,9 +4977,9 @@
 10b5  PLX Technology, Inc.
 	0001  i960 PCI bus interface
 	0557  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		105b 9030  Digium Tormenta 2 T400P-SS7 or E400P-SS7 Quad T1 or E1 PCI card
+		10b5 9030  Digium Tormenta 2 T400P-SS7 or E400P-SS7 Quad T1 or E1 PCI card
 	1000  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		105b 9030  ATCOM AT400P Quad T1 PCI card
+		10b5 9030  ATCOM AT400P Quad T1 PCI card
 	1024  Acromag, Inc. IndustryPack Carrier Card
 	1042  Brandywine / jxi2, Inc. - PMC-SyncClock32, IRIG A & B, Nasa 36
 	106a  Dual OX16C952 4 port serial adapter [Megawolf Romulus/4]
@@ -4990,16 +4990,16 @@
 	1146  VScom 010 1 port parallel adaptor
 	1147  VScom 020 2 port parallel adaptor
 	2000  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		105b 9030  ATCOM AE400P Quad E1 PCI card
+		10b5 9030  ATCOM AE400P Quad E1 PCI card
 	2540  IXXAT CAN-Interface PC-I 04/PCI
 	2724  Thales PCSM Security Card
 	3376  Cosateq 4 Port CAN Card
 	4000  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
 		10b5 9030  Tormenta 3 Varion V400P/ATCOM TE400P Quad E1/T1/J1 PCI card
 	4001  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		105b 9030  ATCOM A400PE Quad E1 PCI card
+		10b5 9030  ATCOM A400PE Quad E1 PCI card
 	4002  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		105b 9030  ATCOM A400PT Quad T1 PCI card
+		10b5 9030  ATCOM A400PT Quad T1 PCI card
 	6140  PCI6140 32-bit 33MHz PCI-to-PCI Bridge
 	6150  PCI6150 32-bit 33MHz PCI-to-PCI Bridge
 	6152  PCI6152 32-bit 66MHz PCI-to-PCI Bridge
@@ -5199,12 +5199,12 @@
 	d00d  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
 		10b5 9030  Digium Tormenta 2 T400P or E400P Quad T1 or E1 PCI card
 	d33d  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		105b 9030  Tormenta 3 Varion V401PT Quad T1/J1 PCI card
+		10b5 9030  Tormenta 3 Varion V401PT Quad T1/J1 PCI card
 	d44d  PCI9030 32-bit 33MHz PCI <-> IOBus Bridge
-		105b 9030  Tormenta 3 Varion V401PE Quad E1 PCI card
 		10b5 17f6  Allo CP100P/E 1-port E1/T1/J1 PCI/PCIe card
 		10b5 17f7  Allo CP400P/E 4-port E1/T1/J1 PCI/PCIe card
 		10b5 17f8  Allo CP200P/E 2-port E1/T1/J1 PCI/PCIe card
+		10b5 9030  Tormenta 3 Varion V401PE Quad E1 PCI card
 10b6  Madge Networks
 	0001  Smart 16/4 PCI Ringnode
 	0002  Smart 16/4 PCI Ringnode Mk2
@@ -15522,6 +15522,8 @@
 3020  LSI SAS2 9211-8i
 3080  LSI SAS2 9200-8e
 3142  Post Impression Systems.
+31ab  Zonet
+	1faa  ZEW1602 802.11b/g Wireless Adapter
 3388  Hint Corp
 	0013  HiNT HC4 PCI to ISDN bridge, Multimedia audio controller
 	0014  HiNT HC4 PCI to ISDN bridge, Network controller
@@ -20632,8 +20634,6 @@
 	8184  Atom Processor E6xx PCI Express Port 1
 	8185  Atom Processor E6xx PCI Express Port 2
 	8186  Atom Processor E6xx LPC Bridge
-	821c  Wellsburg PCI Express Root Port #7
-	821d  Wellsburg PCI Express Root Port #7
 	84c4  450KX/GX [Orion] - 82454KX/GX PCI bridge
 	84c5  450KX/GX [Orion] - 82453KX/GX Memory controller
 	84ca  450NX - 82451NX Memory & I/O Controller
@@ -20766,6 +20766,9 @@
 	8d18  Wellsburg PCI Express Root Port #5
 	8d19  Wellsburg PCI Express Root Port #5
 	8d1a  Wellsburg PCI Express Root Port #6
+	8d1b  Wellsburg PCI Express Root Port #6
+	8d1c  Wellsburg PCI Express Root Port #7
+	8d1d  Wellsburg PCI Express Root Port #7
 	8d1e  Wellsburg PCI Express Root Port #8
 	8d1f  Wellsburg PCI Express Root Port #8
 	8d20  Wellsburg HD Audio Controller
