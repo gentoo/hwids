@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.08
-#	Date:    2013-01-08 03:15:02
+#	Version: 2013.01.10
+#	Date:    2013-01-10 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -780,6 +780,7 @@
 	4381  SB400 SATA Controller (RAID 5 mode)
 	4382  SB600 AC97 Audio
 	4383  SBx00 Azalia (Intel HDA)
+		1019 2120  A785GM-M
 		103c 1611  Pavilion DM1Z-3000
 		103c 280a  DC5750 Microtower
 		1043 8230  M3A78-EH Motherboard
@@ -791,6 +792,7 @@
 		17f2 5000  KI690-AM2 Motherboard
 	4384  SBx00 PCI to PCI Bridge
 	4385  SBx00 SMBus Controller
+		1019 2120  A785GM-M
 		103c 1611  Pavilion DM1Z-3000
 		103c 280a  DC5750 Microtower
 		1043 82ef  M3A78-EH Motherboard
@@ -858,27 +860,33 @@
 	4394  SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]
 	4395  SB8x0/SB9x0 SATA Controller [Storage mode]
 	4396  SB7x0/SB8x0/SB9x0 USB EHCI Controller
+		1019 2120  A785GM-M
 		103c 1611  Pavilion DM1Z-3000
 		1043 82ef  M3A78-EH Motherboard
 		1043 8443  M5A88-V EVO
 		15d9 a811  H8DGU
 		174b 1001  Sapphire PURE Fusion Mini
 	4397  SB7x0/SB8x0/SB9x0 USB OHCI0 Controller
+		1019 2120  A785GM-M
 		103c 1611  Pavilion DM1Z-3000
 		1043 82ef  M3A78-EH Motherboard
 		1043 8443  M5A88-V EVO
 		15d9 a811  H8DGU
 		174b 1001  Sapphire PURE Fusion Mini
 	4398  SB7x0 USB OHCI1 Controller
+		1019 2120  A785GM-M
 		1043 82ef  M3A78-EH Motherboard
 		15d9 a811  H8DGU
 	4399  SB7x0/SB8x0/SB9x0 USB OHCI2 Controller
+		1019 2120  A785GM-M
 		1043 82ef  M3A78-EH Motherboard
 		1043 8443  M5A88-V EVO
 		174b 1001  Sapphire PURE Fusion Mini
 	439c  SB7x0/SB8x0/SB9x0 IDE Controller
+		1019 2120  A785GM-M
 		1043 82ef  M3A78-EH Motherboard
 	439d  SB7x0/SB8x0/SB9x0 LPC host controller
+		1019 2120  A785GM-M
 		103c 1611  Pavilion DM1Z-3000
 		1043 82ef  M3A78-EH Motherboard
 		1043 8443  M5A88-V EVO
@@ -1895,9 +1903,11 @@
 	9647  BeaverCreek [Radeon HD 6520G]
 	964a  BeaverCreek [Radeon HD 6530D]
 	970f  RS880 HDMI Audio [Radeon HD 4200 Series]
+		1019 2120  A785GM-M
 		1043 83a2  M4A785TD Motherboard
 		1043 843e  M5A88-V EVO
 	9710  RS880 [Radeon HD 4200]
+		1019 2120  A785GM-M
 		1043 83a2  M4A785TD Motherboard
 	9712  RS880M [Mobility Radeon HD 4200 Series]
 	9713  RS880M [Mobility Radeon HD 4100]
@@ -2611,6 +2621,7 @@
 	9600  RS780 Host Bridge
 		1043 82f1  M3A78-EH Motherboard
 	9601  RS880 Host Bridge
+		1019 2120  A785GM-M
 		1043 843e  M5A88-V EVO
 	9602  RS780/RS880 PCI to PCI bridge (int gfx)
 	9603  RS780 PCI to PCI bridge (ext gfx port 0)
@@ -7641,8 +7652,8 @@
 		1458 e000  GA-MA69G-S3H Motherboard
 		1462 235c  P965 Neo MS-7235 mainboard
 		1462 236c  945P Neo3-F motherboard
-	8168  RTL8111/8168B PCI Express Gigabit Ethernet controller
-		1019 8168  MCP73PVT-SM
+	8168  RTL8111/8168 PCI Express Gigabit Ethernet controller
+		1019 8168  RTL8111/8168 PCI Express Gigabit Ethernet controller
 		1028 04b2  Vostro 3350
 		1028 04da  Vostro 3750
 		103c 1611  Pavilion DM1Z-3000
@@ -7653,8 +7664,8 @@
 		1043 83a3  M4A785TD Motherboard
 		1043 8432  P8P67 and other motherboards
 		1043 8505  P8H77-I Motherboard
-		10ec 8168  TEG-ECTX Gigabit PCI-E Adapter [Trendnet]
-		1458 e000  GA-D525TUD/GA-EP45-DS5/GA-EG45M-DS2H Motherboard
+		10ec 8168  RTL8111/8168 PCI Express Gigabit Ethernet controller
+		1458 e000  Motherboard
 		1462 238c  Onboard RTL8111b on MSI P965 Platinum Mainboard
 		1462 368c  K9AG Neo2
 		1462 7522  X58 Pro-E
@@ -9476,6 +9487,7 @@
 		1028 014f  Latitude X300 laptop
 		1028 0188  Inspiron 6000 laptop
 		1043 1237  A6J-Q008
+		1043 1757  M2400N laptop
 		144d c005  X10 Laptop
 		144d c00c  P30/P35 notebook
 		17aa 201e  ThinkPad X60s
@@ -12958,6 +12970,7 @@
 		14e4 0009  NetXtreme BCM5703 1000Base-T
 		14e4 000a  NetXtreme BCM5703 1000Base-SX
 	16dd  NetLink BCM5781 Gigabit Ethernet PCI Express
+	16f3  NetXtreme BCM5727 Gigabit Ethernet PCIe
 	16f7  NetXtreme BCM5753 Gigabit Ethernet PCI Express
 	16fd  NetXtreme BCM5753M Gigabit Ethernet PCI Express
 		103c 309f  Compaq nx9420 Notebook
@@ -15370,6 +15383,7 @@
 	1001  Virtio block device
 	1002  Virtio memory balloon
 	1003  Virtio console
+	1009  Virtio filesystem
 1af5  Netezza Corp.
 1afa  J & W Electronics Co., Ltd.
 1b03  Magnum Semiconductor, Inc,
@@ -16072,6 +16086,7 @@
 	0043  Core Processor Secondary PCI Express Root Port
 	0044  Core Processor DRAM Controller
 		1025 0347  Aspire 7740G
+		1025 0487  TravelMate 5742
 		e4bf 50c1  PC1-GROOVE
 	0045  Core Processor PCI Express x16 Root Port
 	0046  Core Processor Integrated Graphics Controller
@@ -16141,6 +16156,7 @@
 		1028 04b2  Vostro 3350
 		106b 00dc  MacBookPro8,2 [Core i7, 15", 2011]
 	0102  2nd Generation Core Processor Family Integrated Graphics Controller
+		1028 04aa  XPS 8300
 	0104  2nd Generation Core Processor Family DRAM Controller
 		1028 04a3  Precision M4600
 		1028 04b2  Vostro 3350
@@ -16380,32 +16396,38 @@
 	0c08  Haswell DRAM Controller
 	0c09  Haswell PCI Express x4 Controller
 	0c0c  Haswell HD Audio Controller
-	0c46  Centerton PCI Express Root Port 1
-	0c47  Centerton PCI Express Root Port 2
-	0c48  Centerton PCI Express Root Port 3
-	0c49  Centerton PCI Express Root Port 4
-	0c4e  Centerton NTB Primary
-	0c54  Centerton Internal Management
-	0c59  Centerton SMBus 2.0 Controller 0
-	0c5a  Centerton SMBus 2.0 Controller 1
-	0c5f  Centerton UART
-	0c60  Centerton Integrated Legacy Bus
-	0c70  Centerton Internal Fabric
-	0c71  Centerton Internal Fabric
-	0c72  Centerton Internal Fabric
-	0c73  Centerton Internal Fabric
-	0c74  Centerton Internal Fabric
-	0c75  Centerton Internal Fabric
-	0c76  Centerton Internal Fabric
-	0c77  Centerton Internal Fabric
-	0c78  Centerton Internal Fabric
-	0c79  Centerton Internal Fabric
-	0c7a  Centerton Internal Fabric
-	0c7b  Centerton Internal Fabric
-	0c7c  Centerton Internal Fabric
-	0c7d  Centerton Internal Fabric
-	0c7e  Centerton Internal Fabric
-	0c7f  Centerton Internal Fabric
+	0c46  Atom Processor S1200 PCI Express Root Port 1
+	0c47  Atom Processor S1200 PCI Express Root Port 2
+	0c48  Atom Processor S1200 PCI Express Root Port 3
+	0c49  Atom Processor S1200 PCI Express Root Port 4
+	0c4e  Atom Processor S1200 NTB Primary
+	0c54  Atom Processor S1200 Internal
+	0c55  Atom Processor S1200 DFX 1
+	0c56  Atom Processor S1200 DFX 2
+	0c59  Atom Processor S1200 SMBus 2.0 Controller 0
+	0c5a  Atom Processor S1200 SMBus 2.0 Controller 1
+	0c5b  Atom Processor S1200 SMBus Controller 2
+	0c5c  Atom Processor S1200 SMBus Controller 3
+	0c5d  Atom Processor S1200 SMBus Controller 4
+	0c5e  Atom Processor S1200 SMBus Controller 5
+	0c5f  Atom Processor S1200 UART
+	0c60  Atom Processor S1200 Integrated Legacy Bus
+	0c70  Atom Processor S1200 Internal
+	0c71  Atom Processor S1200 Internal
+	0c72  Atom Processor S1200 Internal
+	0c73  Atom Processor S1200 Internal
+	0c74  Atom Processor S1200 Internal
+	0c75  Atom Processor S1200 Internal
+	0c76  Atom Processor S1200 Internal
+	0c77  Atom Processor S1200 Internal
+	0c78  Atom Processor S1200 Internal
+	0c79  Atom Processor S1200 Internal
+	0c7a  Atom Processor S1200 Internal
+	0c7b  Atom Processor S1200 Internal
+	0c7c  Atom Processor S1200 Internal
+	0c7d  Atom Processor S1200 Internal
+	0c7e  Atom Processor S1200 Internal
+	0c7f  Atom Processor S1200 Internal
 	0d00  Crystal Well DRAM Controller
 	0d01  Crystal Well PCI Express x16 Controller
 	0d04  Crystal Well DRAM Controller
@@ -17451,14 +17473,17 @@
 	1c08  6 Series/C200 Series Chipset Family 2 port SATA IDE Controller
 	1c09  6 Series/C200 Series Chipset Family 2 port SATA IDE Controller
 	1c10  6 Series/C200 Series Chipset Family PCI Express Root Port 1
+		1028 04aa  XPS 8300
 		1028 04da  Vostro 3750
 		8086 7270  Apple MacBookPro8,2 [Core i7, 15", 2011]
 	1c12  6 Series/C200 Series Chipset Family PCI Express Root Port 2
+		1028 04aa  XPS 8300
 		8086 7270  Apple MacBookPro8,2 [Core i7, 15", 2011]
 	1c14  6 Series/C200 Series Chipset Family PCI Express Root Port 3
 		1028 04da  Vostro 3750
 		8086 7270  Apple MacBookPro8,2 [Core i7, 15", 2011]
 	1c16  6 Series/C200 Series Chipset Family PCI Express Root Port 4
+		1028 04aa  XPS 8300
 	1c18  6 Series/C200 Series Chipset Family PCI Express Root Port 5
 		1028 04da  Vostro 3750
 	1c1a  6 Series/C200 Series Chipset Family PCI Express Root Port 6
@@ -18026,7 +18051,7 @@
 		103c 088c  NC8000 laptop
 		103c 0890  NC6000 laptop
 		103c 08b0  tc1100 tablet
-		1043 1713  M6800N
+		1043 1713  M2400N/M6800N laptop
 		1043 80b0  P4B533
 		1071 8160  MIM2000
 		1179 0201  Toshiba Tecra M1
@@ -18047,6 +18072,7 @@
 		103c 088c  NC8000 laptop
 		103c 0890  NC6000 laptop
 		103c 08b0  tc1100 tablet
+		1043 1716  M2400N laptop
 		1043 1826  M6800N
 		1071 8160  MIM2000
 		134d 4c21  Latitude D500
@@ -20134,19 +20160,19 @@
 		1028 028d  PowerEdge T410 USB UHCI Controller
 		103c 330b  ProLiant G6 series
 		1043 82d4  P5Q Deluxe Motherboard
-		1458 5004  GA-EP45-DS5/GA-EG45M-DS2H Motherboard
+		1458 5004  Motherboard
 	3a38  82801JI (ICH10 Family) USB UHCI Controller #5
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
 		103c 330b  ProLiant ML150 G6 Server
 		1043 82d4  P5Q Deluxe Motherboard
-		1458 5004  GA-EP45-DS5/GA-EG45M-DS2H Motherboard
+		1458 5004  Motherboard
 	3a39  82801JI (ICH10 Family) USB UHCI Controller #6
 		1028 028c  PowerEdge R410 USB UHCI Controller
 		1028 028d  PowerEdge T410 USB UHCI Controller
 		103c 330b  ProLiant ML150 G6 Server
 		1043 82d4  P5Q Deluxe Motherboard
-		1458 5004  GA-EP45-DS5/GA-EG45M-DS2H Motherboard
+		1458 5004  Motherboard
 	3a3a  82801JI (ICH10 Family) USB2 EHCI Controller #1
 		1028 028c  PowerEdge R410 USB EHCI Controller
 		1028 028d  PowerEdge T410 USB EHCI Controller
