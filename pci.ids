@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.10
-#	Date:    2013-01-10 03:15:02
+#	Version: 2013.01.11
+#	Date:    2013-01-11 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1625,6 +1625,7 @@
 	68f2  Cedar [FirePro 2270]
 	68f9  Cedar PRO [Radeon HD 5450/6350]
 		1028 010e  XPS 8300
+		1043 03c2  EAH5450 SILENT/DI/512MD2 (LP)
 	68fa  EG Cedar [Radeon HD 7300 Series]
 	700f  PCI Bridge [IGP 320M]
 	7010  PCI Bridge [IGP 340M]
@@ -3759,7 +3760,7 @@
 	8024  TSB43AB23 IEEE-1394a-2000 Controller (PHY/Link)
 		107d 6620  Winfast DV2000 FireWire Controller
 		1443 8024  FireBoard Blue
-		1458 1000  GA-EP45-DS5/GA-EG45M-DS2H Motherboard
+		1458 1000  Motherboard
 	8025  TSB82AA2 IEEE-1394b Link Layer Controller
 		1043 813c  P5P series mainboard
 		1443 8025  FireBoard800
@@ -7664,6 +7665,7 @@
 		1043 83a3  M4A785TD Motherboard
 		1043 8432  P8P67 and other motherboards
 		1043 8505  P8H77-I Motherboard
+		105b 0d7c  D270S/D250S Motherboard
 		10ec 8168  RTL8111/8168 PCI Express Gigabit Ethernet controller
 		1458 e000  Motherboard
 		1462 238c  Onboard RTL8111b on MSI P965 Platinum Mainboard
@@ -15166,7 +15168,7 @@
 		1043 8460  P8P67 Deluxe Motherboard
 	2363  JMB363 SATA/IDE Controller
 		1043 81e4  P5B [JMB363]
-		1458 b000  GA-EP45-DS5 Motherboard
+		1458 b000  Motherboard
 		1849 2363  Motherboard (one of many)
 	2364  JMB364 AHCI Controller
 	2365  JMB365 AHCI/IDE
@@ -16367,6 +16369,7 @@
 	0a2a  Haswell-ULT Integrated Graphics Controller
 	0be0  Atom Processor D2xxx/N2xxx Integrated Graphics Controller
 	0be1  Atom Processor D2xxx/N2xxx Integrated Graphics Controller
+		105b 0d7c  D270S/D250S Motherboard
 	0be2  Atom Processor D2xxx/N2xxx Integrated Graphics Controller
 	0be3  Atom Processor D2xxx/N2xxx Integrated Graphics Controller
 	0be4  Atom Processor D2xxx/N2xxx Integrated Graphics Controller
@@ -16387,6 +16390,7 @@
 	0bf3  Atom Processor D2xxx/N2xxx DRAM Controller
 	0bf4  Atom Processor D2xxx/N2xxx DRAM Controller
 	0bf5  Atom Processor D2xxx/N2xxx DRAM Controller
+		105b 0d7c  D270S/D250S Motherboard
 	0bf6  Atom Processor D2xxx/N2xxx DRAM Controller
 	0bf7  Atom Processor D2xxx/N2xxx DRAM Controller
 	0c00  Haswell DRAM Controller
@@ -17838,6 +17842,7 @@
 		103c 30a3  Compaq nw8440
 		103c 30c1  Compaq 6910p
 		104d 902d  VAIO VGN-NR120E
+		105b 0d7c  D270S/D250S Motherboard
 		144d c00c  P30 notebook
 		144d c072  Notebook N150P
 		1458 5000  GA-D525TUD
@@ -17900,7 +17905,7 @@
 		103c 2a3b  Pavilion A1512X
 		103c 31fe  ProLiant DL140 G3
 		103c 330b  ProLiant ML150 G6 Server
-		1458 5000  GA-EP45-DS5 Motherboard
+		1458 5000  Motherboard
 		1775 11cc  CC11/CL11
 	2450  82801E ISA Bridge (LPC)
 	2452  82801E USB Controller
@@ -18863,6 +18868,7 @@
 		10f7 8338  Panasonic CF-Y5 laptop
 		17aa 2009  ThinkPad T60/R60 series
 	27bc  NM10 Family LPC Controller
+		105b 0d7c  D270S/D250S Motherboard
 		144d c072  Notebook N150P
 		1458 5001  GA-D525TUD
 		8086 4f4d  DeskTop Board D510MO
@@ -18883,6 +18889,7 @@
 	27c1  NM10/ICH7 Family SATA Controller [AHCI mode]
 		1028 01df  PowerEdge SC440
 		103c 2a3b  Pavilion A1512X
+		105b 0d7c  D270S/D250S Motherboard
 		144d c072  Notebook N150P
 		1458 b005  GA-D525TUD
 		1775 11cc  CC11/CL11
@@ -18912,6 +18919,7 @@
 		103c 30a3  Compaq nw8440
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
+		105b 0d7c  D270S/D250S Motherboard
 		107b 5048  E4500
 		144d c072  Notebook N150P
 		1458 5004  GA-D525TUD
@@ -18932,6 +18940,7 @@
 		103c 30a3  Compaq nw8440
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
+		105b 0d7c  D270S/D250S Motherboard
 		107b 5048  E4500
 		144d c072  Notebook N150P
 		1458 5004  GA-D525TUD
@@ -18952,6 +18961,7 @@
 		103c 30a3  Compaq nw8440
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
+		105b 0d7c  D270S/D250S Motherboard
 		107b 5048  E4500
 		144d c072  Notebook N150P
 		1458 5004  GA-D525TUD
@@ -18970,6 +18980,7 @@
 		103c 30a3  Compaq nw8440
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
+		105b 0d7c  D270S/D250S Motherboard
 		107b 5048  E4500
 		144d c072  Notebook N150P
 		1458 5004  GA-D525TUD
@@ -18989,6 +19000,7 @@
 		103c 30a3  Compaq nw8440
 		1043 1237  A6J-Q008
 		1043 8179  P5KPL-VM,P5LD2-VM Mainboard
+		105b 0d7c  D270S/D250S Motherboard
 		144d c072  Notebook N150P
 		1458 5006  GA-D525TUD
 		1775 11cc  CC11/CL11
@@ -19030,6 +19042,7 @@
 		1043 817f  P5LD2-VM Mainboard (Realtek ALC 882 codec)
 		1043 8290  P5KPL-VM Motherboard
 		1043 82ea  P5KPL-CM Motherboard
+		105b 0d7c  D270S/D250S Motherboard
 		107b 5048  E4500
 		10f7 8338  Panasonic CF-Y5 laptop
 		1179 ff10  Toshiba Satellite A100-796 audio (Realtek ALC861)
@@ -19054,6 +19067,7 @@
 		1028 01e6  PowerEdge 860
 		103c 2a3b  Pavilion A1512X
 		1043 8179  P5KPL-VM Motherboard
+		105b 0d7c  D270S/D250S Motherboard
 		10f7 8338  Panasonic CF-Y5 laptop
 		144d c072  Notebook N150P
 		1458 5001  GA-8I945PG-RH/GA-D525TUD Mainboard

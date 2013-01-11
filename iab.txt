@@ -5213,7 +5213,7 @@ IAB Range    			Organization
 00-50-C2	(hex)		ACT
 345000-345FFF	(base 16)	ACT
 				Unit C1, South City Business Center
-				Tallaght Dublin 24
+				Tallaght Dublin NA
 				IRELAND
 
 00-50-C2	(hex)		biokeysystem
@@ -5766,7 +5766,7 @@ IAB Range    			Organization
 39E000-39EFFF	(base 16)	A.R.G ElectroDesign Ltd
 				Querns Business Centre
 				Whitworth Road
-				Cirencester Gloucester GL7 1RT
+				Cirencester Gloucestershire GL7 1RT
 				UNITED KINGDOM
 
 00-50-C2	(hex)		Isensix
@@ -6044,9 +6044,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Analytica GmbH
 3CB000-3CBFFF	(base 16)	Analytica GmbH
-				Vorholzstraße 84
-				76137
-				Karlsruhe Baden-Württemberg 
+				Vorholzstraße 36
+				Karlsruhe Baden-Württemberg 76137
 				GERMANY
 
 00-50-C2	(hex)		LINKWELL TELESYSTEMS PRIVATE LIMITED
@@ -7653,10 +7652,10 @@ IAB Range    			Organization
 				Eight Mile Plains Queensland 4113
 				AUSTRALIA
 
-00-50-C2	(hex)		Adasoft AG
-4CD000-4CDFFF	(base 16)	Adasoft AG
-				Dahlienweg 23
-				Subingen SO 4553
+00-50-C2	(hex)		Bixi Systems AG
+4CD000-4CDFFF	(base 16)	Bixi Systems AG
+				Grammetstrasse 14
+				Liestal BL 4410
 				SWITZERLAND
 
 00-50-C2	(hex)		Open Date Equipment Limited
@@ -12476,9 +12475,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		AirCell Inc.
 7CE000-7CEFFF	(base 16)	AirCell Inc.
-				1172 Century Drive
-				Suite 280
-				Louisville CO 80027
+				303 S. Technology Dr.
+				Bldg A
+				Broomfield CO 80021
 				UNITED STATES
 
 00-50-C2	(hex)		Emitech Corporation
@@ -13835,7 +13834,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		ALTEK ELECTRONICS
 8A8000-8A8FFF	(base 16)	ALTEK ELECTRONICS
-				245 East Elm Street
+				89 Commercial Blvd
 				PO BOX 1128
 				Torrington CT 06790
 				UNITED STATES
@@ -19201,9 +19200,8 @@ C05000-C05FFF	(base 16)	Doppler Systems LLC
 
 00-50-C2	(hex)		ANALOG WAY
 C06000-C06FFF	(base 16)	ANALOG WAY
-				Parc du Moulin
-				33 Rue du Saule Trapu
-				Massy  91882 cedex
+				2 rue Georges Besse
+				Antony  92160
 				FRANCE
 
 00-50-C2	(hex)		CIO Informatique Industrielle
@@ -20664,9 +20662,9 @@ CF4000-CF4FFF	(base 16)	Baudisch Electronic GmbH
 				Wäschenbeuren Baden-Württemberg 73116
 				GERMANY
 
-00-50-C2	(hex)		Aircell
-CF5000-CF5FFF	(base 16)	Aircell
-				303 S Technology Ct
+00-50-C2	(hex)		AirCell Inc.
+CF5000-CF5FFF	(base 16)	AirCell Inc.
+				303 S. Technology Dr.
 				Bldg A
 				Broomfield CO 80021
 				UNITED STATES
@@ -20744,9 +20742,9 @@ D00000-D00FFF	(base 16)	Bodensee Gravitymeter Geosystem GmbH
 
 00-50-C2	(hex)		Aanderaa Data Instruments
 D01000-D01FFF	(base 16)	Aanderaa Data Instruments
-				Nesttunbrekken 97
-				P.O.Box 34
-				Nesttun Hordaland 5851
+				Sandalsringen 5B
+				P.O.Box 103
+				Midtun Hordaland 5828
 				NORWAY
 
 00-50-C2	(hex)		SURVALENT TECHNOLOGY CORP
@@ -22672,9 +22670,9 @@ E37000-E37FFF	(base 16)	FUJI DATA SYSTEM Co., Ltd
 
 00-50-C2	(hex)		Aesir Copenhagen
 E38000-E38FFF	(base 16)	Aesir Copenhagen
-				Strandgade 38a - KLD
-				Copenhagen  1401
-				DENMARK
+				Elektroniikkatie 10
+				Oulu  90590
+				FINLAND
 
 00-50-C2	(hex)		Telemetrics Inc.
 E39000-E39FFF	(base 16)	Telemetrics Inc.
@@ -26289,4 +26287,23 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				LongGang District
 				Shenzhen Guangdong 518000
 				CHINA
+
+40-D8-55	(hex)		Agramkow Fluid Systems A/S
+07C000-07CFFF	(base 16)	Agramkow Fluid Systems A/S
+				Augustenborg Landevej 19
+				Soenderborg DK 6400
+				DENMARK
+
+40-D8-55	(hex)		Wuxi SiNeng New Energy Co., Ltd.
+07D000-07DFFF	(base 16)	Wuxi SiNeng New Energy Co., Ltd.
+				No.1 Wind power Road, Wind Power Technology Industrial Park
+				Wuxi Huishan Economic Development Zone
+				Wuxi Jiangsu Province 214000
+				CHINA
+
+40-D8-55	(hex)		TESCOM CORPORATION
+07E000-07EFFF	(base 16)	TESCOM CORPORATION
+				29-8 Teramachi
+				Hachioji Tokyo 192-0073
+				JAPAN
 
