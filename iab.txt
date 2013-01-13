@@ -26307,3 +26307,9 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Hachioji Tokyo 192-0073
 				JAPAN
 
+40-D8-55	(hex)		Wheatstone Corporation
+07F000-07FFFF	(base 16)	Wheatstone Corporation
+				600 Industrial Drive
+				New Bern NC 28562
+				UNITED STATES
+

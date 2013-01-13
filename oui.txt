@@ -80438,6 +80438,13 @@ company_id			Organization
 				GuangZhou GuangDong 510630
 				CHINA
 
+04-4C-EF   (hex)		Fujian Sanao Technology Co.,Ltd
+044CEF     (base 16)		Fujian Sanao Technology Co.,Ltd
+				Fuzhou shibei bicyclic road no. 117
+				blue building three layer
+				Fuzhou Fujian 350000
+				CHINA
+
 04-4F-AA   (hex)		Ruckus Wireless
 044FAA     (base 16)		Ruckus Wireless
 				880 West Maude Ave.
@@ -85377,6 +85384,13 @@ company_id			Organization
 2829D9     (base 16)		GlobalBeiMing technology (Beijing)Co. Ltd
 				Beijing  Chaoyang District 8 Guanghua Road A seat 320 rooms
 				Beijing 100026
+				CHINA
+
+28-31-52   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+283152     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				D1,Huawei Industrial Base
+				Bantian,Longgang
+				ShenZhen GuangDong 518129
 				CHINA
 
 28-34-10   (hex)		Enigma Diagnostics Limited
@@ -96619,6 +96633,13 @@ company_id			Organization
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
+8C-77-16   (hex)		LONGCHEER TELECOMMUNICATION LIMITED
+8C7716     (base 16)		LONGCHEER TELECOMMUNICATION LIMITED
+				Building 1,No.401,Caobao Rd
+				Xuhui District
+				Shanghai 200233
+				CHINA
+
 8C-7B-9D   (hex)		Apple, Inc.
 8C7B9D     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -97742,6 +97763,12 @@ company_id			Organization
 				8 AVROE CRESCENT
 				BLACKPOOL LANCASHIRE FY4 2DP
 				UNITED KINGDOM
+
+94-EB-CD   (hex)		Research In Motion Limited
+94EBCD     (base 16)		Research In Motion Limited
+				295 Phillip Street
+				Waterloo Ontario N2L3W8
+				CANADA
 
 94-F6-92   (hex)		Geminico co.,Ltd.
 94F692     (base 16)		Geminico co.,Ltd.
@@ -100547,6 +100574,13 @@ B01408     (base 16)		LIGHTSPEED INTERNATIONAL CO.
 				Hsinchu Not US/Canada 30091
 				TAIWAN, PROVINCE OF CHINA
 
+B0-17-43   (hex)		EDISON GLOBAL CIRCUITS LLC
+B01743     (base 16)		EDISON GLOBAL CIRCUITS LLC
+				1475  Sawdust Rd
+				Ste 3108
+				Spring TX 77380-2974
+				UNITED STATES
+
 B0-1B-7C   (hex)		Ontrol A.S.
 B01B7C     (base 16)		Ontrol A.S.
 				Turcan Cad No:19 Y.Dudullu
@@ -101394,6 +101428,12 @@ B81413     (base 16)		Keen High Holding(HK) Ltd.
 				Futian District,
 				Shenzhen Guangdong 518040
 				CHINA
+
+B8-16-19   (hex)		Motorola Mobility, Inc.
+B81619     (base 16)		Motorola Mobility, Inc.
+				6450 Sequence Drive
+				San Diego CA 92121
+				UNITED STATES
 
 B8-17-C2   (hex)		Apple, Inc.
 B817C2     (base 16)		Apple, Inc.
@@ -103729,6 +103769,12 @@ CC0CDA     (base 16)		Miljovakt AS
 				Borre Vestfold 3184
 				NORWAY
 
+CC-0D-EC   (hex)		Cisco SPVTG
+CC0DEC     (base 16)		Cisco SPVTG
+				5030 Sugarloaf Parkway
+				Lawrenceville GA 30044
+				UNITED STATES
+
 CC-14-A6   (hex)		Yichun MyEnergy Domain, Inc
 CC14A6     (base 16)		Yichun MyEnergy Domain, Inc
 				349W. Yuanshan Rd, Yichun
@@ -104457,6 +104503,13 @@ D0BB80     (base 16)		SHL Telemedicine International Ltd.
 				90 Yigal Alon
 				Tel Aviv  67891
 				ISRAEL
+
+D0-BE-2C   (hex)		CNSLink Co., Ltd.
+D0BE2C     (base 16)		CNSLink Co., Ltd.
+				room 807, Jungang Induspia 5
+				138-6, Sangdaewon 1-dong, Jungwong-gu
+				Seongnam Gyeonggi 462-807
+				KOREA, REPUBLIC OF
 
 D0-C1-B1   (hex)		Samsung Electronics Co.,Ltd
 D0C1B1     (base 16)		Samsung Electronics Co.,Ltd
@@ -105627,6 +105680,12 @@ DC1D9F     (base 16)		U & B tech
 				Anyang-Si Gyeonggi-Do 431-061
 				KOREA, REPUBLIC OF
 
+DC-1D-D4   (hex)		Microstep-MIS spol. s r.o.
+DC1DD4     (base 16)		Microstep-MIS spol. s r.o.
+				Cavojskeho 1
+				Bratislava  84104
+				SLOVAKIA
+
 DC-1E-A3   (hex)		Accensus LLC
 DC1EA3     (base 16)		Accensus LLC
 				200 South Wacker Drive
@@ -106607,6 +106666,13 @@ E467BA     (base 16)		Danish Interpretation Systems A/S
 				Vestre Teglgade 12
 				Copenhagen SV 2450
 				DENMARK
+
+E4-68-A3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E468A3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				D1,Huawei Industrial Base
+				Bantian,Longgang
+				ShenZhen GuangDong 518129
+				CHINA
 
 E4-6C-21   (hex)		messMa GmbH
 E46C21     (base 16)		messMa GmbH
@@ -109416,6 +109482,13 @@ FCD6BD     (base 16)		Robert Bosch GmbH
 				P.O. Box 16 61
 				Leonberg BW 71206
 				GERMANY
+
+FC-DD-55   (hex)		Shenzhen WeWins wireless Co.,Ltd
+FCDD55     (base 16)		Shenzhen WeWins wireless Co.,Ltd
+				6/F.,B Wing,Yuehai Piaza,Nanhai Road
+				Nanshan District
+				Shenzhen Guangdong 518000
+				CHINA
 
 FC-E1-92   (hex)		Sichuan Jinwangtong Electronic Science&Technology Co,.Ltd
 FCE192     (base 16)		Sichuan Jinwangtong Electronic Science&Technology Co,.Ltd

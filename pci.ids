@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.11
-#	Date:    2013-01-11 03:15:02
+#	Version: 2013.01.12
+#	Date:    2013-01-12 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -21,43 +21,23 @@
 #	device  device_name				<-- single tab
 #		subvendor subdevice  subsystem_name	<-- two tabs
 
-0010  Allied Telesis, Inc
+0010  Allied Telesis, Inc (Wrong ID)
 # This is a relabelled RTL-8139
 	8139  AT-2500TX V3 Ethernet
-001a  Ascend Communications, Inc.
 001c  PEAK-System Technik GmbH
 	0001  PCAN-PCI CAN-Bus controller
 		001c 0004  2 Channel CAN Bus SJC1000
 		001c 0005  2 Channel CAN Bus SJC1000 (Optically Isolated)
-0033  Paradyne corp.
 003d  Lockheed Martin-Marietta Corp
 # Real TJN ID is e159, but they got it wrong several times --mj
 0059  Tiger Jet Network Inc. (Wrong ID)
 0070  Hauppauge computer works Inc.
-	0003  WinTV PVR-250
-	0009  WinTV PVR-150
-	0801  WinTV PVR-150
-	0807  WinTV PVR-150
-	4000  WinTV PVR-350
-	4001  WinTV PVR-250 (v1)
-	4009  WinTV PVR-250
-	4800  WinTV PVR-350
-	4801  WinTV PVR-250 MCE
-	4803  WinTV PVR-250
-	7444  WinTV HVR-1600
 	7801  WinTV HVR-1800 MCE
-	8003  WinTV PVR-150
-	8801  WinTV PVR-150
-	c108  WinTV-HVR-4400-HD model 1278
-	c801  WinTV PVR-150
-	e807  WinTV PVR-500 MCE (1st tuner)
-	e817  WinTV PVR-500 MCE (2nd tuner)
 0071  Nebula Electronics Ltd.
 0095  Silicon Image, Inc. (Wrong ID)
 	0680  Ultra ATA/133 IDE RAID CONTROLLER CARD
 # Wrong ID used in subsystem ID of the TELES.S0/PCI 2.x ISDN adapter
 00a7  Teles AG (Wrong ID)
-00f5  BFG Technologies, Inc.
 0100  Ncipher Corp Ltd
 0123  General Dynamics
 # 018a is not LevelOne but there is a board misprogrammed
@@ -67,18 +47,14 @@
 021b  Compaq Computer Corporation
 	8139  HNE-300 (RealTek RTL8139c) [iPaq Networking]
 0270  Hauppauge computer works Inc. (Wrong ID)
-0291  Davicom Semiconductor, Inc.
-	8212  DM9102A(DM9102AE, SM9102AF) Ethernet 100/10 MBit(Rev 40)
 # SpeedStream is Efficient Networks, Inc, a Siemens Company
 02ac  SpeedStream
 	1012  1012 PCMCIA 10/100 Ethernet Card [RTL81xx]
-02e0  XFX Pine Group Inc
 0303  Hewlett-Packard Company (Wrong ID)
-0308  ZyXEL Communications Corporation
+0308  ZyXEL Communications Corporation (Wrong ID)
 0315  SK-Electronics Co., Ltd.
-0357  TTTech AG
+0357  TTTech Computertechnik AG (Wrong ID)
 	000a  TTP-Monitoring Card V2.0
-036f  Trigem Computer Inc.
 0432  SCM Microsystems, Inc.
 	0001  Pluto2 DVB-T Receiver for PCMCIA [EasyWatch MobilSet]
 0675  Dynalink
@@ -656,6 +632,7 @@
 		1002 4772  All-in-Wonder 9600 XT
 		1043 c002  Radeon 9600 XT TVD
 		1043 c01a  A9600XT/TD
+		1462 9510  RX9600XT (MS-8951)
 		174b 7c29  Sapphire Radeon 9600XT
 		1787 4002  Radeon 9600 XT
 	4153  RV350 AS [Radeon 9550]
@@ -1517,6 +1494,7 @@
 	5e4d  RV410 [Radeon X700 (PCIE)]
 		148c 2116  PowerColor Bravo X700
 	5e4f  RV410 [Radeon X700]
+		1569 1e4f  Radeon X550 XT
 	5e6b  RV410 [Radeon X700 Pro (PCIE)] (Secondary)
 	5e6d  RV410 [Radeon X700 (PCIE)] (Secondary)
 		148c 2117  PowerColor Bravo X700
@@ -3160,8 +3138,8 @@
 	002a  PowerVR 3D
 	002c  Star Alpha 2
 	002d  PCI to C-bus Bridge
-	0035  USB
-		1033 0035  Hama USB 2.0 CardBus
+	0035  OHCI USB Controller
+		1033 0035  USB Controller
 		103c 1293  USB add-in card
 		103c 1294  USB 2.0 add-in card
 		1179 0001  USB
@@ -3195,7 +3173,7 @@
 		12ee 8011  Root hub
 	00ce  uPD72871 [Firewarden] IEEE1394a OHCI 1.0 Link/1-port PHY Controller
 	00df  Vr4131
-	00e0  USB 2.0
+	00e0  uPD72010x USB 2.0 Controller
 		12ee 7001  Root hub
 		14c2 0205  PTI-205N USB 2.0 Host Controller
 		1799 0002  Root Hub
@@ -3665,6 +3643,9 @@
 	0008  STG 2000X
 	0009  STG 1764X
 	0010  STG4000 [3D Prophet Kyro Series]
+		104a 4018  ST PowerVR Kyro (64MB AGP TVO)
+		1681 0028  3D Prophet 4000XT
+		1681 c010  3D Prophet 4500 TV-Out
 		1681 c069  3D Prophet 4000XT
 	0201  STPC Vega Northbridge
 	0209  STPC Consumer/Industrial North- and Southbridge
@@ -5694,6 +5675,7 @@
 		1092 4a00  Viper V770
 		1092 4a02  Viper V770 Ultra
 		1092 5a00  RIVA TNT2/TNT2 Pro
+		1092 5a40  Viper V770D AGP
 		1092 6a02  Viper V770 Ultra
 		1092 7a02  Viper V770 Ultra
 		10de 0005  RIVA TNT2 Pro
@@ -5729,12 +5711,14 @@
 		1043 0201  AGP-V3800M
 		1048 0c3a  Erazor III LT
 		1048 0c3b  Erazor III LT
+		107d 2137  WinFast 3D S325
 		10de 0006  RIVA TNT2 Model 64/Model 64 Pro
 		10de 001e  M64 AGP4x
 		1102 1023  CT6892 RIVA TNT2 Value
 		1102 1024  CT6932 RIVA TNT2 Value 32Mb
 		1102 102c  CT6931 RIVA TNT2 Value [Jumper]
 		1462 8808  MSI-8808
+		14af 5620  Gamer Cougar Video Edition
 		1554 1041  Pixelview RIVA TNT2 M64
 		1569 002d  Palit Microsystems Daytona TNT2 M64
 	002e  NV6 [Vanta]
@@ -5752,7 +5736,10 @@
 	0040  NV40 [GeForce 6800 Ultra]
 	0041  NV40 [GeForce 6800]
 		1043 817b  V9999 Gamer Edition
+		107d 2992  WinFast A400
+		1458 310f  Geforce 6800 GV-N6812
 	0042  NV40.2 [GeForce 6800 LE]
+		107d 299b  WinFast A400 LE
 	0043  NV40.3 [GeForce 6800 XE]
 	0044  NV40 [GeForce 6800 XT]
 	0045  NV40 [GeForce 6800 GT]
@@ -14759,7 +14746,7 @@
 	a101  VigraWATCH PCI
 	a102  VigraWATCH PMC
 	a103  Vigra I/O
-187e  ZyXEL Communication Corporation
+187e  ZyXEL Communications Corporation
 	3403  ZyAir G-110 802.11g
 	340e  M-302 802.11g XtremeMIMO
 1885  Avvida Systems Inc.
