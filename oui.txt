@@ -10901,8 +10901,8 @@ company_id			Organization
 				Tokyo  141-0031
 				JAPAN
 
-00-06-A6   (hex)		Artistic Licence (UK) Ltd
-0006A6     (base 16)		Artistic Licence (UK) Ltd
+00-06-A6   (hex)		Artistic Licence Engineering Ltd
+0006A6     (base 16)		Artistic Licence Engineering Ltd
 				24 Forward Drive
 				Christchurch Avenue
 				Harrow Middlesex HA3 8NT
@@ -16645,7 +16645,7 @@ company_id			Organization
 
 00-0A-46   (hex)		ARO WELDING TECHNOLOGIES SAS
 000A46     (base 16)		ARO WELDING TECHNOLOGIES SAS
-				ZI de Mont sur Loir
+				1, avenue de Tours
 				Chateau du Loir sarthe 72500
 				FRANCE
 
@@ -16721,9 +16721,9 @@ company_id			Organization
 
 00-0A-52   (hex)		AsiaRF Ltd.
 000A52     (base 16)		AsiaRF Ltd.
-				4F., No.2, Lane 560
-				Zhongzheng Rd.
-				Xindian City Taipei 231
+				3F, No.176, Yongzhen Road
+				Yonghe District
+				New Taipei City Taipei 234
 				TAIWAN, PROVINCE OF CHINA
 
 00-0A-53   (hex)		Intronics, Incorporated
@@ -24952,8 +24952,8 @@ company_id			Organization
 
 00-0F-6C   (hex)		ADDI-DATA GmbH
 000F6C     (base 16)		ADDI-DATA GmbH
-				Dieselstraße 3
-				OTTERSWEIER BW 77833
+				Airport Boulevard B210
+				RHEINMUENSTER BW 77836
 				GERMANY
 
 00-0F-6D   (hex)		Midas Engineering
@@ -25106,9 +25106,9 @@ company_id			Organization
 
 00-0F-84   (hex)		Astute Networks, Inc.
 000F84     (base 16)		Astute Networks, Inc.
-				16516 Via Esprillo
-				#200
-				San Diego CA 92127
+				15015 Ave of Science
+				#150
+				San Diego CA 92128
 				UNITED STATES
 
 00-0F-85   (hex)		ADDO-Japan Corporation
@@ -39124,10 +39124,10 @@ company_id			Organization
 				BenQuao City Taipei 220
 				TAIWAN, PROVINCE OF CHINA
 
-00-18-2D   (hex)		Artec Group OÜ
-00182D     (base 16)		Artec Group OÜ
-				Turi 10C
-				Tallinn Harjumaa 11313
+00-18-2D   (hex)		Artec Design
+00182D     (base 16)		Artec Design
+				Teaduspargi 6/1
+				Tallinn  12618
 				ESTONIA
 
 00-18-2E   (hex)		XStreamHD, LLC
@@ -81727,6 +81727,12 @@ company_id			Organization
 				Mesa AZ 85205
 				UNITED STATES
 
+08-0E-A8   (hex)		Velex s.r.l.
+080EA8     (base 16)		Velex s.r.l.
+				Via Dell&#39;Artigianato 56
+				Vigodarzere Padova 35010
+				ITALY
+
 08-0F-FA   (hex)		KSP INC.
 080FFA     (base 16)		KSP INC.
 				RM 501, 138 Kwangdeokdae-ro
@@ -83422,7 +83428,8 @@ company_id			Organization
 
 14-B7-3D   (hex)		ARCHEAN Technologies
 14B73D     (base 16)		ARCHEAN Technologies
-				20 Place Prax Paris
+				1899 avenue d'Italie
+				Zone Albasud II
 				MONTAUBAN  82000
 				FRANCE
 
@@ -87056,7 +87063,7 @@ company_id			Organization
 38-26-CD   (hex)		ANDTEK
 3826CD     (base 16)		ANDTEK
 				Am Soeldnermoos 17
-				Hallbergmoos Bavaria 5399
+				Hallbergmoos Bavaria 85399
 				GERMANY
 
 38-28-EA   (hex)		Fujian Netcom Technology Co., LTD
@@ -87630,9 +87637,9 @@ company_id			Organization
 
 3C-91-74   (hex)		ALONG COMMUNICATION TECHNOLOGY
 3C9174     (base 16)		ALONG COMMUNICATION TECHNOLOGY
-				6A,B1 Buiding, Digital Tech Zone,
-				High-Tech Park(South), Nanshan District,
-				Shenzhen Guandong 518057
+				1301, Zhenye International Business Center,
+				No.3101-90 Qianhai Road, Nanshan District
+				Shenzhen Guandong 518000
 				CHINA
 
 3C-94-D5   (hex)		Juniper Networks
@@ -95129,7 +95136,7 @@ company_id			Organization
 
 7C-EB-EA   (hex)		ASCT
 7CEBEA     (base 16)		ASCT
-				4F., No.6, Wu-Quan 8th Rd. Wu-Gu Industrial Park,
+				4F., No.49, Wu-Gong 6th Rd. Wu-Gu Industrial Park,
 				New Taipei City  248
 				TAIWAN, PROVINCE OF CHINA
 

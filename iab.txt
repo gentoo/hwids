@@ -2568,8 +2568,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Artec Design
 19C000-19CFFF	(base 16)	Artec Design
-				Järvevana tee 9
-				Tallinn  11314
+				Teaduspargi 6/1
+				Tallinn  12618
 				ESTONIA
 
 00-50-C2	(hex)		ELECTREX S.R.L
