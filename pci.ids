@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.12
-#	Date:    2013-01-12 03:15:01
+#	Version: 2013.01.15
+#	Date:    2013-01-15 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -64,16 +64,9 @@
 	1704  ISDN Adapter (PCI Bus, D, C)
 0721  Sapphire, Inc.
 0777  Ubiquiti Networks, Inc.
-# Atheros, 6th Generation, AR5414, 802.11a, 5GHz
-	3005  XtremeRange5
 0795  Wired Inc.
 	6663  Butane II (MPEG2 encoder board)
 	6666  MediaPress (MPEG2 encoder board)
-07ca  AVerMedia Technologies Inc.
-# Expresscard DVB-T tuner sold by Fujitsu for notebooks
-	534a  Slim mobile Express DVB-T (Fujitsu)
-	a301  AVerTV 301
-	b808  AVerTV DVB-T Volar (USB 2.0)
 07d0  ITT Geospatial Systems
 07d1  D-Link System Inc
 07e2  ELMEG Communication Systems GmbH
@@ -1545,6 +1538,7 @@
 	6800  Wimbledon XT [Radeon HD 7970M]
 	6818  Pitcairn [Radeon HD 7800]
 	6819  Pitcairn PRO [Radeon HD 7800]
+		174b e221  Sapphire HD 7850 2G GDDR5 PCI-E DVI-I/DVI-D/HDMI/DP
 	6820  Radeon HD 8800M Series
 	6821  Radeon HD 8800M Series
 	6823  Radeon HD 8800M Series
@@ -1932,7 +1926,7 @@
 	aa98  Caicos HDMI Audio [Radeon HD 6400 Series]
 		174b aa98  Sapphire HD 6450 1GB DDR3
 	aaa0  Tahiti XT HDMI Audio [Radeon HD 7970 Series]
-	aab0  Cape Verde HDMI Audio [Radeon HD 7700 Series]
+	aab0  Cape Verde/Pitcairn HDMI Audio [Radeon HD 7700/7800 Series]
 	ac00  Theater 600 Pro
 	ac02  TV Wonder HD 600 PCIe
 	ac12  Theater HD T507 (DVB-T) TV tuner/capture device
@@ -12392,25 +12386,6 @@
 	e836  M115S Hybrid Analog/DVB PAL/SECAM/NTSC Tuner
 	f436  AVerTV Hybrid+FM
 1462  Micro-Star International Co., Ltd.
-	5501  nVidia NV15DDR [GeForce2 Ti]
-	6819  Broadcom Corporation BCM4306 802.11b/g Wireless LAN Controller [MSI CB54G]
-	6825  PCI Card wireless 11g [PC54G]
-	6834  RaLink RT2500 802.11g [PC54G2]
-	7125  MS-7125 [K8N Neo4 Platinum]
-	7235  P965 Neo MS-7235 mainboard
-	7242  K9AGM RS485 Motherboard
-	7250  MS-7250 Motherboard [K9N Platinum SLI/non-SLI]
-	7327  K9AGM2-FIH Motherboard
-	7650  Hetis 865GV-E (MS-7065)
-	8725  NVIDIA NV25 [GeForce4 Ti 4600] VGA Adapter
-	9000  NVIDIA NV28 [GeForce4 Ti 4800] VGA Adapter
-	9110  GeFORCE FX5200
-	9119  NVIDIA NV31 [GeForce FX 5600XT] VGA Adapter
-	9123  NVIDIA NV31 [GeForce FX 5600] FX5600-VTDR128 [MS-8912]
-	9510  Radeon 9600XT
-	9511  Radeon 9600XT
-	9591  nVidia Corporation NV36 [GeForce FX 5700LE]
-	b834  Wireless 11g Turbo G PCI card [MSI PC60G]
 1463  Fast Corporation
 1464  Interactive Circuits & Systems Ltd
 1465  GN NETTEST Telecom DIV.

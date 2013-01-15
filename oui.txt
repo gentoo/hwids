@@ -8425,7 +8425,7 @@ company_id			Organization
 00-05-23   (hex)		AVL List GmbH
 000523     (base 16)		AVL List GmbH
 				Hans List Platz 1
-				A-8020 Graz
+				Graz  8020
 				AUSTRIA
 
 00-05-24   (hex)		BTL System (HK) Limited
@@ -15101,7 +15101,7 @@ company_id			Organization
 
 00-09-52   (hex)		Auerswald GmbH & Co. KG
 000952     (base 16)		Auerswald GmbH & Co. KG
-				Vor den Grashoefen 22
+				Vor den Grashoefen 1
 				Cremlingen Niedersachsen 38162
 				GERMANY
 
@@ -21798,7 +21798,7 @@ company_id			Organization
 
 00-0D-74   (hex)		Sand Network Systems, Inc.
 000D74     (base 16)		Sand Network Systems, Inc.
-				434 Payran Street
+				434 Payran Street, Suite B
 				Petaluma CA 94952
 				UNITED STATES
 
@@ -43092,10 +43092,10 @@ company_id			Organization
 				39 Wang Kwong Road, Kowloon Bay
 				CHINA
 
-00-1A-9F   (hex)		A-Link Europe Ltd
-001A9F     (base 16)		A-Link Europe Ltd
-				P.O.Box 3
-				Espoo  FI-02941
+00-1A-9F   (hex)		A-Link Ltd
+001A9F     (base 16)		A-Link Ltd
+				Kylavainiontie 20
+				Espoo  FI-02760
 				FINLAND
 
 00-1A-A0   (hex)		Dell Inc
@@ -44741,9 +44741,9 @@ company_id			Organization
 
 00-1B-A0   (hex)		Awox
 001BA0     (base 16)		Awox
-				93, Place Pierre Duhem,
+				93, Place Pierre Duhem
 				Les Centuries
-				34000 Montpellier 
+				Montpellier Herault 34000
 				FRANCE
 
 00-1B-A1   (hex)		Åmic AB
@@ -58681,8 +58681,9 @@ company_id			Organization
 
 00-24-42   (hex)		Axona Limited
 002442     (base 16)		Axona Limited
-				148 Green Lane
-				St. Albans Herts AL3 6EU
+				Unit 4U St. Albans Enterprise Centre
+				Long Spring, Porters Wood
+				St. Albans Herts AL3 6EN
 				UNITED KINGDOM
 
 00-24-43   (hex)		Nortel Networks
@@ -80567,7 +80568,7 @@ company_id			Organization
 04-8A-15   (hex)		Avaya, Inc
 048A15     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 04-8B-42   (hex)		Skspruce Technology Limited
@@ -82335,6 +82336,12 @@ company_id			Organization
 0C8230     (base 16)		SHENZHEN MAGNUS TECHNOLOGIES CO.,LTD
 				c-504,Skyworth Building,No.8 Road,High-tech south,Nanshan District,
 				Shenzhen Guangdong 518057
+				CHINA
+
+0C-82-68   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+0C8268     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors1-4) Central Science and Technology Park,Shennan Rd
+				Shenzhen Guandong 518057
 				CHINA
 
 0C-82-6A   (hex)		Wuhan Huagong Genuine Optics Technology Co., Ltd
@@ -84449,6 +84456,12 @@ company_id			Organization
 				Tsutiura Ibaraki 300-0842
 				JAPAN
 
+1C-FA-68   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+1CFA68     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors1-4) Central Science and Technology Park,Shennan Rd
+				shenzhen Guandong 518057
+				CHINA
+
 1C-FE-A7   (hex)		IDentytech Solutins Ltd.
 1CFEA7     (base 16)		IDentytech Solutins Ltd.
 				14 Hadaya Street
@@ -85892,6 +85905,12 @@ company_id			Organization
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
+2C-39-96   (hex)		SAGEMCOM
+2C3996     (base 16)		SAGEMCOM
+				250 route de l'Empereur
+				RUEIL MALMAISON - 92848
+				FRANCE
+
 2C-3A-28   (hex)		Fagor Electrónica
 2C3A28     (base 16)		Fagor Electrónica
 				B. San Andres, s/n
@@ -86182,10 +86201,10 @@ company_id			Organization
 				Austin TX 78653
 				UNITED STATES
 
-2C-F4-C5   (hex)		Avaya Inc
-2CF4C5     (base 16)		Avaya Inc
+2C-F4-C5   (hex)		Avaya, Inc
+2CF4C5     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 30-0B-9C   (hex)		Delta Mobile Systems, Inc.
@@ -87695,7 +87714,7 @@ company_id			Organization
 3C-B1-5B   (hex)		Avaya, Inc
 3CB15B     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 3C-B1-7F   (hex)		Wattwatchers Pty Ld
@@ -88436,10 +88455,10 @@ company_id			Organization
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-44-32-2A   (hex)		Avaya Inc
-44322A     (base 16)		Avaya Inc
+44-32-2A   (hex)		Avaya, Inc
+44322A     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 44-33-4C   (hex)		Shenzhen Bilian electronic CO.,LTD
@@ -88826,6 +88845,12 @@ company_id			Organization
 				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+44-F8-49   (hex)		Union Pacific Railroad
+44F849     (base 16)		Union Pacific Railroad
+				1400 Douglas St. STOP 0610
+				Omaha NE 68179
+				UNITED STATES
 
 44-FB-42   (hex)		Apple
 44FB42     (base 16)		Apple
@@ -90360,7 +90385,7 @@ company_id			Organization
 58-16-26   (hex)		Avaya, Inc
 581626     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 58-17-0C   (hex)		Sony Ericsson Mobile Communications AB
@@ -93309,10 +93334,10 @@ company_id			Organization
 				Chicago IL 60654
 				UNITED STATES
 
-70-38-EE   (hex)		Avaya Inc
-7038EE     (base 16)		Avaya Inc
-				211 Mt. Airy Road
-				Basking Ridge NJ 07920-2311
+70-38-EE   (hex)		Avaya, Inc
+7038EE     (base 16)		Avaya, Inc
+				211 Mount Airy Road
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 70-3A-D8   (hex)		Shenzhen Afoundry Electronic Co., Ltd
@@ -96708,8 +96733,8 @@ company_id			Organization
 
 8C-92-36   (hex)		Aus.Linx Technology Co., Ltd.
 8C9236     (base 16)		Aus.Linx Technology Co., Ltd.
-				3F, No. 7, Lane 45, Pao-Hsin Rd.,
-				Hsin-Tein Taipei country, 23145
+				6F-2, No. 190, Sec. 2, Zhongxing Rd., Xindian Dist.,
+				New Taipei City  23146
 				TAIWAN, PROVINCE OF CHINA
 
 8C-94-CF   (hex)		Encell Technology, Inc.
@@ -97383,7 +97408,7 @@ company_id			Organization
 90-FB-5B   (hex)		Avaya, Inc
 90FB5B     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 90-FB-A6   (hex)		Hon Hai Precision Ind.Co.Ltd
@@ -101265,7 +101290,7 @@ B4AB2C     (base 16)		MtM Technology Corporation
 B4-B0-17   (hex)		Avaya, Inc
 B4B017     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 B4-B3-62   (hex)		ZTE Corporation
@@ -101712,8 +101737,8 @@ B8975A     (base 16)		BIOSTAR Microtech Int'l Corp.
 
 B8-98-B0   (hex)		Atlona Inc.
 B898B0     (base 16)		Atlona Inc.
-				1293 Mountain View Alviso Rd # A
-				Sunnyvale CA 94089
+				70 Daggett Dr.
+				San Jose CA 95134
 				UNITED STATES
 
 B8-9A-ED   (hex)		OceanServer Technology, Inc
@@ -102333,6 +102358,12 @@ BCCFCC     (base 16)		HTC Corporation
 				Taoyuan County  330
 				TAIWAN, PROVINCE OF CHINA
 
+BC-D1-77   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+BCD177     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors1-4) Central Science and Technology Park,Shennan Rd
+				Shenzhen Guandong 518057
+				CHINA
+
 BC-D5-B6   (hex)		d2d technologies
 BCD5B6     (base 16)		d2d technologies
 				10611 roundwood glen ct
@@ -102443,8 +102474,8 @@ C027B9     (base 16)		Beijing National Railway Research & Design Institute  of S
 
 C0-29-73   (hex)		Audyssey Laboratories Inc.
 C02973     (base 16)		Audyssey Laboratories Inc.
-				350 S. Figueroa St., Suite 233
-				Los Angeles CA 90071
+				110 E. 9th Street, Suite C700
+				Los Angeles CA 90079
 				UNITED STATES
 
 C0-29-F3   (hex)		XySystem
@@ -103696,8 +103727,8 @@ C8EF2E     (base 16)		Beijing Gefei Tech. Co., Ltd
 
 C8-F4-06   (hex)		Avaya, Inc
 C8F406     (base 16)		Avaya, Inc
-				1300 W.120th Ave
-				Westminster CO 80234
+				211 Mount Airy Road
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 C8-F7-04   (hex)		Building Block Video
@@ -104211,7 +104242,7 @@ CCF8F0     (base 16)		Xi'an HISU Multimedia Technology Co.,Ltd.
 CC-F9-54   (hex)		Avaya, Inc
 CCF954     (base 16)		Avaya, Inc
 				211 Mount Airy Road
-				Basking Ridge NJ 07920-2311
+				Basking Ridge NJ 07920
 				UNITED STATES
 
 CC-F9-E8   (hex)		Samsung Electronics Co.,Ltd

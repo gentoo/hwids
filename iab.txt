@@ -11123,8 +11123,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		AV SatCom AS
 6F6000-6F6FFF	(base 16)	AV SatCom AS
-				Smedsvingen 4B
-				Hvalstad Asker 1395
+				Martin Linges v 25
+				P.O.Box 1
+				Fornebu Bærum 1364
 				NORWAY
 
 00-50-C2	(hex)		infoplan Gesellschaftfür  Informationssysteme mbH
@@ -14265,8 +14266,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		AT-Automation Technology GmbH
 8ED000-8EDFFF	(base 16)	AT-Automation Technology GmbH
-				Technologiepark 24
-				Trittau  D-22946
+				Hermann-Boessow-Str. 6-8
+				Bad Oldesloe  D-23843
 				GERMANY
 
 00-50-C2	(hex)		PCSC
@@ -20986,8 +20987,8 @@ D28000-D28FFF	(base 16)	Digitale Analoge COMponenten West Electronic Vertriebs G
 
 00-50-C2	(hex)		Axible Technologies
 D29000-D29FFF	(base 16)	Axible Technologies
-				Prologue 2 - Rue Ampere
-				Labege  31672
+				425 rue Jean Rostand
+				Labège  31670
 				FRANCE
 
 00-50-C2	(hex)		Millennium Electronics Pty.Ltd.
@@ -26312,4 +26313,16 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				600 Industrial Drive
 				New Bern NC 28562
 				UNITED STATES
+
+40-D8-55	(hex)		Honeywell
+080000-080FFF	(base 16)	Honeywell
+				13350 US Highway 19 N
+				Clearwater FL 33764
+				UNITED STATES
+
+40-D8-55	(hex)		Sicon srl
+081000-081FFF	(base 16)	Sicon srl
+				Via Sila 1/3
+				Isola Vicentina Vicenza 36033
+				ITALY
 
