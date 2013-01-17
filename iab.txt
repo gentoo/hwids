@@ -114,10 +114,10 @@ IAB Range    			Organization
 				Chelmsford MA 01824
 				UNITED STATES
 
-00-50-C2	(hex)		BIHL & Wiedemann GmbH
-011000-011FFF	(base 16)	BIHL & Wiedemann GmbH
-				Kaehwetaler Str 164
-				68167 Mannheim
+00-50-C2	(hex)		Bihl + Wiedemann GmbH
+011000-011FFF	(base 16)	Bihl + Wiedemann GmbH
+				Flosswoerthstr 41
+				Mannheim  68199
 				GERMANY
 
 00-50-C2	(hex)		Floware System Solutions Ltd.
@@ -432,9 +432,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		B.E.A.R. Solutions (Australasia) Pty, Ltd
 042000-042FFF	(base 16)	B.E.A.R. Solutions (Australasia) Pty, Ltd
-				101, Building A
-				242 - 244 Beecroft Road
-				Epping NSW 
+				Unit 226
+				14 Lexington Drive
+				Bella Vista NSW 
 				AUSTRALIA
 
 00-50-C2	(hex)		Curtis, Inc.
@@ -2654,9 +2654,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		BitBox Ltd
 1AA000-1AAFFF	(base 16)	BitBox Ltd
-				Eastlands Court, The Beresford Centre
-				Wade Road
-				Basingstoke Hampshire RG24 8PL
+				Whitney Road
+				Daneshill Industrial Estate
+				Basingstoke Hampshire RG24 8NS
 				UNITED KINGDOM
 
 00-50-C2	(hex)		Streaming Networks
@@ -2667,8 +2667,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Beckmann+Egle GmbH
 1AC000-1ACFFF	(base 16)	Beckmann+Egle GmbH
-				Kirchstraße 30
-				Stetten BaWü 71394
+				Auf der Höhe 10
+				Kernen-Rommelshausen BaWü 71394
 				GERMANY
 
 00-50-C2	(hex)		Remia s.r.o.
@@ -4753,8 +4753,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Blackline Systems Corporation
 2FC000-2FCFFF	(base 16)	Blackline Systems Corporation
-				22 Gurdwara Road
-				Ottawa Ontario K2E8A2
+				2794 Fenton Road
+				Ottawa Ontario K1T3T7
 				CANADA
 
 00-50-C2	(hex)		American Microsystems LTD
@@ -10835,11 +10835,11 @@ IAB Range    			Organization
 				North Shore City Auckland 0269
 				NEW ZEALAND
 
-00-50-C2	(hex)		B&S MEDIA Co., LTD.
-6C8000-6C8FFF	(base 16)	B&S MEDIA Co., LTD.
-				#807, DaerungPostTower II,
-				182-13, Guro-3dong, Guro-gu,
-				Seoul  152-790
+00-50-C2	(hex)		B&S MEDIA CO., LTD.
+6C8000-6C8FFF	(base 16)	B&S MEDIA CO., LTD.
+				#702 JNK DIGITAL TOWER
+				222-3, GURO-3DONG, GURO-GU
+				Seoul SEOUL 152-848
 				KOREA, REPUBLIC OF
 
 00-50-C2	(hex)		NETAMI
@@ -11252,11 +11252,11 @@ IAB Range    			Organization
 				Cuyahoga Heights Ohio 44125
 				UNITED STATES
 
-00-50-C2	(hex)		B.E.A.R. Solutions (Australasia) Pty Ltd
-70B000-70BFFF	(base 16)	B.E.A.R. Solutions (Australasia) Pty Ltd
-				Suite 101, Building A
-				242-244 Beecroft Road
-				Epping NSW 2121
+00-50-C2	(hex)		B.E.A.R. Solutions (Australasia) Pty, Ltd
+70B000-70BFFF	(base 16)	B.E.A.R. Solutions (Australasia) Pty, Ltd
+				Unit 226
+				14 Lexington Drive
+				Bella Vista NSW 
 				AUSTRALIA
 
 00-50-C2	(hex)		Exertus
@@ -12443,9 +12443,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Bluebell Opticom Limited
 7C9000-7C9FFF	(base 16)	Bluebell Opticom Limited
-				Bluebell, Wessex Road
-				Bourne End
-				Slough Buckinghamshire SL8 5DT
+				Unit 2 The Quadrant
+				Howarth Road
+				Maidenhead Berkshire SL6 1AP
 				UNITED KINGDOM
 
 00-50-C2	(hex)		CEDAR Audio Limited
@@ -15793,8 +15793,8 @@ IAB Range    			Organization
 				AGOURA HILLS CA 91301
 				UNITED STATES
 
-00-50-C2	(hex)		beON Automatenmanagement GmbH
-9E3000-9E3FFF	(base 16)	beON Automatenmanagement GmbH
+00-50-C2	(hex)		SAI Informationstechnik
+9E3000-9E3FFF	(base 16)	SAI Informationstechnik
 				Hackhofergasse 1
 				Vienna  1190
 				AUSTRIA
@@ -19493,11 +19493,11 @@ C36000-C36FFF	(base 16)	SET GmbH
 				Wangen i.A.  88239
 				GERMANY
 
-00-50-C2	(hex)		BEAR Solutions (Australasia) Pty Ltd
-C37000-C37FFF	(base 16)	BEAR Solutions (Australasia) Pty Ltd
-				Unit 2.26
+00-50-C2	(hex)		B.E.A.R. Solutions (Australasia) Pty, Ltd
+C37000-C37FFF	(base 16)	B.E.A.R. Solutions (Australasia) Pty, Ltd
+				Unit 226
 				14 Lexington Drive
-				Bella Vista NSW 2153
+				Bella Vista NSW 
 				AUSTRALIA
 
 00-50-C2	(hex)		Computer Automation Technology Inc
@@ -21239,8 +21239,8 @@ D50000-D50FFF	(base 16)	Solbrig Electronics, Inc.
 
 00-50-C2	(hex)		BETTINI SRL
 D51000-D51FFF	(base 16)	BETTINI SRL
-				VIA CESARE BATTISTI 22
-				CESANO MADERNO MILAN 20031
+				Via E. H. Grieg, 23
+				Saronno Varese 21047
 				ITALY
 
 00-50-C2	(hex)		F+D Feinwerk- und Drucktechnik GmbH
@@ -21287,10 +21287,10 @@ D58000-D58FFF	(base 16)	NIK-ELEKTRONIKA Ltd
 				Kiev  03148
 				UKRAINE
 
-00-50-C2	(hex)		Buanco System A/S
-D59000-D59FFF	(base 16)	Buanco System A/S
-				Trunderupvej 12
-				Haarby  5683
+00-50-C2	(hex)		BUANCO SYSTEM A/S
+D59000-D59FFF	(base 16)	BUANCO SYSTEM A/S
+				Agerhatten 25
+				Odense SØ  5220
 				DENMARK
 
 00-50-C2	(hex)		Embedded Monitoring Systems Ltd.
@@ -22031,8 +22031,8 @@ DD0000-DD0FFF	(base 16)	IDC Solutions Pty Ltd
 				Sydney NSW 2016
 				AUSTRALIA
 
-00-50-C2	(hex)		Dr. Ing. K. Brankamp System Prozessautomation GmbH
-DD1000-DD1FFF	(base 16)	Dr. Ing. K. Brankamp System Prozessautomation GmbH
+00-50-C2	(hex)		Brankamp GmbH
+DD1000-DD1FFF	(base 16)	Brankamp GmbH
 				Max.-Plank Str. 9-13
 				Erkrath NRW 40699
 				GERMANY
@@ -22288,8 +22288,8 @@ DFA000-DFAFFF	(base 16)	MAC Valves, Inc.
 
 00-50-C2	(hex)		BETTINI SRL
 DFB000-DFBFFF	(base 16)	BETTINI SRL
-				VIA CESARE BATTISTI  22
-				CESANO MADERNO MILAN 20031
+				Via E. H. Grieg, 23
+				Saronno Varese 21047
 				ITALY
 
 00-50-C2	(hex)		I-Evo Ltd
@@ -26325,4 +26325,17 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Via Sila 1/3
 				Isola Vicentina Vicenza 36033
 				ITALY
+
+40-D8-55	(hex)		ard sa
+082000-082FFF	(base 16)	ard sa
+				Micropolis Bat Clematis
+				Gap France 05000
+				FRANCE
+
+40-D8-55	(hex)		DELOPT
+083000-083FFF	(base 16)	DELOPT
+				#3&4, 1st Cross, 7th Main
+				J C Industrial Area
+				Bangalore Karnataka 560062
+				INDIA
 

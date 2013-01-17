@@ -1654,7 +1654,7 @@ company_id			Organization
 00-01-05   (hex)		Beckhoff Automation GmbH
 000105     (base 16)		Beckhoff Automation GmbH
 				Eiserstraße 5
-				33415 Verl 
+				Verl NRW 33415
 				GERMANY
 
 00-01-06   (hex)		Tews Datentechnik GmbH
@@ -2691,8 +2691,7 @@ company_id			Organization
 
 00-01-A9   (hex)		BMW AG
 0001A9     (base 16)		BMW AG
-				BMW AG Dept. FZ-320
-				Knorrstraße119
+				Dept. FG-322
 				80788 Munich 
 				GERMANY
 
@@ -7382,8 +7381,8 @@ company_id			Organization
 
 00-04-80   (hex)		Brocade Communications Systems, Inc
 000480     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Drive
-				San Jose CA 95164-9100
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-04-81   (hex)		Econolite Control Products, Inc.
@@ -8393,8 +8392,8 @@ company_id			Organization
 
 00-05-1E   (hex)		Brocade Communications Systems, Inc.
 00051E     (base 16)		Brocade Communications Systems, Inc.
-				1745 Technology Drive
-				San Jose CA 95110
+				110 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-05-1F   (hex)		Taijin Media Co., Ltd.
@@ -15069,8 +15068,9 @@ company_id			Organization
 
 00-09-4D   (hex)		Braintree Communications Pty Ltd
 00094D     (base 16)		Braintree Communications Pty Ltd
-				Level 1, 6 Cordelia St
-				South Brisbane QLD 4101
+				Unit 3
+				25 Randall Street
+				Slacks Creek QLD 4127
 				AUSTRALIA
 
 00-09-4E   (hex)		BARTECH SYSTEMS INTERNATIONAL, INC
@@ -18125,8 +18125,8 @@ company_id			Organization
 
 00-0B-2F   (hex)		bplan GmbH
 000B2F     (base 16)		bplan GmbH
-				Industriestraße 23
-				Steinbach 61449
+				Industriestrasse 23b
+				Steinbach Hessen 61449
 				GERMANY
 
 00-0B-30   (hex)		Beijing Gongye Science & Technology Co.,Ltd
@@ -19044,9 +19044,9 @@ company_id			Organization
 
 00-0B-C1   (hex)		Bay Microsystems, Inc.
 000BC1     (base 16)		Bay Microsystems, Inc.
-				2700 Augustine Drive
-				Suite 298
-				Santa Clara CA 95054
+				2055 Gateway Place
+				Suite 650
+				Santa Jose CA 95110
 				UNITED STATES
 
 00-0B-C2   (hex)		Corinex Communication Corp.
@@ -20826,8 +20826,8 @@ company_id			Organization
 
 00-0C-DB   (hex)		Brocade Communications Systems, Inc
 000CDB     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Drive
-				San Jose CA 95110
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-0C-DC   (hex)		BECS Technology, Inc
@@ -21713,8 +21713,8 @@ company_id			Organization
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-00-0D-67   (hex)		BelAir Networks Inc.
-000D67     (base 16)		BelAir Networks Inc.
+00-0D-67   (hex)		Ericsson
+000D67     (base 16)		Ericsson
 				603 March Road
 				Kanata Ontario K2K 2M5
 				CANADA
@@ -24965,7 +24965,7 @@ company_id			Organization
 
 00-0F-6E   (hex)		BBox
 000F6E     (base 16)		BBox
-				Epitok u. 2-4
+				Gyar u. 2. (115)
 				Budaors  H-2040
 				HUNGARY
 
@@ -30634,8 +30634,8 @@ company_id			Organization
 
 00-12-F2   (hex)		Brocade Communications Systems, Inc
 0012F2     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Drive
-				San Jose CA 95110
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-12-F3   (hex)		connectBlue AB
@@ -35486,8 +35486,8 @@ company_id			Organization
 
 00-15-EC   (hex)		Boca Devices LLC
 0015EC     (base 16)		Boca Devices LLC
-				6353 W. Rogers Circle #4
-				Boca Raton Florida 33487
+				7647 Sierra Ter
+				Boca Raton Florida 33433
 				UNITED STATES
 
 00-15-ED   (hex)		Fulcrum Microsystems, Inc.
@@ -36360,10 +36360,10 @@ company_id			Organization
 				Kulim Kedah 09000
 				MALAYSIA
 
-00-16-77   (hex)		Bihl+Wiedemann GmbH
-001677     (base 16)		Bihl+Wiedemann GmbH
-				Flosswoerthstraße 41
-				Mannheim Baden-Württemberg 68199
+00-16-77   (hex)		Bihl + Wiedemann GmbH
+001677     (base 16)		Bihl + Wiedemann GmbH
+				Flosswoerthstr 41
+				Mannheim  68199
 				GERMANY
 
 00-16-78   (hex)		SHENZHEN BAOAN GAOKE ELECTRONICS CO., LTD
@@ -41010,9 +41010,9 @@ company_id			Organization
 
 00-19-58   (hex)		Bluetooth SIG, Inc.
 001958     (base 16)		Bluetooth SIG, Inc.
-				500 108th Avenue NE
-				Suite 250
-				Bellevue WA 98004
+				5209 Lake Washington Blvd NE
+				Suite 350
+				Kirkland WA 98033
 				UNITED STATES
 
 00-19-59   (hex)		Staccato Communications Inc.
@@ -42058,8 +42058,8 @@ company_id			Organization
 
 00-19-FB   (hex)		BSkyB Ltd
 0019FB     (base 16)		BSkyB Ltd
-				169 KINGS ROAD
-				BRENTWOOD ESSEX CM14 4EF
+				130 KINGS ROAD
+				BRENTWOOD ESSEX CM14 4EQ
 				UNITED KINGDOM
 
 00-19-FC   (hex)		PT. Ufoakses Sukses Luarbiasa
@@ -44309,8 +44309,8 @@ company_id			Organization
 
 00-1B-5C   (hex)		Azuretec Co., Ltd.
 001B5C     (base 16)		Azuretec Co., Ltd.
-				3F, No.8, Alley 8, Lane 45, Baoxing Rd.,
-				Xindian City Taipei County 231
+				3F, No.8, Alley 8, Lane 45, Baoxing Rd., Xindian Dist.,
+				New Taipei City Taiwan 231
 				TAIWAN, PROVINCE OF CHINA
 
 00-1B-5D   (hex)		Vololink Pty Ltd
@@ -45230,8 +45230,8 @@ company_id			Organization
 
 00-1B-ED   (hex)		Brocade Communications Systems, Inc
 001BED     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Drive
-				San Jose CA 95110
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-1B-EE   (hex)		Nokia Danmark A/S
@@ -48129,9 +48129,9 @@ company_id			Organization
 
 00-1D-B6   (hex)		BestComm Networks, Inc.
 001DB6     (base 16)		BestComm Networks, Inc.
-				4400 E. Broadway Blvd.
-				Suite 201
-				Tucson AZ 85711
+				5605 E River Road
+				Suite 219
+				Tucson AZ 85750
 				UNITED STATES
 
 00-1D-B7   (hex)		Tendril Networks, Inc.
@@ -50565,8 +50565,8 @@ company_id			Organization
 
 00-1F-36   (hex)		Bellwin Information Co. Ltd.,
 001F36     (base 16)		Bellwin Information Co. Ltd.,
-				17F-1,No.128,Chung De Rd.
-				Taichung  404
+				No.336, Beitun Rd., Beitun Dist.,
+				Taichung  406
 				TAIWAN, PROVINCE OF CHINA
 
 00-1F-37   (hex)		Genesis I&C
@@ -54225,7 +54225,7 @@ company_id			Organization
 00-21-7B   (hex)		Bastec AB
 00217B     (base 16)		Bastec AB
 				Hästvägen 4A
-				Malmö M 212 35
+				Malmö SE 212 35
 				SWEDEN
 
 00-21-7C   (hex)		2Wire
@@ -58626,8 +58626,8 @@ company_id			Organization
 
 00-24-38   (hex)		Brocade Communications Systems, Inc
 002438     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Drive
-				San Jose CA 95110
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-24-39   (hex)		Essential Viewing Systems Limited
@@ -61843,8 +61843,8 @@ company_id			Organization
 				Guro-Gu Seoul 152-848
 				KOREA, REPUBLIC OF
 
-00-26-3C   (hex)		Bachmann GmbH & Co. KG
-00263C     (base 16)		Bachmann GmbH & Co. KG
+00-26-3C   (hex)		Bachmann Technology GmbH & Co. KG
+00263C     (base 16)		Bachmann Technology GmbH & Co. KG
 				Ernsthaldenstrasse 33
 				Stuttgart BW 70565
 				GERMANY
@@ -63293,10 +63293,10 @@ company_id			Organization
 				San Jose CA 95134
 				UNITED STATES
 
-00-27-F8   (hex)		Brocade Communications Systems, Inc
-0027F8     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Dr
-				San Jose CA 95110
+00-27-F8   (hex)		Brocade Communications Systems, Inc.
+0027F8     (base 16)		Brocade Communications Systems, Inc.
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-2A-6A   (hex)		CISCO SYSTEMS, INC.
@@ -67247,8 +67247,8 @@ company_id			Organization
 
 00-50-5F   (hex)		BRAND INNOVATORS
 00505F     (base 16)		BRAND INNOVATORS
-				DE PINCK ART 54
-				5674 CC NUENEN  
+				Steenovenweg 5
+				Helmond  5708 HN
 				NETHERLANDS
 
 00-50-60   (hex)		TANDBERG TELECOM AS
@@ -67752,10 +67752,10 @@ company_id			Organization
 				FOND DU LAC WI 54935
 				UNITED STATES
 
-00-50-B2   (hex)		BRODEL AUTOMATION
-0050B2     (base 16)		BRODEL AUTOMATION
+00-50-B2   (hex)		BRODEL GmbH
+0050B2     (base 16)		BRODEL GmbH
 				Distelbusch 24
-				42549 Velbert 
+				Velbert NRW 42549
 				GERMANY
 
 00-50-B3   (hex)		VOICEBOARD CORPORATION
@@ -70521,7 +70521,7 @@ company_id			Organization
 
 00-80-63   (hex)		Hirschmann Automation and Control GmbH
 008063     (base 16)		Hirschmann Automation and Control GmbH
-				Stuttgarter Strasse 45-51
+				Stuttgarter Straße 45-51
 				Neckartenzlingen  D-72654
 				GERMANY
 
@@ -71785,7 +71785,7 @@ company_id			Organization
 
 00-90-25   (hex)		BAE Systems Australia (Electronic Systems) Pty Ltd
 009025     (base 16)		BAE Systems Australia (Electronic Systems) Pty Ltd
-				3 Second Ave
+				2 Second Ave
 				Mawson Lakes South Australia 5095
 				AUSTRALIA
 
@@ -79081,8 +79081,8 @@ company_id			Organization
 
 00-E0-52   (hex)		Brocade Communications Systems, Inc
 00E052     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Drive
-				San Jose CA 95110
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 00-E0-53   (hex)		CELLPORT LABS, INC.
@@ -82166,6 +82166,12 @@ company_id			Organization
 				Koaibosk 3
 				Terwispel Friesland 8407ED
 				NETHERLANDS
+
+08-FC-88   (hex)		Samsung Electronics Co.,Ltd
+08FC88     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 0C-13-0B   (hex)		Uniqoteq Ltd.
 0C130B     (base 16)		Uniqoteq Ltd.
@@ -86207,6 +86213,12 @@ company_id			Organization
 				Basking Ridge NJ 07920
 				UNITED STATES
 
+30-05-5C   (hex)		Brother industries, LTD.
+30055C     (base 16)		Brother industries, LTD.
+				1-1-1, Kawagishi, Mizuho-ku,
+				Nagoya Aichi 467-8562
+				JAPAN
+
 30-0B-9C   (hex)		Delta Mobile Systems, Inc.
 300B9C     (base 16)		Delta Mobile Systems, Inc.
 				700 Remington Road
@@ -87173,6 +87185,13 @@ company_id			Organization
 				Shanghai 201203
 				CHINA
 
+38-67-93   (hex)		Asia Optical Co., Inc.
+386793     (base 16)		Asia Optical Co., Inc.
+				No. 22-3 South 2nd Road, T.E.P.Z.
+				Tantz District
+				Taichung Taiwan 42754
+				TAIWAN, PROVINCE OF CHINA
+
 38-6B-BB   (hex)		Motorola Mobility, Inc.
 386BBB     (base 16)		Motorola Mobility, Inc.
 				6450 Sequnce Drive
@@ -87635,6 +87654,12 @@ company_id			Organization
 				6F, No. 199, Lide St.
 				New Taipei City, Jhonghe Dist  23556
 				TAIWAN, PROVINCE OF CHINA
+
+3C-86-A8   (hex)		Sangshin elecom .co,, LTD
+3C86A8     (base 16)		Sangshin elecom .co,, LTD
+				614-1 Wolhari Suhmyon
+				Yunkikun Choongnam 339-814
+				KOREA, REPUBLIC OF
 
 3C-8A-E5   (hex)		Tensun Information Technology(Hangzhou) Co.,LTD
 3C8AE5     (base 16)		Tensun Information Technology(Hangzhou) Co.,LTD
@@ -88197,11 +88222,11 @@ company_id			Organization
 				Beijing  100195
 				CHINA
 
-40-9F-C7   (hex)		BAEKCHUN ENC Co., Ltd.
-409FC7     (base 16)		BAEKCHUN ENC Co., Ltd.
-				2F, 32-6, Beombak-dong
+40-9F-C7   (hex)		BAEKCHUN I&C Co., Ltd.
+409FC7     (base 16)		BAEKCHUN I&C Co., Ltd.
+				67-5, Gyesu-dong
 				Sosa-gu
-				Bucheon-si Gyeonggi-do 422-804
+				Bucheon-si Gyeonggi-do 422-070
 				KOREA, REPUBLIC OF
 
 40-A6-A4   (hex)		PassivSystems Ltd
@@ -89714,6 +89739,12 @@ company_id			Organization
 				Kanagawa-ken 211-0022
 				JAPAN
 
+50-32-75   (hex)		Samsung Electronics Co.,Ltd
+503275     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 50-39-55   (hex)		Cisco SPVTG
 503955     (base 16)		Cisco SPVTG
 				5030 Sugarloaf Parkway
@@ -89976,10 +90007,10 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
-50-EB-1A   (hex)		Brocade Communications Systems, Inc
-50EB1A     (base 16)		Brocade Communications Systems, Inc
-				1745 Technology Dr
-				San Jose CA 95110
+50-EB-1A   (hex)		Brocade Communications Systems, Inc.
+50EB1A     (base 16)		Brocade Communications Systems, Inc.
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 50-ED-94   (hex)		Egatel SL
@@ -90847,9 +90878,9 @@ company_id			Organization
 
 5C-16-C7   (hex)		Big Switch Networks
 5C16C7     (base 16)		Big Switch Networks
-				855 EL CAMINO REAL
-				STE 260 BLDG 4
-				Palo Alto CA 94301
+				100 W Evelyn
+				STE 110
+				Mountain View CA 94041
 				UNITED STATES
 
 5C-17-37   (hex)		I-View Now, LLC.
@@ -93941,8 +93972,8 @@ company_id			Organization
 
 74-8E-F8   (hex)		Brocade Communications Systems, Inc.
 748EF8     (base 16)		Brocade Communications Systems, Inc.
-				1745 Technology Dr
-				San Jose CA 95110
+				130 Holger Way
+				San Jose CA 95134
 				UNITED STATES
 
 74-90-50   (hex)		Renesas Electronics Corporation
@@ -94232,6 +94263,12 @@ company_id			Organization
 				Dock C
 				St. Petersburg Florida 33716
 				UNITED STATES
+
+78-1F-DB   (hex)		Samsung Electronics Co.,Ltd
+781FDB     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 78-22-3D   (hex)		Affirmed Networks
 78223D     (base 16)		Affirmed Networks
@@ -95844,6 +95881,13 @@ company_id			Organization
 				Shenzhen Guangdong 518057
 				CHINA
 
+84-62-23   (hex)		Shenzhen Coship Electronics Co., Ltd.
+846223     (base 16)		Shenzhen Coship Electronics Co., Ltd.
+				Rainbow Bldg., North, Hi-Tech Industrial Park
+				Nanshan District
+				Shenzhen Guangdong 518057
+				CHINA
+
 84-62-A6   (hex)		EuroCB (Phils), Inc.
 8462A6     (base 16)		EuroCB (Phils), Inc.
 				SFB No.2
@@ -96060,6 +96104,12 @@ company_id			Organization
 				Guro-3dong, Guro-gu, Seoul, Korea South
 				Seoul None 152-746
 				KOREA, REPUBLIC OF
+
+84-F4-93   (hex)		OMS spol. s.r.o.
+84F493     (base 16)		OMS spol. s.r.o.
+				Dojc 419
+				Dojc Slovakia 90602
+				SLOVAKIA
 
 84-F6-4C   (hex)		Cross Point BV
 84F64C     (base 16)		Cross Point BV
@@ -98316,6 +98366,12 @@ company_id			Organization
 				Leonia NJ 07605
 				UNITED STATES
 
+9C-3A-AF   (hex)		Samsung Electronics Co.,Ltd
+9C3AAF     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 9C-41-7C   (hex)		Hame  Technology Co.,  Limited
 9C417C     (base 16)		Hame  Technology Co.,  Limited
 				5F, No. 18 High Tech Middle Avenue One, High Tech Industrial Park, Nanshan District,
@@ -99586,6 +99642,13 @@ A4E7E4     (base 16)		Connex GmbH
 				Elbestrasse 12
 				Oldenburg  26135
 				GERMANY
+
+A4-E9-91   (hex)		SISTEMAS AUDIOVISUALES ITELSIS S.L.
+A4E991     (base 16)		SISTEMAS AUDIOVISUALES ITELSIS S.L.
+				POL.IND. DEL TAMBRE
+				VIA EDISON 16
+				SANTIAGO COMPOSTELA A CORUÑA 15890
+				SPAIN
 
 A4-EB-D3   (hex)		Samsung Electronics Co.,Ltd
 A4EBD3     (base 16)		Samsung Electronics Co.,Ltd
@@ -101761,7 +101824,8 @@ B8A386     (base 16)		D-Link International
 
 B8-A3-E0   (hex)		BenRui Technology Co.,Ltd
 B8A3E0     (base 16)		BenRui Technology Co.,Ltd
-				No.302room Building503 TaiRan TechnoPark.FuTian District
+				No.3A room A Unit Hongsong Building
+				TaiRan TechnoPark.FuTian District
 				ShenZhen GuangDong 518000
 				CHINA
 
@@ -103476,7 +103540,8 @@ C88439     (base 16)		Sunrise Technologies
 
 C8-84-47   (hex)		Beautiful Enterprise Co., Ltd
 C88447     (base 16)		Beautiful Enterprise Co., Ltd
-				26th Floor, Beautiful Group Tower, 77 Connaught Road Central
+				26th Floor, Beautiful Group Tower
+				77 Connaught Road Central
 				HONG KONG
 
 C8-87-3B   (hex)		Net Optics
@@ -104589,8 +104654,8 @@ D0D212     (base 16)		K2NET Co.,Ltd.
 				Seoul 158-092
 				KOREA, REPUBLIC OF
 
-D0-D2-86   (hex)		Beckman Coulter Biomedical K.K.
-D0D286     (base 16)		Beckman Coulter Biomedical K.K.
+D0-D2-86   (hex)		Beckman Coulter K.K.
+D0D286     (base 16)		Beckman Coulter K.K.
 				454-32 Higashino,
 				Nagaizumi-cho, Sunto-gun, Shizuoka-ken 411-0943
 				JAPAN
@@ -107162,7 +107227,7 @@ E8757F     (base 16)		FIRS Technologies(Shenzhen) Co., Ltd
 
 E8-78-A1   (hex)		BEOVIEW INTERCOM DOO
 E878A1     (base 16)		BEOVIEW INTERCOM DOO
-				BULEVAR MIHAJLA PUPINA 6
+				TRESNJINOG CVETA 5/17
 				BELGRADE  11070
 				SERBIA
 
@@ -108025,6 +108090,12 @@ F06853     (base 16)		Integrated Corporation
 				112-114 Des Voeux Road, C.,
 				Cetnral,  
 				HONG KONG
+
+F0-6B-CA   (hex)		Samsung Electronics Co.,Ltd
+F06BCA     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 F0-73-AE   (hex)		PEAK-System Technik
 F073AE     (base 16)		PEAK-System Technik
@@ -109400,6 +109471,13 @@ FC8399     (base 16)		Avaya, Inc
 				211 Mount Airy Road
 				Basking Ridge NJ 07920
 				UNITED STATES
+
+FC-8B-97   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
+FC8B97     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
+				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09
+				 Nanshan Medical Instrument Industry Park,1019# Nanhai Road,Nanshan District
+				Shenzhen Guangdong 518067
+				CHINA
 
 FC-8E-7E   (hex)		Pace plc
 FC8E7E     (base 16)		Pace plc
