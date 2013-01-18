@@ -26339,3 +26339,15 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Bangalore Karnataka 560062
 				INDIA
 
+40-D8-55	(hex)		Papendorf Software Engineering GmbH
+084000-084FFF	(base 16)	Papendorf Software Engineering GmbH
+				Robert-Bosch-Str. 10
+				Gaertringen Baden-Wuerttemberg 71116
+				GERMANY
+
+40-D8-55	(hex)		Peek Traffic Corporation
+085000-085FFF	(base 16)	Peek Traffic Corporation
+				2906 Corporate Way
+				Palmetto Fl 34221
+				UNITED STATES
+
