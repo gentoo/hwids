@@ -82769,6 +82769,12 @@ company_id			Organization
 				Shenzhen GuangDong 518129
 				CHINA
 
+10-1C-0C   (hex)		Apple
+101C0C     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95051
+				UNITED STATES
+
 10-1D-51   (hex)		ON-Q LLC dba ON-Q Mesh Networks
 101D51     (base 16)		ON-Q LLC dba ON-Q Mesh Networks
 				2859 Mandela Parkway
@@ -85319,6 +85325,12 @@ company_id			Organization
 				Bld. 70, 5th line, V.O,
 				St.-Petersburg  199048
 				RUSSIAN FEDERATION
+
+24-EA-40   (hex)		Systeme Helmholz GmbH
+24EA40     (base 16)		Systeme Helmholz GmbH
+				Hannberger Weg 2
+				Grossenseebach BAY 91091
+				GERMANY
 
 24-EC-99   (hex)		Askey Computer Corp
 24EC99     (base 16)		Askey Computer Corp
@@ -92676,6 +92688,12 @@ company_id			Organization
 				Heping Village,Fuyong Town, BaoAn District
 				Shenzhen Guangdong 518103
 				CHINA
+
+68-97-E8   (hex)		Society of Motion Picture &amp; Television Engineers
+6897E8     (base 16)		Society of Motion Picture &amp; Television Engineers
+				3 Barker Ave. FL5
+				White Plains NY 10601
+				UNITED STATES
 
 68-9C-5E   (hex)		AcSiP Technology Corp.
 689C5E     (base 16)		AcSiP Technology Corp.
@@ -101807,6 +101825,12 @@ B877C3     (base 16)		Decagon Devices, Inc.
 				Pullman WA 99163
 				UNITED STATES
 
+B8-78-2E   (hex)		Apple
+B8782E     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95051
+				UNITED STATES
+
 B8-79-7E   (hex)		Secure Meters (UK) Limited
 B8797E     (base 16)		Secure Meters (UK) Limited
 				Secure House
@@ -103654,6 +103678,13 @@ C8903E     (base 16)		Pakton Technologies
 				Narangba QLD 4504
 				AUSTRALIA
 
+C8-93-46   (hex)		MXCHIP Company Limited
+C89346     (base 16)		MXCHIP Company Limited
+				Room 811,Tongpu Building,
+				No.1220 Tongpu Road
+				Shanghai Shanghai 200333
+				CHINA
+
 C8-93-83   (hex)		Embedded Automation, Inc.
 C89383     (base 16)		Embedded Automation, Inc.
 				17345 Abbey Drive
@@ -105431,6 +105462,12 @@ D81C14     (base 16)		Compacta International, Ltd.
 				San Juan Capistrano CA 92675
 				UNITED STATES
 
+D8-1E-DE   (hex)		B&W Group Ltd
+D81EDE     (base 16)		B&W Group Ltd
+				5070 Francois Cusson
+				Lachine Quebec H8T1B3
+				CANADA
+
 D8-24-BD   (hex)		CISCO SYSTEMS, INC.
 D824BD     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
@@ -105450,6 +105487,13 @@ D828C9     (base 16)		General Electric Consumer and Industrial
 				Appliance Park
 				Louisville KY 40225
 				UNITED STATES
+
+D8-29-16   (hex)		Ascent Communication Technology
+D82916     (base 16)		Ascent Communication Technology
+				13/F., Shum Tower
+				 268 Des Voeux Road Central
+				 Hong Kong  9999
+				HONG KONG
 
 D8-29-86   (hex)		Best Wish Technology LTD
 D82986     (base 16)		Best Wish Technology LTD
@@ -108763,6 +108807,12 @@ F4B164     (base 16)		Lightning Telecommunications Technology Co. Ltd
 				Room 1302, TianÂ¡Â¯an Hi-Tech Plaza Tower A, Futian District,
 				ShenZhen GuangDong 518040
 				CHINA
+
+F4-B3-81   (hex)		WindowMaster A/S
+F4B381     (base 16)		WindowMaster A/S
+				Skelstedet 13
+				Vedbaek  2950
+				DENMARK
 
 F4-B5-49   (hex)		Yeastar Technology Co., Ltd.
 F4B549     (base 16)		Yeastar Technology Co., Ltd.

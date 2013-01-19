@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.18
-#	Date:    2013-01-18 03:15:01
+#	Version: 2013.01.19
+#	Date:    2013-01-19 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1897,6 +1897,7 @@
 # AMD A10-5800K CPU
 	9901  Trinity [Radeon HD 7660D]
 	9902  Trinity HDMI Audio Controller
+	9903  Trinity [Radeon HD 7640G]
 	9904  Trinity [Radeon HD 7560D]
 	9990  Trinity [Radeon HD 7520G]
 	aa00  R600 Audio Device [Radeon HD 2900 Series]
@@ -5271,7 +5272,7 @@
 		10b7 656b  3CCFEM656 10/100 LAN+56K Modem CardBus
 	6564  3cXFEM656C 10/100 LAN+Winmodem CardBus [Tornado]
 	7646  3cSOHO100-TX Hurricane
-	7770  3CRWE777 PCI(PLX) Wireless Adaptor [Airconnect]
+	7770  3CRWE777 PCI Wireless Adapter [Airconnect]
 	7940  3c803 FDDILink UTP Controller
 	7980  3c804 FDDILink SAS Controller
 	7990  3c805 FDDILink DAS Controller
@@ -7336,7 +7337,8 @@
 	0fd1  GK107 [GeForce GT 650M]
 		1043 2103  N56VZ
 	0fd2  GK107 [GeForce GT 640M]
-	0ff2  GK107 [VGX K1]
+# Device renamed.
+	0ff2  GK107 [GRID K1]
 	0ffa  GK107 [Quadro K600]
 	0ffb  GK107 [Quadro K2000M]
 	0ffc  GK107 [Quadro K1000M]
@@ -7388,7 +7390,8 @@
 	11bc  GK104 [Quadro K5000M]
 	11bd  GK104 [Quadro K4000M]
 	11be  GK104 [Quadro K3000M]
-	11bf  GK104GL [VGX K2]
+# Device renamed.
+	11bf  GK104GL [GRID K2]
 	11fa  GK104 [Quadro K4000]
 	1200  GF114 [GeForce GTX 560 Ti]
 	1201  GF114 [GeForce GTX 560]

@@ -26351,3 +26351,17 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Palmetto Fl 34221
 				UNITED STATES
 
+40-D8-55	(hex)		DSP DESIGN
+086000-086FFF	(base 16)	DSP DESIGN
+				TAPTON PARK INNOVATION CENTRE
+				BRIMINGTON ROAD
+				CHESTERFIELD DERBYSHIRE S41 OTZ
+				UNITED KINGDOM
+
+40-D8-55	(hex)		Bestel China
+087000-087FFF	(base 16)	Bestel China
+				GaoLiangQia 19th
+				Haidian District
+				Beijing 100081
+				CHINA
+
