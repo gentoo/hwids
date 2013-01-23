@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.19
-#	Date:    2013-01-19 03:15:01
+#	Version: 2013.01.22
+#	Date:    2013-01-22 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1682,6 +1682,7 @@
 		106b 0080  MacBook Pro
 	71c6  RV530LE [Radeon X1600/X1650 PRO]
 	71c7  RV535 [Radeon X1650 Series]
+		1787 3000  PowerColor X1650 PRO AGP
 	71ce  RV530LE [Radeon X1600]
 	71d2  RV530GL [FireGL V3400]
 	71d4  M66GL [ATI Mobility FireGL V5250]
@@ -1693,6 +1694,7 @@
 	71e2  RV530 [Radeon X1600] (Secondary)
 	71e6  RV530LE [Radeon X1650 PRO] (Secondary)
 	71e7  RV535 [Radeon X1650 Series]
+		1787 3001  PowerColor X1650 PRO AGP
 	71f2  RV530GL [FireGL V3400 (Secondary)]
 	7210  M71 [Mobility Radeon X2100]
 	7211  M71 [Mobility Radeon X2100] (Secondary)
@@ -5691,6 +5693,7 @@
 		1102 1029  3D Blaster RIVA TNT2 Ultra
 		1102 102f  3D Blaster RIVA TNT2 Ultra
 		14af 5820  Maxi Gamer Xentor 32
+		4843 4f34  Dynamite
 	002a  NV5 [Riva TNT2]
 	002b  NV5 [Riva TNT2]
 	002c  NV6 [Vanta/Vanta LT]
@@ -6012,7 +6015,7 @@
 		1043 400b  AGP-V6800 DDR SDRAM
 		1048 0c42  Erazor X
 		107d 2822  WinFast GeForce 256
-		1102 102e  CT6971 GeForce 256 DDR
+		1102 102e  CT6970/CT6971
 		14af 5021  3D Prophet DDR-DVI
 	0103  NV10GL [Quadro]
 		1048 0c40  GLoria II-64
@@ -15514,6 +15517,8 @@
 270b  Xantel Corporation
 270f  Chaintech Computer Co. Ltd
 2711  AVID Technology Inc.
+2955  Connectix Virtual PC
+	6e61  OHCI USB 1.1 controller
 29b4  82q35 Express MEI Controller
 2a15  3D Vision(???)
 3000  Hansol Electronics Inc.

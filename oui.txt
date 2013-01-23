@@ -93462,6 +93462,12 @@ company_id			Organization
 				Acacia Ridge QLD 4110
 				AUSTRALIA
 
+70-52-C5   (hex)		Avaya, Inc.
+7052C5     (base 16)		Avaya, Inc.
+				211 Mount Airy Road
+				Basking Ridge NJ 07920-2311
+				UNITED STATES
+
 70-54-D2   (hex)		PEGATRON CORPORATION
 7054D2     (base 16)		PEGATRON CORPORATION
 				No. 76, Ligong St., Beitou
@@ -100304,6 +100310,12 @@ AC40EA     (base 16)		C&T Solution Inc.
 				12F-1, No.700, Zhongzheng Rd., Zhonghe Dist.
 				New Taipei City Taiwan 235
 				TAIWAN, PROVINCE OF CHINA
+
+AC-41-22   (hex)		Eclipse Electronic Systems Inc.
+AC4122     (base 16)		Eclipse Electronic Systems Inc.
+				17111 Waterview Parkway
+				Dallas TX 75252
+				UNITED STATES
 
 AC-44-F2   (hex)		Revolabs Inc
 AC44F2     (base 16)		Revolabs Inc
