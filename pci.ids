@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.22
-#	Date:    2013-01-22 03:15:01
+#	Version: 2013.01.24
+#	Date:    2013-01-24 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -593,6 +593,7 @@
 	3151  M24 [FireMV 2400]
 	3152  RV370 [Mobility Radeon X300]
 	3154  M24GL [Mobility FireGL V3200]
+	3155  RV380 [FireMV 2400]
 	3171  M24 [FireMV 2400] (Secondary)
 	3e50  RV380 0x3e50 [Radeon X600]
 	3e54  RV380 0x3e54 [FireGL V3200]
@@ -1502,9 +1503,13 @@
 	6707  Cayman LE GL [FirePro V5900]
 	6718  Cayman XT [Radeon HD 6970]
 	6719  Cayman PRO [Radeon HD 6950]
+	671c  Antilles [Radeon HD 6990]
 	671d  Antilles [AMD Radeon HD 6990]
 	671f  Cayman [Radeon HD 6900 Series]
 	6720  Blackcomb [Radeon HD 6900M series]
+	6721  Blackcomb [Mobility Radeon HD 6000 series]
+	6724  Blackcomb [Mobility Radeon HD 6000 series]
+	6725  Blackcomb [Mobility Radeon HD 6000 series]
 	6738  Barts XT [Radeon HD 6800 Series]
 	6739  Barts PRO [Radeon HD 6800 Series]
 		1043 03b4  EAH6850 [Radeon HD 6850]
@@ -1515,6 +1520,7 @@
 		106b 00e2  MacBookPro8,2 [Core i7, 15", Late 2011]
 	6742  Whistler LE [AMD Radeon HD 6625M Graphics]
 	6743  Whistler [Radeon E6760]
+	6744  Whistler [ATI Mobility Radeon HD 6000 series]
 	6749  Turks [FirePro V4900]
 	674a  Turks [AMD FirePro V3900]
 	6750  Turks [AMD Radeon HD 6570]
@@ -1526,6 +1532,8 @@
 		1028 04cc  Vostro 3350
 	6761  Seymour LP [Radeon HD 6430M]
 	6763  Seymour [Radeon E6460]
+	6764  Seymour [Mobility Radeon HD 6000 series]
+	6765  Seymour [Mobility Radeon HD 6000 series]
 	6770  Caicos [Radeon HD 6400 Series]
 	6772  Caicos [Radeon HD 7400A Series]
 	6778  Caicos [Radeon HD 7000 Series]
@@ -1535,6 +1543,7 @@
 	6798  Tahiti XT [Radeon HD 7970]
 	6799  New Zealand [Radeon HD 7990]
 	679a  Tahiti PRO [Radeon HD 7950]
+	679b  Tahiti [Radeon HD 7900 Series]
 	679e  Tahiti LE [Radeon HD 7800 Series]
 	6800  Wimbledon XT [Radeon HD 7970M]
 	6818  Pitcairn [Radeon HD 7800]
@@ -1543,9 +1552,15 @@
 	6820  Radeon HD 8800M Series
 	6821  Radeon HD 8800M Series
 	6823  Radeon HD 8800M Series
+	6824  Chelsea [Radeon HD 7700M Series]
 	6825  Cape Verde [Radeon HD 7800M Series]
+	6826  Chelsea [Radeon HD 7700M Series]
+	6827  Cape Verde [Radeon HD 7800M Series]
 	682b  Radeon HD 8800M Series
 	682f  Cape Verde [Radeon HD 7700M Series]
+	6830  Cape Verde [Radeon HD 7800M Series]
+	6831  Cape Verde [AMD Radeon HD 7700M Series]
+	6837  Cape Verde LE [Radeon HD 7700 Series]
 	683b  Cape Verde [Radeon HD 7700 Series]
 	683d  Cape Verde [Radeon HD 7700 Series]
 	683f  Cape Verde PRO [Radeon HD 7700 Series]
@@ -1553,6 +1568,7 @@
 	6841  Thames [Radeon 7500M/7600M Series]
 	6842  Thames LE [Radeon HD 7000M Series]
 	6843  Thames [Radeon HD 7670M]
+	6849  Lombok [AMD Radeon HD 7400 Series]
 	6850  Lombok GL AIO [Radeon HD 7570]
 	6858  Lombok [Radeon HD 7400 series]
 	6888  Cypress [FirePro 3D V8800]
@@ -1566,6 +1582,7 @@
 		1043 0330  EAH5850 [Radeon HD5850]
 	689b  Cypress [Radeon HD 6800 Series]
 	689c  Hemlock [Radeon HD 5900 Series]
+	689d  Hemlock [ATI Radeon HD 5900 Series]
 	689e  Cypress LE [Radeon HD 5800 Series]
 	68a0  Broadway XT [Mobility Radeon HD 5800 Series]
 		103c 1520  Broadway XT [FirePro M7820]
@@ -1586,6 +1603,7 @@
 		103c 1521  Madison Pro [FirePro M5800]
 	68c7  Pinewood [Radeon HD 5570]
 	68c8  FirePro V4800
+	68c9  Redwood [FirePro 3800 (FireGL)]
 	68d8  Redwood [Radeon HD 5670]
 	68d9  Redwood PRO [Radeon HD 5500 Series]
 	68da  Redwood PRO [Radeon HD 5500 Series]
@@ -1596,6 +1614,7 @@
 	68e5  Robson LE [AMD Radeon HD 6300M Series]
 	68f1  Cedar [FirePro 2460]
 	68f2  Cedar [FirePro 2270]
+	68f8  Cedar [Radeon HD 7300 Series]
 	68f9  Cedar PRO [Radeon HD 5450/6350]
 		1028 010e  XPS 8300
 		1043 03c2  EAH5450 SILENT/DI/512MD2 (LP)
@@ -1758,12 +1777,15 @@
 	793f  RS600 [Radeon Xpress 1250]
 	7941  RS600 [Radeon Xpress 1250]
 	7942  RS600 [Radeon Xpress 1250]
-	796e  Radeon 2100
+	796e  RS740 [Radeon 2100]
 	7c37  RV350 AQ [Radeon 9600 SE]
 	9400  R600 [Radeon HD 2900 Series]
 		1002 3000  Sapphire Radeon HD 2900 XT
 		1002 3142  HIS Radeon HD 2900XT 512MB GDDR3 VIVO PCIe
+	9401  R600 [Radeon HD 2900 XT]
+	9402  R600 [Radeon HD 2900 XT]
 	9403  R600 [Radeon HD 2900 PRO]
+	9405  R600 [Radeon HD 2900 GT]
 	940a  R600GL [Fire GL V8650]
 	940b  R600GL [Fire GL V8600]
 	940f  R600 [FireGL V7600]
@@ -1773,14 +1795,19 @@
 		1002 0502  MSI R4850-T2D512
 		174b e810  Sapphire HD 4850 512MB GDDR3 PCI-E Dual Slot Fansink
 	9443  R700 [Radeon HD 4850]
+	9444  RV770 [FirePro V8750 (FireGL)]
+	9446  RV770 [FirePro V7760 (FireGL)]
 	944a  M98L [Mobility Radeon HD 4850]
+	944b  RV770 [Mobility Radeon HD 4850 X2]
 	944c  RV770 LE [Radeon HD 4800 Series]
 	944e  RV770 CE [Radeon HD 4710]
 	9450  RV770 [FireStream 9270]
 	9452  RV770 [FireStream 9250]
+	9456  RV770 [FirePro 3D V8700]
 	945a  M98 XT [Mobility Radeon HD 4870]
 	9460  RV790 [Radeon HD 4890]
 	9462  RV790LE [Radeon HD 4800 Series]
+	946a  RV770 [FirePro M7750]
 	9480  M96 [Mobility Radeon HD 4650]
 		103c 3628  ATI Mobility Radeon HD 4650 [dv6-1190en]
 	9485  RV740 Pro [Radeon HD 4770]
@@ -1800,6 +1827,7 @@
 	94a3  M97 GL [ATI FirePro M7740]
 	94b3  Radeon HD 4770 [RV740]
 	94b4  RV740 LE [ATI Radeon HD 4700 Series]
+	94b5  RV740 [Radeon HD 4770]
 	94c1  RV610 [Radeon HD 2400 XT]
 		1028 0211  Optiplex 755
 		1028 0d02  Optiplex 755
@@ -1809,6 +1837,8 @@
 		174b e400  Sapphire HD 2400 PRO video device
 		18bc 3550  GeCube Radeon HD2400 PRO
 	94c4  RV610 LE AGP [Radeon HD 2400 PRO AGP]
+	94c5  RV610 [Radeon HD 2400 LE]
+	94c7  RV610 [Radeon HD 2350]
 	94c8  Radeon HD 2400 XT
 	94c9  Mobility Radeon HD 2400
 		1002 94c9  Radeon HD2400
@@ -1818,8 +1848,10 @@
 		174b e620  Sapphire Radeon HD 3870 PCIe 2.0
 	9504  RV670 [Mobility Radeon HD 3850]
 	9505  RV670PRO [Radeon HD 3850]
+	9506  RV670 [Mobility Radeon HD 3850 X2]
 	9507  RV670 [Radeon HD 3850]
 	9508  M88 XT Mobility Radeon HD 3870]
+	9509  RV670 [Mobility Radeon HD 3870]
 	950f  R680 [Radeon HD 3870 x2]
 	9511  RV670 [FireGL 7700]
 	9515  RV670 AGP [Radeon HD 3850]
@@ -1841,6 +1873,7 @@
 	9588  RV630 [Radeon HD 2600XT]
 		1458 216c  Radeon HD 2600 XT, 256MB GDDR3, 2x DVI, TV-out, PCIe (GV-RX26T256H)
 	9589  RV630 [Radeon HD 2600 Series]
+	958b  RV630 [Mobility Radeon HD 2600 XT]
 	958c  RV630GL [FireGL v5600]
 	958d  RV630 [FireGL V3600]
 	9591  RV635 [Mobility Radeon HD 3650]
@@ -1849,6 +1882,7 @@
 	9595  M86GL [Mobility FireGL V5700]
 	9596  RV635 PRO AGP [Radeon HD 3650]
 		1043 0028  EAH3650 SILENT/HTDI/512M/A
+	9597  RV635 [Radeon HD 2600 Series]
 	9598  RV630 [Radeon HD 3600 Series]
 		1002 9598  Mobility Radeon HD 3600
 		1043 01d6  EAH3650 Silent

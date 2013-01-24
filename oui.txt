@@ -81862,6 +81862,13 @@ company_id			Organization
 				Taipei Hsien  236
 				TAIWAN, PROVINCE OF CHINA
 
+08-48-2C   (hex)		Raycore Taiwan Co., LTD.
+08482C     (base 16)		Raycore Taiwan Co., LTD.
+				3F-5, No.351, Sec.2, Zongshan Rd
+				Zonghe Dist,
+				New Taipei city  23504
+				TAIWAN, PROVINCE OF CHINA
+
 08-4E-1C   (hex)		H2A Systems, LLC
 084E1C     (base 16)		H2A Systems, LLC
 				7545 Irvine Center Drive
@@ -82793,6 +82800,12 @@ company_id			Organization
 				Houston Texas 77070
 				UNITED STATES
 
+10-28-31   (hex)		Morion Inc.
+102831     (base 16)		Morion Inc.
+				Shosse Kosmonavtov, 111
+				Perm Permsky Krai 614990
+				RUSSIAN FEDERATION
+
 10-2D-96   (hex)		Looxcie Inc.
 102D96     (base 16)		Looxcie Inc.
 				1196 Borregas Ave.
@@ -82924,6 +82937,12 @@ company_id			Organization
 				Les Algorithmes Aristote A
 				BIOT  06410
 				FRANCE
+
+10-66-82   (hex)		NEC AccessTechnica, Ltd.
+106682     (base 16)		NEC AccessTechnica, Ltd.
+				800 Shimomata
+				Kakegawa Shizuoka 436-8501
+				JAPAN
 
 10-68-3F   (hex)		LG Electronics
 10683F     (base 16)		LG Electronics
@@ -85090,6 +85109,12 @@ company_id			Organization
 				Yokohama-shi Kanagawa 224-8502
 				JAPAN
 
+24-62-78   (hex)		sysmocom - systems for mobile communications GmbH
+246278     (base 16)		sysmocom - systems for mobile communications GmbH
+				Schievelbeiner Str. 5
+				Berlin 10439
+				GERMANY
+
 24-65-11   (hex)		AVM GmbH
 246511     (base 16)		AVM GmbH
 				Alt-Moabit 95
@@ -85152,6 +85177,12 @@ company_id			Organization
 				88-13 SHUILI  ROAD
 				HSINCHU  30059
 				TAIWAN, PROVINCE OF CHINA
+
+24-95-04   (hex)		SFR
+249504     (base 16)		SFR
+				40-42 QUAI DU POINT DU JOUR
+				BOULOGNE BILLANCOURT HAUT DE SEINE 92100
+				FRANCE
 
 24-A4-2C   (hex)		KOUKAAM a.s.
 24A42C     (base 16)		KOUKAAM a.s.
@@ -86138,6 +86169,9 @@ company_id			Organization
 				Bangalore Karnataka 560 078
 				INDIA
 
+2C-B6-93   (hex)		PRIVATE
+2CB693     (base 16)		 
+				 
 2C-B6-9D   (hex)		RED Digital Cinema
 2CB69D     (base 16)		RED Digital Cinema
 				20291 Valencia Circle
@@ -86232,6 +86266,12 @@ company_id			Organization
 				Suite 108
 				Austin TX 78653
 				UNITED STATES
+
+2C-F2-03   (hex)		EMKO ELEKTRONIK SAN VE TIC AS
+2CF203     (base 16)		EMKO ELEKTRONIK SAN VE TIC AS
+				DOSAB, KARANFIL SOK, NO:6
+				BURSA 16369
+				TURKEY
 
 2C-F4-C5   (hex)		Avaya, Inc
 2CF4C5     (base 16)		Avaya, Inc
@@ -86498,6 +86538,12 @@ company_id			Organization
 308730     (base 16)		Huawei Device Co., Ltd
 				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,
 				Shenzhen Guangdong 510108
+				CHINA
+
+30-89-99   (hex)		Guangdong East Power Co.,
+308999     (base 16)		Guangdong East Power Co.,
+				No.6 Northern Industry Road,Songshan lake SCI&TECH Industry Park
+				DongGuan GuangDong 523808
 				CHINA
 
 30-8C-FB   (hex)		Dropcam
@@ -96335,6 +96381,13 @@ company_id			Organization
 				Netanya  42504
 				ISRAEL
 
+88-68-5C   (hex)		Shenzhen ChuangDao & Perpetual Eternal Technology Co.,Ltd
+88685C     (base 16)		Shenzhen ChuangDao & Perpetual Eternal Technology Co.,Ltd
+				Area c,2/F,Building 1, BaoAn foreign trade industrial zone
+				No.51,Lane 1,3 Road xinan
+				BaoAn District, Shenzhen Guangdong province 518100
+				CHINA
+
 88-6B-76   (hex)		CHINA HOPEFUL GROUP HOPEFUL ELECTRIC CO.,LTD
 886B76     (base 16)		CHINA HOPEFUL GROUP HOPEFUL ELECTRIC CO.,LTD
 				Shunde District of Foshan City, Guangdong Province, Guangxi Rong Ronggui Town Road, No. 148
@@ -97300,6 +97353,13 @@ company_id			Organization
 				2 Keling Road, New district,
 				Suzhou Jiangsu 215163
 				CHINA
+
+90-7A-F1   (hex)		SNUPI Technologies
+907AF1     (base 16)		SNUPI Technologies
+				Fluke Hall, Box 352141
+				4000 Mason Road
+				Seattle WA 98195
+				UNITED STATES
 
 90-7F-61   (hex)		Chicony Electronics Co., Ltd.
 907F61     (base 16)		Chicony Electronics Co., Ltd.
@@ -99905,6 +99965,13 @@ A85BF3     (base 16)		Audivo GmbH
 				Schwarzenfeld  92521
 				GERMANY
 
+A8-61-AA   (hex)		Cloudview Limited
+A861AA     (base 16)		Cloudview Limited
+				Kingsway House
+				Havilland Street
+				St Peter Port Guernsey GY1 2QE
+				UNITED KINGDOM
+
 A8-62-A2   (hex)		JIWUMEDIA CO., LTD.
 A862A2     (base 16)		JIWUMEDIA CO., LTD.
 				#902, Daerug Techno Town 13'th, 664
@@ -101612,6 +101679,12 @@ B4FC75     (base 16)		SEMA Electronics(HK) CO.,LTD
 				Xialingbei Industrial Zone  Liaobu,
 				Dongguan Guangdong 523411
 				CHINA
+
+B4-FE-8C   (hex)		Centro Sicurezza Italia SpA
+B4FE8C     (base 16)		Centro Sicurezza Italia SpA
+				Via Venaria 28-30
+				Alpignano Torino 10091
+				ITALY
 
 B8-03-05   (hex)		Intel Corporate
 B80305     (base 16)		Intel Corporate
@@ -105241,6 +105314,13 @@ D4A425     (base 16)		SMAX Technology Co., Ltd.
 				New Taipei City  248
 				TAIWAN, PROVINCE OF CHINA
 
+D4-A4-99   (hex)		InView Technology Corporation
+D4A499     (base 16)		InView Technology Corporation
+				8900 Shoal Creek Blvd
+				Suite 125
+				Austin TX 78757
+				UNITED STATES
+
 D4-A9-28   (hex)		GreenWave Reality Inc
 D4A928     (base 16)		GreenWave Reality Inc
 				39 Parker
@@ -106709,6 +106789,13 @@ E0-ED-1A   (hex)		vastriver Technology Co., Ltd
 E0ED1A     (base 16)		vastriver Technology Co., Ltd
 				A-6A Keshi Building,No.28,Xinxi Road,Haidian,
 				Beijing  100085
+				CHINA
+
+E0-ED-C7   (hex)		Shenzhen Friendcom Technology Development Co., Ltd
+E0EDC7     (base 16)		Shenzhen Friendcom Technology Development Co., Ltd
+				6/F,17 Building, Guangqian Industrial Park,
+				 Xili town
+				Nanshan District, Shen Zhen CIty Guang Dong 518055
 				CHINA
 
 E0-EE-1B   (hex)		Panasonic Automotive Systems Company of America
@@ -108694,6 +108781,13 @@ F455E0     (base 16)		Niceway CNC Technology Co.,Ltd.Hunan Province
 				5/F,Innovation-Undertaking Center,HuanBao Industrial Park,199#,ZhenHua Road,
 				Changsha Hunan 410116
 				CHINA
+
+F4-58-42   (hex)		Boxx TV Ltd
+F45842     (base 16)		Boxx TV Ltd
+				Suite 17, Imperial Studios
+				3-9 Imperial Road
+				London SW6 2AG
+				UNITED KINGDOM
 
 F4-5F-D4   (hex)		Cisco SPVTG
 F45FD4     (base 16)		Cisco SPVTG

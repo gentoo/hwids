@@ -26365,3 +26365,47 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Beijing 100081
 				CHINA
 
+40-D8-55	(hex)		JEL SYSTEM CO., LTD.
+088000-088FFF	(base 16)	JEL SYSTEM CO., LTD.
+				14-1, IKENOIRIYAMA, FUMASE
+				IZUMIZAKI-MURA, NISHISHIRAKAWA-GUN FUKUSHIMA 969-0105
+				JAPAN
+
+40-D8-55	(hex)		WUHAN XINGTUXINKE ELECTRONIC CO.,LTD
+089000-089FFF	(base 16)	WUHAN XINGTUXINKE ELECTRONIC CO.,LTD
+				NO.C3-8F,SOFTWARE PARK
+				OPTICS VALLEY
+				Wuhan Hubei 430074
+				CHINA
+
+40-D8-55	(hex)		Leder Elektronik Design
+08A000-08AFFF	(base 16)	Leder Elektronik Design
+				Bruchweg 10
+				Ketsch Baden-Wuerttemberg 68775
+				GERMANY
+
+40-D8-55	(hex)		MeshWorks Wireless Oy
+08B000-08BFFF	(base 16)	MeshWorks Wireless Oy
+				Haarlankatu 1 J
+				Tampere Suomi 33230
+				FINLAND
+
+40-D8-55	(hex)		Magnescale Co.,Ltd
+08C000-08CFFF	(base 16)	Magnescale Co.,Ltd
+				45,Suzukawa
+				Isehara Kanagawa 259-1146
+				JAPAN
+
+40-D8-55	(hex)		Boehme Nachrichtentechnik
+08D000-08DFFF	(base 16)	Boehme Nachrichtentechnik
+				Hauptstrasse 32
+				Siek Schleswig-Holstein 22962
+				GERMANY
+
+40-D8-55	(hex)		Lyngsoe Systems
+08E000-08EFFF	(base 16)	Lyngsoe Systems
+				5570 Kennedy Rd
+				Unit B
+				Mississauga On L4Z 2A9
+				CANADA
+
