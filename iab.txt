@@ -26409,3 +26409,22 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Mississauga On L4Z 2A9
 				CANADA
 
+40-D8-55	(hex)		Excelitas
+08F000-08FFFF	(base 16)	Excelitas
+				1330 E Cypress St
+				Covina CA 91724
+				UNITED STATES
+
+40-D8-55	(hex)		Axxess Identification Ltd
+090000-090FFF	(base 16)	Axxess Identification Ltd
+				27-28 Shrivenham Hundred Business Park
+				Majors Road
+				Swindon Wiltshire SN6 8TZ
+				UNITED KINGDOM
+
+40-D8-55	(hex)		KDT
+091000-091FFF	(base 16)	KDT
+				203-902, bucheon Techno-park 192, Yakdae-dong, Wonmi-gu
+				Bucheon-si Gyeonggi-do 420-733
+				KOREA, REPUBLIC OF
+

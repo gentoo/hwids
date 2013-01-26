@@ -89977,6 +89977,13 @@ company_id			Organization
 				92526 Oberviechtach  
 				GERMANY
 
+50-8D-6F   (hex)		CHAHOO Limited
+508D6F     (base 16)		CHAHOO Limited
+				B-4thFloor, 631
+				Sampyeong-dong
+				Sungnam Gyeonggi 463-400
+				KOREA, REPUBLIC OF
+
 50-93-4F   (hex)		Gradual Tecnologia Ltda.
 50934F     (base 16)		Gradual Tecnologia Ltda.
 				Rod. Alkindar M. Junqueira, Km 34,2
