@@ -26428,3 +26428,15 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Bucheon-si Gyeonggi-do 420-733
 				KOREA, REPUBLIC OF
 
+40-D8-55	(hex)		Wasserbauer GmbH
+092000-092FFF	(base 16)	Wasserbauer GmbH
+				Gewerbestraße 1
+				Waldneukirchen  4595
+				AUSTRIA
+
+40-D8-55	(hex)		Sentry 360 Security
+093000-093FFF	(base 16)	Sentry 360 Security
+				24012 W Renwick Road
+				Plainfield IL 60544
+				UNITED STATES
+
