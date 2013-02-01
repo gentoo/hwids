@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.01.31
-#	Date:    2013-01-31 03:15:02
+#	Version: 2013.02.01
+#	Date:    2013-02-01 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1499,6 +1499,7 @@
 	6606  Mars [Radeon HD 8790M]
 	6610  Oland [Radeon HD 8600 Series]
 	6611  Oland [Radeon HD 8500 Series]
+	6660  Sun [Radeon HD 8600M Series]
 	6700  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
 	6701  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
 	6702  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
@@ -7514,7 +7515,7 @@
 	0ffa  GK107 [Quadro K600]
 	0ffb  GK107 [Quadro K2000M]
 	0ffc  GK107 [Quadro K1000M]
-	0ffd  GK107 [Quadro NVS 510]
+	0ffd  GK107 [NVS 510]
 	0ffe  GK107 [Quadro K2000]
 	0fff  GK107 [Quadro 410]
 	1022  GK107 [Tesla K20c]
@@ -19890,7 +19891,8 @@
 		1028 0211  OptiPlex 755
 	29c0  82G33/G31/P35/P31 Express DRAM Controller
 		1028 020d  Inspiron 530
-		1043 29c0  P5K PRO Motherboard
+# same ID possibly also on other ASUS boards
+		1043 8276  P5K PRO Motherboard
 		1043 82b0  P5KPL-VM Motherboard
 		1462 7360  G33/P35 Neo
 		8086 5044  Desktop Board DP35DP

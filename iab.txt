@@ -507,8 +507,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Dataprobe, Inc.
 050000-050FFF	(base 16)	Dataprobe, Inc.
-				11 Park Place
-				Paramus NJ 07652
+				1B Pearl Court
+				Allendale NJ 07401
 				UNITED STATES
 
 00-50-C2	(hex)		JSR Ultrasonics
@@ -1432,8 +1432,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Century Geophysical Corp.
 0E7000-0E7FFF	(base 16)	Century Geophysical Corp.
-				7517 E. Pine St.
-				Tulsa OK 74115
+				1223 S. 71st E. Ave.
+				Tulsa OK 74112
 				UNITED STATES
 
 00-50-C2	(hex)		Audio Design Associates, Inc.
@@ -2173,8 +2173,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Cepheid
 15D000-15DFFF	(base 16)	Cepheid
-				1190 Borregas Ave.
-				Sunnyvale CA 94089-1302
+				904 Caribbean Drive
+				Sunnyvale CA 94089
 				UNITED STATES
 
 00-50-C2	(hex)		Celite Systems, Inc.
@@ -2605,7 +2605,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		ABB Switzerland Inc
 1A2000-1A2FFF	(base 16)	ABB Switzerland Inc
-				Dept. Dw/PIDE
+				Dept. Dw/ATBN
 				Baden Aargau CH 5401
 				SWITZERLAND
 
@@ -3052,7 +3052,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		DAVE S.r.L.
 1EA000-1EAFFF	(base 16)	DAVE S.r.L.
-				via Forniz 2
+				via Talponedo 29/A
 				Porcia PN 33170
 				ITALY
 
@@ -4098,8 +4098,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		AMIRIX Systems
 292000-292FFF	(base 16)	AMIRIX Systems
-				77 Chain Lake Drive
-				Halifax NS B2S 1E1
+				20 Angus Morton Drive
+				Bedford NS B4B 0L9
 				CANADA
 
 00-50-C2	(hex)		IP Unity
@@ -5060,8 +5060,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Consens Zeiterfassung GMBH
 32D000-32DFFF	(base 16)	Consens Zeiterfassung GMBH
-				Hohemundestrasse 7
-				Telfs Tirol 6410
+				Ambachweg 1
+				Rietz Tirol 6421
 				AUSTRIA
 
 00-50-C2	(hex)		MANUSA-GEST, S.L.
@@ -6437,8 +6437,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Contec Steuerungstechnik & Automation GmbH
 40A000-40AFFF	(base 16)	Contec Steuerungstechnik & Automation GmbH
-				Waldeck 1
-				Kufstein Tirol 6330
+				Wildbichlerstrasse 2e
+				Ebbs Tirol 6341
 				AUSTRIA
 
 00-50-C2	(hex)		Center VOSPI JSC
@@ -8313,9 +8313,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		C2 DIAGNOSTICS
 536000-536FFF	(base 16)	C2 DIAGNOSTICS
-				Parc Agropolis II - Bat14
-				2214 Bd de la Lironde
-				MONTPELLIER Herault 34397
+				Parc Euromedecine II
+				Rue de la Valsiere
+				MONTPELLIER Cedex 5 Herault 34099
 				FRANCE
 
 00-50-C2	(hex)		DST CONTROL AB
@@ -8462,7 +8462,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Convergent Design
 54E000-54EFFF	(base 16)	Convergent Design
-				4465 Northpark Dr. Suite 201
+				4465 Northpark Dr. Suite 400
 				Colorado Springs Colorado 80907
 				UNITED STATES
 
@@ -10537,8 +10537,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Bulletendpoints Enterprises Inc
 699000-699FFF	(base 16)	Bulletendpoints Enterprises Inc
-				17683 Chemin Saint Marie
-				kirkland quebec H9J 2L3
+				16 finch ave
+				Dollars des ormeaux quebec H9a3g8
 				CANADA
 
 00-50-C2	(hex)		StoreTech Limited
@@ -10595,9 +10595,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Cadi Scientific Pte Ltd
 6A2000-6A2FFF	(base 16)	Cadi Scientific Pte Ltd
-				 1003 Bukit Merah Central
-				#04-40
-				159836
+				31 Ubi Road 1 Aztech Building
+				#03-00
+				Singapore  408694
 				SINGAPORE
 
 00-50-C2	(hex)		CreaTech Electronics Co.
@@ -11384,9 +11384,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Colorado Engineering Inc.
 720000-720FFF	(base 16)	Colorado Engineering Inc.
-				1310 United Heights
-				Suite 105
-				Colorado Springs CO 80921
+				1915 Jamboree Drive
+				Suite 165
+				Colorado Springs CO 80920
 				UNITED STATES
 
 00-50-C2	(hex)		Spectrum Communications FZE
@@ -11943,7 +11943,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Coral Telecom Ltd
 779000-779FFF	(base 16)	Coral Telecom Ltd
-				C-28 Sector 7
+				E-02 Sector 63
 				Noida UP 201301
 				INDIA
 
@@ -11971,10 +11971,10 @@ IAB Range    			Organization
 				Saint Louis MO 63120
 				UNITED STATES
 
-00-50-C2	(hex)		Cominfo, a.s.
-77E000-77EFFF	(base 16)	Cominfo, a.s.
-				Kostelec Za humny 488
-				Zlin Czech Republic 76314
+00-50-C2	(hex)		Cominfo Inc.
+77E000-77EFFF	(base 16)	Cominfo Inc.
+				Nabrezi 695
+				Zlin Czech Republic 76001
 				CZECH REPUBLIC
 
 00-50-C2	(hex)		ACD Elektronik GmbH
@@ -13587,10 +13587,10 @@ IAB Range    			Organization
 				Trento  38100
 				ITALY
 
-00-50-C2	(hex)		Creation Technologies
-880000-880FFF	(base 16)	Creation Technologies
-				2250 West Southbranch Boulevard
-				Oak Creek WI 53154
+00-50-C2	(hex)		Creation Technologies Chicago
+880000-880FFF	(base 16)	Creation Technologies Chicago
+				1475 S. Wheeling Rd.
+				Wheeling IL 60090
 				UNITED STATES
 
 00-50-C2	(hex)		InnoTrans Communications, Inc.
@@ -15034,8 +15034,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		BuLogics, Inc.
 968000-968FFF	(base 16)	BuLogics, Inc.
-				6 Poplar St, Unit B
-				Conshohocken PA 19460
+				70 E Swedesford Rd, Suite 120
+				Malvern PA 19355
 				UNITED STATES
 
 00-50-C2	(hex)		Gehrke Kommunikationssysteme GmbH
@@ -16800,8 +16800,8 @@ A81000-A81FFF	(base 16)	BPC circuits Ltd
 
 00-50-C2	(hex)		CT Company
 A82000-A82FFF	(base 16)	CT Company
-				Nizhni Krasnoselsky st., 35
-				Moscow RUSSIA 140070
+				Godovikova 9, Moscow
+				Moscow RUSSIA 129085
 				RUSSIAN FEDERATION
 
 00-50-C2	(hex)		Techno Sobi Co. Ltd.
@@ -16843,9 +16843,8 @@ A88000-A88FFF	(base 16)	S-SYS
 
 00-50-C2	(hex)		CA Traffic Ltd
 A89000-A89FFF	(base 16)	CA Traffic Ltd
-				32-36 Lodge Farm Business Centre
-				Wolverton Road, Castlethorpe
-				Milton Keynes  MK19 7ES
+				Griffin Lane
+				Aylesbury Buckinghamshire HP198BP
 				UNITED KINGDOM
 
 00-50-C2	(hex)		Audio Engineering Ltd.
@@ -18269,8 +18268,8 @@ B6E000-B6EFFF	(base 16)
 				 
 00-50-C2	(hex)		CT Company
 B6F000-B6FFFF	(base 16)	CT Company
-				Nizhni Krasnoselsky st., 35
-				Moscow Russia 140070
+				Godovikova 9, Moscow
+				Moscow RUSSIA 129085
 				RUSSIAN FEDERATION
 
 00-50-C2	(hex)		Nisshin Electronics co.,ltd.
@@ -18293,11 +18292,11 @@ B72000-B72FFF	(base 16)	Advanced Desktop Systems Ltd
 				London  E4 9JJ
 				UNITED KINGDOM
 
-00-50-C2	(hex)		ARKRAY, Inc.
-B73000-B73FFF	(base 16)	ARKRAY, Inc.
-				57 NISHI AKETA-CHO
-				HIGASHI-KUJO
-				KYOTO MINAMI-KU 601-8045
+00-50-C2	(hex)		ARKRAY, Inc. Kyoto Laboratory
+B73000-B73FFF	(base 16)	ARKRAY, Inc. Kyoto Laboratory
+				Yousuien-nai
+				Gansuin-cho 59
+				Kyoto Kamigyo-ku 602-0008
 				JAPAN
 
 00-50-C2	(hex)		AXED Jakubowski Wojciechowski sp.j.
@@ -18443,10 +18442,10 @@ B8A000-B8AFFF	(base 16)	MicroPoise
 				Akron Ohio 44305
 				UNITED STATES
 
-00-50-C2	(hex)		CSTI BV
-B8B000-B8BFFF	(base 16)	CSTI BV
-				Damzigt 17
-				de Meern  3454PS
+00-50-C2	(hex)		FBB
+B8B000-B8BFFF	(base 16)	FBB
+				Hei en Boeicopseweg 118
+				Hei en Boeicop  4126RL
 				NETHERLANDS
 
 00-50-C2	(hex)		Keith & Koep GmbH
@@ -20166,8 +20165,8 @@ CA2000-CA2FFF	(base 16)	The Logical Company
 
 00-50-C2	(hex)		CT Company
 CA3000-CA3FFF	(base 16)	CT Company
-				Nizhni Krasnoselsky st., 35
-				Moscow RUSSIA 140070
+				Godovikova 9, Moscow
+				Moscow RUSSIA 129085
 				RUSSIAN FEDERATION
 
 00-50-C2	(hex)		Vox Technologies
@@ -21994,8 +21993,8 @@ DCA000-DCAFFF	(base 16)	Tele Data Control
 
 00-50-C2	(hex)		CT Company
 DCB000-DCBFFF	(base 16)	CT Company
-				Nizhni Krasnoselsky st.,35
-				Moscow  140070
+				Godovikova 9, Moscow
+				Moscow RUSSIA 129085
 				RUSSIAN FEDERATION
 
 00-50-C2	(hex)		Instrumentel Limited
@@ -22181,8 +22180,8 @@ DE8000-DE8FFF	(base 16)	Visual Productions
 				Haarlem  2013SM
 				NETHERLANDS
 
-00-50-C2	(hex)		Digatale Analoge COMponenten West Electronic Vertrieb GmbH
-DE9000-DE9FFF	(base 16)	Digatale Analoge COMponenten West Electronic Vertrieb GmbH
+00-50-C2	(hex)		Dacom West GmbH
+DE9000-DE9FFF	(base 16)	Dacom West GmbH
 				Schallbruch 19-21
 				Haan NRW 42781
 				GERMANY
@@ -24778,8 +24777,8 @@ F8A000-F8AFFF	(base 16)	EMAC, Inc.
 				Carbondale IL 62902
 				UNITED STATES
 
-00-50-C2	(hex)		Comlet Verteilte Systeme GmbH
-F8B000-F8BFFF	(base 16)	Comlet Verteilte Systeme GmbH
+00-50-C2	(hex)		comlet Verteilte Systeme GmbH
+F8B000-F8BFFF	(base 16)	comlet Verteilte Systeme GmbH
 				Amerikastr. 27
 				Zweibruecken Rheinland-Pfalz 66482
 				GERMANY
@@ -25024,8 +25023,8 @@ FB2000-FB2FFF	(base 16)	Preston Industries dba PolyScience
 
 00-50-C2	(hex)		CT Company
 FB3000-FB3FFF	(base 16)	CT Company
-				Nizhni Krasnoselsky st.,35
-				Moscow RUSSIA 140070
+				Godovikova 9, Moscow
+				Moscow RUSSIA 129085
 				RUSSIAN FEDERATION
 
 00-50-C2	(hex)		MC-monitoring SA
@@ -25062,9 +25061,8 @@ FB8000-FB8FFF	(base 16)	TECHNO CO.,LTD.
 
 00-50-C2	(hex)		Coral Telecom Ltd
 FB9000-FB9FFF	(base 16)	Coral Telecom Ltd
-				E-02
-				sector 63
-				Noida Uttar Pradesh 201301
+				E-02 Sector 63
+				Noida UP 201301
 				INDIA
 
 00-50-C2	(hex)		Elbit Systems of America
@@ -26439,4 +26437,10 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				24012 W Renwick Road
 				Plainfield IL 60544
 				UNITED STATES
+
+40-D8-55	(hex)		Nomad Digital Limited
+094000-094FFF	(base 16)	Nomad Digital Limited
+				3 Broad Chare
+				Newcastle Tye & Wear NE1 3DQ
+				UNITED KINGDOM
 
