@@ -26444,3 +26444,28 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Newcastle Tye & Wear NE1 3DQ
 				UNITED KINGDOM
 
+40-D8-55	(hex)		Heart Force Medical
+095000-095FFF	(base 16)	Heart Force Medical
+				212 - 2112 West Broadway
+				Vancouver BC V6K 2C8
+				CANADA
+
+40-D8-55	(hex)		Comtel Electronics GmbH
+096000-096FFF	(base 16)	Comtel Electronics GmbH
+				Bretonischer Ring 11
+				Grasbrunn  85630
+				GERMANY
+
+40-D8-55	(hex)		Burton Technical Services LLC
+097000-097FFF	(base 16)	Burton Technical Services LLC
+				1214 Metro Park Blvd
+				Suite 101
+				Lewisville Texas 75057
+				UNITED STATES
+
+40-D8-55	(hex)		Dave Srl
+098000-098FFF	(base 16)	Dave Srl
+				Via Talponedo 29a
+				Porcia Pordenone 33080
+				ITALY
+

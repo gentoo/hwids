@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.01
-#	Date:    2013-02-01 03:15:02
+#	Version: 2013.02.04
+#	Date:    2013-02-04 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -12412,6 +12412,7 @@
 	400c  B404-BT Unified Wire Ethernet Controller
 	400d  T480 Unified Wire Ethernet Controller
 	400e  T440-LP-CR Unified Wire Ethernet Controller
+	400f  Amsterdam T440 Unified Wire Ethernet Controller
 	4080  T480-4080 T480 Unified Wire Ethernet Controller
 	4081  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4082  T420-4082  Unified Wire Ethernet Controller
@@ -12434,6 +12435,7 @@
 	440c  B404-BT Unified Wire Ethernet Controller
 	440d  T480 Unified Wire Ethernet Controller
 	440e  T440-LP-CR Unified Wire Ethernet Controller
+	440f  Amsterdam T440 Unified Wire Ethernet Controller
 	4480  T480-4080 T480 Unified Wire Ethernet Controller
 	4481  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4482  T420-4082  Unified Wire Ethernet Controller
@@ -12456,6 +12458,7 @@
 	450c  B404-BT Unified Wire Storage Controller
 	450d  T480 Unified Wire Storage Controller
 	450e  T440-LP-CR Unified Wire Storage Controller
+	450f  Amsterdam T440 Unified Wire Storage Controller
 	4580  T480-4080 T480 Unified Wire Storage Controller
 	4581  T440F-4081 T440-FCoE Unified Wire Storage Controller
 	4582  T420-4082  Unified Wire Storage Controller
@@ -12478,6 +12481,7 @@
 	460c  B404-BT Unified Wire Storage Controller
 	460d  T480 Unified Wire Storage Controller
 	460e  T440-LP-CR Unified Wire Storage Controller
+	460f  Amsterdam T440 Unified Wire Storage Controller
 	4680  T480-4080 T480 Unified Wire Storage Controller
 	4681  T440F-4081 T440-FCoE Unified Wire Storage Controller
 	4682  T420-4082  Unified Wire Storage Controller
@@ -12500,6 +12504,7 @@
 	470c  B404-BT Unified Wire Ethernet Controller
 	470d  T480 Unified Wire Ethernet Controller
 	470e  T440-LP-CR Unified Wire Ethernet Controller
+	470f  Amsterdam T440 Unified Wire Ethernet Controller
 	4780  T480-4080 T480 Unified Wire Ethernet Controller
 	4781  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4782  T420-4082  Unified Wire Ethernet Controller
@@ -12522,6 +12527,7 @@
 	480c  B404-BT Unified Wire Ethernet Controller
 	480d  T480 Unified Wire Ethernet Controller
 	480e  T440-LP-CR Unified Wire Ethernet Controller
+	480f  Amsterdam T440 Unified Wire Ethernet Controller
 	4880  T480-4080 T480 Unified Wire Ethernet Controller
 	4881  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4882  T420-4082  Unified Wire Ethernet Controller
@@ -12563,6 +12569,7 @@
 	540c  B504-BT Unified Wire Ethernet Controller
 	540d  T580-CR Unified Wire Ethernet Controller
 	540e  T540-LP-CR Unified Wire Ethernet Controller
+	540f  Amsterdam T540 Unified Wire Ethernet Controller
 	5410  T580-LP-CR Unified Wire Ethernet Controller
 	5411  T520-LL-CR Unified Wire Ethernet Controller
 	5412  T560-CR Unified Wire Ethernet Controller
@@ -12600,6 +12607,7 @@
 	560c  B504-BT Unified Wire Storage Controller
 	560d  T580-CR Unified Wire Storage Controller
 	560e  T540-LP-CR Unified Wire Storage Controller
+	560f  Amsterdam T540 Unified Wire Storage Controller
 	5610  T580-LP-CR Unified Wire Storage Controller
 	5611  T520-LL-CR Unified Wire Storage Controller
 	5612  T560-CR Unified Wire Storage Controller
@@ -12618,6 +12626,7 @@
 	570c  B504-BT Unified Wire Ethernet Controller
 	570d  T580-CR Unified Wire Ethernet Controller
 	570e  T540-LP-CR Unified Wire Ethernet Controller
+	570f  Amsterdam T540 Unified Wire Ethernet Controller
 	5710  T580-LP-CR Unified Wire Ethernet Controller
 	5711  T520-LL-CR Unified Wire Ethernet Controller
 	5712  T560-CR Unified Wire Ethernet Controller
@@ -12636,6 +12645,7 @@
 	580c  B504-BT Unified Wire Ethernet Controller
 	580d  T580-CR Unified Wire Ethernet Controller
 	580e  T540-LP-CR Unified Wire Ethernet Controller
+	580f  Amsterdam T540 Unified Wire Ethernet Controller
 	5810  T580-LP-CR Unified Wire Ethernet Controller
 	5811  T520-LL-CR Unified Wire Ethernet Controller
 	5812  T560-CR Unified Wire Ethernet Controller
@@ -18231,6 +18241,8 @@
 		103c 2a3b  Pavilion A1512X
 		103c 31fe  ProLiant DL140 G3
 		103c 330b  ProLiant ML150 G6 Server
+# same ID possibly also on other ASUS boards
+		1043 8277  P5K PRO Motherboard
 		1458 5000  Motherboard
 		15d9 9680  X7DBN Motherboard
 		1775 11cc  CC11/CL11
@@ -19828,6 +19840,8 @@
 	2940  82801I (ICH9 Family) PCI Express Port 1
 		1028 020d  Inspiron 530
 		1028 0211  Optiplex 755
+# same ID possibly also on other ASUS boards
+		1043 8277  P5K PRO Motherboard
 		8086 2940  Optiplex 755
 	2942  82801I (ICH9 Family) PCI Express Port 2
 		1028 020d  Inspiron 530
@@ -19837,8 +19851,12 @@
 		1028 020d  Inspiron 530
 	2948  82801I (ICH9 Family) PCI Express Port 5
 		1028 020d  Inspiron 530
+# same ID possibly also on other ASUS boards
+		1043 8277  P5K PRO Motherboard
 	294a  82801I (ICH9 Family) PCI Express Port 6
 		1028 020d  Inspiron 530
+# same ID possibly also on other ASUS boards
+		1043 8277  P5K PRO Motherboard
 	294c  82566DC-2 Gigabit Network Connection
 		17aa 302e  82566DM-2 Gigabit Network Connection
 	2970  82946GZ/PL/GL Memory Controller Hub
@@ -19898,6 +19916,8 @@
 		8086 5044  Desktop Board DP35DP
 	29c1  82G33/G31/P35/P31 Express PCI Express Root Port
 		1028 020d  Inspiron 530
+# same ID possibly also on other ASUS boards
+		1043 8276  P5K PRO Motherboard
 	29c2  82G33/G31 Express Integrated Graphics Controller
 		1028 020d  Inspiron 530
 		1043 82b0  P5KPL-VM Motherboard

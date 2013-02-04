@@ -92489,6 +92489,13 @@ company_id			Organization
 				Shinjuku Tokyo 160-0023
 				JAPAN
 
+64-E5-99   (hex)		EFM Networks
+64E599     (base 16)		EFM Networks
+				6F Benposra II B/D
+				1197-1 Bojeong-dong
+				Yong In Kyunggi-do 446-913
+				KOREA, REPUBLIC OF
+
 64-E6-82   (hex)		Apple, Inc.
 64E682     (base 16)		Apple, Inc.
 				1 infinite Loop
@@ -97957,6 +97964,12 @@ company_id			Organization
 				Beijing  100081
 				CHINA
 
+94-AC-CA   (hex)		trivum technologies GmbH
+94ACCA     (base 16)		trivum technologies GmbH
+				Heusteigstraße 37
+				Stuttgart  70108
+				GERMANY
+
 94-AE-61   (hex)		Alcatel Lucent
 94AE61     (base 16)		Alcatel Lucent
 				Via trento, 30
@@ -98315,6 +98328,12 @@ company_id			Organization
 				12500 TI Boulevard
 				Dallas TX 75243
 				UNITED STATES
+
+98-5C-93   (hex)		SBG Systems SAS
+985C93     (base 16)		SBG Systems SAS
+				3bis, chemin de la Jonchere
+				Rueil Malmaison Ile de France 92500
+				FRANCE
 
 98-5E-1B   (hex)		ConversDigital Co., Ltd.
 985E1B     (base 16)		ConversDigital Co., Ltd.
@@ -99282,6 +99301,13 @@ A088B4     (base 16)		Intel Corporate
 				Kulim Hi-Tech Park
 				Kulim Kedah 09000
 				MALAYSIA
+
+A0-8A-87   (hex)		HuiZhou KaiYue Electronic Co.,Ltd
+A08A87     (base 16)		HuiZhou KaiYue Electronic Co.,Ltd
+				3#,Ruttang 2nd area,Tongcheng Avenue
+				Shuikuo
+				Huizhou Guangdong 516005
+				CHINA
 
 A0-8C-15   (hex)		Gerhard D. Wempe KG
 A08C15     (base 16)		Gerhard D. Wempe KG
@@ -105195,6 +105221,13 @@ D42C3D     (base 16)		Sky Light Digital Limited
 				Hong Kong  999077
 				CHINA
 
+D4-3A-65   (hex)		IGRS Engineering Lab Ltd.
+D43A65     (base 16)		IGRS Engineering Lab Ltd.
+				8F,Taipeng Mansion
+				No.10 Haidian North 2nd Street
+				Haidian District Beijing 10000
+				CHINA
+
 D4-3A-E9   (hex)		DONGGUAN ipt INDUSTRIAL CO., LTD
 D43AE9     (base 16)		DONGGUAN ipt INDUSTRIAL CO., LTD
 				No.66-1.Ist New Area, Nanshe Dist., Chigang,Humen,
@@ -109017,6 +109050,12 @@ F49466     (base 16)		CountMax,  ltd
 				poselok Lesnoy Moscowskaya oblast 141231
 				RUSSIAN FEDERATION
 
+F4-99-AC   (hex)		WEBER Schraubautomaten GmbH
+F499AC     (base 16)		WEBER Schraubautomaten GmbH
+				Hans-Urmiller-Ring 56
+				Wolfratshausen Bayern 82515
+				GERMANY
+
 F4-9F-54   (hex)		Samsung Electronics
 F49F54     (base 16)		Samsung Electronics
 				#94-1, Imsoo-Dong
@@ -109691,6 +109730,12 @@ FC10BD     (base 16)		Control Sistematizado S.A.
 				Cra 43 N 31 52
 				Medellin Antioquia 10101
 				COLOMBIA
+
+FC-11-86   (hex)		Logic3 plc
+FC1186     (base 16)		Logic3 plc
+				Rhodes Way
+				Watford Hertfordshire WD24 4YW
+				UNITED KINGDOM
 
 FC-17-94   (hex)		InterCreative Co., Ltd
 FC1794     (base 16)		InterCreative Co., Ltd
