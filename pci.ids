@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.04
-#	Date:    2013-02-04 03:15:01
+#	Version: 2013.02.05
+#	Date:    2013-02-05 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1882,6 +1882,7 @@
 	9495  RV730 Pro AGP [Radeon HD 4600 Series]
 		1002 9495  RV730 XT [PowerColor Radeon HD4670 AGP 1GB DDR]
 		1458 0028  HD4650
+		1682 0028  HD465X
 	9498  RV730 PRO [Radeon HD 4650]
 	949c  RV730
 	949e  RV370 [FirePro V5700]
@@ -4215,7 +4216,6 @@
 	18c0  MPC8265A/8266/8272
 	18c1  MPC8271/MPC8272
 	3052  SM56 Data Fax Modem
-	3055  SM56 Data Fax Modem
 	3410  DSP56361 Digital Signal Processor
 		ecc0 0050  Gina24 rev.0
 		ecc0 0051  Gina24 rev.1
@@ -7730,21 +7730,10 @@
 	8111  Twist3 Frame Grabber
 10ec  Realtek Semiconductor Co., Ltd.
 	0139  Zonet Zen3200
-	0260  Realtek 260 High Definition Audio
-	0261  Realtek 261 High Definition Audio
-	0262  Realtek 262 High Definition Audio
-	0269  Realtek ALC269 High Definition Audio (82801G)
-	0280  Realtek 280 High Definition Audio
-	0660  Realtek 660 High Definition Audio
-	0662  Realtek 662 High Definition Audio
-	0861  Realtek 861 High Definition Audio
-	0862  Realtek 862 High Definition Audio
 	0880  Realtek 880 High Definition Audio
 	0883  Realtek 883 High Definition Audio
-		1025 1605  TravelMate 5600 series
 	0885  Realtek 885 High Definition Audio
 	0888  Realtek 888 High Definition Audio
-		1028 020d  Inspiron 530
 	0892  Realtek 892 High Definition Audio
 	5209  RTS5209 PCI Express Card Reader
 	5229  RTS5229 PCI Express Card Reader
@@ -8104,9 +8093,6 @@
 	0364  CN896/VN896/P4M900 Host Bridge
 		1043 81ce  P5VD2-VM mothervoard
 	0391  VT8371 [KX133]
-	0397  VT1708S HD Audio
-		1043 836c  P7H55
-		1043 83c7  P5KPL-AM EPU
 	0409  VX855/VX875 Host Bridge: Host Control
 	0410  VX900 Host Bridge: Host Control
 	0415  VT6415 PATA IDE Host Controller
@@ -8494,11 +8480,9 @@
 	4351  VT3351 Host Bridge
 	4353  VX800/VX820 Power Management Control
 	4364  CN896/VN896/P4M900 Host Bridge
-	4397  VT1708B/1702S/1708S HD audio codec
 	4409  VX855/VX875 Power Management Control
 	4410  VX900 Power Management and Chip Testing Control
 		19da a179  ZBOX nano VD01
-	4428  VT1718S HD Audio Codec
 	5030  VT82C596 ACPI [Apollo PRO]
 	5122  VX855/VX875 Chrome 9 HCM Integrated Graphics
 	5208  PT890 I/O APIC Interrupt Controller
@@ -8615,7 +8599,6 @@
 	e238  K8T890 PCI to PCI Bridge Controller
 	e340  PT900 PCI to PCI Bridge Controller
 	e353  VX800/VX820 PCI Express Root Port
-	e721  VT1708B 8-channel High Definition Audio CODEC
 	f208  PT890 PCI to PCI Bridge Controller
 	f238  K8T890 PCI to PCI Bridge Controller
 	f340  PT900 PCI to PCI Bridge Controller
@@ -10247,9 +10230,7 @@
 # InPorte Home Internal 56k Modem/fax/answering machine/SMS Features
 	048f  V.92 56k WinModem
 	0620  Lucent V.92 Data/Fax Modem
-	1040  HDA softmodem
 	2600  StarPro26XX family (SP2601, SP2603, SP2612) DSP
-	3026  HDA Modem
 	5400  OR3TP12 FPSC
 	5656  Venus Modem
 	5801  USB
@@ -10311,19 +10292,8 @@
 11d2  Intercom Inc.
 11d3  Trancell Systems Inc
 11d4  Analog Devices
-	0078  AD1986HD sound chip
 	1535  Blackfin BF535 processor
 	1805  SM56 PCI modem
-	1889  AD1889 sound chip
-	194a  AD1984A sound chip
-	1981  AD1981HD sound chip
-	1983  AD1983HD sound chip
-	1984  AD1984HD sound chip
-		17aa 20bb  T61p Notebook
-	1986  AD1986A sound chip
-		11d4 1986  Lenovo N100 B9G
-	198b  AD1988B Sound Chip
-	5340  AD1881 sound chip
 11d5  Ikon Corporation
 	0115  10115
 	0117  10117
@@ -12123,7 +12093,6 @@
 		7284 9781  CLARO halo
 		7284 9783  eCLARO
 		7284 9787  CLARO II
-	9880  CM9880
 13f7  Wildfire Communications
 13f8  Ad Lib Multimedia Inc
 13f9  NTT Advanced Technology Corp.
@@ -13681,8 +13650,6 @@
 	2464  HSF 56k Data/Fax/Voice Modem (Mob SmartDAA)
 	2465  HSF 56k Data/Fax/Voice/Spkp (w/HS) Modem (Mob SmartDAA)
 	2466  HSF 56k Data/Fax/Voice/Spkp Modem (Mob SmartDAA)
-	2bfa  D110 HDAudio Soft Data Fax Modem with SmartCP
-		1025 0009  Aspire 5622WLMi
 	2f00  HSF 56k HSFi Modem
 		13e0 8d84  IBM HSFi V.90
 		13e0 8d85  Compaq Stinger
@@ -13695,9 +13662,6 @@
 	2f30  SoftV92 SpeakerPhone SoftRing Modem with SmartSP
 		14f1 2014  Devolo MikroLink 56K Modem PCI
 	2f50  Conexant SoftK56 Data/Fax Modem
-	5045  CX20549 (Venice)
-	5047  High Definition Audio [Waikiki]
-	5051  High Definition Audio (HERMOSA)
 	5b7a  CX23418 Single-Chip MPEG-2 Encoder with Integrated Analog Video/Broadcast Audio Decoder
 		0070 7444  WinTV HVR-1600
 		5854 3343  GoTView PCI DVD3 Hybrid
@@ -13984,7 +13948,6 @@
 	9260  RCIM-II Real-Time Clock & Interrupt Module
 1543  SILICON Laboratories
 	3052  Intel 537 [Winmodem]
-	3155  Motorola SM56 Speakerphone Modem
 	4c22  Si3036 MC'97 DAA
 1544  DCM DATA Systems
 1545  VISIONTEK
@@ -19457,7 +19420,6 @@
 		1775 11cc  CC11/CL11
 	27e2  82801GR/GH/GHM (ICH7 Family) PCI Express Port 6
 		1775 11cc  CC11/CL11
-	2802  82GL40 [Cantiga] High Definition Audio HDMI Service
 	2810  82801HB/HR (ICH8/R) LPC Interface Controller
 		1043 81ec  P5B
 	2811  82801HEM (ICH8M-E) LPC Interface Controller
@@ -21413,16 +21375,6 @@
 	cafe  VirtualBox Guest Service
 8322  Sodick America Corp.
 8384  SigmaTel
-	7618  High Definition Audio Codec
-	7634  9250 HD Audio Codec
-	7662  High Definition Audio Codec
-		104d 1e00  High Definition Audio Codec [STAC9872AK]
-	7664  High Definition Audio Codec
-	7670  9770 High Definition Audio
-	7672  9772 High Definition Audio
-	7682  IDT High Definition Audio Codec
-	7690  9200 HD Audio Codec
-		1028 01c1  Precision 490
 8401  TRENDware International Inc.
 8686  ScaleMP
 	1010  vSMPowered system controller [vSMP CTL]
