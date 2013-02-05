@@ -26469,3 +26469,10 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Porcia Pordenone 33080
 				ITALY
 
+40-D8-55	(hex)		idcell co.ltd
+099000-099FFF	(base 16)	idcell co.ltd
+				565 Iteco, Deokpung 3-dong
+				Gyeonggi-do
+				Hanam-si  465-736
+				KOREA, REPUBLIC OF
+
