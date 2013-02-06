@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.05
-#	Date:    2013-02-05 03:15:02
+#	Version: 2013.02.06
+#	Date:    2013-02-06 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -7518,7 +7518,9 @@
 	0ffd  GK107 [NVS 510]
 	0ffe  GK107 [Quadro K2000]
 	0fff  GK107 [Quadro 410]
+	1021  GK110 [Tesla K20Xm]
 	1022  GK107 [Tesla K20c]
+	1028  GK110 [Tesla K20m]
 	1040  GF119 [GeForce GT 520]
 # taken from nv_disp.inf
 	1042  GF119 [GeForce 510]
@@ -8633,6 +8635,7 @@
 	3142  SIMATIC NET CP 5613A1 (Profibus Adapter)
 	4021  SIMATIC NET CP 5512 (Profibus and MPI Cardbus Adapter)
 	4029  SIMATIC NET CP 5613A2 (Profibus Adapter)
+	4035  SIMATIC NET CP 1613 A2
 	4942  FPGA I-Bus Tracer for MBD
 	6120  SZB6120
 110b  Chromatic Research Inc.
@@ -12381,7 +12384,7 @@
 	400c  B404-BT Unified Wire Ethernet Controller
 	400d  T480 Unified Wire Ethernet Controller
 	400e  T440-LP-CR Unified Wire Ethernet Controller
-	400f  Amsterdam T440 Unified Wire Ethernet Controller
+	400f  T440 [Amsterdam] Unified Wire Ethernet Controller
 	4080  T480-4080 T480 Unified Wire Ethernet Controller
 	4081  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4082  T420-4082  Unified Wire Ethernet Controller
@@ -12404,7 +12407,7 @@
 	440c  B404-BT Unified Wire Ethernet Controller
 	440d  T480 Unified Wire Ethernet Controller
 	440e  T440-LP-CR Unified Wire Ethernet Controller
-	440f  Amsterdam T440 Unified Wire Ethernet Controller
+	440f  T440 [Amsterdam] Unified Wire Ethernet Controller
 	4480  T480-4080 T480 Unified Wire Ethernet Controller
 	4481  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4482  T420-4082  Unified Wire Ethernet Controller
@@ -12427,7 +12430,7 @@
 	450c  B404-BT Unified Wire Storage Controller
 	450d  T480 Unified Wire Storage Controller
 	450e  T440-LP-CR Unified Wire Storage Controller
-	450f  Amsterdam T440 Unified Wire Storage Controller
+	450f  T440 [Amsterdam] Unified Wire Storage Controller
 	4580  T480-4080 T480 Unified Wire Storage Controller
 	4581  T440F-4081 T440-FCoE Unified Wire Storage Controller
 	4582  T420-4082  Unified Wire Storage Controller
@@ -12450,7 +12453,7 @@
 	460c  B404-BT Unified Wire Storage Controller
 	460d  T480 Unified Wire Storage Controller
 	460e  T440-LP-CR Unified Wire Storage Controller
-	460f  Amsterdam T440 Unified Wire Storage Controller
+	460f  T440 [Amsterdam] Unified Wire Storage Controller
 	4680  T480-4080 T480 Unified Wire Storage Controller
 	4681  T440F-4081 T440-FCoE Unified Wire Storage Controller
 	4682  T420-4082  Unified Wire Storage Controller
@@ -12473,7 +12476,7 @@
 	470c  B404-BT Unified Wire Ethernet Controller
 	470d  T480 Unified Wire Ethernet Controller
 	470e  T440-LP-CR Unified Wire Ethernet Controller
-	470f  Amsterdam T440 Unified Wire Ethernet Controller
+	470f  T440 [Amsterdam] Unified Wire Ethernet Controller
 	4780  T480-4080 T480 Unified Wire Ethernet Controller
 	4781  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4782  T420-4082  Unified Wire Ethernet Controller
@@ -12496,7 +12499,7 @@
 	480c  B404-BT Unified Wire Ethernet Controller
 	480d  T480 Unified Wire Ethernet Controller
 	480e  T440-LP-CR Unified Wire Ethernet Controller
-	480f  Amsterdam T440 Unified Wire Ethernet Controller
+	480f  T440 [Amsterdam] Unified Wire Ethernet Controller
 	4880  T480-4080 T480 Unified Wire Ethernet Controller
 	4881  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4882  T420-4082  Unified Wire Ethernet Controller
@@ -12519,7 +12522,7 @@
 	500c  B504-BT Unified Wire Ethernet Controller
 	500d  T580-CR Unified Wire Ethernet Controller
 	500e  T540-LP-CR Unified Wire Ethernet Controller
-	500f  Amsterdam T540 Unified Wire Ethernet Controller
+	500f  T540 [Amsterdam] Unified Wire Ethernet Controller
 	5010  T580-LP-CR Unified Wire Ethernet Controller
 	5011  T520-LL-CR Unified Wire Ethernet Controller
 	5012  T560-CR Unified Wire Ethernet Controller
@@ -12538,7 +12541,7 @@
 	540c  B504-BT Unified Wire Ethernet Controller
 	540d  T580-CR Unified Wire Ethernet Controller
 	540e  T540-LP-CR Unified Wire Ethernet Controller
-	540f  Amsterdam T540 Unified Wire Ethernet Controller
+	540f  T540 [Amsterdam] Unified Wire Ethernet Controller
 	5410  T580-LP-CR Unified Wire Ethernet Controller
 	5411  T520-LL-CR Unified Wire Ethernet Controller
 	5412  T560-CR Unified Wire Ethernet Controller
@@ -12557,7 +12560,7 @@
 	550c  B504-BT Unified Wire Storage Controller
 	550d  T580-CR Unified Wire Storage Controller
 	550e  T540-LP-CR Unified Wire Storage Controller
-	550f  Amsterdam T540 Unified Wire Storage Controller
+	550f  T540 [Amsterdam] Unified Wire Storage Controller
 	5510  T580-LP-CR Unified Wire Storage Controller
 	5511  T520-LL-CR Unified Wire Storage Controller
 	5512  T560-CR Unified Wire Storage Controller
@@ -12576,7 +12579,7 @@
 	560c  B504-BT Unified Wire Storage Controller
 	560d  T580-CR Unified Wire Storage Controller
 	560e  T540-LP-CR Unified Wire Storage Controller
-	560f  Amsterdam T540 Unified Wire Storage Controller
+	560f  T540 [Amsterdam] Unified Wire Storage Controller
 	5610  T580-LP-CR Unified Wire Storage Controller
 	5611  T520-LL-CR Unified Wire Storage Controller
 	5612  T560-CR Unified Wire Storage Controller
@@ -12595,7 +12598,7 @@
 	570c  B504-BT Unified Wire Ethernet Controller
 	570d  T580-CR Unified Wire Ethernet Controller
 	570e  T540-LP-CR Unified Wire Ethernet Controller
-	570f  Amsterdam T540 Unified Wire Ethernet Controller
+	570f  T540 [Amsterdam] Unified Wire Ethernet Controller
 	5710  T580-LP-CR Unified Wire Ethernet Controller
 	5711  T520-LL-CR Unified Wire Ethernet Controller
 	5712  T560-CR Unified Wire Ethernet Controller
@@ -12614,7 +12617,7 @@
 	580c  B504-BT Unified Wire Ethernet Controller
 	580d  T580-CR Unified Wire Ethernet Controller
 	580e  T540-LP-CR Unified Wire Ethernet Controller
-	580f  Amsterdam T540 Unified Wire Ethernet Controller
+	580f  T540 [Amsterdam] Unified Wire Ethernet Controller
 	5810  T580-LP-CR Unified Wire Ethernet Controller
 	5811  T520-LL-CR Unified Wire Ethernet Controller
 	5812  T560-CR Unified Wire Ethernet Controller
@@ -15201,8 +15204,8 @@
 	0014  SuperFSCC Serial PCI Adapter [Fastcom]
 	0015  SuperFSCC-104 Serial PCI/104+ Adapter [Fastcom]
 	0016  FSCC-232 RS-232 Serial PCI Adapter [Fastcom]
-# Synchronous Only
-	0017  SuperFSCC-104-NOUART Serial PCI/104+ Adapter [Fastcom]
+# Software UARTs
+	0017  SuperFSCC-104 Serial PC/104+ Adapter
 	0018  SuperFSCC/4 Serial PCI Adapter [Fastcom]
 	0019  SuperFSCC Serial PCI Adapter [Fastcom]
 # RS-644 Only
@@ -15210,6 +15213,10 @@
 	001b  FSCC/4 Serial PCI Adapter [Fastcom]
 # RS-644 Only
 	001c  SuperFSCC/4-LVDS Serial PCI Adapter [Fastcom]
+# Software UARTs
+	001d  FSCC Serial PCI Adapter [Fastcom]
+	001e  SuperFSCC/4 Serial PCIe Adapter [Fastcom]
+	001f  SuperFSCC/4 Serial cPCI Adapter [Fastcom]
 	0020  422/4-PCIe Serial PCIe Adapter [Fastcom]
 	0021  422/8-PCIe Serial PCIe Adapter [Fastcom]
 18fb  Resilience Corporation
@@ -18038,6 +18045,64 @@
 	1e5d  HM75 Express Chipset LPC Controller
 	1e5e  7 Series Chipset Family LPC Controller
 	1e5f  7 Series Chipset Family LPC Controller
+	1f00  Avoton SSA-Cunit
+	1f01  Avoton SSA-Cunit
+	1f02  Avoton SSA-Cunit
+	1f03  Avoton SSA-Cunit
+	1f04  Avoton SSA-Cunit
+	1f05  Avoton SSA-Cunit
+	1f06  Avoton SSA-Cunit
+	1f07  Avoton SSA-Cunit
+	1f08  Avoton SSA-Cunit
+	1f09  Avoton SSA-Cunit
+	1f0a  Avoton SSA-Cunit
+	1f0b  Avoton SSA-Cunit
+	1f0c  Avoton SSA-Cunit
+	1f0d  Avoton SSA-Cunit
+	1f0e  Avoton SSA-Cunit
+	1f0f  Avoton SSA-Cunit
+	1f10  Avoton PCIe Root Port 1
+	1f11  Avoton PCIe Root Port 2
+	1f12  Avoton PCIe Root Port 3
+	1f13  Avoton PCIe Root Port 4
+	1f14  Avoton RAS
+	1f15  Avoton SMBus 2.0
+	1f16  Avoton RCEC
+	1f18  Avoton nCPM
+	1f19  Avoton nCPM
+	1f20  Avoton 4-Port IDE SATA2 Controller
+	1f21  Avoton 4-Port IDE SATA2 Controller
+	1f22  Avoton AHCI SATA2 Controller
+	1f23  Avoton AHCI SATA2 Controller
+	1f24  Avoton RAID SATA2 Controller
+	1f25  Avoton RAID SATA2 Controller
+	1f26  Avoton RAID SATA2 Controller
+	1f27  Avoton RAID SATA2 Controller
+	1f2c  Avoton USB Enhanced Host Controller
+	1f2e  Avoton RAID SATA2 Controller
+	1f2f  Avoton RAID SATA2 Controller
+	1f30  Avoton 2-Port IDE SATA3 Controller
+	1f31  Avoton 2-Port IDE SATA3 Controller
+	1f32  Avoton AHCI SATA3 Controller
+	1f33  Avoton AHCI SATA3 Controller
+	1f34  Avoton RAID SATA3 Controller
+	1f35  Avoton RAID SATA3 Controller
+	1f36  Avoton RAID SATA3 Controller
+	1f37  Avoton RAID SATA3 Controller
+	1f38  Avoton PCU
+	1f39  Avoton PCU
+	1f3a  Avoton PCU
+	1f3b  Avoton PCU
+	1f3c  Avoton PCU SMBus
+	1f3d  Avoton PCU SMBus
+	1f3e  Avoton RAID SATA3 Controller
+	1f3f  Avoton RAID SATA3 Controller
+	1f40  Avoton GbE x4 1000base-KX
+	1f41  Avoton GbE x4 SGMII
+	1f42  Avoton GbE
+	1f43  Avoton GbE EEPROM-less
+	1f44  Avoton GbE Virtual Function
+	1f45  Avoton GbE 2500base-KX
 	2310  DH89xxCC LPC Controller
 	2323  DH89xxCC 4 Port SATA AHCI Controller
 	2330  DH89xxCC SMBus Controller
