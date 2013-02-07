@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.06
-#	Date:    2013-02-06 03:15:02
+#	Version: 2013.02.07
+#	Date:    2013-02-07 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -13500,7 +13500,10 @@
 	5840  BCM5840 Crypto Accelerator
 	5841  BCM5841 Crypto Accelerator
 	5850  BCM5850 Crypto Accelerator
+	b302  BCM56302 StrataXGS 24x1GE 2x10GE Switch Controller
+	b334  BCM56334 StrataXGS 24x1GE 4x10GE Switch Controller
 	b800  BCM56800 StrataXGS 10GE Switch Controller
+	b842  BCM56842 Trident 10GE Switch Controller
 14e5  Pixelfusion Ltd
 14e6  SHINING Technology Inc
 14e7  3CX

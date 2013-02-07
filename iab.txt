@@ -26476,3 +26476,16 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Hanam-si  465-736
 				KOREA, REPUBLIC OF
 
+40-D8-55	(hex)		CoherentPlus Sdn Bhd
+09A000-09AFFF	(base 16)	CoherentPlus Sdn Bhd
+				B-8-9, Megan Avenue 2
+				12 Jalan Yap Kwan Seng
+				Kuala Lumpur Kuala Lumpur 50450
+				MALAYSIA
+
+40-D8-55	(hex)		Tokyo Denki Gijutsu Kogyo
+09B000-09BFFF	(base 16)	Tokyo Denki Gijutsu Kogyo
+				2-12-2 Nakane Meguro-ku
+				TOKYO  152-0031
+				JAPAN
+

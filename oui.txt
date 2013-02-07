@@ -37166,8 +37166,8 @@ company_id			Organization
 				Oxnard California 93033
 				UNITED STATES
 
-00-16-F7   (hex)		L-3 Communications, Electrodynamics, Inc.
-0016F7     (base 16)		L-3 Communications, Electrodynamics, Inc.
+00-16-F7   (hex)		L-3 Communications, Aviation Recorders
+0016F7     (base 16)		L-3 Communications, Aviation Recorders
 				1200 Hicks Rd.
 				Rolling Meadows IL 60008
 				UNITED STATES
@@ -82985,6 +82985,12 @@ company_id			Organization
 				Silverwater NSW 2128
 				AUSTRALIA
 
+10-77-B1   (hex)		Samsung Electronics Co.,LTD
+1077B1     (base 16)		Samsung Electronics Co.,LTD
+				416,Maetan 3Dong,Yeongtong-Gu
+				Suwon Gyeonggi-Do 443742
+				KOREA, REPUBLIC OF
+
 10-78-D2   (hex)		ELITEGROUP COMPUTER SYSTEM CO., LTD.
 1078D2     (base 16)		ELITEGROUP COMPUTER SYSTEM CO., LTD.
 				NO. 239, Sec. 2, Ti Ding Blvd.
@@ -83608,6 +83614,12 @@ company_id			Organization
 				Nya Vattentornet
 				Lund SE 221 88
 				SWEDEN
+
+18-00-DB   (hex)		Fitbit Inc.
+1800DB     (base 16)		Fitbit Inc.
+				150 Spear St Ste 200
+				San Francisco CA 94105
+				UNITED STATES
 
 18-01-E3   (hex)		Elektrobit Wireless Communications Ltd
 1801E3     (base 16)		Elektrobit Wireless Communications Ltd
@@ -85400,6 +85412,12 @@ company_id			Organization
 				Grossenseebach BAY 91091
 				GERMANY
 
+24-EB-65   (hex)		SAET I.S. S.r.l.
+24EB65     (base 16)		SAET I.S. S.r.l.
+				Via Leinì 1/B
+				San Maurizio C.se TO 10077
+				ITALY
+
 24-EC-99   (hex)		Askey Computer Corp
 24EC99     (base 16)		Askey Computer Corp
 				10F,NO.119,CHIENKANG RD,CHUNG-HO,
@@ -86619,6 +86637,13 @@ company_id			Organization
 				Suite 604-605,Xing Yuan Technology Plaza
 				418 Gui Ping Road
 				ShangHai 200233
+				CHINA
+
+30-AA-BD   (hex)		Shanghai Reallytek Information Technology Co.,Ltd
+30AABD     (base 16)		Shanghai Reallytek Information Technology Co.,Ltd
+				Building No.1-906, No.3000 Long Dong Avenue
+				Pu Dong New District
+				Shanghai  201203
 				CHINA
 
 30-AE-F6   (hex)		Radio Mobile Access
@@ -90092,6 +90117,12 @@ company_id			Organization
 				Worcester MA 01615
 				UNITED STATES
 
+50-A7-15   (hex)		Aboundi, Inc.
+50A715     (base 16)		Aboundi, Inc.
+				4 Bud Way, Unit 10
+				Nashua NH 03063
+				UNITED STATES
+
 50-A7-33   (hex)		Ruckus Wireless
 50A733     (base 16)		Ruckus Wireless
 				880 West Maude Ave
@@ -90333,6 +90364,13 @@ company_id			Organization
 				5-1-12 Kitashinagawa Shinagawa-ku
 				Tokyo  141-0001
 				JAPAN
+
+54-54-14   (hex)		Digital RF Corea, Inc
+545414     (base 16)		Digital RF Corea, Inc
+				2 Floor, SeMin B/D, 201, Jangdari-ro
+				Paldal-gu
+				Suwon-si Gyeonggi-do 442-833
+				KOREA, REPUBLIC OF
 
 54-5E-BD   (hex)		NL Technologies
 545EBD     (base 16)		NL Technologies
@@ -99900,6 +99938,12 @@ A4B36A     (base 16)		JSC SDO Chromatec
 				Yoshkar-Ola Mari El republic 424000
 				RUSSIAN FEDERATION
 
+A4-B8-18   (hex)		PENTA Gesellschaft für elektronische Industriedatenverarbeitung mbH
+A4B818     (base 16)		PENTA Gesellschaft für elektronische Industriedatenverarbeitung mbH
+				Ulrichsberger Str. 17
+				Deggendorf  94469
+				GERMANY
+
 A4-B9-80   (hex)		Parking BOXX Inc.
 A4B980     (base 16)		Parking BOXX Inc.
 				382 NE 191st St. #93984
@@ -103351,6 +103395,13 @@ C4242E     (base 16)		Galvanic Applied Sciences Inc
 				Calgary Alberta T2H 0W3
 				CANADA
 
+C4-26-28   (hex)		Airo Wireless
+C42628     (base 16)		Airo Wireless
+				12 Piedmont Center
+				Suite 205
+				Atlanta GA 30305
+				UNITED STATES
+
 C4-2C-03   (hex)		Apple, Inc.
 C42C03     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -105166,6 +105217,13 @@ D0-F0-DB   (hex)		Ericsson
 D0F0DB     (base 16)		Ericsson
 				100 Headquarters Dr
 				San Jose CA 95134
+				UNITED STATES
+
+D0-F2-7F   (hex)		SteadyServ Technoligies, LLC
+D0F27F     (base 16)		SteadyServ Technoligies, LLC
+				12895 Brighton Avenue
+				Suite A
+				Carmel IN 46032
 				UNITED STATES
 
 D0-F7-3B   (hex)		Helmut Mauell GmbH
