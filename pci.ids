@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.07
-#	Date:    2013-02-07 03:15:02
+#	Version: 2013.02.08
+#	Date:    2013-02-08 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1499,6 +1499,7 @@
 	6606  Mars [Radeon HD 8790M]
 	6610  Oland [Radeon HD 8600 Series]
 	6611  Oland [Radeon HD 8500 Series]
+	6613  Oland [Radeon HD 8500 Series]
 	6660  Sun [Radeon HD 8600M Series]
 	6700  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
 	6701  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
@@ -7828,7 +7829,7 @@
 		1462 7522  X58 Pro-E
 		1775 11cc  CC11/CL11
 		1849 8168  Motherboard (one of many)
-		8086 d615  Desktop Board D510MO
+		8086 d615  Desktop Board D510MO/D525MW
 	8169  RTL8169 PCI Gigabit Ethernet Controller
 		1025 0079  Aspire 5024WLMi
 		10bd 3202  EP-320G-TX1 32-bit PCI Gigabit Ethernet Adapter
@@ -17325,6 +17326,7 @@
 	10d3  82574L Gigabit Network Connection
 		103c 3250  NC112T PCI Express single Port Gigabit Server Adapter
 		10a9 8029  Prism XL Single Port Gigabit Ethernet
+		15d9 060a  X7SPA-H/X7SPA-HF Motherboard
 		8086 0001  Gigabit CT2 Desktop Adapter
 		8086 a01f  Gigabit CT Desktop Adapter
 		e4bf 50c1  PC1-GROOVE
