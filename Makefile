@@ -44,7 +44,7 @@ compress: pci.ids.gz usb.ids.gz
 	gzip -c $< > $@
 
 MISCDIR=/usr/share/misc
-HWDBDIR=/usr/lib/udev/hwdb.d
+HWDBDIR=$(shell pkg-config --variable=udevdir udev)/hwdb.d
 DOCDIR=/usr/share/doc/hwids
 
 install-base: compress
