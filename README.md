@@ -31,6 +31,17 @@ there are new files available. You can download the tags in form of
 tarballs directly from [the GitHub
 repository](https://github.com/gentoo/hwids).
 
+udev
+----
+
+Since version 196 and later, `udev` does not consume the hwid files
+directly. Instead, it only access a specific binary representation,
+which is further generated starting from intermediate representations.
+
+The Makefile will accept a `UDEV=yes` parameter to build and install
+these representations. Furthermore upon install, the binary
+representation will also be generated.
+
 License
 -------
 
