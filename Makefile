@@ -60,3 +60,4 @@ install-hwdb:
 	for file in udev/*.hwdb; do \
 		install -p -m 644 $$file $(DESTDIR)$(HWDBDIR); \
 	done
+	udevadm hwdb --root $(DESTDIR) --update
