@@ -366,10 +366,10 @@ IAB Range    			Organization
 				BP 1441 13782 Aubagne Cedex 
 				FRANCE
 
-00-50-C2	(hex)		Ardmona Foods Limites
-038000-038FFF	(base 16)	Ardmona Foods Limites
-				PO Box 196 Mooroopna
-				Victoria 3629  
+00-50-C2	(hex)		Etheira Technologies
+038000-038FFF	(base 16)	Etheira Technologies
+				104 Macintosh Street
+				Shepparton Victoria 3630
 				AUSTRALIA
 
 00-50-C2	(hex)		Apex Signal Corp
@@ -6950,7 +6950,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Deister Electronic GmbH
 45C000-45CFFF	(base 16)	Deister Electronic GmbH
-				Hermann-Bahlsen-Str. 11-13
+				Hermann-Bahlsen-Str. 11
 				Barsinghausen Niedersachsen 30890
 				GERMANY
 
@@ -8128,10 +8128,10 @@ IAB Range    			Organization
 				Memmingen Bavaria 87700
 				GERMANY
 
-00-50-C2	(hex)		DBM, LLC
-519000-519FFF	(base 16)	DBM, LLC
-				6 Highpoint Drive
-				Wayne New Jersey 07470
+00-50-C2	(hex)		DBMCORP, Inc.
+519000-519FFF	(base 16)	DBMCORP, Inc.
+				32A Spruce Street
+				Oakland New Jersey 07436
 				UNITED STATES
 
 00-50-C2	(hex)		SpeasTech, Inc.
@@ -8565,10 +8565,10 @@ IAB Range    			Organization
 				OGRE OGRES NOVADS LV5001
 				LATVIA
 
-00-50-C2	(hex)		Broad Reach Engineering
-55F000-55FFFF	(base 16)	Broad Reach Engineering
-				2141 E Broadway Rd #211
-				Tempe AZ 85282
+00-50-C2	(hex)		Moog Broad Reach
+55F000-55FFFF	(base 16)	Moog Broad Reach
+				1113 Washington Ave #200
+				Golden CO 80401
 				UNITED STATES
 
 00-50-C2	(hex)		Procon Electronics
@@ -10139,8 +10139,8 @@ IAB Range    			Organization
 				Dachau  85221
 				GERMANY
 
-00-50-C2	(hex)		Dorsett's, Incorporated
-659000-659FFF	(base 16)	Dorsett's, Incorporated
+00-50-C2	(hex)		Dorsett Technologies, Inc.
+659000-659FFF	(base 16)	Dorsett Technologies, Inc.
 				100 Woodlyn Drive
 				Yadkinville North Carolina 27055
 				UNITED STATES
@@ -11210,8 +11210,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		The Dini Group, La Jolla inc.
 704000-704FFF	(base 16)	The Dini Group, La Jolla inc.
-				1010 Pearl St.
-				Ste 6
+				7469 Draper Ave.
 				La Jolla CA 92037
 				UNITED STATES
 
@@ -14939,8 +14938,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		DECTRIS Ltd.
 959000-959FFF	(base 16)	DECTRIS Ltd.
-				Villigen-PSI
-				5232
+				Neuenhoferstrasse 107
+				Baden  5400
 				SWITZERLAND
 
 00-50-C2	(hex)		TechnoAP
@@ -16141,9 +16140,9 @@ A19000-A19FFF	(base 16)	Icon Time Systems
 
 00-50-C2	(hex)		DDL
 A1A000-A1AFFF	(base 16)	DDL
-				SANSEN MINAMI 7-JYO BLDG.
-				2-26, MINAMI 7-JYO NISHI 14-
-				SAPPORO HOKKAIDO 064-0807
+				6F AFT BLDG.
+				1, KITA 5-JYO HIGASHI 2-CHOUME
+				SAPPORO HOKKAIDO 060-0035
 				JAPAN
 
 00-50-C2	(hex)		Realtime Systems Ltd.
@@ -22111,8 +22110,8 @@ DDD000-DDDFFF	(base 16)	A&A GENERAL SRL
 				Bucuresti  010066
 				ROMANIA
 
-00-50-C2	(hex)		DRS RSTA
-DDE000-DDEFFF	(base 16)	DRS RSTA
+00-50-C2	(hex)		DRS ITS
+DDE000-DDEFFF	(base 16)	DRS ITS
 				100 N. Babcock St.
 				Melbourne Florida 32935
 				UNITED STATES
@@ -26488,4 +26487,16 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				2-12-2 Nakane Meguro-ku
 				TOKYO  152-0031
 				JAPAN
+
+40-D8-55	(hex)		Keyware Solutions Inc.
+09C000-09CFFF	(base 16)	Keyware Solutions Inc.
+				5-37-18 Kamikitazawa
+				Setagaya-ku Tokyo 156-8588
+				JAPAN
+
+40-D8-55	(hex)		EMAC, Inc.
+09D000-09DFFF	(base 16)	EMAC, Inc.
+				2309 EMAC Way
+				Carbondale Illinois 62902
+				UNITED STATES
 

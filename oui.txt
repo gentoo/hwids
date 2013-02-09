@@ -2223,8 +2223,8 @@ company_id			Organization
 
 00-01-5F   (hex)		DIGITAL DESIGN GmbH
 00015F     (base 16)		DIGITAL DESIGN GmbH
-				Alt-Moabit 96a
-				Berlin D-10559
+				Rauchstr. 21
+				Berlin D-10787
 				GERMANY
 
 00-01-60   (hex)		ELMEX Co., LTD.
@@ -7744,9 +7744,9 @@ company_id			Organization
 
 00-04-B9   (hex)		S.I. Soubou, Inc.
 0004B9     (base 16)		S.I. Soubou, Inc.
-				Kubo Bldg., 703, 2-12,
-				Nanpeidai-cho, Shibuya-ku,
-				Tokyo Tokyo 
+				4-2586-8
+				Hanazono
+				Tokorozawa Sitama 359-0047
 				JAPAN
 
 00-04-BA   (hex)		KDD Media Will Corporation
@@ -8970,7 +8970,7 @@ company_id			Organization
 00-05-79   (hex)		Universal Control Solution Corp.
 000579     (base 16)		Universal Control Solution Corp.
 				12843 Foothill Blvd.
-				Unit #d
+				Unit #C
 				Sylmar CA 91342
 				UNITED STATES
 
@@ -13777,7 +13777,7 @@ company_id			Organization
 
 00-08-81   (hex)		DIGITAL HANDS CO.,LTD.
 000881     (base 16)		DIGITAL HANDS CO.,LTD.
-				TOWN'S SQUARE 503, KAKiYA Building 2F
+				KAKiYA Building 2F
 				2-7-17 Shinyokohama Kouhoku-ku
 				Yokohama Kanagawa 222-0033
 				JAPAN
@@ -21608,10 +21608,9 @@ company_id			Organization
 				Beijing  100031
 				CHINA
 
-00-0D-56   (hex)		Dell PCBA Test
-000D56     (base 16)		Dell PCBA Test
+00-0D-56   (hex)		Dell ESG PCBA Test
+000D56     (base 16)		Dell ESG PCBA Test
 				One Dell Way
-				RR5 MS-8545
 				Round Rock Texas 78682
 				UNITED STATES
 
@@ -24454,8 +24453,8 @@ company_id			Organization
 				Chengdu Sichuan 610041
 				CHINA
 
-00-0F-1F   (hex)		WW PCBA Test
-000F1F     (base 16)		WW PCBA Test
+00-0F-1F   (hex)		Dell ESG PCBA Test
+000F1F     (base 16)		Dell ESG PCBA Test
 				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -27912,10 +27911,9 @@ company_id			Organization
 				Suwon Kyoungki-Do 440-310
 				KOREA, REPUBLIC OF
 
-00-11-43   (hex)		DELL INC.
-001143     (base 16)		DELL INC.
+00-11-43   (hex)		Dell ESG PCBA Test
+001143     (base 16)		Dell ESG PCBA Test
 				One Dell Way
-				RR5 MS-8545
 				Round Rock Texas 78682
 				UNITED STATES
 
@@ -29510,10 +29508,10 @@ company_id			Organization
 				Tao Yuan  326
 				TAIWAN, PROVINCE OF CHINA
 
-00-12-3F   (hex)		Dell Inc
-00123F     (base 16)		Dell Inc
+00-12-3F   (hex)		Dell ESG PCBA Test
+00123F     (base 16)		Dell ESG PCBA Test
 				One Dell Way
-				Round Rock  Texas 78682
+				Round Rock Texas 78682
 				UNITED STATES
 
 00-12-40   (hex)		AMOI ELECTRONICS CO.,LTD
@@ -31446,8 +31444,8 @@ company_id			Organization
 				San Diego CA 92121
 				UNITED STATES
 
-00-13-72   (hex)		Dell Inc.
-001372     (base 16)		Dell Inc.
+00-13-72   (hex)		Dell ESG PCBA Test
+001372     (base 16)		Dell ESG PCBA Test
 				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -32573,8 +32571,8 @@ company_id			Organization
 				159836
 				SINGAPORE
 
-00-14-22   (hex)		Dell Inc.
-001422     (base 16)		Dell Inc.
+00-14-22   (hex)		Dell ESG PCBA Test
+001422     (base 16)		Dell ESG PCBA Test
 				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -34204,7 +34202,7 @@ company_id			Organization
 
 00-15-22   (hex)		Dea Security
 001522     (base 16)		Dea Security
-				Via Magenta 9
+				Galleria Leonardo da Vinci, 20
 				Massa MS 54100
 				ITALY
 
@@ -35239,8 +35237,8 @@ company_id			Organization
 				Tokyo  190-0003
 				JAPAN
 
-00-15-C5   (hex)		Dell Inc
-0015C5     (base 16)		Dell Inc
+00-15-C5   (hex)		Dell ESG PCBA Test
+0015C5     (base 16)		Dell ESG PCBA Test
 				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -37628,7 +37626,7 @@ company_id			Organization
 
 00-17-41   (hex)		DEFIDEV
 001741     (base 16)		DEFIDEV
-				27 Avenue de Verdun
+				20 rue Raymond Marcheron
 				Vanves  92170
 				FRANCE
 
@@ -39723,8 +39721,8 @@ company_id			Organization
 				Monmouth Junction New Jersey 08852
 				UNITED STATES
 
-00-18-8B   (hex)		Dell
-00188B     (base 16)		Dell
+00-18-8B   (hex)		Dell ESG PCBA Test
+00188B     (base 16)		Dell ESG PCBA Test
 				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -40518,8 +40516,8 @@ company_id			Organization
 				Tokyo Foreign 100-6014
 				JAPAN
 
-00-19-09   (hex)		Devi A/S
-001909     (base 16)		Devi A/S
+00-19-09   (hex)		DEVI - Danfoss A/S
+001909     (base 16)		DEVI - Danfoss A/S
 				Ulvehavevej 61
 				Vejle  7100
 				DENMARK
@@ -42647,8 +42645,8 @@ company_id			Organization
 
 00-1A-58   (hex)		CCV Deutschland GmbH - Celectronic eHealth Div.
 001A58     (base 16)		CCV Deutschland GmbH - Celectronic eHealth Div.
-				Nordlichtstrasse 63
-				Berlin  D-13405
+				Gertraudenstrasse 18
+				Berlin  D-10178
 				GERMANY
 
 00-1A-59   (hex)		Ircona
@@ -53737,8 +53735,8 @@ company_id			Organization
 
 00-21-2E   (hex)		dresden-elektronik
 00212E     (base 16)		dresden-elektronik
-				Glasewaldtstraße 22
-				Dresden Saxony D-01277
+				Enno-Heidebroek-Str. 12
+				Dresden Saxony D-01237
 				GERMANY
 
 00-21-2F   (hex)		Phoebe Micro Inc.
@@ -56927,8 +56925,8 @@ company_id			Organization
 
 00-23-29   (hex)		DDRdrive LLC
 002329     (base 16)		DDRdrive LLC
-				11076 Elati St
-				Northglenn CO 80234
+				384 Madeline CT
+				Palo Alto CA 94306
 				UNITED STATES
 
 00-23-2A   (hex)		eonas IT-Beratung und -Entwicklung GmbH
@@ -61834,9 +61832,9 @@ company_id			Organization
 
 00-26-3A   (hex)		Digitec Systems
 00263A     (base 16)		Digitec Systems
-				C5A/257, 1st Floor
-				Janakpuri
-				New Delhi Delhi 110058
+				7,1st Street, Kasturibai Nagar
+				Avadi
+				Chennai Tamil Nadu 600054
 				INDIA
 
 00-26-3B   (hex)		Onbnetech
@@ -72559,7 +72557,7 @@ company_id			Organization
 
 00-90-9F   (hex)		DIGI-DATA CORPORATION
 00909F     (base 16)		DIGI-DATA CORPORATION
-				8920-D Route 108
+				7165 Columbia Gateway Drive
 				Columbia MD 21045
 				UNITED STATES
 
@@ -75049,9 +75047,9 @@ company_id			Organization
 
 00-B0-EE   (hex)		Ajile Systems, Inc.
 00B0EE     (base 16)		Ajile Systems, Inc.
-				204 Collins Rd NE
-				Suite 100
-				Cedar Rapids IA 52402
+				920 Saratoga Ave.
+				Suite 104
+				San Jose CA 95129
 				UNITED STATES
 
 00-B0-F0   (hex)		CALY NETWORKS
@@ -82081,6 +82079,13 @@ company_id			Organization
 				Oberrohrdorf AG 5452
 				SWITZERLAND
 
+08-CC-68   (hex)		Cisco
+08CC68     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
 08-D0-9F   (hex)		CISCO SYSTEMS, INC.
 08D09F     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
@@ -86621,8 +86626,8 @@ company_id			Organization
 
 30-8C-FB   (hex)		Dropcam
 308CFB     (base 16)		Dropcam
-				625 Market Street
-				Suite 1010
+				160 Spear Street
+				Suite 1700
 				San Francisco CA 94105
 				UNITED STATES
 
@@ -86682,6 +86687,12 @@ company_id			Organization
 				5041 ROBERT J. MATHEWS PARKWAY
 				SUITE 100
 				EL DORADO HILLS California 95762
+				UNITED STATES
+
+30-D4-6A   (hex)		Autosales Incorporated
+30D46A     (base 16)		Autosales Incorporated
+				1200 Souteat Avenue
+				Tallmadge Ohio 44278
 				UNITED STATES
 
 30-DE-86   (hex)		Cedac Software S.r.l.
@@ -91911,6 +91922,13 @@ company_id			Organization
 				Bantian,Longgang
 				ShenZhen GuangDong 518129
 				CHINA
+
+60-E0-0E   (hex)		SHINSEI ELECTRONICS CO LTD
+60E00E     (base 16)		SHINSEI ELECTRONICS CO LTD
+				2-6-25
+				Nishinagasu-cho
+				Amagasaki Hyogo 660-0805
+				JAPAN
 
 60-E9-56   (hex)		Ayla Networks, Inc
 60E956     (base 16)		Ayla Networks, Inc
@@ -100018,6 +100036,13 @@ A4DE50     (base 16)		Total Walther GmbH
 				Munich  80807
 				GERMANY
 
+A4-E0-E6   (hex)		FILIZOLA S.A. PESAGEM E AUTOMACAO
+A4E0E6     (base 16)		FILIZOLA S.A. PESAGEM E AUTOMACAO
+				RUA JOAO VENTURA BATISTA, 450
+				VILA GUILHERME
+				SAO PAULO 02054-100
+				BRAZIL
+
 A4-E3-2E   (hex)		Silicon & Software Systems Ltd.
 A4E32E     (base 16)		Silicon & Software Systems Ltd.
 				South County Business Park
@@ -100559,8 +100584,8 @@ AC199F     (base 16)		SUNGROW POWER SUPPLY CO.,LTD.
 
 AC-20-AA   (hex)		DMATEK Co., Ltd.
 AC20AA     (base 16)		DMATEK Co., Ltd.
-				6F., No.155-1, Sec. 3, Wenxin Rd., Xitun Dist.,
-				Taichung  40753
+				11F.-2, No.386, Shizheng Rd., Xitun Dist.,
+				Taichung  40757
 				TAIWAN, PROVINCE OF CHINA
 
 AC-2F-A8   (hex)		Humannix Co.,Ltd.
@@ -102545,6 +102570,13 @@ BC15A6     (base 16)		Taiwan Jantek Electronics,Ltd.
 				Sinchwang City Taipei Hsien 24892
 				TAIWAN, PROVINCE OF CHINA
 
+BC-16-65   (hex)		Cisco
+BC1665     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
 BC-20-A4   (hex)		Samsung Electronics
 BC20A4     (base 16)		Samsung Electronics
 				#94-1, Imsoo-Dong
@@ -102835,8 +102867,8 @@ BCBBC9     (base 16)		Kellendonk Elektronik GmbH
 				Cologne NRW 50829
 				GERMANY
 
-BC-C1-68   (hex)		DInBox Sverige AB
-BCC168     (base 16)		DInBox Sverige AB
+BC-C1-68   (hex)		DinBox Sverige AB
+BCC168     (base 16)		DinBox Sverige AB
 				Surbrunnsgatan 14
 				Stockholm  11427
 				SWEDEN
@@ -103806,7 +103838,7 @@ C8-1A-FE   (hex)		DLOGIC GmbH
 C81AFE     (base 16)		DLOGIC GmbH
 				Rathausstrasse 14
 				Postfach 321
-				Baar  6341
+				Baar ZG 6341
 				SWITZERLAND
 
 C8-1E-8E   (hex)		ADV Security (S) Pte Ltd
@@ -109852,6 +109884,13 @@ F8FE5C     (base 16)		Reciprocal Labs Corp
 				Suite 815
 				Madison WI 53703
 				UNITED STATES
+
+F8-FE-A8   (hex)		Technico Japan Corporation
+F8FEA8     (base 16)		Technico Japan Corporation
+				AM Building 9F, 2-5-3,
+				Shinjuku-ku
+				Tokyo  160-0022
+				JAPAN
 
 FC-00-12   (hex)		Toshiba Samsung Storage Technolgoy Korea Corporation
 FC0012     (base 16)		Toshiba Samsung Storage Technolgoy Korea Corporation
