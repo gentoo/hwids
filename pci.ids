@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.08
-#	Date:    2013-02-08 03:15:01
+#	Version: 2013.02.10
+#	Date:    2013-02-10 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1496,10 +1496,17 @@
 	5f57  R423 [Radeon X800XT (PCIE)]
 	6600  Mars [Radeon HD 8600/8700M Series]
 	6601  Mars [Radeon HD 8500/8700M Series]
+	6602  Mars
+	6603  Mars
 	6606  Mars [Radeon HD 8790M]
+	6607  Mars
 	6610  Oland [Radeon HD 8600 Series]
 	6611  Oland [Radeon HD 8500 Series]
 	6613  Oland [Radeon HD 8500 Series]
+	6620  Mars
+	6621  Mars
+	6623  Mars
+	6631  Oland
 	6660  Sun [Radeon HD 8600M Series]
 	6700  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
 	6701  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
@@ -6844,6 +6851,7 @@
 	0426  G86 [GeForce 8400M GT]
 	0427  G86 [GeForce 8400M GS]
 		103c 30cc  Pavilion dv6700
+		103c 30cf  Pavilion dv9668eg Laptop
 	0428  G86 [GeForce 8400M G]
 	0429  G86 [Quadro NVS 140M]
 		17aa 20d8  ThinkPad T61
@@ -6856,32 +6864,48 @@
 	0440  MCP65 LPC Bridge
 	0441  MCP65 LPC Bridge
 	0442  MCP65 LPC Bridge
+		103c 30cf  Pavilion dv9668eg Laptop
 	0443  MCP65 LPC Bridge
 	0444  MCP65 Memory Controller
+		103c 30cf  Pavilion dv9668eg Laptop
 	0445  MCP65 Memory Controller
 	0446  MCP65 SMBus
+		103c 30cf  Pavilion dv9668eg Laptop
 	0447  MCP65 SMU
+		103c 30cf  Pavilion dv9668eg Laptop
 	0448  MCP65 IDE
+		103c 30cf  Pavilion dv9668eg Laptop
 	0449  MCP65 PCI bridge
+		10de cb84  HP Pavilion dv9668eg Laptop
 	044a  MCP65 High Definition Audio
+		103c 30cf  Pavilion dv9668eg Laptop
 	044b  MCP65 High Definition Audio
 	044c  MCP65 AHCI Controller
 	044d  MCP65 AHCI Controller
 	044e  MCP65 AHCI Controller
 	044f  MCP65 AHCI Controller
 	0450  MCP65 Ethernet
+		103c 30cf  Pavilion dv9668eg Laptop
 	0451  MCP65 Ethernet
 	0452  MCP65 Ethernet
 	0453  MCP65 Ethernet
-	0454  MCP65 USB Controller
-	0455  MCP65 USB Controller
+	0454  MCP65 USB 1.1 OHCI Controller
+		103c 30cf  Pavilion dv9668eg Laptop
+	0455  MCP65 USB 2.0 EHCI Controller
+		103c 30cf  Pavilion dv9668eg Laptop
 	0456  MCP65 USB Controller
 	0457  MCP65 USB Controller
 	0458  MCP65 PCI Express bridge
+		10de 0000  MCP65 PCI Express bridge
 	0459  MCP65 PCI Express bridge
+		10de 0000  MCP65 PCI Express bridge
 	045a  MCP65 PCI Express bridge
+		10de 0000  MCP65 PCI Express bridge
+	045b  MCP65 PCI Express bridge
+		10de 0000  MCP65 PCI Express bridge
 	045c  MCP65 SATA Controller
 	045d  MCP65 SATA Controller
+		103c 30cf  Pavilion dv9668eg Laptop
 	045e  MCP65 SATA Controller
 	045f  MCP65 SATA Controller
 	0531  C67 [GeForce 7150M / nForce 630M]
@@ -9662,6 +9686,7 @@
 		103c 30b5  Presario V3242AU
 		103c 30b7  Presario V6133CL
 		103c 30cc  Pavilion dv6700
+		103c 30cf  Pavilion dv9668eg Laptop
 		1043 1237  A6J-Q008
 		1043 1967  V6800V
 		144d c018  X20 IV
@@ -9679,6 +9704,7 @@
 		103c 30b7  Presario V6133CL
 		103c 30c1  Compaq 6910p
 		103c 30cc  Pavilion dv6700
+		103c 30cf  Pavilion dv9668eg Laptop
 		1043 1237  A6J-Q008
 		1043 1967  ASUS V6800V
 		10f7 8338  Panasonic CF-Y5 laptop
@@ -9694,6 +9720,7 @@
 		103c 30b7  Presario V6133CL
 		103c 30c1  Compaq 6910p
 		103c 30cc  Pavilion dv6700
+		103c 30cf  Pavilion dv9668eg Laptop
 	0841  R5C841 CardBus/SD/SDIO/MMC/MS/MSPro/xD/IEEE1394
 	0843  R5C843 MMC Host Controller
 		1025 0121  Aspire 5920G
@@ -9710,6 +9737,7 @@
 		103c 30b5  Presario V3242AU
 		103c 30b7  Presario V6133CL
 		103c 30cc  Pavilion dv6700
+		103c 30cf  Pavilion dv9668eg Laptop
 		1043 1967  V6800V
 		1180 0852  Pavilion 2410us
 		1324 10cf  P7120
@@ -15573,6 +15601,7 @@
 1a08  Sierra semiconductor
 	0000  SC15064
 1a0e  DekTec Digital Video B.V.
+	083f  DTA-2111 VHF/UHF Modulator
 1a17  Force10 Networks, Inc.
 	8002  PB-10GE-2P 10GbE Security Card
 1a1d  GFaI e.V.
@@ -15789,6 +15818,7 @@
 1c7f  Elektrobit Austria GmbH
 	5100  EB5100
 1c8a  TSF5 Corporation
+	0001  Hunter PCI Express
 1d44  DPT
 	a400  PM2x24/PM3224
 1d5c  Fantasia Trading LLC
