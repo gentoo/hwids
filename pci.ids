@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.10
-#	Date:    2013-02-10 03:15:02
+#	Version: 2013.02.11
+#	Date:    2013-02-11 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -2739,6 +2739,7 @@
 	756b  AMD-8111 ACPI
 	7800  FCH SATA Controller [IDE mode]
 	7801  FCH SATA Controller [AHCI mode]
+		103c 168b  ProBook 4535s Notebook
 	7802  FCH SATA Controller [RAID mode]
 	7803  FCH SATA Controller [RAID mode]
 	7804  FCH SATA Controller [AHCI mode]
