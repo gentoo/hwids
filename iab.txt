@@ -26500,3 +26500,21 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Carbondale Illinois 62902
 				UNITED STATES
 
+40-D8-55	(hex)		NanoPulse, Inc.
+09E000-09EFFF	(base 16)	NanoPulse, Inc.
+				1 Krasnoselskiy per., 3 pom. I, of. 75
+				Moscow 107140
+				RUSSIAN FEDERATION
+
+40-D8-55	(hex)		Bascules Robbe nv
+09F000-09FFFF	(base 16)	Bascules Robbe nv
+				Noordlaan 7
+				Torhout West-Vlaanderen 8820
+				BELGIUM
+
+40-D8-55	(hex)		Quantronix, Inc.
+0A0000-0A0FFF	(base 16)	Quantronix, Inc.
+				380 S. 200 W.
+				Farmington Utah 84025
+				UNITED STATES
+

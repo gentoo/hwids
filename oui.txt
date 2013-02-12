@@ -68226,6 +68226,13 @@ company_id			Organization
 				Deer Park IL 60010
 				UNITED STATES
 
+00-59-07   (hex)		LenovoEMC Products USA, LLC
+005907     (base 16)		LenovoEMC Products USA, LLC
+				22 South St
+				Suite # 201
+				Hopinkton MA 01748
+				UNITED STATES
+
 00-5C-B1   (hex)		Gospell DIGITAL TECHNOLOGY CO., LTD
 005CB1     (base 16)		Gospell DIGITAL TECHNOLOGY CO., LTD
 				Block F10-F13Â¡Â¢F518 Idea land Â¡Â¢Bao Yuan Road
@@ -91479,6 +91486,12 @@ company_id			Organization
 				Amityville New York 11701
 				UNITED STATES
 
+5C-F3-70   (hex)		CC&C Technologies, Inc
+5CF370     (base 16)		CC&C Technologies, Inc
+				8F, 150, Chien I Rd.
+				Chung Ho  235
+				TAIWAN, PROVINCE OF CHINA
+
 5C-F3-FC   (hex)		IBM Corp
 5CF3FC     (base 16)		IBM Corp
 				3039 E Cornwallis Rd
@@ -94355,6 +94368,13 @@ company_id			Organization
 				Taichung  40046
 				TAIWAN, PROVINCE OF CHINA
 
+74-D0-2B   (hex)		ASUSTek COMPUTER INC.
+74D02B     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd
+				Peitou
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
+
 74-D0-DC   (hex)		ERICSSON AB
 74D0DC     (base 16)		ERICSSON AB
 				Torshamnsgatan 36
@@ -95069,6 +95089,12 @@ company_id			Organization
 				250 ROUTE DE L'EMPEREUR
 				RUEIL MALMAISON CEDEX IDF 92848
 				FRANCE
+
+7C-05-07   (hex)		PEGATRON CORPORATION
+7C0507     (base 16)		PEGATRON CORPORATION
+				No. 76, Ligong St., Beitou
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
 
 7C-05-1E   (hex)		RAFAEL LTD.
 7C051E     (base 16)		RAFAEL LTD.
@@ -96448,6 +96474,13 @@ company_id			Organization
 				1 Infinite Loop
 				Cupertino Ca 95014
 				UNITED STATES
+
+88-09-05   (hex)		MTMCommunications
+880905     (base 16)		MTMCommunications
+				2-3-10 Honmachi
+				3F-Hirayama building
+				Ichinomiya-shi Aichi-ken 491-0853
+				JAPAN
 
 88-0D-D9   (hex)		ISC applied systems corp
 880DD9     (base 16)		ISC applied systems corp
@@ -98532,6 +98565,13 @@ company_id			Organization
 				Shenzhen Guangdong 518053
 				CHINA
 
+98-93-CC   (hex)		LG Electronics Inc.
+9893CC     (base 16)		LG Electronics Inc.
+				19-1, Cheongho-ri, Jinwi-myeon
+				Pyeongtaek-si, Gyeonggi-do, Korea
+				Pyeongtaek-si Gyeonggi-do 451-713
+				KOREA, REPUBLIC OF
+
 98-94-49   (hex)		Skyworth Wireless Technology Ltd.
 989449     (base 16)		Skyworth Wireless Technology Ltd.
 				Unit A Rm.3A01, Skyworth Bldg., Gaoxin Ave. 1.S.,
@@ -99178,6 +99218,13 @@ A01917     (base 16)		Bertel S.p.a.
 				Frazione Rimale, Via Emilia Ovest 61
 				Fidenza Parma 43036
 				ITALY
+
+A0-1C-05   (hex)		NIMAX TELECOM CO.,LTD.
+A01C05     (base 16)		NIMAX TELECOM CO.,LTD.
+				1F. NO.308-7,SEC.1,DATONG RD
+				XIZHI DIST
+				NEW TAIPEI CITY  221
+				TAIWAN, PROVINCE OF CHINA
 
 A0-21-95   (hex)		Samsung Electronics Digital Imaging
 A02195     (base 16)		Samsung Electronics Digital Imaging
@@ -101244,6 +101291,12 @@ B081D8     (base 16)		I-sys Corp
 				2457 Aviation Ave
 				Suite 900
 				N. Charleston South Carolina 29406
+				UNITED STATES
+
+B0-88-07   (hex)		Strata Worldwide
+B08807     (base 16)		Strata Worldwide
+				8995 Roswell Road
+				Sandy Springs GA 30350
 				UNITED STATES
 
 B0-89-91   (hex)		LGE
@@ -108386,6 +108439,12 @@ ECD00E     (base 16)		MiraeRecognition Co., Ltd.
 				Seoul  135-833
 				KOREA, REPUBLIC OF
 
+EC-D0-40   (hex)		GEA Farm Technologies GmbH
+ECD040     (base 16)		GEA Farm Technologies GmbH
+				Siemensstrasse 25-27
+				Boenen Northrhine-Westfalia 59199
+				GERMANY
+
 EC-D1-9A   (hex)		Zhuhai Liming Industries Co., Ltd
 ECD19A     (base 16)		Zhuhai Liming Industries Co., Ltd
 				No.6 Xinqing Rd,Xinqing Hi-Tech Industrial Park
@@ -109430,6 +109489,13 @@ F80CF3     (base 16)		LG Electronics
 				60-39 , Kasan-dong, Gumcheon-gu
 				Seoul  153-801
 				KOREA, REPUBLIC OF
+
+F8-0D-EA   (hex)		ZyCast Technology Inc.
+F80DEA     (base 16)		ZyCast Technology Inc.
+				No.33, Lane 181, Chung Hwa Road,
+				Section 4,
+				Hsin Chu  30060
+				TAIWAN, PROVINCE OF CHINA
 
 F8-0F-41   (hex)		Wistron InfoComm(ZhongShan) Corporation
 F80F41     (base 16)		Wistron InfoComm(ZhongShan) Corporation

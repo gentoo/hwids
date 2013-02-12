@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.11
-#	Date:    2013-02-11 03:15:01
+#	Version: 2013.02.12
+#	Date:    2013-02-12 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -3541,9 +3541,6 @@
 103a  Seiko Epson Corporation
 103b  Tatung Corp. Of America
 103c  Hewlett-Packard Company
-	0025  XE4500 Notebook
-	002a  NX9000 Notebook
-	08bc  NX5000 Notebook
 	1005  A4977A Visualize EG
 	1008  Visualize FX
 	1028  Tach TL Fibre Channel Host Adapter
@@ -3579,7 +3576,6 @@
 	10ed  TopTools Remote Control
 	10f0  rio System Bus Adapter
 	10f1  rio I/O Controller
-	1200  82557B 10/100 NIC
 	1219  NetServer PCI Hot-Plug Controller
 	121a  NetServer SMIC Controller
 	121b  NetServer Legacy COM Port Decoder
@@ -3596,22 +3592,10 @@
 	12eb  sx2000 System Bus Adapter
 	12ec  sx2000 I/O Controller
 	12ee  PCI-X 2.0 Local Bus Adapter
-	12f8  Broadcom BCM4306 802.11b/g Wireless LAN
-	12fa  BCM4306 802.11b/g Wireless LAN Controller
 	1302  RMP-3 Shared Memory Driver
 	1303  RMP-3 (Remote Management Processor)
-	1361  BCM4312 802.11a/b/g WLAN Controller
-	1371  Broadcom Corporation BCM4312 802.11a/b/g (rev 02)
-	1717  Intel 82571EB dual 1 Gb Ethernet controller
-	179b  EliteBook 8470p Notebook
-	179d  EliteBook 8470p Notebook
 	2910  E2910A PCIBus Exerciser
 	2925  E2925A 32 Bit, 33 MHzPCI Exerciser & Analyzer
-	3080  Pavilion ze2028ea
-	3085  Realtek RTL8139/8139C/8139C+
-	30a3  Compaq NW8440 Notebook
-	30b5  Compaq Presario V3000Z
-	31fb  DL365 ATI ES1000 VGA controller
 	3206  Adaptec Embedded Serial ATA HostRAID
 	3220  Smart Array P600
 		103c 3225  3 Gb/s SAS RAID
@@ -8809,7 +8793,7 @@
 111b  Teledyne Electronic Systems
 111c  Tricord Systems Inc.
 	0001  Powerbis Bridge
-111d  Integrated Device Technology, Inc.
+111d  Integrated Device Technology, Inc. [IDT]
 	0001  IDT77201/77211 155Mbps ATM SAR Controller [NICStAR]
 	0003  IDT77222/77252 155Mbps ATM MICRO ABR SAR Controller
 	0004  IDT77V252 155Mbps ATM MICRO ABR SAR Controller
@@ -15888,8 +15872,6 @@
 29b4  82q35 Express MEI Controller
 2a15  3D Vision(???)
 3000  Hansol Electronics Inc.
-3020  LSI SAS2 9211-8i
-3080  LSI SAS2 9200-8e
 3142  Post Impression Systems.
 31ab  Zonet
 	1faa  ZEW1602 802.11b/g Wireless Adapter
