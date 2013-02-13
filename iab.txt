@@ -26518,3 +26518,16 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Farmington Utah 84025
 				UNITED STATES
 
+40-D8-55	(hex)		ADVALY SYSTEM Inc.
+0A1000-0A1FFF	(base 16)	ADVALY SYSTEM Inc.
+				7 KITA2 NISHI2 CYUO-KU
+				KAMIYAMA No.2 BUILDING
+				SAPPORO HOKKAIDO 060-0002
+				JAPAN
+
+40-D8-55	(hex)		Xemex NV
+0A2000-0A2FFF	(base 16)	Xemex NV
+				Metropoolstraat 11
+				Schoten Antwerp 2900
+				BELGIUM
+

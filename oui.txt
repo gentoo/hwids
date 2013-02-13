@@ -82390,6 +82390,12 @@ company_id			Organization
 				McBee SC 29101
 				UNITED STATES
 
+0C-84-84   (hex)		Zenovia Electronics Inc.
+0C8484     (base 16)		Zenovia Electronics Inc.
+				#206, 506B St. Albert Rd.
+				St. Albert AB T8N 5Z1
+				CANADA
+
 0C-85-25   (hex)		CISCO SYSTEMS, INC.
 0C8525     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
@@ -93512,6 +93518,12 @@ company_id			Organization
 				Sunnyvale CA 94089
 				UNITED STATES
 
+6C-FA-58   (hex)		Avaya, Inc
+6CFA58     (base 16)		Avaya, Inc
+				211 Mout Airy Road
+				Basking Ridge NJ 07920-2311
+				UNITED STATES
+
 6C-FD-B9   (hex)		Proware Technologies Co Ltd.
 6CFDB9     (base 16)		Proware Technologies Co Ltd.
 				2nd F1 East Wing,South Section,Factory Building 24,Science&Technology Park
@@ -98989,6 +99001,12 @@ company_id			Organization
 				Falls Church Virginia 22041
 				UNITED STATES
 
+9C-97-26   (hex)		Technicolor
+9C9726     (base 16)		Technicolor
+				Prins Boudewijnlaan 47
+				Edegem Belgium  B-2650
+				BELGIUM
+
 9C-98-11   (hex)		Guangzhou Sunrise Electronics Development Co., Ltd
 9C9811     (base 16)		Guangzhou Sunrise Electronics Development Co., Ltd
 				12th Floor,368 GuangZhou Avenue South
@@ -100208,6 +100226,12 @@ A826D9     (base 16)		HTC Corporation
 				No. 23, Xinghua Rd, Taoyuan City
 				Taoyuan County  330
 				TAIWAN, PROVINCE OF CHINA
+
+A8-29-4C   (hex)		Precision Optical Transceivers, Inc.
+A8294C     (base 16)		Precision Optical Transceivers, Inc.
+				2328 Innovation Way
+				Rochester NY 14624
+				UNITED STATES
 
 A8-2B-D6   (hex)		Shina System Co., Ltd
 A82BD6     (base 16)		Shina System Co., Ltd
@@ -103152,6 +103176,13 @@ C04A00     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Central Science and Technology Park,Shennan Rd,Nanshan
 				shenzhen guangdong Province 518057
 				CHINA
+
+C0-4D-F7   (hex)		SERELEC
+C04DF7     (base 16)		SERELEC
+				2, Chemin du Génie
+				BP85
+				VENISSIEUX CEDEX  69633
+				FRANCE
 
 C0-58-A7   (hex)		Pico Systems Co., Ltd.
 C058A7     (base 16)		Pico Systems Co., Ltd.
