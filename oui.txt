@@ -88896,6 +88896,12 @@ company_id			Organization
 				Shanghai  201203
 				CHINA
 
+44-94-FC   (hex)		NETGEAR INC.,
+4494FC     (base 16)		NETGEAR INC.,
+				350 EAST PLUMERIA DRIVE
+				SAN JOSE CALIFORNIA 95134
+				UNITED STATES
+
 44-95-FA   (hex)		Qingdao Santong Digital Technology Co.Ltd
 4495FA     (base 16)		Qingdao Santong Digital Technology Co.Ltd
 				Room701, No.1£¬Fu Ying Building,No.443East Changjiang Road,Qingdao Economic and Technological Development District
@@ -92789,6 +92795,12 @@ company_id			Organization
 				Vimercate MB 20059
 				ITALY
 
+68-5B-35   (hex)		Apple inc
+685B35     (base 16)		Apple inc
+				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
 68-5B-36   (hex)		POWERTECH INDUSTRIAL CO., LTD.
 685B36     (base 16)		POWERTECH INDUSTRIAL CO., LTD.
 				10F, No. 407, Chung Shan Rd., Sec 2,
@@ -93271,6 +93283,13 @@ company_id			Organization
 				#512, 5th Floor, Kolon Digital Valley,Guro 3(sam)-dong, Guro-gu
 				Seoul  152-777
 				KOREA, REPUBLIC OF
+
+6C-61-26   (hex)		Rinicom Holdings
+6C6126     (base 16)		Rinicom Holdings
+				Riverway House
+				Morecambe Road
+				Lancaster Lancashire LA1 2RX
+				UNITED KINGDOM
 
 6C-62-6D   (hex)		Micro-Star INT'L CO., LTD
 6C626D     (base 16)		Micro-Star INT'L CO., LTD
@@ -96494,12 +96513,6 @@ company_id			Organization
 				Ichinomiya-shi Aichi-ken 491-0853
 				JAPAN
 
-88-0D-D9   (hex)		ISC applied systems corp
-880DD9     (base 16)		ISC applied systems corp
-				295 Labrosse
-				Pointe-claire QC H9R-1A3
-				CANADA
-
 88-10-36   (hex)		Panodic(ShenZhen) Electronics Limted
 881036     (base 16)		Panodic(ShenZhen) Electronics Limted
 				Floor 12, Grentech Building, Keji.C. Road
@@ -99648,6 +99661,12 @@ A0E9DB     (base 16)		Ningbo FreeWings Technologies Co.,Ltd
 				Room 1107-1108, No 298 XueShi Road Yinzhou District Ningbo,
 				Ningbo Zhejiang 315000
 				CHINA
+
+A0-EB-76   (hex)		AirCUVE Inc.
+A0EB76     (base 16)		AirCUVE Inc.
+				Guro-gu Digital-ro
+				Seoul 152-719
+				KOREA, REPUBLIC OF
 
 A0-EF-84   (hex)		Seine Image Int'l Co., Ltd
 A0EF84     (base 16)		Seine Image Int'l Co., Ltd
@@ -106951,6 +106970,12 @@ E0757D     (base 16)		Motorola Mobility LLC
 				Libertyville IL 60048
 				UNITED STATES
 
+E0-7C-62   (hex)		Whistle Labs, Inc.
+E07C62     (base 16)		Whistle Labs, Inc.
+				251 Rhode Island Street, Suite 211
+				San Francisco CA 94013
+				UNITED STATES
+
 E0-81-77   (hex)		GreenBytes, Inc.
 E08177     (base 16)		GreenBytes, Inc.
 				15 Gray Lane, Suite 301
@@ -107244,6 +107269,12 @@ E0-F3-79   (hex)		Vaddio
 E0F379     (base 16)		Vaddio
 				9433 Science Center Drive
 				New Hope MN 55428
+				UNITED STATES
+
+E0-F5-C6   (hex)		Apple Inc
+E0F5C6     (base 16)		Apple Inc
+				1 Infinite Loop
+				Cupertino CA 95014
 				UNITED STATES
 
 E0-F5-CA   (hex)		CHENG UEI PRECISION INDUSTRY CO.,LTD.
@@ -110108,6 +110139,12 @@ FC4463     (base 16)		Universal Audio
 				1700 Green Hills Road
 				Scotts Valley CA 95066
 				UNITED STATES
+
+FC-44-99   (hex)		Swarco LEA d.o.o.
+FC4499     (base 16)		Swarco LEA d.o.o.
+				Finzgarjeva 1A
+				Lesce  4248
+				SLOVENIA
 
 FC-45-5F   (hex)		JIANGXI SHANSHUI OPTOELECTRONIC TECHNOLOGY CO.,LTD
 FC455F     (base 16)		JIANGXI SHANSHUI OPTOELECTRONIC TECHNOLOGY CO.,LTD
