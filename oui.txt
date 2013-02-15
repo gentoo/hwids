@@ -10412,7 +10412,7 @@ company_id			Organization
 00-06-59   (hex)		EAL (Apeldoorn) B.V.
 000659     (base 16)		EAL (Apeldoorn) B.V.
 				Molenmakershoek 14
-				JK Apeldoorn  7328
+				Apeldoorn  7328JK
 				NETHERLANDS
 
 00-06-5A   (hex)		Strix Systems
@@ -33077,8 +33077,8 @@ company_id			Organization
 
 00-14-71   (hex)		Eastern Asia Technology Limited
 001471     (base 16)		Eastern Asia Technology Limited
-				13F, No. 99, Sec. 1, Nankan Road,
-				Luchu, Taoyuan 338
+				8F-1, No. 188, Baoqiao Rd., Xindian Dist.
+				New Taipei City  23145
 				TAIWAN, PROVINCE OF CHINA
 
 00-14-72   (hex)		China Broadband Wireless IP Standard Group
@@ -33211,8 +33211,8 @@ company_id			Organization
 
 00-14-86   (hex)		Echo Digital Audio Corporation
 001486     (base 16)		Echo Digital Audio Corporation
-				6450 Via Real #1
-				Carpinteria CA 93013
+				402 E Carrillo St
+				Santa Barbara CA 93101
 				UNITED STATES
 
 00-14-87   (hex)		American Technology Integrators
@@ -40791,8 +40791,8 @@ company_id			Organization
 				Taipei City  114
 				TAIWAN, PROVINCE OF CHINA
 
-00-19-35   (hex)		Duerr Dental GmbH & Co. KG
-001935     (base 16)		Duerr Dental GmbH & Co. KG
+00-19-35   (hex)		DÜRR DENTAL AG
+001935     (base 16)		DÜRR DENTAL AG
 				Hoepfigheimer Strasse 17
 				Bietigheim-Bissingen Baden-Württemberg 74321
 				GERMANY
@@ -49103,7 +49103,7 @@ company_id			Organization
 
 00-1E-50   (hex)		BATTISTONI RESEARCH
 001E50     (base 16)		BATTISTONI RESEARCH
-				PARCO DONICA 56
+				IV Trav. PARCO DONICA 12
 				FISCIANO SALERNO 84084
 				ITALY
 
@@ -57637,10 +57637,10 @@ company_id			Organization
 				Suwon  443-742
 				KOREA, REPUBLIC OF
 
-00-23-9A   (hex)		EasyData Software GmbH
-00239A     (base 16)		EasyData Software GmbH
-				Steinbacher Straße 14-24
-				Eschborn / Ts. Hessen D-65760
+00-23-9A   (hex)		EasyData Hardware GmbH
+00239A     (base 16)		EasyData Hardware GmbH
+				Breslauer Str. 24
+				Wehrheim Hessen D-61273
 				GERMANY
 
 00-23-9B   (hex)		Elster Solutions, LLC
@@ -61173,10 +61173,10 @@ company_id			Organization
 				 Copenhagen V  DK-1790
 				DENMARK
 
-00-25-D1   (hex)		Eastech Electronics (Taiwan) Inc.
-0025D1     (base 16)		Eastech Electronics (Taiwan) Inc.
-				13F, No. 99, Sec. 1, Nankan Road, Luchu Shiang
-				Taoyuan Hsien 338
+00-25-D1   (hex)		Eastern Asia Technology Limited
+0025D1     (base 16)		Eastern Asia Technology Limited
+				8F-1, No. 188, Baoqiao Rd., Xindian Dist.
+				New Taipei City  23145
 				TAIWAN, PROVINCE OF CHINA
 
 00-25-D2   (hex)		InpegVision Co., Ltd
@@ -82201,6 +82201,12 @@ company_id			Organization
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
+0C-04-00   (hex)		Jantar d.o.o.
+0C0400     (base 16)		Jantar d.o.o.
+				Kranjska cesta 24
+				Naklo Slovenia 4202
+				SLOVENIA
+
 0C-13-0B   (hex)		Uniqoteq Ltd.
 0C130B     (base 16)		Uniqoteq Ltd.
 				Lemminkaisenkatu 14-18 A
@@ -88065,8 +88071,8 @@ company_id			Organization
 
 3C-F5-2C   (hex)		DSPECIALISTS GmbH
 3CF52C     (base 16)		DSPECIALISTS GmbH
-				Kaiserin-Augusta-Allee 10-11
-				Berlin  10553
+				Helmholtzstr. 2-9 L
+				Berlin  10587
 				GERMANY
 
 3C-F7-2A   (hex)		Nokia Corporation
@@ -92863,6 +92869,12 @@ company_id			Organization
 				Abeno-Ku
 				Osaka-City Osaka-Prefecture 545-8522
 				JAPAN
+
+68-7C-D5   (hex)		Y Soft Corporation, a.s.
+687CD5     (base 16)		Y Soft Corporation, a.s.
+				Technicka 2948/13
+				Brno Czech Republic 616 00
+				CZECH REPUBLIC
 
 68-7F-74   (hex)		Cisco-Linksys, LLC
 687F74     (base 16)		Cisco-Linksys, LLC
@@ -99044,6 +99056,12 @@ company_id			Organization
 				Shinjuku-ku Tokyo 1600023
 				JAPAN
 
+9C-A5-77   (hex)		Osorno Enterprises Inc.
+9CA577     (base 16)		Osorno Enterprises Inc.
+				976 Elgin Ave
+				Winnipeg MB R3E 1B4
+				CANADA
+
 9C-AD-EF   (hex)		Obihai Technology, Inc.
 9CADEF     (base 16)		Obihai Technology, Inc.
 				19638 Stevens Creek Blvd
@@ -103176,6 +103194,13 @@ C041F6     (base 16)		LG Electronics Inc
 				Pyeongtaek Gyeonggi-Do 451-713
 				KOREA, REPUBLIC OF
 
+C0-43-01   (hex)		Epec Oy
+C04301     (base 16)		Epec Oy
+				Tiedekatu 6
+				P.O. Box 194
+				Seinäjoki 60101
+				FINLAND
+
 C0-44-E3   (hex)		Shenzhen Sinkna Electronics Co., LTD
 C044E3     (base 16)		Shenzhen Sinkna Electronics Co., LTD
 				9 Building, XinXin Tian Industry Area,
@@ -103384,6 +103409,12 @@ C0C1C0     (base 16)		Cisco-Linksys, LLC
 				121 Theory Drive
 				Irvine California 92612
 				UNITED STATES
+
+C0-C3-B6   (hex)		Automatic Systems
+C0C3B6     (base 16)		Automatic Systems
+				avenue mercator,5
+				Wavre Belgium 1300
+				BELGIUM
 
 C0-C5-20   (hex)		Ruckus Wireless
 C0C520     (base 16)		Ruckus Wireless
@@ -106583,6 +106614,12 @@ DC7B94     (base 16)		CISCO SYSTEMS, INC.
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
 				UNITED STATES
+
+DC-82-5B   (hex)		JANUS, spol. s r.o.
+DC825B     (base 16)		JANUS, spol. s r.o.
+				Sarajevska 8
+				Prague Czech Republic 12000
+				CZECH REPUBLIC
 
 DC-85-DE   (hex)		Azurewave Technologies., inc.
 DC85DE     (base 16)		Azurewave Technologies., inc.

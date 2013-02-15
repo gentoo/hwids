@@ -2876,8 +2876,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Datatek Applications, Inc.
 1CE000-1CEFFF	(base 16)	Datatek Applications, Inc.
-				379 Campus Drive
-				Suite 100
+				399 Campus Drive
+				Suite 140
 				Somerset NJ 08873
 				UNITED STATES
 
@@ -8320,8 +8320,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		DST CONTROL AB
 537000-537FFF	(base 16)	DST CONTROL AB
-				Westmansgatan 29
-				Linköping  58216
+				Akerbogatan 10
+				Linköping  58254
 				SWEDEN
 
 00-50-C2	(hex)		EtherTek Circuits
@@ -11512,11 +11512,11 @@ IAB Range    			Organization
 				Atlanta Ga 30308
 				UNITED STATES
 
-00-50-C2	(hex)		Duma Video, Inc.
-735000-735FFF	(base 16)	Duma Video, Inc.
-				5131 NE 94th Avenue
-				#202
-				Vancouver WA 98662
+00-50-C2	(hex)		Ant Lamp, Inc
+735000-735FFF	(base 16)	Ant Lamp, Inc
+				16420 SE McGillivray
+				#103-333
+				Vancouver WA 98683-3461
 				UNITED STATES
 
 00-50-C2	(hex)		Nika Ltd
@@ -13338,7 +13338,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Wireless Acquisition LLC
 858000-858FFF	(base 16)	Wireless Acquisition LLC
-				1635 West 12th Place
+				1215 S. Park Lane
+				Suite #4
 				Tempe, AZ 85281
 				UNITED STATES
 
@@ -13826,8 +13827,8 @@ IAB Range    			Organization
 				COMBREE SA 49520
 				FRANCE
 
-00-50-C2	(hex)		EBPW LTD
-8A7000-8A7FFF	(base 16)	EBPW LTD
+00-50-C2	(hex)		PIXEYE LTD
+8A7000-8A7FFF	(base 16)	PIXEYE LTD
 				#75 Dondukov blvd.
 				Sofia  1504
 				BULGARIA
@@ -17215,7 +17216,7 @@ AC4000-AC4FFF	(base 16)	Orion Technologies, Inc.
 
 00-50-C2	(hex)		E-Motion System, Inc.
 AC5000-AC5FFF	(base 16)	E-Motion System, Inc.
-				6-2-11 Nishi-Gotanda Shinagawa-ku
+				5-21-3. Nishi-Gotanda Shinagawa-ku
 				Tokyo  141-0031
 				JAPAN
 
@@ -17800,10 +17801,10 @@ B22000-B22FFF	(base 16)	FarSite Communications Limited
 				Basingstoke Hampshire RG21 6XG
 				UNITED KINGDOM
 
-00-50-C2	(hex)		7 Marsyas Development a.s.
-B23000-B23FFF	(base 16)	7 Marsyas Development a.s.
-				Dělnická 382/32
-				Ostrava Moravskoslezský kraj 708 00
+00-50-C2	(hex)		Ronyo Technologies s.r.o.
+B23000-B23FFF	(base 16)	Ronyo Technologies s.r.o.
+				Martinovska 3168/48
+				Ostrava Moravskoslezský kraj 72300
 				CZECH REPUBLIC
 
 00-50-C2	(hex)		Teledyne Defence Limited
@@ -26530,4 +26531,16 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Metropoolstraat 11
 				Schoten Antwerp 2900
 				BELGIUM
+
+40-D8-55	(hex)		Telefrank GmbH
+0A3000-0A3FFF	(base 16)	Telefrank GmbH
+				Am Wildengrund 1
+				Altenambach TH 98553
+				GERMANY
+
+40-D8-55	(hex)		Resch Electronic Innovation GmbH
+0A4000-0A4FFF	(base 16)	Resch Electronic Innovation GmbH
+				Neustadter Ring 5
+				Wernigerode Sachsen-Anhalt 38855
+				GERMANY
 
