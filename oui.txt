@@ -89689,6 +89689,12 @@ company_id			Organization
 				Kulim Kedah 09000
 				MALAYSIA
 
+4C-82-CF   (hex)		Echostar Technologies
+4C82CF     (base 16)		Echostar Technologies
+				94 Inverness Terrace E
+				Englewood CO 80112
+				UNITED STATES
+
 4C-8B-55   (hex)		Grupo Digicon
 4C8B55     (base 16)		Grupo Digicon
 				Rua Nissin Castiel, 640
