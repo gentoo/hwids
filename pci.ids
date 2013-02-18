@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.12
-#	Date:    2013-02-12 03:15:01
+#	Version: 2013.02.18
+#	Date:    2013-02-18 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -8580,6 +8580,7 @@
 	a353  VX8xx South-North Module Interface Control
 	a364  CN896/VN896/P4M900 PCI to PCI Bridge Controller
 	a409  VX855/VX875 USB Device Controller
+	a410  VX900 PCI Express Root Port 0
 	b091  VT8633 [Apollo Pro266 AGP]
 	b099  VT8366/A/7 [Apollo KT266/A/333 AGP]
 	b101  VT8653 AGP Bridge
@@ -8594,6 +8595,7 @@
 	b198  VT8237/VX700 PCI Bridge
 	b213  VPX/VPX2 I/O APIC Interrupt Controller
 	b353  VX855/VX875/VX900 PCI to PCI Bridge
+	b410  VX900 PCI Express Root Port 1
 	b999  [K8T890 North / VT8237 South] PCI Bridge
 	c208  PT890 PCI to PCI Bridge Controller
 	c238  K8T890 PCI to PCI Bridge Controller
@@ -8602,11 +8604,13 @@
 	c353  VX800/VX820 PCI Express Root Port
 	c364  CN896/VN896/P4M900 PCI to PCI Bridge Controller
 	c409  VX855/VX875 EIDE Controller
+	c410  VX900 PCI Express Root Port 2
 	d104  VT8237R USB UDCI Controller
 	d208  PT890 PCI to PCI Bridge Controller
 	d213  VPX/VPX2 PCI to PCI Bridge Controller
 	d238  K8T890 PCI to PCI Bridge Controller
 	d340  PT900 PCI to PCI Bridge Controller
+	d410  VX900 PCI Express Root Port 3
 	e208  PT890 PCI to PCI Bridge Controller
 	e238  K8T890 PCI to PCI Bridge Controller
 	e340  PT900 PCI to PCI Bridge Controller
@@ -13514,6 +13518,7 @@
 	5840  BCM5840 Crypto Accelerator
 	5841  BCM5841 Crypto Accelerator
 	5850  BCM5850 Crypto Accelerator
+	8602  BCM7400/BCM7405 Serial ATA Controller
 	b302  BCM56302 StrataXGS 24x1GE 2x10GE Switch Controller
 	b334  BCM56334 StrataXGS 24x1GE 4x10GE Switch Controller
 	b800  BCM56800 StrataXGS 10GE Switch Controller
@@ -21828,6 +21833,9 @@
 	801f  AIC-7902 U320
 		1734 1011  PRIMERGY RX300 onboard SCSI
 	8080  ASC-29320A U320 w/HostRAID
+	8081  PMC-Sierra PM8001 SAS HBA [Series 6H]
+	8088  PMC-Sierra PM8018 SAS HBA [Series 7H]
+	8089  PMC-Sierra PM8019 SAS encryption HBA [Series 7He]
 	808f  AIC-7901 U320 w/HostRAID
 	8090  ASC-39320 U320 w/HostRAID
 	8091  ASC-39320D U320 w/HostRAID
