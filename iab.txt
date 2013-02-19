@@ -26544,3 +26544,10 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Wernigerode Sachsen-Anhalt 38855
 				GERMANY
 
+40-D8-55	(hex)		WooshCom Corporation
+0A5000-0A5FFF	(base 16)	WooshCom Corporation
+				16095 Ridge Tee Dr.
+				Suite 100
+				Morrison CO 80465-2140
+				UNITED STATES
+

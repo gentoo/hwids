@@ -88506,6 +88506,13 @@ company_id			Organization
 				Shenzhen Guangdong 518053
 				CHINA
 
+40-C4-D6   (hex)		ChongQing Camyu Technology Development Co.,Ltd.
+40C4D6     (base 16)		ChongQing Camyu Technology Development Co.,Ltd.
+				4th Floor,Tower of Venus Technology Building ,NO 60 Xing Guang Road
+				New North Zone
+				Chong Qing 401121
+				CHINA
+
 40-C7-C9   (hex)		Naviit Inc.
 40C7C9     (base 16)		Naviit Inc.
 				3058A Scott Blvd.
@@ -98417,6 +98424,12 @@ company_id			Organization
 				Beijing  100044
 				CHINA
 
+98-30-71   (hex)		DAIKYUNG VASCOM
+983071     (base 16)		DAIKYUNG VASCOM
+				DAIKYUNG Bldg.#1164-15,Gaepo-dong
+				Gangnam-gu Seoul 135-960
+				KOREA, REPUBLIC OF
+
 98-35-71   (hex)		Sub10 Systems Ltd
 983571     (base 16)		Sub10 Systems Ltd
 				The Old Quarry
@@ -105736,6 +105749,13 @@ D4-94-A1   (hex)		Texas Instruments
 D494A1     (base 16)		Texas Instruments
 				12500 TI Boulevard
 				Dallas TX 75243
+				UNITED STATES
+
+D4-95-24   (hex)		Clover Network, Inc.
+D49524     (base 16)		Clover Network, Inc.
+				650 Castro Street
+				#120-278
+				Los Altos California 94041
 				UNITED STATES
 
 D4-96-DF   (hex)		SUNGJIN C&T CO.,LTD
