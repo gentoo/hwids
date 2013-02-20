@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.18
-#	Date:    2013-02-18 03:15:02
+#	Version: 2013.02.20
+#	Date:    2013-02-20 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -67,27 +67,8 @@
 0795  Wired Inc.
 	6663  Butane II (MPEG2 encoder board)
 	6666  MediaPress (MPEG2 encoder board)
-07d0  ITT Geospatial Systems
 07d1  D-Link System Inc
-07e2  ELMEG Communication Systems GmbH
-0842  NPG, Personal Grand Technology
-# Nee Gemplus International, SA
-08e6  Gemalto NV
-08ff  AuthenTec
-	afe4  [Anchor] AF-S2 FingerLoc Sensor Module
 0925  VIA Technologies, Inc. (Wrong ID)
-	1234  VT82C686/A/B USB Controller
-093a  PixArt Imaging Inc.
-	010e  Innovage Mini Digital Camera
-	010f  SDC-300 Webcam
-	020f  Digital Photo Viewer
-	2468  CIF Single Chip
-	2600  PAC7311
-	2603  Philips Webcam SPC500NC
-	2608  Maxell MaxCam RotaWeb
-	2620  C3 Tech Mod. 153
-09c1  Arris
-	0704  CM 200E Cable Modem
 0a89  BREA Technologies Inc
 0b0b  Rhino Equipment Corp.
 	0105  Rhino R1T1
@@ -104,9 +85,6 @@
 	0905  R1T3 Single T3 Digital Telephony Card
 	0906  RCB24FXX 24-channel modular analog telphony card
 	0a06  RCB672FXX 672-channel modular analog telphony card
-0b3d  Brontes Technologies
-0ccd  TerraTec Electronic GmbH
-	0038  Cinergy T^2 DVB-T Receiver
 0e11  Compaq Computer Corporation
 	0001  PCI to EISA Bridge
 	0002  PCI to ISA Bridge
@@ -214,8 +192,6 @@
 	c000  Remote Insight Lights-Out Edition
 	f130  NetFlex-3/P ThunderLAN 1.0
 	f150  NetFlex-3/P ThunderLAN 2.3
-0e21  Cowon Systems, Inc.
-0e55  HaSoTec GmbH
 0eac  SHF Communication Technologies AG
 	0008  Ethernet Powerlink Managing Node 01
 0f62  Acrox Technologies Co., Ltd.
@@ -5861,6 +5837,7 @@
 		1043 0201  AGP-V3800 Combat
 		1048 0c20  TNT2 Vanta
 		1048 0c21  TNT2 Vanta
+		1048 0c25  TNT2 Vanta 16MB
 		1092 6820  Viper V730
 		1102 1031  CT6938 VANTA 8MB
 		1102 1034  CT6894 VANTA 16MB
@@ -5876,6 +5853,11 @@
 		1102 1023  CT6892 RIVA TNT2 Value
 		1102 1024  CT6932 RIVA TNT2 Value 32Mb
 		1102 102c  CT6931 RIVA TNT2 Value [Jumper]
+		1102 1030  CT6931 RIVA TNT2 Value
+# S26361-D1243-V116
+		110a 006f  GM1000-16
+# S26361-D1243-V216
+		110a 0081  GM1000-16
 		1462 8808  MSI-8808
 		14af 5620  Gamer Cougar Video Edition
 		1554 1041  Pixelview RIVA TNT2 M64
@@ -5902,6 +5884,7 @@
 	0043  NV40.3 [GeForce 6800 XE]
 	0044  NV40 [GeForce 6800 XT]
 	0045  NV40 [GeForce 6800 GT]
+		1458 3140  GV-N68T256D
 	0046  NV45 [GeForce 6800 GT]
 	0047  NV40 [GeForce 6800 GS]
 		1682 2109  GeForce 6800 GS
@@ -6193,18 +6176,26 @@
 		1048 0c64  Gladiac 511TV-OUT 64MB
 		1048 0c65  Gladiac 511TWIN
 		1048 0c66  Gladiac 311
+		10b0 0001  GeForce2 MX Jumbo TV
 		10de 0091  Dell OEM GeForce 2 MX 400
 		10de 00a1  Apple OEM GeForce2 MX
+		1462 8523  MS-8852
 		1462 8817  MSI GeForce2 MX400 Pro32S [MS-8817]
 		14af 7102  3D Prophet II MX
 		14af 7103  3D Prophet II MX Dual-Display
 		1545 0023  Xtasy Rev. B2
+		1554 1081  MVGA-NVG11AM(400)
 	0111  NV11DDR [GeForce2 MX200]
 	0112  NV11 [GeForce2 Go]
 	0113  NV11GL [Quadro2 MXR/EX/Go]
 	0140  NV43 [GeForce 6600 GT]
+		1458 3125  GV-NX66T128D
+		1458 3126  GV-NX66T256DE
+		1462 8939  MS-8983
 	0141  NV43 [GeForce 6600]
 		1043 81b0  EN6600 Silencer
+		107d 593a  LR2A22 128MB TV OUT
+		107d 597b  WINFAST PX6600
 		1458 3124  GV-NX66128DP Turbo Force Edition
 	0142  NV43 [GeForce 6600 LE]
 	0143  NV43 [GeForce 6600 VE]
@@ -6221,15 +6212,18 @@
 	014f  NV43 [GeForce 6200]
 	0150  NV15 [GeForce2 GTS/Pro]
 		1043 4016  V7700 AGP Video Card
+		1043 402a  AGP-V7700
 		1048 0c50  Gladiac
 		1048 0c52  Gladiac-64
 		107d 2840  WinFast GeForce2 GTS with TV output
 		107d 2842  WinFast GeForce 2 Pro
 		10de 002e  GeForce2 GTS
+		1462 815a  MS-8815
 		1462 8831  Creative GeForce2 Pro
 	0151  NV15DDR [GeForce2 Ti]
 		1043 405f  V7700Ti
 		1462 5506  Creative 3D Blaster GeForce2 Titanium
+		1462 8364  MS-8836
 	0152  NV15BR [GeForce2 Ultra, Bladerunner]
 		1048 0c56  GLADIAC Ultra
 	0153  NV15GL [Quadro2 Pro]
@@ -6245,14 +6239,18 @@
 	0169  NV44 [GeForce 6250]
 	016a  NV44 [GeForce 7100 GS]
 	0170  NV17 [GeForce4 MX 460]
+		1462 8630  MS-8863
 	0171  NV17 [GeForce4 MX 440]
 		10b0 0002  Gainward Pro/600 TV
 		10de 0008  Apple OEM GeForce4 MX 440
 		1462 8661  G4MX440-VTP
 		1462 8730  MX440SES-T (MS-8873)
+		1462 8743  MS-8874
 		1462 8852  GeForce4 MX440 PCI
 		147b 8f00  Abit Siluro GeForce4MX440
 	0172  NV17 [GeForce4 MX 420]
+		1462 8730  MS-8873
+		1462 8784  MS-8878
 	0173  NV17 [GeForce4 MX 440-SE]
 	0174  NV17 [GeForce4 440 Go]
 	0175  NV17 [GeForce4 420 Go]
@@ -7575,6 +7573,7 @@
 	1183  GK104 [GeForce GTX 660 Ti]
 	1188  GK104 [GeForce GTX 690]
 	1189  GK104 [GeForce GTX 670]
+	118f  GK104 [Tesla K10]
 	11ba  GK104 [Quadro K5000]
 	11bc  GK104 [Quadro K5000M]
 	11bd  GK104 [Quadro K4000M]
@@ -15471,6 +15470,7 @@
 	2048  Attansic L2 Fast Ethernet
 	2060  AR8152 v1.1 Fast Ethernet
 	2062  AR8152 v2.0 Fast Ethernet
+	e091  Killer E2200 Gigabit Ethernet Controller
 196a  Sensory Networks Inc.
 	0101  NodalCore C-1000 Content Classification Accelerator
 	0102  NodalCore C-2000 Content Classification Accelerator
