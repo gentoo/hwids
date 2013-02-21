@@ -26551,3 +26551,34 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Morrison CO 80465-2140
 				UNITED STATES
 
+40-D8-55	(hex)		Alumbra Produtos Elétricos e Eletrônicos Ltda
+0A6000-0A6FFF	(base 16)	Alumbra Produtos Elétricos e Eletrônicos Ltda
+				Rua Guimarães Rosa, 450
+				São Bernardo do Campo São Paulo 09851-380
+				BRAZIL
+
+40-D8-55	(hex)		First Design System Inc.
+0A7000-0A7FFF	(base 16)	First Design System Inc.
+				Tachibana Shinjyuku Bldg. 4F
+				3-2-26, Nishishinjyuku,
+				Shinjyuku-ku, Tokyo 1600023
+				JAPAN
+
+40-D8-55	(hex)		Baudisch Electronic GmbH
+0A8000-0A8FFF	(base 16)	Baudisch Electronic GmbH
+				Im Gewerbegebiet 7-9
+				Wäschenbeuren Baden Würrtemberg 73116
+				GERMANY
+
+40-D8-55	(hex)		Apantac LLC
+0A9000-0A9FFF	(base 16)	Apantac LLC
+				7556 SW Bridgeport Road
+				Durham OR 97224
+				UNITED STATES
+
+40-D8-55	(hex)		Thermal Imaging Radar, LLC
+0AA000-0AAFFF	(base 16)	Thermal Imaging Radar, LLC
+				1304 N. Redwood Rd. Unit 122
+				Saratoga Springs Utah 84045
+				UNITED STATES
+

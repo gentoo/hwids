@@ -82207,6 +82207,13 @@ company_id			Organization
 				Naklo Slovenia 4202
 				SLOVENIA
 
+0C-11-05   (hex)		Ringslink (Xiamen) Network Communication Technologies Co., Ltd
+0C1105     (base 16)		Ringslink (Xiamen) Network Communication Technologies Co., Ltd
+				Suite 201-15, 31 WangHai Rd
+				Software Park II
+				Xiamen Fujian 361008
+				CHINA
+
 0C-13-0B   (hex)		Uniqoteq Ltd.
 0C130B     (base 16)		Uniqoteq Ltd.
 				Lemminkaisenkatu 14-18 A
@@ -82255,6 +82262,13 @@ company_id			Organization
 				1098 W Evelyn Ave, Ste 118
 				Sunnyvale California 94086
 				UNITED STATES
+
+0C-2A-E7   (hex)		Beijing General Research Institute of Mining and Metallurgy
+0C2AE7     (base 16)		Beijing General Research Institute of Mining and Metallurgy
+				Building 23, Zone 18 of ABP, No. 188
+				South 4th Ring Road West
+				Beijing 100160
+				CHINA
 
 0C-37-DC   (hex)		Huawei Technologies Co., Ltd
 0C37DC     (base 16)		Huawei Technologies Co., Ltd
@@ -84734,6 +84748,12 @@ company_id			Organization
 				Alcobendas Madrid 28108
 				SPAIN
 
+20-4C-6D   (hex)		Hugo Brennenstuhl Gmbh & Co. KG.
+204C6D     (base 16)		Hugo Brennenstuhl Gmbh & Co. KG.
+				Seestr. 1-3
+				Tuebingen Baden-Wuerttemberg 72074
+				GERMANY
+
 20-4E-6B   (hex)		Axxana(israel) ltd
 204E6B     (base 16)		Axxana(israel) ltd
 				Habarzel 38
@@ -85074,6 +85094,13 @@ company_id			Organization
 				Grafton Way
 				Basingstoke Hampshire RG226HZ
 				UNITED KINGDOM
+
+24-0A-64   (hex)		AzureWaveTechnologies,Inc
+240A64     (base 16)		AzureWaveTechnologies,Inc
+				9F.,No.92,Baozhong Rd
+				Xindian Dist
+				Xindian NewTaipeiCity 231
+				TAIWAN, PROVINCE OF CHINA
 
 24-0B-2A   (hex)		Viettel Group
 240B2A     (base 16)		Viettel Group
@@ -85769,6 +85796,13 @@ company_id			Organization
 				Celovska cesta 172
 				Ljubljana  1000
 				SLOVENIA
+
+28-B2-BD   (hex)		Intel Corporate
+28B2BD     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
 28-B3-AB   (hex)		Genmark Automation
 28B3AB     (base 16)		Genmark Automation
@@ -87247,6 +87281,12 @@ company_id			Organization
 				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+38-17-66   (hex)		PROMZAKAZ LTD.
+381766     (base 16)		PROMZAKAZ LTD.
+				Noviy Arbat street, 21
+				Moscow 119019
+				RUSSIAN FEDERATION
 
 38-19-2F   (hex)		Nokia Corporation
 38192F     (base 16)		Nokia Corporation
@@ -88732,6 +88772,13 @@ company_id			Organization
 				Mountain View CA 94041
 				UNITED STATES
 
+44-39-C4   (hex)		Universal Global Scientific Industrial Co.,Ltd
+4439C4     (base 16)		Universal Global Scientific Industrial Co.,Ltd
+				141,Lane351,Taiping Rd.Sec.1
+				Tsao Tuen,Nan-Tou Hsien
+				542
+				TAIWAN, PROVINCE OF CHINA
+
 44-3D-21   (hex)		Nuvolt
 443D21     (base 16)		Nuvolt
 				8087 Boul. de la Rive Sud
@@ -89637,6 +89684,12 @@ company_id			Organization
 				San Jose California 95134
 				UNITED STATES
 
+4C-62-55   (hex)		SANMINA-SCI SYSTEM DE MEXICO S.A. DE C.V.
+4C6255     (base 16)		SANMINA-SCI SYSTEM DE MEXICO S.A. DE C.V.
+				Carretera Guadalajara-chapala km 15.5 #45
+				TLAJOMULCO JALISCO 45640
+				MEXICO
+
 4C-63-EB   (hex)		Application Solutions (Electronics and Vision) Ltd
 4C63EB     (base 16)		Application Solutions (Electronics and Vision) Ltd
 				The Riverside Centre
@@ -89682,6 +89735,13 @@ company_id			Organization
 				Albany
 				Auckland Auckland 0751
 				NEW ZEALAND
+
+4C-79-BA   (hex)		Intel Corporate
+4C79BA     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
 4C-80-4F   (hex)		Armstrong Monitoring Corp
 4C804F     (base 16)		Armstrong Monitoring Corp
@@ -91164,6 +91224,12 @@ company_id			Organization
 				Sanchong District
 				New Taipei City  24161
 				TAIWAN, PROVINCE OF CHINA
+
+5C-22-C4   (hex)		DAE EUN ELETRONICS CO., LTD
+5C22C4     (base 16)		DAE EUN ELETRONICS CO., LTD
+				1029 Hokye-Dong, Dongan-Goo
+				Anyang-Shi Kyongki-Do 431-080
+				KOREA, REPUBLIC OF
 
 5C-24-79   (hex)		Baltech AG
 5C2479     (base 16)		Baltech AG
@@ -95121,6 +95187,13 @@ company_id			Organization
 				Sunnyvale CA 94089
 				UNITED STATES
 
+78-FF-57   (hex)		Intel Corporate
+78FF57     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
 7C-01-87   (hex)		Curtis Instruments, Inc.
 7C0187     (base 16)		Curtis Instruments, Inc.
 				200 Kisco Avenue
@@ -95923,6 +95996,13 @@ company_id			Organization
 				Markham Ontario L3R 5B4
 				CANADA
 
+80-86-F2   (hex)		Intel Corporate
+8086F2     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
 80-8B-5C   (hex)		Shenzhen Runhuicheng Technology Co., Ltd
 808B5C     (base 16)		Shenzhen Runhuicheng Technology Co., Ltd
 				315.3rd Floor Taoyuan Commercial Building A2 ridgepole Guang Qian Industrial Estate XiLi
@@ -96705,6 +96785,12 @@ company_id			Organization
 				153 E City Place Drive
 				Santa Ana California 92705
 				UNITED STATES
+
+88-89-64   (hex)		GSI Electronics Inc.
+888964     (base 16)		GSI Electronics Inc.
+				5200 Armand-Frappier
+				St-Hubert Québec J3Z 1G5
+				CANADA
 
 88-8B-5D   (hex)		Storage Appliance Corporation
 888B5D     (base 16)		Storage Appliance Corporation
@@ -98501,6 +98587,13 @@ company_id			Organization
 				5/F., Shing Dao Industrial Building,
 				232 Aberdeen Main Road
 				HONG KONG
+
+98-4F-EE   (hex)		Intel Corporate
+984FEE     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
 98-52-B1   (hex)		Samsung Electronics
 9852B1     (base 16)		Samsung Electronics
@@ -104315,6 +104408,12 @@ C8AF40     (base 16)		marco Systemanalyse und Entwicklung GmbH
 				Dachau Bavaria 85221
 				GERMANY
 
+C8-B3-73   (hex)		Cisco-Linksys, LLC
+C8B373     (base 16)		Cisco-Linksys, LLC
+				121 Theory Drive
+				Irvine California 92612
+				UNITED STATES
+
 C8-BB-D3   (hex)		Embrane
 C8BBD3     (base 16)		Embrane
 				2350 Mission College Blvd., Ste 703
@@ -107827,6 +107926,13 @@ E828D5     (base 16)		Cots Technology
 				Sungnam-City Kyounggi-do 463-760
 				KOREA, REPUBLIC OF
 
+E8-2A-EA   (hex)		Intel Corporate
+E82AEA     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
 E8-2E-24   (hex)		Out of the Fog Research LLC
 E82E24     (base 16)		Out of the Fog Research LLC
 				565 Clyde Avenue, Suite 620
@@ -108891,6 +108997,12 @@ F07D68     (base 16)		D-Link Corporation
 				No.289, Sinhu 3rd Rd., Neihu District,
 				Taipei City  114
 				TAIWAN, PROVINCE OF CHINA
+
+F0-7F-0C   (hex)		Leopold Kostal GmbH &Co. KG
+F07F0C     (base 16)		Leopold Kostal GmbH &Co. KG
+				An der Bellmerei 10
+				Lüdenscheid NRW D-58513
+				GERMANY
 
 F0-81-AF   (hex)		IRZ AUTOMATION TECHNOLOGIES LTD
 F081AF     (base 16)		IRZ AUTOMATION TECHNOLOGIES LTD
