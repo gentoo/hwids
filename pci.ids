@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.21
-#	Date:    2013-02-21 03:15:02
+#	Version: 2013.02.23
+#	Date:    2013-02-23 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -3659,35 +3659,8 @@
 		0675 1704  ISDN Adapter (PCI Bus, D, C)
 		0675 1707  ISDN Adapter (PCI Bus, DV, W)
 		10cf 105e  ISDN Adapter (PCI Bus, DV, W)
-	0c11  A7N8X Motherboard nForce2 IDE/USB/SMBus
-	4015  v7100 SDRAM [GeForce2 MX]
-	4021  v7100 Combo Deluxe [GeForce2 MX + TV tuner]
-	4057  v8200 GeForce 3
-	8043  v8240 PAL 128M [P4T] Motherboard
-	8047  v8420 Deluxe [GeForce4 Ti4200]
-	807b  v9280/TD [GeForce4 TI4200 8X With TV-Out and DVI]
-	8095  A7N8X Motherboard nForce2 AC97 Audio
-	80ac  A7N8X Motherboard nForce2 AGP/Memory
-	80bb  v9180 Magic/T [GeForce4 MX440 AGP 8x 64MB TV-out]
-	80c5  nForce3 chipset motherboard [SK8N]
-	80df  v9520 Magic/T
-	815a  A8N-SLI Motherboard nForce4 SATA
-	8168  Realtek PCI-E Gigabit Ethernet Controller (RTL8111B)
-	8187  802.11a/b/g Wireless LAN Card
-	8188  Tiger Hybrid TV Capture Device
-# Found on ASUS M2V motherboard
-	81e7  Realtek ALC-660 6-channel CODEC
-	81f4  EN7300TC512/TD/128M/A(C262G) [Graphics Card EN7300TC512]
-	8233  EEE-PC 701 Netbook
-	82ca  G96 GeForce 9500 GT
-	82e8  M3N72-D
-	8383  P7P55D Series Motherboard
-	83a4  Motherboard M2N68-AM SE2
-# Onboard audio for M4A89 series motherboards.
-	8410  SBx00 [Azalia]
-	843e  M5A88-V EVO
-# wrong vendor ID (should have been AMD)
-	9602  RS880 PCI to PCI bridge (int gfx)
+# Should be 1022:9602
+	9602  AMD RS780/RS880 PCI to PCI bridge (int gfx)
 		1043 83a2  M4A785TD Motherboard
 1044  Adaptec (formerly DPT)
 	1012  Domino RAID Engine
@@ -7872,6 +7845,7 @@
 	8197  SmartLAN56 56K Modem
 	8199  RTL8187SE Wireless LAN Controller
 		1462 6894  MN54G2 / MS-6894 Wireless Mini PCIe Card
+	8723  RTL8723AE PCIe Wireless Network Adapter
 10ed  Ascii Corporation
 	7310  V7310
 10ee  Xilinx Corporation
@@ -14852,7 +14826,7 @@
 	0017  StorSecure 300 GZIP Compression and AES Encryption Card
 17c0  Wistron Corp.
 17c2  Newisys, Inc.
-17cb  Airgo Networks Inc
+17cb  Qualcomm CDMA Technologies [QCT] nee Airgo Networks, Inc.
 	0001  AGN100 802.11 a/b/g True MIMO Wireless Card
 		1385 5c00  WGM511 Pre-N 802.11g Wireless CardBus Adapter
 		1737 0045  WMP54GX v1 802.11g Wireless-G PCI Adapter with SRX
@@ -15451,8 +15425,8 @@
 1966  Orad Hi-Tec Systems
 	1975  DVG64 family
 	1977  DVG128 family
-# nee Attansic Technology Corp.
-1969  Atheros Communications Inc.
+# nee Atheros Communications, Inc. nee Attansic Technology Corp.
+1969  Qualcomm Atheros
 	1026  AR8121/AR8113/AR8114 Gigabit or Fast Ethernet
 		1043 8304  P5KPL-CM Motherboard
 	1048  Attansic L1 Gigabit Ethernet
@@ -15467,6 +15441,8 @@
 	1090  AR8162 Fast Ethernet
 	1091  AR8161 Gigabit Ethernet
 		1043 1477  N56VZ
+	10a0  QCA8172 Fast Ethernet
+	10a1  QCA8171 Gigabit Ethernet
 	2048  Attansic L2 Fast Ethernet
 	2060  AR8152 v1.1 Fast Ethernet
 	2062  AR8152 v2.0 Fast Ethernet
@@ -15863,8 +15839,6 @@
 20f4  TRENDnet
 2116  ZyDAS Technology Corp.
 21c3  21st Century Computer Corp.
-# (Probably only the Mobile Phone Division)
-22b8  Motorola, Inc.
 2304  Colorgraphic Communications Corp.
 2348  Racore
 	2010  8142 100VG/AnyLAN
@@ -15874,7 +15848,6 @@
 2711  AVID Technology Inc.
 2955  Connectix Virtual PC
 	6e61  OHCI USB 1.1 controller
-29b4  82q35 Express MEI Controller
 2a15  3D Vision(???)
 3000  Hansol Electronics Inc.
 3142  Post Impression Systems.
@@ -21862,7 +21835,8 @@
 	0001  JusonTech Gigabit Ethernet Controller
 9699  Omni Media Technology Inc
 	6565  6565
-9710  NetMos Technology
+# nee Netmos Technology
+9710  MosChip Semiconductor Technology Ltd.
 	9250  PCI-to-PCI bridge [MCS9250]
 	9805  PCI 1 port parallel adapter
 	9815  PCI 9815 Multi-I/O Controller
@@ -22112,7 +22086,6 @@ feda  Broadcom Inc
 	a10e  BCM4230 iLine10 HomePNA 2.0
 fede  Fedetec Inc.
 	0003  TABIC PCI v3
-ffee  FNK Tech
 fffd  XenSource, Inc.
 	0101  PCI Event Channel Controller
 # Used in some old VMWare products before they got a real ID assigned

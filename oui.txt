@@ -83176,6 +83176,12 @@ company_id			Organization
 				Huenstetten Bechtheim Hessen 65510
 				GERMANY
 
+10-D5-42   (hex)		Samsung Electronics Co.,Ltd
+10D542     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 10-DD-B1   (hex)		Apple
 10DDB1     (base 16)		Apple
 				1 Infinite Loop
@@ -84379,6 +84385,13 @@ company_id			Organization
 				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
 				KUNSHAN SUZHOU 215300
 				CHINA
+
+1C-76-CA   (hex)		Terasic Technologies Inc.
+1C76CA     (base 16)		Terasic Technologies Inc.
+				9F., No.176, Sec.2, Gongdao 5th Rd
+				East District
+				Hsinchu City  30070
+				TAIWAN, PROVINCE OF CHINA
 
 1C-7C-11   (hex)		EID
 1C7C11     (base 16)		EID
@@ -86296,6 +86309,12 @@ company_id			Organization
 				J P Nagar 2nd Phase
 				Bangalore Karnataka 560 078
 				INDIA
+
+2C-B4-3A   (hex)		Apple
+2CB43A     (base 16)		Apple
+				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
 2C-B6-93   (hex)		Radware
 2CB693     (base 16)		Radware
@@ -91666,6 +91685,12 @@ company_id			Organization
 				Arlington WA 98223
 				UNITED STATES
 
+60-1E-02   (hex)		EltexAlatau
+601E02     (base 16)		EltexAlatau
+				Ibragimova 9
+				Almaty Province 050032
+				KAZAKHSTAN
+
 60-21-C0   (hex)		Murata Manufactuaring Co.,Ltd.
 6021C0     (base 16)		Murata Manufactuaring Co.,Ltd.
 				1-10-1 Higashikotari
@@ -93165,6 +93190,13 @@ company_id			Organization
 				44-46 Mill Green Road
 				Mitcham Surrey CR4 4HY
 				UNITED KINGDOM
+
+68-DB-67   (hex)		Nantong Coship Electronics Co., Ltd
+68DB67     (base 16)		Nantong Coship Electronics Co., Ltd
+				No.188 Xinsheng Road
+				Chongchuan Area
+				Nantong Jiangsu 226000
+				CHINA
 
 68-DB-96   (hex)		OPWILL Technologies CO .,LTD
 68DB96     (base 16)		OPWILL Technologies CO .,LTD
@@ -94803,6 +94835,12 @@ company_id			Organization
 				Kfar-Saba  44641
 				ISRAEL
 
+78-52-1A   (hex)		Samsung Electronics Co.,Ltd
+78521A     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 78-52-62   (hex)		Shenzhen Hojy Software Co., Ltd.
 785262     (base 16)		Shenzhen Hojy Software Co., Ltd.
 				3F,East of Building25,Keyuanxi,Number 5,Kezhixi Road, Science & Industry Park ,Nan Shan District ,Shenzhen
@@ -95174,6 +95212,12 @@ company_id			Organization
 				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,
 				Shenzhen Guangdong 518057
 				CHINA
+
+78-F7-BE   (hex)		Samsung Electronics Co.,Ltd
+78F7BE     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 78-F7-D0   (hex)		Silverbrook Research
 78F7D0     (base 16)		Silverbrook Research
@@ -96789,7 +96833,7 @@ company_id			Organization
 88-89-64   (hex)		GSI Electronics Inc.
 888964     (base 16)		GSI Electronics Inc.
 				5200 Armand-Frappier
-				St-Hubert Québec J3Z 1G5
+				St-Hubert Quebec J3Z 1G5
 				CANADA
 
 88-8B-5D   (hex)		Storage Appliance Corporation
@@ -97672,6 +97716,12 @@ company_id			Organization
 				633 Granite Court
 				Pickering Ontario L1W 3K1
 				CANADA
+
+90-56-92   (hex)		Autotalks Ltd.
+905692     (base 16)		Autotalks Ltd.
+				Kfar Netter
+				Israel 40593
+				ISRAEL
 
 90-59-AF   (hex)		Texas Instruments
 9059AF     (base 16)		Texas Instruments
@@ -99586,6 +99636,12 @@ A078BA     (base 16)		Pantech Co., Ltd.
 				Gimpo-Si Gyounggi-Do 415-865
 				KOREA, REPUBLIC OF
 
+A0-82-1F   (hex)		Samsung Electronics Co.,Ltd
+A0821F     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 A0-82-C7   (hex)		P.T.I Co.,LTD
 A082C7     (base 16)		P.T.I Co.,LTD
 				1-5-1,Tsurumidan
@@ -100034,6 +100090,12 @@ A4-7A-A4   (hex)		Motorola Mobility, Inc.
 A47AA4     (base 16)		Motorola Mobility, Inc.
 				6450 Sequence Drive
 				San Diego CA 92121
+				UNITED STATES
+
+A4-7A-CF   (hex)		VIBICOM COMMUNICATIONS INC.
+A47ACF     (base 16)		VIBICOM COMMUNICATIONS INC.
+				900 CORPORATE DRIVE
+				MAHWAH NEW JERSEY 074030
 				UNITED STATES
 
 A4-7C-14   (hex)		ChargeStorm AB
@@ -102815,6 +102877,13 @@ BC20BA     (base 16)		Inspur (Shandong) Electronic Information Co., Ltd
 				Jinan Shandong 250101
 				CHINA
 
+BC-26-1D   (hex)		HONG KONG TECON TECHNOLOGY
+BC261D     (base 16)		HONG KONG TECON TECHNOLOGY
+				ROOM 2802,BLOCK A,SHEN FANG OLAZA
+				REN MIN ROAD SOUTH
+				Shenzhen Guangdong 518000
+				CHINA
+
 BC-28-46   (hex)		NextBIT Computing Pvt. Ltd.
 BC2846     (base 16)		NextBIT Computing Pvt. Ltd.
 				30/2, 2nd Floor, R.K. Plaza,
@@ -102961,6 +103030,12 @@ BC71C1     (base 16)		XTrillion, Inc.
 				Kanda Suda-cho
 				Chiyoda-ku Tokyo 101-0041
 				JAPAN
+
+BC-72-B1   (hex)		Samsung Electronics Co.,Ltd
+BC72B1     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 BC-76-4E   (hex)		Rackspace US, Inc.
 BC764E     (base 16)		Rackspace US, Inc.
@@ -103111,6 +103186,12 @@ BCC61A     (base 16)		SPECTRA EMBEDDED SYSTEMS
 				B/h. Sant Vihar, Uncha Parwanoo,Sector-1
 				PARWANOO HIMACHAL PRADESH 173220
 				INDIA
+
+BC-C6-DB   (hex)		Nokia Corporation
+BCC6DB     (base 16)		Nokia Corporation
+				Joensuunkatu 7E
+				Salo  24101
+				FINLAND
 
 BC-C8-10   (hex)		Cisco SPVTG
 BCC810     (base 16)		Cisco SPVTG
@@ -104674,6 +104755,12 @@ CC3A61     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				314, Maetan3-Dong, Yeongtong-Gu
 				Suwon Gyunggi-Do 443-743
 				KOREA, REPUBLIC OF
+
+CC-3C-3F   (hex)		SA.S.S. Datentechnik AG
+CC3C3F     (base 16)		SA.S.S. Datentechnik AG
+				Talhofstr. 32
+				Gilching Bayern 82205
+				GERMANY
 
 CC-3E-5F   (hex)		Hewlett Packard
 CC3E5F     (base 16)		Hewlett Packard
@@ -107660,6 +107747,13 @@ E47CF9     (base 16)		Samsung Electronics Co., LTD
 				Suwon Gyeonggi-do 443742
 				KOREA, REPUBLIC OF
 
+E4-7D-5A   (hex)		Beijing Hanbang Technology Corp.
+E47D5A     (base 16)		Beijing Hanbang Technology Corp.
+				4/F,Skirt Building
+				No.11,Changchunqiao Road
+				Haidian District Beijing 100080
+				CHINA
+
 E4-83-99   (hex)		Motorola Mobility, Inc.
 E48399     (base 16)		Motorola Mobility, Inc.
 				6450 Sequence Drive
@@ -107824,6 +107918,12 @@ E4F365     (base 16)		Time-O-Matic, Inc.
 				1015 Maple St.
 				Danville IL 61832
 				UNITED STATES
+
+E4-F7-A1   (hex)		Datafox GmbH
+E4F7A1     (base 16)		Datafox GmbH
+				Dermbacher Str. 12 - 14
+				Geisa Thüringen 36419
+				GERMANY
 
 E4-FA-1D   (hex)		PAD Peripheral Advanced Design Inc.
 E4FA1D     (base 16)		PAD Peripheral Advanced Design Inc.

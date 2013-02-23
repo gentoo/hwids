@@ -26582,3 +26582,15 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Saratoga Springs Utah 84045
 				UNITED STATES
 
+40-D8-55	(hex)		Enel doo Belgrade
+0AB000-0ABFFF	(base 16)	Enel doo Belgrade
+				Petrovaradinska no. 26, 11000 Belgrade, Serbia
+				Belgrade Serbia 11000
+				SERBIA
+
+40-D8-55	(hex)		Fraunhofer HHI
+0AC000-0ACFFF	(base 16)	Fraunhofer HHI
+				Einsteinufer 37
+				Berlin 10587
+				GERMANY
+
