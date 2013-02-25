@@ -93228,6 +93228,13 @@ company_id			Organization
 				Zelenograd Moscow 124460
 				RUSSIAN FEDERATION
 
+68-EC-62   (hex)		YODO Technology Corp. Ltd.
+68EC62     (base 16)		YODO Technology Corp. Ltd.
+				8F., No.168-1, Liancheng Rd
+				Zhonghe Dist
+				Taipei City  235
+				TAIWAN, PROVINCE OF CHINA
+
 68-ED-43   (hex)		Research In Motion
 68ED43     (base 16)		Research In Motion
 				295 Phillip Street
