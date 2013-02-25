@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.23
-#	Date:    2013-02-23 03:15:01
+#	Version: 2013.02.25
+#	Date:    2013-02-25 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -15727,7 +15727,7 @@
 	917a  88SE9172 SATA III 6Gb/s RAID Controller
 	9192  88SE9172 SATA III 6Gb/s RAID Controller
 	91a0  88SE91A0 SATA 6Gb/s Controller
-	91a4  88SE9128 IDE Controller
+	91a4  88SE912x IDE Controller
 	9230  88SE9230 PCIe SATA 6Gb/s Controller
 	9480  88SE9480 SAS/SATA 6Gb/s RAID controller
 1b55  NetUP Inc.
