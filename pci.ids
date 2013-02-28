@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.25
-#	Date:    2013-02-25 03:15:01
+#	Version: 2013.02.28
+#	Date:    2013-02-28 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -15197,11 +15197,12 @@
 	0010  GSCC Serial PCI Adapter [Fastcom]
 	0011  QSSB Serial PCI Adapter [Fastcom]
 	0014  SuperFSCC Serial PCI Adapter [Fastcom]
-	0015  SuperFSCC-104 Serial PCI/104+ Adapter [Fastcom]
+	0015  SuperFSCC-104 Serial PC/104+ Adapter [Fastcom]
 	0016  FSCC-232 RS-232 Serial PCI Adapter [Fastcom]
 # Software UARTs
 	0017  SuperFSCC-104 Serial PC/104+ Adapter
 	0018  SuperFSCC/4 Serial PCI Adapter [Fastcom]
+# Software UARTs
 	0019  SuperFSCC Serial PCI Adapter [Fastcom]
 # RS-644 Only
 	001a  SuperFSCC-104-LVDS Serial PC/104+ Adapter [Fastcom]
