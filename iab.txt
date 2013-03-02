@@ -26594,3 +26594,34 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Berlin 10587
 				GERMANY
 
+40-D8-55	(hex)		Space Micro
+0AD000-0ADFFF	(base 16)	Space Micro
+				10237 Flanders Court
+				San Diego California 92121
+				UNITED STATES
+
+40-D8-55	(hex)		GENERAL DYNAMICS C4 SYSTEMS
+0AE000-0AEFFF	(base 16)	GENERAL DYNAMICS C4 SYSTEMS
+				8220 EAST ROOSEVELT ST. R2121
+				SCOTTSDALE AZ 85257
+				UNITED STATES
+
+40-D8-55	(hex)		EnVerv Inc.
+0AF000-0AFFFF	(base 16)	EnVerv Inc.
+				680 N. McCarthy Blvd., Suite 220
+				MILPITAS CA 95035
+				UNITED STATES
+
+40-D8-55	(hex)		Micrologic
+0B0000-0B0FFF	(base 16)	Micrologic
+				Via Brodolini, 6
+				Crevoladossola Verbania 28865
+				ITALY
+
+40-D8-55	(hex)		Nanjing TIANSU Automation Control System Co., Ltd.
+0B1000-0B1FFF	(base 16)	Nanjing TIANSU Automation Control System Co., Ltd.
+				Building 5, New Town Science & Technology Park
+				No.69 Olympic Stadium Street
+				Nanjing China 210019
+				CHINA
+

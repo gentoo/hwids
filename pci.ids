@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.02.28
-#	Date:    2013-02-28 03:15:01
+#	Version: 2013.03.02
+#	Date:    2013-03-02 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -4581,7 +4581,8 @@
 	0403  ZFMicro Expansion Bus
 1079  I-Bus
 107a  NetWorth
-107b  Gateway 2000
+# formerly Gateway 2000 / acquired by Acer Inc.
+107b  Gateway, Inc.
 107c  LG Electronics [Lucky Goldstar Co. Ltd]
 107d  LeadTek Research Inc.
 	0000  P86C850
@@ -14768,6 +14769,9 @@
 	0091  Octeon II CN68XX Network Processor
 	0092  Octeon II CN65XX Network Processor
 	0093  Octeon II CN61XX Network Processor
+	0094  Octeon Fusion CNF71XX Cell processor
+	0095  Octeon III CN78XX Network Processor
+	0096  Octeon III CN70XX Network Processor
 1787  Hightech Information System Ltd.
 1789  Ennyah Technologies Corp.
 # also used by Struck Innovative Systeme for joint developments
@@ -16813,7 +16817,8 @@
 	0eb3  Ivytown Integrated Memory Controller 1 Channel 0-3 ERROR Registers 1
 	0eb4  Ivytown Integrated Memory Controller 1 Channel 0-3 Thermal Control 2
 	0eb5  Ivytown Integrated Memory Controller 1 Channel 0-3 Thermal Control 3
-	0eb7  Ivytown Integrated Memory Controller 1 Channel 0-3 ERROR Registers 2
+	0eb6  Ivytown Integrated Memory Controller 1 Channel 0-3 ERROR Registers 2
+	0eb7  Ivytown Integrated Memory Controller 1 Channel 0-3 ERROR Registers 3
 	0ec0  Ivytown Power Control Unit 0
 	0ec1  Ivytown Power Control Unit 1
 	0ec2  Ivytown Power Control Unit 2
@@ -16846,9 +16851,10 @@
 	0ef0  Ivytown Integrated Memory Controller 0 Channel 0-3 Thermal Control 0
 	0ef1  Ivytown Integrated Memory Controller 0 Channel 0-3 Thermal Control 1
 	0ef2  Ivytown Integrated Memory Controller 0 Channel 0-3 ERROR Registers 0
-	0ef3  Ivytown Integrated Memory Controller 0 Channel 0-3 ERROR Registers 2
+	0ef3  Ivytown Integrated Memory Controller 0 Channel 0-3 ERROR Registers 1
 	0ef4  Ivytown Integrated Memory Controller 0 Channel 0-3 Thermal Control 2
 	0ef5  Ivytown Integrated Memory Controller 0 Channel 0-3 Thermal Control 3
+	0ef6  Ivytown Integrated Memory Controller 0 Channel 0-3 ERROR Registers 2
 	0ef7  Ivytown Integrated Memory Controller 0 Channel 0-3 ERROR Registers 3
 	0ef8  Ivytown DDRIO
 	0ef9  Ivytown DDRIO
@@ -21564,6 +21570,7 @@
 		9004 7888  AHA-2930UW SCSI Controller
 	8b78  ABA-1030
 	ec78  AHA-4944W/UW
+# acquired by PMC-Sierra
 9005  Adaptec
 	0010  AHA-2940U2/U2W
 		9005 2180  AHA-2940U2 SCSI Controller
