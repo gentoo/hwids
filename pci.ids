@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.02
-#	Date:    2013-03-02 03:15:02
+#	Version: 2013.03.05
+#	Date:    2013-03-05 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -14221,6 +14221,7 @@
 15cd  Dreamtech Co Ltd
 15ce  Genrad Inc
 15cf  Hilscher GmbH
+	0000  CIFX 50E-DP(M/S)
 15d1  Infineon Technologies AG
 15d2  FIC (First International Computer Inc)
 15d3  NDS Technologies Israel Ltd
