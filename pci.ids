@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.05
-#	Date:    2013-03-05 03:15:01
+#	Version: 2013.03.07
+#	Date:    2013-03-07 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1483,6 +1483,7 @@
 	6621  Mars
 	6623  Mars
 	6631  Oland
+	665c  Bonaire [Radeon HD 7700 Series]
 	6660  Sun [Radeon HD 8600M Series]
 	6700  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
 	6701  Cayman GL XT [ATI FirePro V (FireGL V) Graphics Adapter]
@@ -2133,6 +2134,7 @@
 		103c 0024  Pavilion ze4400 builtin Network
 		12d9 000c  Aculab E1/T1 PMXc cPCI carrier card
 		1385 f311  FA311 / FA312 (FA311 with WoL HW)
+		1385 f312  FA312 (rev. A1) Fast Ethernet PCI Adapter
 	0021  PC87200 PCI to ISA Bridge
 	0022  DP83820 10/100/1000 Ethernet Controller
 		1186 4900  DGE-500T
@@ -2374,7 +2376,6 @@
 	0054  GXT500P/GXT550P Graphics Adapter
 	0057  MPEG PCI Bridge
 	0058  SSA Adapter [Advanced SerialRAID/X]
-	005c  i82557B 10/100
 	005e  GXT800P Graphics Adapter
 	007c  ATM Controller (14107c00)
 	007d  3780IDSP [MWave]
@@ -2397,7 +2398,6 @@
 	00be  ATM 622MBPS Controller (1410be00)
 	00dc  Advanced Systems Management Adapter (ASMA)
 	00fc  CPC710 Dual Bridge and Memory Controller (PCI-64)
-	0104  Gigabit Ethernet-SX Adapter
 	0105  CPC710 Dual Bridge and Memory Controller (PCI-32)
 	010f  Remote Supervisor Adapter (RSA)
 	0142  Yotta Video Compositor Input
@@ -2437,9 +2437,6 @@
 	021b  GXT6500P Graphics Adapter
 	021c  GXT4500P Graphics Adapter
 	0233  GXT135P Graphics Adapter
-	0266  PCI-X Dual Channel SCSI
-	0268  Gigabit Ethernet-SX Adapter (PCI-X)
-	0269  10/100/1000 Base-TX Ethernet Adapter (PCI-X)
 	028c  Citrine chipset SCSI controller
 		1014 028d  Dual Channel PCI-X DDR SAS RAID Adapter (572E)
 		1014 02be  Dual Channel PCI-X DDR U320 SCSI RAID Adapter (571B)
@@ -4285,7 +4282,6 @@
 	c350  80333 [SuperTrak EX12350]
 	e350  80333 [SuperTrak EX24350]
 105b  Foxconn International, Inc.
-	0c4d  SiS AC'97 Sound Controller
 105c  Wipro Infotech Limited
 105d  Number 9 Computer Company
 	2309  Imagine 128
@@ -4465,7 +4461,8 @@
 	006a  Intrepid2 Firewire
 	006b  Intrepid2 GMAC (Sun GEM)
 	0074  U4 HT Bridge
-	1645  Tigon3 Gigabit Ethernet NIC (BCM5701)
+# should be 14e4:1645
+	1645  Broadcom NetXtreme BCM5701 Gigabit Ethernet
 106c  Hynix Semiconductor
 	8139  8139c 100BaseTX Ethernet Controller
 	8801  Dual Pentium ISA/PCI Motherboard
@@ -4523,6 +4520,7 @@
 	1240  ISP1240 SCSI Host Adapter
 	1280  ISP1280 SCSI Host Adapter
 	2020  ISP2020A Fast!SCSI Basic Adapter
+	2031  ISP8324-based 16Gb Fibre Channel to PCI Express Adapter
 	2100  QLA2100 64-bit Fibre Channel Adapter
 		1077 0001  QLA2100 64-bit Fibre Channel Adapter
 	2200  QLA2200 64-bit Fibre Channel Adapter
@@ -4565,6 +4563,11 @@
 	8022  8200 Series 10GbE Converged Network Adapter (iSCSI)
 		103c 3347  CN1000Q Dual Port Converged Network Adapter
 		1077 0212  QME8242-k 10GbE Dual Port Mezzanine Card, iSCSI
+	8030  ISP8324 1/10GbE Converged Network Controller
+		1077 0243  8300 Series Single Port 10GbE Converged Network Adapter (TCP/IP Networking)
+		1077 0246  8300 Series Dual Port 10GbE Converged Network Adapter (TCP/IP Networking)
+	8031  8300 Series 10GbE Converged Network Adapter (FCoE)
+	8032  8300 Series 10GbE Converged Network Adapter (iSCSI)
 	8432  ISP2432M-based 10GbE Converged Network Adapter (CNA)
 1078  Cyrix Corporation
 	0000  5510 [Grappa]
@@ -4586,10 +4589,6 @@
 107c  LG Electronics [Lucky Goldstar Co. Ltd]
 107d  LeadTek Research Inc.
 	0000  P86C850
-	2134  WinFast 3D S320 II
-	6609  Winfast TV 2000 XP RM
-	6654  Conexant CX23883 [WinFast DTV1800 H]
-	6f22  WinFast PxTV1200
 	6f34  WinFast DVR3100 H
 107e  Interphase Corporation
 	0001  5515 ATM Adapter [Flipper]
@@ -5161,7 +5160,9 @@
 	8680  PEX 8680 80-lane, 20-Port PCI Express Gen 2 (5.0 GT/s) Multi-Root Switch
 	8696  PEX 8696 96-lane, 24-Port PCI Express Gen 2 (5.0 GT/s) Multi-Root Switch
 	8717  PEX 8717 16-lane, 8-Port PCI Express Gen 3 (8.0 GT/s) Switch with DMA
+	8718  PEX 8718 16-Lane, 5-Port PCI Express Gen 3 (8.0 GT/s) Switch
 	8732  PEX 8732 32-lane, 8-Port PCI Express Gen 3 (8.0 GT/s) Switch
+	8734  PEX 8734 32-lane, 8-Port PCI Express Gen 3 (8.0GT/s) Switch
 # This is the Non-Transparent-Bridge Virtualized Port as presented by the PLX PEX 8732 chip, the physical bridges show up at 10b5:8732
 	87b0  PEX 8732 32-lane, 8-Port PCI Express Gen 3 (8.0 GT/s) Switch
 	9016  PLX 9016 8-port serial controller
@@ -5624,7 +5625,6 @@
 10c1  ICM Co., Ltd.
 10c2  Auspex Systems Inc.
 10c3  Samsung Semiconductors, Inc.
-	1100  Smartether100 SC1100 LAN Adapter (i82557B)
 10c4  Award Software International Inc.
 10c5  Xerox Corporation
 10c6  Rambus Inc.
@@ -7819,6 +7819,7 @@
 		1259 c107  CG-LAPCIGT
 		1371 434e  ProG-2000L
 		1385 311a  GA311
+		1385 5200  GA511 Gigabit PC Card
 		1458 e000  GA-8I915ME-G Mainboard
 		1462 030c  K8N Neo-FSR v2.0 mainboard
 		1462 065c  Hetis 865GV-E (MS-7065)
@@ -8340,6 +8341,7 @@
 	3106  VT6105/VT6106S [Rhine-III]
 		1106 0105  VT6106S [Rhine-III]
 		1186 1403  DFE-530TX rev C
+		1186 1405  DFE-520TX Fast Ethernet PCI Adapter
 		1186 1406  DFE-530TX+ rev F2
 		1186 1407  DFE-538TX
 	3108  K8M800/K8N800/K8N800A [S3 UniChrome Pro]
@@ -8920,6 +8922,7 @@
 		1421 1370  Instant TV (saa7135)
 		1435 7330  VFG7330
 		1435 7350  VFG7350
+		1458 9001  GC-PTV-TAF Hybrid TV card
 		1458 9002  GT-PTV-TAF-RH DVB-T/Analog TV/FM tuner
 		1458 9003  GT-PTV-AF-RH Analog TV/FM tuner
 		1458 9004  GT-P8000 DVB-T/Analog TV/FM tuner
@@ -9721,7 +9724,6 @@
 1184  Forks Inc
 1185  Dataworld International Ltd
 1186  D-Link System Inc
-	0100  DC21041
 	1002  DL10050 Sundance Ethernet
 		1186 1002  DFE-550TX/FX
 		1186 1012  DFE-580TX
@@ -9733,33 +9735,20 @@
 		1186 1301  DFE-530TX+ 10/100 Ethernet Adapter
 		1186 1303  DFE-528TX 10/100 Fast Ethernet PCI Adapter
 	1340  DFE-690TXD CardBus PC Card
-	1405  DFE-520TX Fast Ethernet PCI Adapter
 	1540  DFE-680TX
 	1541  DFE-680TXD CardBus PC Card
 	1561  DRP-32TXD Cardbus PC Card
 	3300  DWL-510 / DWL-610 802.11b [Realtek RTL8180L]
 		1186 3300  DWL-610 Wireless Cardbus Adapter
 		1186 3301  DWL-510 Wireless PCI Adapter
-	3a03  AirPro DWL-A650 Wireless Cardbus Adapter(rev.B)
-	3a04  AirPro DWL-AB650 Multimode Wireless Cardbus Adapter
-	3a05  AirPro DWL-AB520 Multimode Wireless PCI Adapter
-	3a07  AirXpert DWL-AG650 Wireless Cardbus Adapter
-	3a08  AirXpert DWL-AG520 Wireless PCI Adapter
 	3a10  AirXpert DWL-AG650 Wireless Cardbus Adapter(rev.B)
 	3a11  AirXpert DWL-AG520 Wireless PCI Adapter(rev.B)
-	3a12  AirPlus DWL-G650 Wireless Cardbus Adapter(rev.C)
-	3a63  AirXpert DWL-AG660 Wireless Cardbus Adapter
-	3a70  DWA-556 Xtreme N PCI Express Desktop Adapter
-	3c00  D-link DWL-G650X
-	3c09  AirPlus G DWL-G510
 	4000  DL2000-based Gigabit Ethernet
 	4001  DGE-550SX PCI-X Gigabit Ethernet Adapter
 	4300  DGE-528T Gigabit Ethernet Adapter
 # rev. B1; RealTek RTL8168E.
 		1186 4b10  DGE-560T PCI Express (x1) Gigabit Ethernet Adapter
 	4302  DGE-530T Gigabit Ethernet Adapter (rev.C1) [Realtek RTL8169]
-# There are at least 3 revisions of this adapter; 4800 is board revision A1 as far as I can tell, revision B1 is 4c00.
-	4800  DGE-530T Gigabit Ethernet Adapter (rev 11)
 	4b00  DGE-560T PCI Express Gigabit Ethernet Adapter
 	4b01  DGE-530T Gigabit Ethernet Adapter (rev 11)
 	4b02  DGE-560SX PCI Express Gigabit Ethernet Adapter
@@ -9870,6 +9859,7 @@
 	2a01  88W8335 [Libertas] 802.11b/g Wireless
 	2a02  88W8361 [TopDog] 802.11n Wireless
 		07d1 3b02  DIR-615 rev. A1 Mini PCI Wireless Module
+		1385 7c00  WN511T RangeMax Next 300 Mbps Wireless PC Card
 		1385 7c01  WN511T RangeMax Next 300 Mbps Wireless Notebook Adapter
 		1385 7e00  WN311T RangeMax Next 300 Mbps Wireless PCI Adapter
 		1799 801b  F5D8011 v2 802.11n N1 Wireless Notebook Card
@@ -11771,20 +11761,9 @@
 1385  Netgear
 	006b  WA301 802.11b Wireless PCI Adapter
 	4100  MA301 802.11b Wireless PCI Adapter
-	4105  MA311 802.11b Wireless PCI Adapter
-	4400  WAG511 802.11a/b/g Dual Band Wireless PC Card
-	4600  WAG511 802.11a/b/g Dual Band Wireless PC Card
 	4601  WAG511 802.11a/b/g Dual Band Wireless PC Card
-	4610  WAG511 802.11a/b/g Dual Band Wireless PC Card
-	4a00  WAG311 802.11a/g Wireless PCI Adapter
-	5200  GA511 Gigabit PC Card
 	620a  GA620 Gigabit Ethernet
 	630a  GA630 Gigabit Ethernet
-	6d00  WPNT511 RangeMax 240 Mbps Wireless PC Card
-	7b00  WN511B RangeMax Next 270 Mbps Wireless PC Card
-	7c00  WN511T RangeMax Next 300 Mbps Wireless PC Card
-	f004  FA310TX
-	f312  FA312 REV-A1 Fast Ethernet PCI Adapter
 1386  Video Domain Technologies
 1387  Systran Corp
 1388  Hitachi Information Technology Co Ltd
@@ -12681,8 +12660,6 @@
 144b  Verint Systems Inc.
 144c  Catalina Research Inc
 144d  Samsung Electronics Co Ltd
-	c00c  P35 laptop
-	c511  R20 Laptop
 144e  OLITEC
 144f  Askey Computer Corp.
 1450  Octave Communications Ind.
@@ -12693,8 +12670,6 @@
 1456  Advanced Hardware Architectures
 1457  Nuera Communications Inc
 1458  Giga-byte Technology
-	9001  GC-PTV-TAF Hybrid TV card
-	e911  GN-WIAG02
 1459  DOOIN Electronics
 145a  Escalate Networks Inc
 145b  PRAIM SRL
@@ -13759,6 +13734,7 @@
 		5654 2388  GoTView PCI Hybrid Audio Capture Device
 	8852  CX23885 PCI Video and Audio Decoder
 		0070 8010  Hauppauge WinTV HVR-1400 ExpressCard
+		107d 6f22  WinFast PxTV1200
 		1461 c039  AVerTV Hybrid Express (A577)
 		153b 117e  Cinergy T PCIe Dual
 		18ac db78  FusionHDTV DVB-T Dual Express
@@ -14389,6 +14365,9 @@
 		8086 2501  PRO/Wireless 5000 LAN PCI Adapter Module
 	0011  AR5211 Wireless Network Adapter [AR5001A 802.11a]
 	0012  AR5211 Wireless Network Adapter [AR5001X 802.11ab]
+		1186 3a03  AirPro DWL-A650 Wireless Cardbus Adapter (rev.B)
+		1186 3a04  AirPro DWL-AB650 Multimode Wireless Cardbus Adapter
+		1186 3a05  AirPro DWL-AB520 Multimode Wireless PCI Adapter
 		126c 8031  2201 Mobile Adapter
 		1385 4400  WAB501 802.11ab Wireless CardBus Card
 		1b47 aa00  8460 802.11ab Wireless CardBus Adapter
@@ -14405,6 +14384,8 @@
 		1154 034e  Buffalo WLI-CB-AG108HP 802.11abg Cardbus Adapter
 		1186 3202  DWL-G650 (Rev B3,B5) Wireless cardbus adapter
 		1186 3203  AirPlus DWL-G520 Wireless PCI Adapter (rev. A)
+		1186 3a07  AirXpert DWL-AG650 Wireless Cardbus Adapter
+		1186 3a08  AirXpert DWL-AG520 Wireless PCI Adapter
 		1186 3a12  D-Link AirPlus DWL-G650 Wireless Cardbus Adapter(rev.C)
 		1186 3a13  AirPlus DWL-G520 Wireless PCI Adapter (rev. B)
 		1186 3a14  AirPremier AG DWL-AG530 Wireless PCI Adapter (rev.A)
@@ -14415,14 +14396,17 @@
 		1186 3a93  Conceptronic C54I Wireless 801.11g PCI card
 		1186 3a94  Conceptronic C54C 802.11g Wireless Cardbus Adapter
 		1186 3ab0  Allnet ALL0281 Wireless PCI Card
+		1385 4600  WAG511 802.11a/b/g Dual Band Wireless PC Card
+		1385 4610  WAG511 802.11a/b/g Dual Band Wireless PC Card
 		1385 4900  WG311v1 802.11g Wireless PCI Adapter
+		1385 4a00  WAG311 802.11a/g Wireless PCI Adapter
 		1385 4b00  WG511T 108 Mbps Wireless PC Card (rev.A/B)
 		1385 4d00  WG311T 108 Mbps Wireless PCI Adapter (rev.A2)
 		1385 4f00  WG511U Double 108 Mbps Wireless PC Card
 		1385 5a00  WG311T 108 Mbps Wireless PCI Adapter (rev.A3)
 		1385 5b00  WG511T 108 Mbps Wireless PC Card (rev.C)
 		1385 5d00  WPN511 RangeMax Wireless PC Card
-		1458 e911  Gigabyte GN-WIAG02
+		1458 e911  GN-WIAG02
 		1468 0403  U10H014 802.11g Cardbus Adapter
 		1468 0408  ThinkPad 11b/g Wireless LAN Mini PCI Adapter
 		14b7 0a10  8480-WD 802.11abg Cardbus Adapter
@@ -14536,6 +14520,7 @@
 		1976 2008  TEW-621PC 802.11bgn Wireless CardBus Adapter
 	0024  AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express)
 		106b 0087  AR5BXB72 802.11abgn Mini PCIe Card [AR5008E-3NX]
+		1186 3a70  DWA-556 Xtreme N PCI Express Desktop Adapter
 	0027  AR9160 Wireless Network Adapter [AR9001 802.11(a)bgn]
 		0777 4082  SR71-A 802.11abgn Wireless Mini PCI Adapter
 	0029  AR922X Wireless Network Adapter
@@ -14719,10 +14704,8 @@
 	7174  VSC7174 PCI/PCI-X Serial ATA Host Bus Controller
 172a  Accelerated Encryption
 	13c8  AEP SureWare Runner 1000V3
+# nee Fujitsu Siemens Computers GmbH
 1734  Fujitsu Technology Solutions
-	1078  Amilo Pro v2010
-	1085  Celsius M450
-	1098  Amilo L 1310G
 1735  Aten International Co. Ltd.
 1737  Linksys
 	0029  WPG54G ver. 4 PCI Card
@@ -14831,7 +14814,7 @@
 	0017  StorSecure 300 GZIP Compression and AES Encryption Card
 17c0  Wistron Corp.
 17c2  Newisys, Inc.
-17cb  Qualcomm CDMA Technologies [QCT] nee Airgo Networks, Inc.
+17cb  Airgo Networks, Inc.
 	0001  AGN100 802.11 a/b/g True MIMO Wireless Card
 		1385 5c00  WGM511 Pre-N 802.11g Wireless CardBus Adapter
 		1737 0045  WMP54GX v1 802.11g Wireless-G PCI Adapter with SRX
@@ -15791,6 +15774,7 @@
 	5100  EB5100
 1c8a  TSF5 Corporation
 	0001  Hunter PCI Express
+1cb1  Collion UG & Co.KG
 1d44  DPT
 	a400  PM2x24/PM3224
 1d5c  Fantasia Trading LLC
@@ -20275,6 +20259,131 @@
 	2e94  4 Series Chipset HECI Controller
 	2e95  4 Series Chipset HECI Controller
 	2e96  4 Series Chipset PT IDER Controller
+	2f00  Haswell-E DMI2
+	2f01  Haswell-E PCI Express Root Port 0
+	2f02  Haswell-E PCI Express Root Port 1
+	2f03  Haswell-E PCI Express Root Port 1
+	2f04  Haswell-E PCI Express Root Port 2
+	2f05  Haswell-E PCI Express Root Port 2
+	2f06  Haswell-E PCI Express Root Port 2
+	2f07  Haswell-E PCI Express Root Port 2
+	2f08  Haswell-E PCI Express Root Port 3
+	2f09  Haswell-E PCI Express Root Port 3
+	2f0a  Haswell-E PCI Express Root Port 3
+	2f0b  Haswell-E PCI Express Root Port 3
+	2f1d  Haswell-E PCIe Ring Interface
+	2f1e  Haswell-E Scratchpad & Semaphore Registers
+	2f1f  Haswell-E Scratchpad & Semaphore Registers
+	2f20  Haswell-E DMA Channel 0
+	2f21  Haswell-E DMA Channel 1
+	2f22  Haswell-E DMA Channel 2
+	2f23  Haswell-E DMA Channel 3
+	2f24  Haswell-E DMA Channel 4
+	2f25  Haswell-E DMA Channel 5
+	2f26  Haswell-E DMA Channel 6
+	2f27  Haswell-E DMA Channel 7
+	2f28  Haswell-E Address Map, VTd_Misc, System Management
+	2f29  Haswell-E Hot Plug
+	2f2a  Haswell-E RAS, Control Status and Global Errors
+	2f2c  Haswell-E I/O Apic
+	2f2e  Haswell-E RAID 5/6
+	2f2f  Haswell-E RAID 5/6
+	2f30  Haswell-E Home Agent 0
+	2f32  Haswell-E QPI Link 0
+	2f33  Haswell-E QPI Link 1
+	2f34  Haswell-E PCIe Ring Interface
+	2f36  Haswell-E R3 QPI Link 0 & 1 Monitoring
+	2f37  Haswell-E R3 QPI Link 0 & 1 Monitoring
+	2f38  Haswell-E Home Agent 1
+	2f3a  Haswell-E QPI Link 2
+	2f3e  Haswell-E R3 QPI Link 2 Monitoring
+	2f3f  Haswell-E R3 QPI Link 2 Monitoring
+	2f40  Haswell-E QPI Link 2
+	2f41  Haswell-E R3 QPI Link 2 Monitoring
+	2f43  Haswell-E QPI Link 2
+	2f60  Haswell-E Home Agent 1
+	2f68  Haswell-E Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
+	2f6a  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6b  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6c  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6d  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6e  Haswell-E DDRIO Channel 2/3 Broadcast
+	2f6f  Haswell-E DDRIO Global Broadcast
+	2f71  Haswell-E Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+	2f79  Haswell-E Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
+	2f7d  Haswell-E Scratchpad & Semaphore Registers
+	2f80  Haswell-E QPI Link 0
+	2f81  Haswell-E R3 QPI Link 0 & 1 Monitoring
+	2f83  Haswell-E QPI Link 0
+	2f90  Haswell-E QPI Link 1
+	2f93  Haswell-E QPI Link 1
+	2fa0  Haswell-E Home Agent 0
+	2fa8  Haswell-E Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+	2faa  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
+	2fab  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
+	2fac  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
+	2fad  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
+	2fae  Haswell-E DDRIO Channel 0/1 Broadcast
+	2faf  Haswell-E DDRIO Global Broadcast
+	2fb0  Haswell-E Integrated Memory Controller 0 Channel 0 Thermal Control
+	2fb1  Haswell-E Integrated Memory Controller 0 Channel 1 Thermal Control
+	2fb2  Haswell-E Integrated Memory Controller 0 Channel 0 ERROR Registers
+	2fb3  Haswell-E Integrated Memory Controller 0 Channel 1 ERROR Registers
+	2fb4  Haswell-E Integrated Memory Controller 0 Channel 2 Thermal Control
+	2fb5  Haswell-E Integrated Memory Controller 0 Channel 3 Thermal Control
+	2fb8  Haswell-E DDRIO (VMSE) 2 & 3
+	2fb9  Haswell-E DDRIO (VMSE) 2 & 3
+	2fba  Haswell-E DDRIO (VMSE) 2 & 3
+	2fbb  Haswell-E DDRIO (VMSE) 2 & 3
+	2fbc  Haswell-E DDRIO (VMSE) 0 & 1
+	2fbd  Haswell-E DDRIO (VMSE) 0 & 1
+	2fbe  Haswell-E DDRIO (VMSE) 0 & 1
+	2fbf  Haswell-E DDRIO (VMSE) 0 & 1
+	2fc0  Haswell-E Power Control Unit
+	2fc1  Haswell-E Power Control Unit
+	2fc2  Power Control Unit
+	2fc3  Power Control Unit
+	2fc4  Power Control Unit
+	2fc5  Power Control Unit
+	2fd0  Haswell-E Integrated Memory Controller 1 Channel 0 Thermal Control
+	2fd1  Haswell-E Integrated Memory Controller 1 Channel 1 Thermal Control
+	2fd2  Haswell-E Integrated Memory Controller 1 Channel 0 ERROR Registers
+	2fd3  Haswell-E Integrated Memory Controller 1 Channel 1 ERROR Registers
+	2fd4  Haswell-E Integrated Memory Controller 1 Channel 2 Thermal Control
+	2fd5  Haswell-E Integrated Memory Controller 1 Channel 3 Thermal Control
+	2fd6  Haswell-E Integrated Memory Controller 1 Channel 2 ERROR Registers
+	2fd7  Haswell-E Integrated Memory Controller 1 Channel 3 ERROR Registers
+	2fe0  Haswell-E Unicast Registers
+	2fe1  Haswell-E Unicast Registers
+	2fe2  Haswell-E Unicast Registers
+	2fe3  Haswell-E Unicast Registers
+	2fe4  Haswell-E Unicast Registers
+	2fe5  Haswell-E Unicast Registers
+	2fe6  Haswell-E Unicast Registers
+	2fe7  Haswell-E Unicast Registers
+	2fe8  Haswell-E Unicast Registers
+	2fe9  Haswell-E Unicast Registers
+	2fea  Haswell-E Unicast Registers
+	2feb  Haswell-E Unicast Registers
+	2fec  Haswell-E Unicast Registers
+	2fed  Haswell-E Unicast Registers
+	2fee  Haswell-E Unicast Registers
+	2fef  Haswell-E Unicast Registers
+	2ff0  Haswell-E Unicast Registers
+	2ff1  Haswell-E Unicast Registers
+	2ff2  Haswell-E Unicast Registers
+	2ff3  Haswell-E Unicast Registers
+	2ff4  Haswell-E Unicast Registers
+	2ff5  Haswell-E Unicast Registers
+	2ff6  Haswell-E Unicast Registers
+	2ff7  Haswell-E Unicast Registers
+	2ff8  Haswell-E Buffered Ring Agent
+	2ff9  Haswell-E Buffered Ring Agent
+	2ffa  Haswell-E Buffered Ring Agent
+	2ffb  Haswell-E Buffered Ring Agent
+	2ffc  Haswell-E System Address Decoder & Broadcast Registers
+	2ffd  Haswell-E System Address Decoder & Broadcast Registers
+	2ffe  Haswell-E System Address Decoder & Broadcast Registers
 	3200  GD31244 PCI-X SATA HBA
 		1775 c200  C2K onboard SATA host bus adapter
 	3310  IOP348 I/O Processor

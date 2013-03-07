@@ -86900,6 +86900,13 @@ company_id			Organization
 				Jessheim  2050
 				NORWAY
 
+34-23-BA   (hex)		Samsung Electro Mechanics co.,LTD.
+3423BA     (base 16)		Samsung Electro Mechanics co.,LTD.
+				93Moo5T. Bangsamak
+				SEMTHAI. WELLGROW INDUSTRIAL ESTATE
+				Bangpakong Chachoengsao 24180
+				THAILAND
+
 34-25-5D   (hex)		Shenzhen Loadcom Technology Co.,Ltd
 34255D     (base 16)		Shenzhen Loadcom Technology Co.,Ltd
 				Yuehai Building A-13CD,Nanhai Road,Nanshan Area
@@ -91867,6 +91874,13 @@ company_id			Organization
 				UNIT 101£¬NO.28 GUANRI RD., SOFTWARE PARK ¢ò
 				XIAMEN FUJIAN 361009
 				CHINA
+
+60-4A-1C   (hex)		SUYIN Corporation
+604A1C     (base 16)		SUYIN Corporation
+				No.377,Fude 1st Rd
+				Xizhi City
+				Taipei  221
+				TAIWAN, PROVINCE OF CHINA
 
 60-52-D0   (hex)		FACTS Engineering
 6052D0     (base 16)		FACTS Engineering
@@ -98641,6 +98655,13 @@ company_id			Organization
 98-0E-E4   (hex)		PRIVATE
 980EE4     (base 16)		 
 				 
+98-10-94   (hex)		Shenzhen Vsun communication technology Co.,ltd
+981094     (base 16)		Shenzhen Vsun communication technology Co.,ltd
+				Room 1903, Block A,
+				 Xiangnian plaza,NO.4060
+				Shenzhen Guangdong 518000
+				CHINA
+
 98-20-8E   (hex)		Definium Technologies
 98208E     (base 16)		Definium Technologies
 				34 Fairthorne Road
@@ -100413,6 +100434,12 @@ A4D1D2     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+A4-D3-B5   (hex)		GLITEL Stropkov, s.r.o.
+A4D3B5     (base 16)		GLITEL Stropkov, s.r.o.
+				Cintorinska 557/73
+				Stropkov  09101
+				SLOVAKIA
 
 A4-D8-56   (hex)		Qualcomm Labs Inc.
 A4D856     (base 16)		Qualcomm Labs Inc.
@@ -106217,6 +106244,12 @@ D4C766     (base 16)		Acentic GmbH
 				Cologne  50672
 				GERMANY
 
+D4-C9-EF   (hex)		Hewlett Packard
+D4C9EF     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston Texas 77070
+				UNITED STATES
+
 D4-CA-6D   (hex)		Routerboard.com
 D4CA6D     (base 16)		Routerboard.com
 				Mikrotikls SIA
@@ -107385,6 +107418,12 @@ E06290     (base 16)		Jinan Jovision Science & Technology Co., Ltd.
 				47 Shanda Rd
 				Jinan Shandong 250013
 				CHINA
+
+E0-63-E5   (hex)		Sony Mobile Communications AB
+E063E5     (base 16)		Sony Mobile Communications AB
+				Nya Vattentornet
+				Lund SE 22188
+				SWEDEN
 
 E0-64-BB   (hex)		DigiView S.r.l.
 E064BB     (base 16)		DigiView S.r.l.

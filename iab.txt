@@ -26625,3 +26625,21 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Nanjing China 210019
 				CHINA
 
+40-D8-55	(hex)		Ever Trend Technology Development Limited
+0B2000-0B2FFF	(base 16)	Ever Trend Technology Development Limited
+				Pokfulam 86D Floor 1 Room D
+				Hong Kong Hong Kong 000
+				HONG KONG
+
+40-D8-55	(hex)		T.W.S. srl
+0B3000-0B3FFF	(base 16)	T.W.S. srl
+				Viale Zaccagna 6
+				Carrara MS 54033
+				ITALY
+
+40-D8-55	(hex)		MITSUBIDHI ELECTRIC SYSTEM & SERVICE CO.,LTD.
+0B4000-0B4FFF	(base 16)	MITSUBIDHI ELECTRIC SYSTEM & SERVICE CO.,LTD.
+				26-43,1-Chome,Yata,Higashi-ku
+				Nagoya Aichi 461-0040
+				JAPAN
+
