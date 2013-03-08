@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.07
-#	Date:    2013-03-07 03:15:02
+#	Version: 2013.03.08
+#	Date:    2013-03-08 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -4589,7 +4589,6 @@
 107c  LG Electronics [Lucky Goldstar Co. Ltd]
 107d  LeadTek Research Inc.
 	0000  P86C850
-	6f34  WinFast DVR3100 H
 107e  Interphase Corporation
 	0001  5515 ATM Adapter [Flipper]
 	0002  100 VG AnyLan Controller
@@ -13638,6 +13637,7 @@
 	2f50  Conexant SoftK56 Data/Fax Modem
 	5b7a  CX23418 Single-Chip MPEG-2 Encoder with Integrated Analog Video/Broadcast Audio Decoder
 		0070 7444  WinTV HVR-1600
+		107d 6f34  WinFast DVR3100 H
 		5854 3343  GoTView PCI DVD3 Hybrid
 	8200  CX25850
 	8234  RS8234 ATM SAR Controller [ServiceSAR Plus]
