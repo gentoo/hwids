@@ -26637,9 +26637,54 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Carrara MS 54033
 				ITALY
 
-40-D8-55	(hex)		MITSUBIDHI ELECTRIC SYSTEM & SERVICE CO.,LTD.
-0B4000-0B4FFF	(base 16)	MITSUBIDHI ELECTRIC SYSTEM & SERVICE CO.,LTD.
+40-D8-55	(hex)		MITSUBISHI ELECTRIC SYSTEM & SERVICE CO.,LTD.
+0B4000-0B4FFF	(base 16)	MITSUBISHI ELECTRIC SYSTEM & SERVICE CO.,LTD.
 				26-43,1-Chome,Yata,Higashi-ku
 				Nagoya Aichi 461-0040
 				JAPAN
+
+40-D8-55	(hex)		DATA SHARING CONSULTING
+0B5000-0B5FFF	(base 16)	DATA SHARING CONSULTING
+				815 AV IRENE ET FREDERIC JOLIOT CURIE
+				ZI TOUON EST
+				LA GARDE PACA 83130
+				FRANCE
+
+40-D8-55	(hex)		Telvent
+0B6000-0B6FFF	(base 16)	Telvent
+				P.I. Alcobendas C/ Valgrande, 6
+				Alcobendas Madrid 28108
+				SPAIN
+
+40-D8-55	(hex)		ACD Elektronik GmbH
+0B7000-0B7FFF	(base 16)	ACD Elektronik GmbH
+				Engelberg 2
+				Achstetten  88480
+				GERMANY
+
+40-D8-55	(hex)		Ferlin Trading BV
+0B8000-0B8FFF	(base 16)	Ferlin Trading BV
+				Galileistraat 29
+				Dedemsvaart Overijssel 7701 SK
+				NETHERLANDS
+
+40-D8-55	(hex)		WxBR Sistemas de Telecomunicacoes Ltda
+0B9000-0B9FFF	(base 16)	WxBR Sistemas de Telecomunicacoes Ltda
+				Rua Dr Ricardo Benetton Martins, S/N
+				Cond. Polis II, Predio 12C mesanino
+				Campinas São Paulo 13086902
+				BRAZIL
+
+40-D8-55	(hex)		PCH Engineering A/S
+0BA000-0BAFFF	(base 16)	PCH Engineering A/S
+				Ved Klaedebo 4
+				Horsholm  2970
+				DENMARK
+
+40-D8-55	(hex)		Whiptail
+0BB000-0BBFFF	(base 16)	Whiptail
+				9 Whippany Rd
+				B2, Suites 6 &amp; 7
+				Whippany NJ 07981
+				UNITED STATES
 
