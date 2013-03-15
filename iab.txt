@@ -720,8 +720,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		ENTTEC Pty Ltd.
 075000-075FFF	(base 16)	ENTTEC Pty Ltd.
-				PO Box 282
-				Kew, Vic, 3101  
+				PO Box 4051
+				ringwood vic 3134
 				AUSTRALIA
 
 00-50-C2	(hex)		Litton Guidance & Control Systems
@@ -1924,8 +1924,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		ELAD SRL
 135000-135FFF	(base 16)	ELAD SRL
-				via Laura Cornaro 2
-				31016 Cordignano TV  
+				via col de rust, 11
+				CANEVA PN  33070
 				ITALY
 
 00-50-C2	(hex)		Tensilica, Inc.
@@ -2746,7 +2746,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		EmCom Technology Inc.
 1B9000-1B9FFF	(base 16)	EmCom Technology Inc.
-				6F, 19, Sec. 3, Nanking E. Rd.,
+				7F, 219, Sec. 3, Nanking E. Rd.,
 				Taipei  104
 				TAIWAN, PROVINCE OF CHINA
 
@@ -5175,8 +5175,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		EXYS bvba
 33F000-33FFFF	(base 16)	EXYS bvba
-				Dennenlaan 24
-				Sint-Pieters-Leeuw  1600
+				Populierenlaan 6
+				Tildonk  3150
 				BELGIUM
 
 00-50-C2	(hex)		Virtu
@@ -7691,8 +7691,8 @@ IAB Range    			Organization
 				TPI Hsien  248
 				TAIWAN, PROVINCE OF CHINA
 
-00-50-C2	(hex)		SOFTIN sp. z o.o.
-4D3000-4D3FFF	(base 16)	SOFTIN sp. z o.o.
+00-50-C2	(hex)		ELPROC sp. z o.o.
+4D3000-4D3FFF	(base 16)	ELPROC sp. z o.o.
 				Skwer Ks. Krd. St. Wyszyńskiego 2/62
 				Warsaw Mazowieckie 01-015
 				POLAND
@@ -8487,9 +8487,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Elfiq Inc.
 552000-552FFF	(base 16)	Elfiq Inc.
-				625 president-kennedy
-				suite 1100
-				Montreal Quebec H3A 1K2
+				1125 university
+				suite 712
+				Montreal Quebec H3B 3A7
 				CANADA
 
 00-50-C2	(hex)		ATH system
@@ -10004,8 +10004,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Enatel Limited
 643000-643FFF	(base 16)	Enatel Limited
-				321 Tuam Street
-				Christchurch  8011
+				66 Treffers Road
+				Christchurch  8042
 				NEW ZEALAND
 
 00-50-C2	(hex)		Phytec Messtechnik GmbH
@@ -11601,8 +11601,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Elektro-Top 3000 Ltd.
 743000-743FFF	(base 16)	Elektro-Top 3000 Ltd.
-				Öv. u. 140.
-				Budapest  1147
+				Bartók Béla út 75.
+				Budapest  1114
 				HUNGARY
 
 00-50-C2	(hex)		Avonaco Systems, Inc.
@@ -11702,9 +11702,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		ABB
 753000-753FFF	(base 16)	ABB
-				Service, ABB Product and System Service
-				P.O.Box 52 (Nokian valtatie 31)
-				Nokia  37101
+				Service
+				Automiehenkatu 2
+				Tampere  33840
 				FINLAND
 
 00-50-C2	(hex)		Abeo Corporation
@@ -11820,10 +11820,10 @@ IAB Range    			Organization
 				Mainz Rheinland-Pfalz 55129
 				GERMANY
 
-00-50-C2	(hex)		EMTEC Elektronische Messtechnik GmbH
-766000-766FFF	(base 16)	EMTEC Elektronische Messtechnik GmbH
-				Olgastrasse 72
-				Friedrichshafen  88045
+00-50-C2	(hex)		Gutermann Technology GmbH
+766000-766FFF	(base 16)	Gutermann Technology GmbH
+				Gottlieb-Daimler-Strasse 10
+				Ravensburg  88214
 				GERMANY
 
 00-50-C2	(hex)		EID
@@ -13306,9 +13306,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Ettus Research LLC
 853000-853FFF	(base 16)	Ettus Research LLC
-				1580 West El Camino Real
-				Suite 4
-				Mountain View CA 94040
+				1043 N Shoreline Blvd
+				Suite 100
+				Mountain View CA 94043
 				UNITED STATES
 
 00-50-C2	(hex)		Ratioplast-Optoelectronics GmbH
@@ -15447,8 +15447,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Electrodata Inc.
 9AB000-9ABFFF	(base 16)	Electrodata Inc.
-				23020 Miles Road
-				Bedford Heights OHIO 44128
+				P.O. Box 31780
+				Independence OHIO 44131
 				UNITED STATES
 
 00-50-C2	(hex)		Questek Australia Pty Ltd
@@ -17524,8 +17524,8 @@ AF5000-AF5FFF	(base 16)	Kramara s.r.o.
 
 00-50-C2	(hex)		Energid
 AF6000-AF6FFF	(base 16)	Energid
-				124 Mt Auburn St
-				Suite 200N
+				One Mifflin Place
+				Suite 400
 				Cambridge MA 02138
 				UNITED STATES
 
@@ -17784,8 +17784,9 @@ B1F000-B1FFFF	(base 16)	SCA Schucker GmbH & Co.
 
 00-50-C2	(hex)		FIVE9 NETWORK SYSTEMS LLC
 B20000-B20FFF	(base 16)	FIVE9 NETWORK SYSTEMS LLC
-				P.O.Box 853
-				Palo Alto CA 94302
+				3600 W. Bayshore Road
+				Suite 101
+				Palo Alto CA 94303
 				UNITED STATES
 
 00-50-C2	(hex)		Phytron-Elektronik GmbH
@@ -19130,10 +19131,10 @@ BFA000-BFAFFF	(base 16)	Rohde & Schwarz Topex SA
 				Bucharest  014186
 				ROMANIA
 
-00-50-C2	(hex)		ecs srl
-BFB000-BFBFFF	(base 16)	ecs srl
-				via del candel 55/d
-				belluno  32100
+00-50-C2	(hex)		ECS Srl
+BFB000-BFBFFF	(base 16)	ECS Srl
+				Via del Candel 55/d
+				Belluno  32100
 				ITALY
 
 00-50-C2	(hex)		Altronix Corporation
@@ -20138,8 +20139,8 @@ C9E000-C9EFFF	(base 16)	Rohde & Schwarz Topex SA
 				BUCHAREST  014186
 				ROMANIA
 
-00-50-C2	(hex)		Etherhome
-C9F000-C9FFFF	(base 16)	Etherhome
+00-50-C2	(hex)		xxter b.v.
+C9F000-C9FFFF	(base 16)	xxter b.v.
 				Elandsgracht 73 I
 				Amsterdam NH 1016 TR
 				NETHERLANDS
@@ -21069,8 +21070,8 @@ D35000-D35FFF	(base 16)	UG Systems GmbH & Co. KG
 
 00-50-C2	(hex)		Enatel Limited
 D36000-D36FFF	(base 16)	Enatel Limited
-				321 Tuam Street
-				Christchurch Canterbury 8011
+				66 Treffers Road
+				Christchurch Canterbury 8042
 				NEW ZEALAND
 
 00-50-C2	(hex)		LJT & Associates, Inc.
@@ -22445,9 +22446,9 @@ E13000-E13FFF	(base 16)	Automation Assist Japan Company
 
 00-50-C2	(hex)		Calixto Systems Pvt Ltd
 E14000-E14FFF	(base 16)	Calixto Systems Pvt Ltd
-				#79, First Floor, 2nd Main, Sadananda Nagar
-				NGEF Layout
-				Bangalore Karnataka 560038
+				#111, First Floor, 2H Main Road
+				Kasturi Nagar
+				Bangalore Karnataka 560043
 				INDIA
 
 00-50-C2	(hex)		IHI Scube Co.,Ltd
@@ -23692,9 +23693,9 @@ EDB000-EDBFFF	(base 16)	BELIK S.P.R.L.
 
 00-50-C2	(hex)		Eyelock Corporation
 EDC000-EDCFFF	(base 16)	Eyelock Corporation
-				575 Lexington Ave
-				4th Floor
-				New York New York 10022
+				355 Lexington Ave
+				Fl 12
+				New York New York 10017
 				UNITED STATES
 
 00-50-C2	(hex)		EBNEURO SPA
@@ -24131,10 +24132,10 @@ F22000-F22FFF	(base 16)	Harland Simon plc
 				Milton Keynes Bucks MK1 1TJ
 				UNITED KINGDOM
 
-00-50-C2	(hex)		Electro Motive Diesel
-F23000-F23FFF	(base 16)	Electro Motive Diesel
-				9301 W 5th St
-				La Grange IL 60525
+00-50-C2	(hex)		Electro-Motive Diesel
+F23000-F23FFF	(base 16)	Electro-Motive Diesel
+				9301 West 55th St
+				LaGrange IL 60525
 				UNITED STATES
 
 00-50-C2	(hex)		CT Company
@@ -24526,7 +24527,7 @@ F61000-F61FFF	(base 16)	Brauch Elektronik GmbH&Co.KG
 00-50-C2	(hex)		EMAC, Inc.
 F62000-F62FFF	(base 16)	EMAC, Inc.
 				2390 EMAC Way
-				Carbondale IL 62901
+				Carbondale IL 62902
 				UNITED STATES
 
 00-50-C2	(hex)		Triax A/S
@@ -25084,10 +25085,10 @@ FBC000-FBCFFF	(base 16)	Leroy Somer
 				Angoulême Cedex 9  16915
 				FRANCE
 
-00-50-C2	(hex)		FHF Funke + Huster Fernsig GmbH
-FBD000-FBDFFF	(base 16)	FHF Funke + Huster Fernsig GmbH
+00-50-C2	(hex)		FHF Funke+Huster Fernsig GmbH
+FBD000-FBDFFF	(base 16)	FHF Funke+Huster Fernsig GmbH
 				Gewerbeallee 15-19
-				Mülheim an der Ruhr  45478
+				Mülheim an der Ruhr NRW D-45478
 				GERMANY
 
 00-50-C2	(hex)		senTec Elektronik GmbH
@@ -26687,4 +26688,30 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				B2, Suites 6 &amp; 7
 				Whippany NJ 07981
 				UNITED STATES
+
+40-D8-55	(hex)		Aplex Technology Inc.
+0BC000-0BCFFF	(base 16)	Aplex Technology Inc.
+				2Q , NanYouTianAn industrial park Tower4
+				Nanshan District
+				Shenzhen Guangdong 518054
+				CHINA
+
+40-D8-55	(hex)		iCOGNIZE GmbH
+0BD000-0BDFFF	(base 16)	iCOGNIZE GmbH
+				Justus-von-Liebig Str. 9
+				Dietzenbach Hesse 63128
+				GERMANY
+
+40-D8-55	(hex)		Manufacturing System Insights Inc
+0BE000-0BEFFF	(base 16)	Manufacturing System Insights Inc
+				2560 Ninth Street, Suite 123A
+				Berkeley CA 94710
+				UNITED STATES
+
+40-D8-55	(hex)		Shenzhen SETEC Power Co.,Ltd
+0BF000-0BFFFF	(base 16)	Shenzhen SETEC Power Co.,Ltd
+				#199, Setec Industrial Park
+				Dakan, Xili Town
+				Nanshan District, Shenzhen Guangdong 518055
+				CHINA
 
