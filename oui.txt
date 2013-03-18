@@ -107000,6 +107000,13 @@ D8D67E     (base 16)		GSK CNC EQUIPMENT CO.,LTD
 				Guangzhou Guangdong 510165
 				CHINA
 
+D8-DC-E9   (hex)		Kunshan Erlab ductless filtration system Co.,Ltd
+D8DCE9     (base 16)		Kunshan Erlab ductless filtration system Co.,Ltd
+				NO.100 Liu Shi Jin Road
+				 Kunshan development Zone Penglang-Jiangsu Province
+				Kunshan Jiangsu 215300
+				CHINA
+
 D8-DF-0D   (hex)		beroNet GmbH
 D8DF0D     (base 16)		beroNet GmbH
 				Friedrichstraße 231
