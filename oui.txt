@@ -82269,6 +82269,13 @@ company_id			Organization
 				Seoul Songpa-gu 138-950
 				KOREA, REPUBLIC OF
 
+0C-27-24   (hex)		Cisco
+0C2724     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
 0C-27-55   (hex)		Valuable Techologies Limited
 0C2755     (base 16)		Valuable Techologies Limited
 				602, Centre Point, J.B.Nagar,
@@ -82966,6 +82973,12 @@ company_id			Organization
 				476 Castle Peak Road,
 				Cheung Sha Wan  
 				HONG KONG
+
+10-5C-3B   (hex)		Perma-Pipe, Inc.
+105C3B     (base 16)		Perma-Pipe, Inc.
+				7720 Lehigh Ave
+				Niles IL 60714
+				UNITED STATES
 
 10-5C-BF   (hex)		DuroByte Inc
 105CBF     (base 16)		DuroByte Inc
@@ -85571,6 +85584,12 @@ company_id			Organization
 				Redmond WA 98053
 				UNITED STATES
 
+24-FD-52   (hex)		Liteon Technology Corporation
+24FD52     (base 16)		Liteon Technology Corporation
+				4F,90,Chien 1 Road,ChungHo
+				New Taipei City  23585
+				TAIWAN, PROVINCE OF CHINA
+
 28-04-E0   (hex)		FERMAX ELECTRONICA S.A.U.
 2804E0     (base 16)		FERMAX ELECTRONICA S.A.U.
 				Tres Cruces 133
@@ -85785,6 +85804,12 @@ company_id			Organization
 				42 RUE MONGE
 				PARIS  75005
 				FRANCE
+
+28-79-94   (hex)		Realplay Digital Technology(Shenzhen) Co.,Ltd
+287994     (base 16)		Realplay Digital Technology(Shenzhen) Co.,Ltd
+				7/F,Building E,SDG Information Port ,Kefeng Rd.,Hi-tech
+				Shenzhen Guangdong 518057
+				CHINA
 
 28-85-2D   (hex)		Touch Networks
 28852D     (base 16)		Touch Networks
@@ -88288,6 +88313,12 @@ company_id			Organization
 				Sang-Dong, Wonmi-Gu,
 				Bucheon-Si Gyeonggi-Do 420-814
 				KOREA, REPUBLIC OF
+
+40-07-C0   (hex)		Railtec Systems GmbH
+4007C0     (base 16)		Railtec Systems GmbH
+				Sonnenbergstr. 19
+				Hergiswil Nidwalden 6052
+				SWITZERLAND
 
 40-0E-67   (hex)		Tremol Ltd.
 400E67     (base 16)		Tremol Ltd.
@@ -93579,6 +93610,13 @@ company_id			Organization
 				South San Francisco CA 94080
 				UNITED STATES
 
+6C-41-6A   (hex)		Cisco
+6C416A     (base 16)		Cisco
+				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
 6C-50-4D   (hex)		CISCO SYSTEMS, INC.
 6C504D     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
@@ -93858,6 +93896,13 @@ company_id			Organization
 				#75-10, Palgok2-dong, Sangnok-gu,
 				Ansan-city Kyunggi-do 426-190
 				KOREA, REPUBLIC OF
+
+6C-EC-A1   (hex)		SHENZHEN CLOU ELECTRONICS CO. LTD.
+6CECA1     (base 16)		SHENZHEN CLOU ELECTRONICS CO. LTD.
+				5/F, building. T2, Hi-tech Industrial Park
+				Nanshan District
+				SHENZ GUANGONG 518057
+				CHINA
 
 6C-F0-49   (hex)		GIGA-BYTE TECHNOLOGY CO.,LTD.
 6CF049     (base 16)		GIGA-BYTE TECHNOLOGY CO.,LTD.
@@ -95176,6 +95221,13 @@ company_id			Organization
 				Zürich ZH 8048
 				SWITZERLAND
 
+78-8D-F7   (hex)		Hitron Technologies. Inc
+788DF7     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd.Hsinchu
+				 Hsinchu Science Park,
+				Hsin-chu  300
+				TAIWAN, PROVINCE OF CHINA
+
 78-92-9C   (hex)		Intel Corporate
 78929C     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -96175,6 +96227,12 @@ company_id			Organization
 				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+80-4B-20   (hex)		Ventilation Control
+804B20     (base 16)		Ventilation Control
+				Kronenstrasse 34
+				Villingen-Schwenningen Baden-Wuerttemberg 78054
+				GERMANY
 
 80-4F-58   (hex)		ThinkEco, Inc.
 804F58     (base 16)		ThinkEco, Inc.
@@ -98446,6 +98504,12 @@ company_id			Organization
 				98 Inverness Dr East
 				Englewood CO 80112
 				UNITED STATES
+
+94-50-47   (hex)		Rechnerbetriebsgruppe
+945047     (base 16)		Rechnerbetriebsgruppe
+				Werner von Siemens Str. 64
+				Würzburg Bayern 97076
+				GERMANY
 
 94-51-03   (hex)		Samsung Electronics
 945103     (base 16)		Samsung Electronics
@@ -105393,6 +105457,12 @@ CCB8F1     (base 16)		EAGLE KINGDOM TECHNOLOGIES LIMITED
 				FLAT/ RM B 26/F TWO CHINACHEM PLAZA 68 CONNAUGHT ROAD CENTRAL HK
 				HONG KONG
 
+CC-BD-35   (hex)		Steinel GmbH
+CCBD35     (base 16)		Steinel GmbH
+				Dieselstrasse 80-84
+				Herzebrock-Clarholz  33442
+				GERMANY
+
 CC-BE-71   (hex)		OptiLogix BV
 CCBE71     (base 16)		OptiLogix BV
 				Joop Geesinkweg 999
@@ -107577,6 +107647,13 @@ E0-30-05   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
 E03005     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
 				Pudong Jinqiao
 				Shanghai  201206
+				CHINA
+
+E0-31-D0   (hex)		SZ Telstar CO., LTD
+E031D0     (base 16)		SZ Telstar CO., LTD
+				Telstar Technology Park No.12&14, Longtong Industrial Zone
+				Ailian, Longgang District
+				Shenzhen Guangdong 518172
 				CHINA
 
 E0-39-D7   (hex)		Plexxi, Inc.

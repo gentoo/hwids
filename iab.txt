@@ -26715,3 +26715,36 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Nanshan District, Shenzhen Guangdong 518055
 				CHINA
 
+40-D8-55	(hex)		ACT
+0C0000-0C0FFF	(base 16)	ACT
+				Unit C1
+				South City Business Center
+				Tallaght Dublin NA
+				IRELAND
+
+40-D8-55	(hex)		Xepto Computing Inc
+0C1000-0C1FFF	(base 16)	Xepto Computing Inc
+				Unit 2202, 22F Asian Star Building
+				Filinvest Corporate City
+				Alabang Muntinlupa 1781
+				PHILIPPINES
+
+40-D8-55	(hex)		SC Techswarm SRL
+0C2000-0C2FFF	(base 16)	SC Techswarm SRL
+				Lapusului Street, Nr. 17, Sc. A,
+				10 th Floor, Ap. 108, Room 2
+				Oradea Bihor 410271
+				ROMANIA
+
+40-D8-55	(hex)		APG CASH DRAWER
+0C3000-0C3FFF	(base 16)	APG CASH DRAWER
+				5250 INDUSTRIAL BLVD NE
+				MINNEAPOLIS Minnesota 55421
+				UNITED STATES
+
+40-D8-55	(hex)		Inspired Systems
+0C4000-0C4FFF	(base 16)	Inspired Systems
+				70 Mordaunt Cct
+				Canning Vale WA 6155
+				AUSTRALIA
+
