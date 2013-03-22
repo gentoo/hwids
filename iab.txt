@@ -26748,3 +26748,27 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Canning Vale WA 6155
 				AUSTRALIA
 
+40-D8-55	(hex)		M.M. Elektrolab
+0C5000-0C5FFF	(base 16)	M.M. Elektrolab
+				Dzona Kenedija 11
+				Beograd Srbija 11000
+				SERBIA
+
+40-D8-55	(hex)		comtime GmbH
+0C6000-0C6FFF	(base 16)	comtime GmbH
+				Gutenbergring 22
+				Norderstedt  22848
+				GERMANY
+
+40-D8-55	(hex)		insensiv GmbH
+0C7000-0C7FFF	(base 16)	insensiv GmbH
+				Heidsieker Heide 114
+				Bielefeld Nordrhein-Westfalen 33739
+				GERMANY
+
+40-D8-55	(hex)		Mettler Toledo Hispeed
+0C8000-0C8FFF	(base 16)	Mettler Toledo Hispeed
+				5 Barr Rd
+				Ithaca NY 14850
+				UNITED STATES
+
