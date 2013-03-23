@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.22
-#	Date:    2013-03-22 03:15:01
+#	Version: 2013.03.23
+#	Date:    2013-03-23 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1739,7 +1739,7 @@
 	71c1  RV535 [Radeon X1650 PRO]
 		174b 0880  Radeon X1700 FSC
 	71c2  RV530 [Radeon X1600 PRO]
-	71c4  RV530/M56GL [Mobility FireGL V5200]
+	71c4  RV530/M56 GL [Mobility FireGL V5200]
 		17aa 2007  ThinkPad T60p
 	71c5  RV530/M56-P [Mobility Radeon X1600]
 		103c 309f  Compaq nx9420 Notebook
@@ -1824,7 +1824,7 @@
 	7941  RS600 [Radeon Xpress 1250]
 	7942  RS600M [Radeon Xpress 1250]
 	796e  RS740 [Radeon 2100]
-	9400  R600 [Radeon HD 2900 Series]
+	9400  R600 [Radeon HD 2900 PRO/XT]
 		1002 2552  Radeon HD 2900 XT
 		1002 3000  Radeon HD 2900 PRO
 		1002 3142  HIS Radeon HD 2900XT 512MB GDDR3 VIVO PCIe
@@ -6230,8 +6230,8 @@
 		1048 0c56  GLADIAC Ultra
 	0153  NV15GL [Quadro2 Pro]
 	0160  NV44 [GeForce 6500]
-	0161  NV44 [GeForce 6200 TurboCache(TM)]
-	0162  NV44 [GeForce 6200SE TurboCache (TM)]
+	0161  NV44 [GeForce 6200 TurboCache]
+	0162  NV44 [GeForce 6200 SE TurboCache]
 	0163  NV44 [GeForce 6200 LE]
 	0164  NV44M [GeForce Go 6200]
 	0165  NV44 [Quadro NVS 285]
@@ -7509,14 +7509,13 @@
 	0dc5  GF106 [GeForce GTS 450 OEM]
 # taken from nv_disp.inf
 	0dc6  GF106 [GeForce GTS 450]
-	0dcd  GF106 [GeForce GT 555M]
-	0dce  GF106 [GeForce GT 555M]
-# rev a1
-	0dd1  GF106 [GeForce GTX 460M]
+	0dcd  GF106M [GeForce GT 555M]
+	0dce  GF106M [GeForce GT 555M]
+	0dd1  GF106M [GeForce GTX 460M]
 		1558 8687  CLEVO/KAPOK W860CU
-	0dd2  GF106 [GeForce GT 445M]
-	0dd3  GF106 [GeForce GT 435M]
-	0dd6  GF106 [GeForce GT 550M]
+	0dd2  GF106M [GeForce GT 445M]
+	0dd3  GF106M [GeForce GT 435M]
+	0dd6  GF106M [GeForce GT 550M]
 	0dd8  GF106GL [Quadro 2000]
 		10de 0914  Quadro 2000D
 # NVIDIA calls it GF106GML
@@ -7525,33 +7524,32 @@
 	0de1  GF108 [GeForce GT 430]
 		3842 1430  GeForce GT 430
 	0de2  GF108 [GeForce GT 420]
-	0de3  GF108 [GeForce GT 635M]
+	0de3  GF108M [GeForce GT 635M]
 # taken from nv_disp.inf
 	0de4  GF108 [GeForce GT 520]
 # taken from nv_disp.inf
 	0de5  GF108 [GeForce GT 530]
-	0de8  GF108 [GeForce GT 620M]
-	0de9  GF108 [GeForce GT 630M]
-	0dea  GF108 [GeForce 610M]
+	0de8  GF108M [GeForce GT 620M]
+	0de9  GF108M [GeForce GT 630M]
+	0dea  GF108M [GeForce 610M]
 		17aa 365a  GeForce 615
 		17aa 365b  GeForce 615
 		17aa 365e  GeForce 615
 		17aa 3660  GeForce 615
 		17aa 366c  GeForce 615
-# Not fully sure that it's GF108, might also be GF106.
-	0deb  GF108 [GeForce GT 555M]
-	0dec  GF108 [GeForce GT 525M]
-	0ded  GF108 [GeForce GT 520M]
-	0dee  GF108 [GeForce GT 415M]
-	0def  GF108 [Quadro NVS 5400M]
-	0df0  GF108 [GeForce GT 425M]
-	0df1  GF108 [GeForce GT 420M]
-	0df2  GF108 [GeForce GT 435M]
-	0df3  GF108 [GeForce GT 420M]
-	0df4  GF108 [GeForce GT 540M]
-	0df5  GF108 [GeForce GT 525M]
-	0df6  GF108 [GeForce GT 550M]
-	0df7  GF108 [GeForce GT 520M]
+	0deb  GF108M [GeForce GT 555M]
+	0dec  GF108M [GeForce GT 525M]
+	0ded  GF108M [GeForce GT 520M]
+	0dee  GF108M [GeForce GT 415M]
+	0def  GF108M [NVS 5400M]
+	0df0  GF108M [GeForce GT 425M]
+	0df1  GF108M [GeForce GT 420M]
+	0df2  GF108M [GeForce GT 435M]
+	0df3  GF108M [GeForce GT 420M]
+	0df4  GF108M [GeForce GT 540M]
+	0df5  GF108M [GeForce GT 525M]
+	0df6  GF108M [GeForce GT 550M]
+	0df7  GF108M [GeForce GT 520M]
 # NVIDIA calls it GL
 	0df8  GF108GL [Quadro 600]
 # NVIDIA calls it GLM
@@ -7585,16 +7583,16 @@
 	0fc2  GK107 [GeForce GT 630 OEM]
 	0fc6  GK107 [GeForce GTX 650]
 		1043 8428  GTX650-DC-1GD5
-	0fd1  GK107 [GeForce GT 650M]
+	0fd1  GK107M [GeForce GT 650M / GTX 660M LE]
 		1043 2103  N56VZ
-	0fd2  GK107 [GeForce GT 640M]
-	0fd3  GK107 [GeForce GT 640M LE]
-	0fd4  GK107 [GeForce GTX 660M]
-	0fd5  GK107 [GeForce GT 650M Mac Edition]
-	0fd8  GK107 [GeForce GT 640M Mac Edition]
-	0fd9  GK107 [GeForce GT 645M]
-	0fe1  GK107 [GeForce GT 730M]
-	0fe4  GK107 [GeForce GT 750M]
+	0fd2  GK107M [GeForce GT 640M]
+	0fd3  GK107M [GeForce GT 640M LE]
+	0fd4  GK107M [GeForce GTX 660M]
+	0fd5  GK107M [GeForce GT 650M Mac Edition]
+	0fd8  GK107M [GeForce GT 640M Mac Edition]
+	0fd9  GK107M [GeForce GT 645M]
+	0fe1  GK107M [GeForce GT 730M]
+	0fe4  GK107M [GeForce GT 750M]
 	0ff2  GK107GL [GRID K1]
 	0ff9  GK107GL [Quadro K2000D]
 	0ffa  GK107GL [Quadro K600]
@@ -7632,15 +7630,15 @@
 # 1024MB with passive cooling (heatsink)
 		10b0 104a  Gainward GeForce GT 610
 	104b  GF119 [GeForce GT 625 OEM]
-	1050  GF119 [GeForce GT 520M]
-	1051  GF119 [GeForce GT 520MX]
-	1052  GF119 [GeForce GT 520M]
-	1054  GF119 [GeForce 410M]
-	1055  GF119 [GeForce 410M]
-	1056  GF119 [Quadro NVS 4200M]
-	1057  GF119 [Quadro NVS 4200M]
-	1058  GF119 [GeForce 610M]
-	105a  GF119 [GeForce 610M]
+	1050  GF119M [GeForce GT 520M]
+	1051  GF119M [GeForce GT 520MX]
+	1052  GF119M [GeForce GT 520M]
+	1054  GF119M [GeForce 410M]
+	1055  GF119M [GeForce 410M]
+	1056  GF119M [Quadro NVS 4200M]
+	1057  GF119M [Quadro NVS 4200M]
+	1058  GF119M [GeForce 610M]
+	105a  GF119M [GeForce 610M]
 	107c  GF119 [NVS 315]
 	107d  GF119 [NVS 310]
 	1080  GF110 [GeForce GTX 580]
@@ -7658,12 +7656,12 @@
 	1089  GF110 [GeForce GTX 580]
 # taken from nv_disp.inf
 	108b  GF110 [GeForce GTX 580]
-	1091  GF110 [Tesla M2090]
+	1091  GF110GL [Tesla M2090]
 		10de 088e  Tesla X2090
 		10de 0891  Tesla X2090
-	1094  GF110 [Tesla M2075]
+	1094  GF110GL [Tesla M2075]
 		10de 0888  Tesla M2075
-	1096  GF110 [Tesla C2050 / C2075]
+	1096  GF110GL [Tesla C2050 / C2075]
 		10de 0910  Tesla C2075
 		10de 0911  Tesla C2050
 	109a  GF100GLM [Quadro 5010M]
@@ -7682,12 +7680,12 @@
 	1185  GK104 [GeForce GTX 660 OEM]
 	1188  GK104 [GeForce GTX 690]
 	1189  GK104 [GeForce GTX 670]
-	118f  GK104 [Tesla K10]
-	11a0  GK104 [GeForce GTX 680M]
-	11a1  GK104 [GeForce GTX 670MX]
-	11a2  GK104 [GeForce GTX 675MX]
-	11a3  GK104 [GeForce GTX 680MX]
-	11a7  GK104 [GeForce GTX 675MX]
+	118f  GK104GL [Tesla K10]
+	11a0  GK104M [GeForce GTX 680M]
+	11a1  GK104M [GeForce GTX 670MX]
+	11a2  GK104M [GeForce GTX 675MX]
+	11a3  GK104M [GeForce GTX 680MX]
+	11a7  GK104M [GeForce GTX 675MX]
 	11ba  GK104GL [Quadro K5000]
 	11bc  GK104GLM [Quadro K5000M]
 	11bd  GK104GLM [Quadro K4000M]
@@ -7711,22 +7709,22 @@
 	1207  GF114 [GeForce GTX 645]
 # taken from nv_disp.inf
 	1208  GF114 [GeForce GTX 560 SE]
-	1210  GF114 [GeForce GTX 570M]
-	1211  GF114 [GeForce GTX 580M]
-	1212  GF114 [GeForce GTX 675M]
-	1213  GF114 [GeForce GTX 670M]
+	1210  GF114M [GeForce GTX 570M]
+	1211  GF114M [GeForce GTX 580M]
+	1212  GF114M [GeForce GTX 675M]
+	1213  GF114M [GeForce GTX 670M]
 	1241  GF116 [GeForce GT 545 OEM]
 # GT, not GTX
 	1243  GF116 [GeForce GT 545]
 	1244  GF116 [GeForce GTX 550 Ti]
 	1245  GF116 [GeForce GTS 450 Rev. 2]
-	1246  GF116 [GeForce GT 550M]
-	1247  GF116 [GeForce GT 555M/635M]
-	1248  GF116 [GeForce GT 555M]
+	1246  GF116M [GeForce GT 550M]
+	1247  GF116M [GeForce GT 555M/635M]
+	1248  GF116M [GeForce GT 555M]
 	1249  GF116 [GeForce GTS 450 Rev. 3]
 	124b  GF116 [GeForce GT 640 OEM]
-	124d  GF116 [GeForce GT 555M/635M]
-	1251  GF116 [GeForce GT 560M]
+	124d  GF116M [GeForce GT 555M/635M]
+	1251  GF116M [GeForce GT 560M]
 	1280  GK208 [GeForce GT 635]
 10df  Emulex Corporation
 	0720  OneConnect NIC (Skyhawk)

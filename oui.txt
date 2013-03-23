@@ -80371,6 +80371,12 @@ company_id			Organization
 				San Jose California 95134
 				UNITED STATES
 
+04-1B-BA   (hex)		Samsung Electronics Co.,Ltd
+041BBA     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 04-1D-10   (hex)		Dream Ware Inc.
 041D10     (base 16)		Dream Ware Inc.
 				5-23-7 Masugata, Tama-ku,
@@ -83809,6 +83815,12 @@ company_id			Organization
 				Tampere  33561
 				FINLAND
 
+18-1E-B0   (hex)		Samsung Electronics Co.,Ltd
+181EB0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 18-20-32   (hex)		Apple, Inc.
 182032     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -83859,6 +83871,12 @@ company_id			Organization
 183451     (base 16)		Apple, Inc.
 				1 infinite Loop
 				cupertino cA 95014
+				UNITED STATES
+
+18-36-FC   (hex)		Elecsys International Corporation
+1836FC     (base 16)		Elecsys International Corporation
+				846 N Mart-Way Court
+				Olathe KS 66061
 				UNITED STATES
 
 18-38-25   (hex)		Wuhan Lingjiu High-tech Co.,Ltd.
@@ -91545,6 +91563,12 @@ company_id			Organization
 				Shanghai  200233
 				CHINA
 
+5C-3C-27   (hex)		Samsung Electronics Co.,Ltd
+5C3C27     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 5C-40-58   (hex)		Jefferson Audio Video Systems, Inc.
 5C4058     (base 16)		Jefferson Audio Video Systems, Inc.
 				13020 Middletown Industrial Blvd.
@@ -97300,6 +97324,12 @@ company_id			Organization
 				Seoul  137-070
 				KOREA, REPUBLIC OF
 
+88-9B-39   (hex)		Samsung Electronics Co.,Ltd
+889B39     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
 88-9F-FA   (hex)		Hon Hai Precision Ind. Co.,Ltd.
 889FFA     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				 NO.1925,Nanle Road ,Songjiang Export Processing Zone
@@ -100733,6 +100763,12 @@ A4C2AB     (base 16)		Hangzhou LEAD-IT Information & Technology Co.,Ltd
 				F2 Builder B,Xidomen Road NO.22
 				Hangzhou Zhejiang 310012
 				CHINA
+
+A4-D0-94   (hex)		Erwin Peters Systemtechnik GmbH
+A4D094     (base 16)		Erwin Peters Systemtechnik GmbH
+				Josef Baumann Strasse 37
+				Bochum  D44805
+				GERMANY
 
 A4-D1-8F   (hex)		Shenzhen Skyee Optical Fiber Communication Technology Ltd.
 A4D18F     (base 16)		Shenzhen Skyee Optical Fiber Communication Technology Ltd.
@@ -106979,6 +107015,13 @@ D862DB     (base 16)		Eno Inc.
 				Tokyo  1700013
 				JAPAN
 
+D8-66-C6   (hex)		Shenzhen Daystar Technology Co.,ltd
+D866C6     (base 16)		Shenzhen Daystar Technology Co.,ltd
+				The 5th Floor,#4 Building, Minxing Industria Zone
+				Minzhi Minkang Road, Banan District
+				Shenzhen Guangdong 518131
+				CHINA
+
 D8-67-D9   (hex)		CISCO SYSTEMS, INC.
 D867D9     (base 16)		CISCO SYSTEMS, INC.
 				170 W. TASMAN DRIVE
@@ -108295,6 +108338,12 @@ E42FF6     (base 16)		Unicore communication Inc.
 				Rm.312 Building 2 IRICO, No.11St.4,Shangdi, Haidian District,
 				Beijing  100085
 				CHINA
+
+E4-32-CB   (hex)		Samsung Electronics Co.,Ltd
+E432CB     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
 E4-35-93   (hex)		Hangzhou GoTo technology Co.Ltd
 E43593     (base 16)		Hangzhou GoTo technology Co.Ltd
@@ -110330,6 +110379,12 @@ F47F35     (base 16)		CISCO SYSTEMS, INC.
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
 				UNITED STATES
+
+F4-81-39   (hex)		CANON INC.
+F48139     (base 16)		CANON INC.
+				30-2 Shimomaruko 3-chome,
+				Ohta-ku Tokyo 146-8501
+				JAPAN
 
 F4-87-71   (hex)		Infoblox
 F48771     (base 16)		Infoblox
