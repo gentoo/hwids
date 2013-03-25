@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.24
-#	Date:    2013-03-24 03:15:01
+#	Version: 2013.03.25
+#	Date:    2013-03-25 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -608,7 +608,7 @@
 	4153  RV350 [Radeon 9550]
 		1043 010c  A9550GE/TD
 		1462 932c  RX9550SE-TD128 (MS-8932)
-	4154  RV350 [FireGL T2]
+	4154  RV350 GL [FireGL T2]
 	4155  RV350 [Radeon 9600]
 	4157  RV350 GL [FireGL T2]
 	4158  68800AX [Mach32]
@@ -1037,7 +1037,7 @@
 		1002 0003  Radeon R300 NE [Radeon 9500 Pro]
 		1681 0003  Hercules 3D Prophet 9500 PRO [Radeon 9500 Pro] (Secondary)
 	4e66  RV350 [Radeon 9600] (Secondary)
-	4e67  R300 [FireGL X1] (Secondary)
+	4e67  R300 GL [FireGL X1] (Secondary)
 	4e68  R350 [Radeon 9800 PRO] (Secondary)
 	4e69  R350 [Radeon 9800] (Secondary)
 	4e6a  RV350 [Radeon 9800 XT] (Secondary)
@@ -1424,6 +1424,7 @@
 		1028 048f  Radeon HD 6990M
 		1028 0490  Alienware M17x R3 Radeon HD 6970M
 		1028 04a4  FirePro M8900
+		1028 04ba  Radeon HD 6990M
 		1028 053f  FirePro M8900
 		106b 0b00  Radeon HD 6970M
 		1558 5102  Radeon HD 6970M
@@ -16447,10 +16448,15 @@
 	8d02  VT8636A [ProSavage KN133] AGP4X VGA Controller (TwisterK)
 	8d03  VT8751 [ProSavageDDR P4M266]
 	8d04  VT8375 [ProSavage8 KM266/KL266]
+	8e00  DeltaChrome
+	8e26  ProSavage
 	8e40  2300E Graphics Processor
-	8e48  Chrome S27 PCIE
+	8e48  Matrix [Chrome S25 / S27]
 		5333 0130  Chrome S27 256M DDR2
-	9102  86C410 Savage 2000
+	9043  Chrome 430 GT
+	9045  Chrome 430 ULP / 435 ULP / 440 GTX
+	9060  Chrome 530 GT
+	9102  86C410 [Savage 2000]
 		1092 5932  Viper II Z200
 		1092 5934  Viper II Z200
 		1092 5952  Viper II Z200
