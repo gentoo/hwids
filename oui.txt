@@ -87012,6 +87012,13 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
+34-1B-22   (hex)		Grandbeing Technology Co., Ltd
+341B22     (base 16)		Grandbeing Technology Co., Ltd
+				B-301,Science and Technology Building Phase II
+				1057 Nanhai Rd, Nanshan District
+				Shenzhen Guangdong 518000
+				CHINA
+
 34-21-09   (hex)		Jensen Scandinavia AS
 342109     (base 16)		Jensen Scandinavia AS
 				Balder Allé 3
@@ -88535,6 +88542,13 @@ company_id			Organization
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
 				UNITED STATES
+
+40-56-0C   (hex)		In Home Displays Ltd
+40560C     (base 16)		In Home Displays Ltd
+				Innovation Centre
+				1 Harrison Road
+				Dundee Angus DD2 3SN
+				UNITED KINGDOM
 
 40-5A-9B   (hex)		ANOVO
 405A9B     (base 16)		ANOVO
@@ -90704,6 +90718,12 @@ company_id			Organization
 				STE 204
 				Louisville Kentucky 40207
 				UNITED STATES
+
+54-2C-EA   (hex)		PROTECTRON
+542CEA     (base 16)		PROTECTRON
+				140 zone industriel
+				CASABLANCA 18600
+				MOROCCO
 
 54-31-31   (hex)		Raster Vision Ltd
 543131     (base 16)		Raster Vision Ltd
@@ -94419,6 +94439,12 @@ company_id			Organization
 				Wenzhou Zhejiang 325029
 				CHINA
 
+70-B1-4E   (hex)		Pace plc
+70B14E     (base 16)		Pace plc
+				Victoria Road
+				Saltaire West Yorkshire BD18 3LF
+				UNITED KINGDOM
+
 70-B2-65   (hex)		Hiltron s.r.l.
 70B265     (base 16)		Hiltron s.r.l.
 				Strada Provinciale di Caserta, 218
@@ -94500,6 +94526,13 @@ company_id			Organization
 				1 Infinite Loop
 				Cupertino cA 95014
 				UNITED STATES
+
+70-E0-27   (hex)		HONGYU COMMUNICATION TECHNOLOGY LIMITED
+70E027     (base 16)		HONGYU COMMUNICATION TECHNOLOGY LIMITED
+				Room4B, East Building 210,
+				Tairan Technology Park, Futian District,
+				Shen Zhen Guang Dong Province 518040
+				CHINA
 
 70-E1-39   (hex)		3view Ltd
 70E139     (base 16)		3view Ltd
@@ -94876,6 +94909,13 @@ company_id			Organization
 				Torshamnsgatan 36
 				Stockholm SE-164 80
 				SWEDEN
+
+74-CA-25   (hex)		Calxeda, Inc.
+74CA25     (base 16)		Calxeda, Inc.
+				7000 North Mopac Expressway
+				Suite 250
+				Austin TX 78731
+				UNITED STATES
 
 74-CD-0C   (hex)		Smith Myers Communications Ltd.
 74CD0C     (base 16)		Smith Myers Communications Ltd.
@@ -100209,6 +100249,12 @@ A09A5A     (base 16)		Time Domain
 				Huntsville AL 35805
 				UNITED STATES
 
+A0-9B-BD   (hex)		Total Aviation Solutions Pty Ltd
+A09BBD     (base 16)		Total Aviation Solutions Pty Ltd
+				Suite 816A / 3 PARKLAND BVDE
+				Brisbane QLD 4000
+				AUSTRALIA
+
 A0-A1-30   (hex)		DLI Taiwan Branch office
 A0A130     (base 16)		DLI Taiwan Branch office
 				No.18-5, No.738. Zhong Zheng Rd
@@ -102424,6 +102470,13 @@ B431B8     (base 16)		Aviwest
 				6 rue du Patis Tatelin
 				Rennes  35700
 				FRANCE
+
+B4-34-6C   (hex)		MATSUNICHI DIGITAL TECHNOLOGY (HONG KONG) LIMITED
+B4346C     (base 16)		MATSUNICHI DIGITAL TECHNOLOGY (HONG KONG) LIMITED
+				22/F. TWO INTERNATIONAL FINANCE CTR
+				8 FINANCE STREET CENTRAL
+				999077
+				HONG KONG
 
 B4-35-64   (hex)		Fujian Tian Cheng Electron Science & Technical Development Co.,Ltd.
 B43564     (base 16)		Fujian Tian Cheng Electron Science & Technical Development Co.,Ltd.
@@ -107942,6 +107995,12 @@ E07C62     (base 16)		Whistle Labs, Inc.
 				San Francisco CA 94013
 				UNITED STATES
 
+E0-7F-88   (hex)		EVIDENCE Network SIA
+E07F88     (base 16)		EVIDENCE Network SIA
+				Zilupes 4A
+				Rīga LV-1019
+				LATVIA
+
 E0-81-77   (hex)		GreenBytes, Inc.
 E08177     (base 16)		GreenBytes, Inc.
 				15 Gray Lane, Suite 301
@@ -108830,6 +108889,12 @@ E843B6     (base 16)		QNAP Systems, Inc.
 				New Taipei City  221
 				TAIWAN, PROVINCE OF CHINA
 
+E8-48-1F   (hex)		Advanced Automotive Antennas
+E8481F     (base 16)		Advanced Automotive Antennas
+				Pol.Ind Can Mitjans s/n
+				Viladecavalls Barcelona 08232
+				SPAIN
+
 E8-4E-06   (hex)		EDUP INTERNATIONAL (HK) CO., LTD
 E84E06     (base 16)		EDUP INTERNATIONAL (HK) CO., LTD
 				20D Room, Block B, Modern Windows Buidling, FuTian District,
@@ -108929,6 +108994,13 @@ E87AF3     (base 16)		S5 Tech S.r.l.
 				Via Tortona 72
 				Milano  20144
 				ITALY
+
+E8-80-D8   (hex)		GNTEK Electronics Co.,Ltd.
+E880D8     (base 16)		GNTEK Electronics Co.,Ltd.
+				Suzhou Industrial Park
+				Satellite Antenna Mansion 204，Zhongxin Road  No.56
+				Suzhou Jiangsu 215021
+				CHINA
 
 E8-89-2C   (hex)		ARRIS Group, Inc.
 E8892C     (base 16)		ARRIS Group, Inc.
@@ -111188,6 +111260,13 @@ FC3598     (base 16)		Favite Inc.
 				No.19, Lane 78, Yanhe St.,
 				Jhubei City Hsinchu County 302
 				TAIWAN, PROVINCE OF CHINA
+
+FC-35-E6   (hex)		Visteon corp
+FC35E6     (base 16)		Visteon corp
+				One Village Center Dr
+				Blg 25.3.073
+				Belleville MI 48111
+				UNITED STATES
 
 FC-44-63   (hex)		Universal Audio
 FC4463     (base 16)		Universal Audio
