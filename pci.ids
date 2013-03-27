@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.25
-#	Date:    2013-03-25 03:15:01
+#	Version: 2013.03.27
+#	Date:    2013-03-27 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1049,7 +1049,7 @@
 	5044  All-In-Wonder 128 PCI
 		1002 0028  Rage 128 AIW
 		1002 0029  Rage 128 AIW
-	5046  Rage 128 PF/PRO AGP 4x TMDS
+	5046  Rage 128 PRO AGP 4x TMDS
 		1002 0004  Rage Fury Pro
 		1002 0008  Rage Fury Pro/Xpert 2000 Pro
 		1002 0014  Rage Fury Pro
@@ -1561,7 +1561,7 @@
 	6828  Cape Verde PRO [FirePro W600]
 	6829  Cape Verde
 	682b  Venus LE [Radeon HD 8800M Series]
-	682d  Chelsea [AMD Radeon HD 7700M Series]
+	682d  Chelsea XT GL [FirePro M4000]
 	682f  Chelsea LP [Radeon HD 7730M]
 	6830  Cape Verde [Radeon HD 7800M Series]
 	6831  Cape Verde [AMD Radeon HD 7700M Series]
