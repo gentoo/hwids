@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.27
-#	Date:    2013-03-27 03:15:02
+#	Version: 2013.03.28
+#	Date:    2013-03-28 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -15924,6 +15924,8 @@
 1c32  Highland Technology, Inc.
 1c3b  Accensus, LLC
 	0200  Telas2
+# http://www.accensusllc.com/accensustelas2.html
+	0300  Telas 2.V
 1c44  Enmotus Inc
 	8000  8000 Storage IO Controller
 1c7f  Elektrobit Austria GmbH
@@ -20479,7 +20481,9 @@
 	2f6d  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
 	2f6e  Haswell-E DDRIO Channel 2/3 Broadcast
 	2f6f  Haswell-E DDRIO Global Broadcast
+	2f70  Haswell-E Home Agent 0 Debug
 	2f71  Haswell-E Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+	2f78  Haswell-E Home Agent 1 Debug
 	2f79  Haswell-E Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
 	2f7d  Haswell-E Scratchpad & Semaphore Registers
 	2f80  Haswell-E QPI Link 0
@@ -21599,7 +21603,7 @@
 	8d66  Wellsburg sSATA Controller [RAID mode]
 	8d68  Wellsburg sSATA Controller [IDE mode]
 	8d6e  Wellsburg sSATA Controller [RAID mode]
-	8d7c  Wellsburg SPSR
+	8d7c  Wellsburg EPSS
 	8d7d  Wellsburg MS SMBus 0
 	8d7e  Wellsburg MS SMBus 1
 	8d7f  Wellsburg MS SMBus 2

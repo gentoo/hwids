@@ -595,8 +595,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Malden Electronics Ltd
 05F000-05FFFF	(base 16)	Malden Electronics Ltd
-				264 Burlington Road
-				New Malden Surrey, KT3 4NN, England 
+				2 High Street
+				Ewell Surrey KT17 1SJ
 				UNITED KINGDOM
 
 00-50-C2	(hex)		PRIVATE
@@ -3350,8 +3350,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		MST SYSTEMS LIMITED
 21A000-21AFFF	(base 16)	MST SYSTEMS LIMITED
-				PO Box 88
-				Malvern Worcestershire WR14 1ZF
+				The Haysfield
+				Spring Lane North
+				Malvern Worcestershire WR14 1GF
 				UNITED KINGDOM
 
 00-50-C2	(hex)		General Dynamics Decision Systems
@@ -4521,9 +4522,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Neo Electronics Ltd
 2D7000-2D7FFF	(base 16)	Neo Electronics Ltd
-				Compass House
-				Neville Street
-				Chadderton Oldham OL9 6LD
+				Neo House
+				Shaw Road
+				Oldham Lancashire OL1 4AW
 				UNITED KINGDOM
 
 00-50-C2	(hex)		SYN-TECH SYSTEMS INC
@@ -5867,8 +5868,8 @@ IAB Range    			Organization
 				Daejeon  305-308
 				KOREA, REPUBLIC OF
 
-00-50-C2	(hex)		Norbit AS
-3AF000-3AFFFF	(base 16)	Norbit AS
+00-50-C2	(hex)		Norbit ODM AS
+3AF000-3AFFFF	(base 16)	Norbit ODM AS
 				Stiklestadveien 1
 				Trondheim  7041
 				NORWAY
@@ -6181,7 +6182,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		NeuLion Incorporated
 3E1000-3E1FFF	(base 16)	NeuLion Incorporated
-				1537 Old Country Road
+				1600 Old Country Road
 				Plainview NY 11803
 				UNITED STATES
 
@@ -6595,8 +6596,8 @@ IAB Range    			Organization
 				Terranuova Bracciolini Arezzo 52028
 				ITALY
 
-00-50-C2	(hex)		Metrolab Instruments SA
-424000-424FFF	(base 16)	Metrolab Instruments SA
+00-50-C2	(hex)		Metrolab Technology SA
+424000-424FFF	(base 16)	Metrolab Technology SA
 				ch. du Pont-du-Centenaire 110
 				Plan-les-Ouates Genève 1228
 				SWITZERLAND
@@ -7623,8 +7624,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Neets
 4C8000-4C8FFF	(base 16)	Neets
-				Torvet 4
-				8700 Horsens 
+				Langballe 4
+				Horsens  8700
 				DENMARK
 
 00-50-C2	(hex)		Scirocco AB
@@ -8012,8 +8013,8 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Micro Connect Pty Ltd
 507000-507FFF	(base 16)	Micro Connect Pty Ltd
-				30 Alexis Street
-				ASPLEY QLD 4034
+				22 Gardenia Place
+				FOREST GLEN QLD 4556
 				AUSTRALIA
 
 00-50-C2	(hex)		PUTERCOM ENTERPRISE CO., LTD.
@@ -10680,9 +10681,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Smart Key International Limited
 6B0000-6B0FFF	(base 16)	Smart Key International Limited
-				Room 914, 9/F, Lai Sun Comm. Ctr.
-				680 Cheung Sha Wan Road
-				Cheung Sha Wan KLN HK
+				Unit F46, 5/F., Wah Lok Ind Ctr
+				31-35 Shan Mei Street
+				Shatin NT HK
 				HONG KONG
 
 00-50-C2	(hex)		Burk Technology
@@ -11003,7 +11004,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Miros AS
 6E3000-6E3FFF	(base 16)	Miros AS
-				Solbraaveien 32
+				Solbraaveien 20
 				Asker Akershus 1383
 				NORWAY
 
@@ -11326,7 +11327,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		MB Connect Line GmbH
 717000-717FFF	(base 16)	MB Connect Line GmbH
-				Luitpoldstrasse 13a
+				Winnettener Str.6
 				Dinkelsbuehl bavaria 91550
 				GERMANY
 
@@ -12687,8 +12688,7 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Network Harbor, Inc.
 7F0000-7F0FFF	(base 16)	Network Harbor, Inc.
-				4006 N. Becker Drive
-				Suite B
+				5607 South Washington Street
 				Bartonville IL 61607
 				UNITED STATES
 
@@ -14081,8 +14081,8 @@ IAB Range    			Organization
 				Murten FR 3280
 				SWITZERLAND
 
-00-50-C2	(hex)		my-sen GmbH
-8D1000-8D1FFF	(base 16)	my-sen GmbH
+00-50-C2	(hex)		Bachmann Monitoring GmbH
+8D1000-8D1FFF	(base 16)	Bachmann Monitoring GmbH
 				Weimarische Strasse 10
 				Rudolstadt Thueringen 07407
 				GERMANY
@@ -20331,8 +20331,8 @@ CBE000-CBEFFF	(base 16)	CODE BLUE CORPORATION
 
 00-50-C2	(hex)		Megacon AB
 CBF000-CBFFFF	(base 16)	Megacon AB
-				Box 63
-				Kungsangen  196 22
+				Ranhammarsvägen 20
+				Bromma Stockholm 168 67
 				SWEDEN
 
 00-50-C2	(hex)		World Time Solutions Limited
@@ -20765,9 +20765,9 @@ D04000-D04FFF	(base 16)	Tehama Wireless
 
 00-50-C2	(hex)		nCk Research LLC
 D06000-D06FFF	(base 16)	nCk Research LLC
-				5701 East Circle Drive
-				#243
-				Cicero NY 13039
+				106 Cobblestone Court Drive
+				#189
+				Victor NY 14564
 				UNITED STATES
 
 00-50-C2	(hex)		IAF GmbH
@@ -21399,8 +21399,8 @@ D6A000-D6AFFF	(base 16)	A&T Corporation, Electrics Group , LAS R&D Unit,
 
 00-50-C2	(hex)		Nemec Automation
 D6B000-D6BFFF	(base 16)	Nemec Automation
-				Burgsteige 2
-				Tuebingen BW 72070
+				Waldkircher Str. 12
+				Freiburg BW 79106
 				GERMANY
 
 00-50-C2	(hex)		ALPHA Corporation
@@ -21897,9 +21897,9 @@ DBB000-DBBFFF	(base 16)	Esensors, Inc.
 
 00-50-C2	(hex)		Nantes Systems Private Limited
 DBC000-DBCFFF	(base 16)	Nantes Systems Private Limited
-				101, Software icons-1, 4th cross
-				LN Pura, AECS Layout
-				Bangalore Karnataka 560037
+				B-822 SOBHAWINDFALL
+				15 AMRUTHAHALLI, YELAHANKA HOBLI
+				BANGALORE KARNATAKA 560092
 				INDIA
 
 00-50-C2	(hex)		Margento R&D
@@ -22156,7 +22156,7 @@ DE4000-DE4FFF	(base 16)	EGS Technologies Ltd
 
 00-50-C2	(hex)		Neets
 DE5000-DE5FFF	(base 16)	Neets
-				Torvet 4
+				Langballe 4
 				Horsens  8700
 				DENMARK
 
@@ -26779,4 +26779,17 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Im Alten Riet 143
 				SCHAAN  9494
 				LIECHTENSTEIN
+
+40-D8-55	(hex)		ReliOn Inc
+0CB000-0CBFFF	(base 16)	ReliOn Inc
+				15913 E Euclid Ave
+				Spokane Wa 99216
+				UNITED STATES
+
+40-D8-55	(hex)		ATEME
+0CC000-0CCFFF	(base 16)	ATEME
+				26 Burospace
+				Route de Gisy
+				Bievres  91570
+				FRANCE
 
