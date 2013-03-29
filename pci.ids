@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.03.28
-#	Date:    2013-03-28 03:15:01
+#	Version: 2013.03.29
+#	Date:    2013-03-29 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -13517,7 +13517,7 @@
 		185f 1220  TravelMate 290E WLAN Mini-PCI Card
 	4321  BCM4321 802.11a Wireless Network Controller
 	4322  BCM4322 802.11bgn Wireless Network Controller
-	4324  BCM4306 802.11a/b/g
+	4324  BCM4309 802.11abg Wireless Network Controller
 		1028 0001  Truemobile 1400
 		1028 0002  TrueMobile 1400 Dual Band WLAN PC Card
 		1028 0003  Truemobile 1450 MiniPCI
