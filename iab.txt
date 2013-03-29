@@ -4746,9 +4746,9 @@ IAB Range    			Organization
 
 00-50-C2	(hex)		Arthur Industries Inc., dba On Hold Media Group
 2FB000-2FBFFF	(base 16)	Arthur Industries Inc., dba On Hold Media Group
-				2325 Coit Road
-				Suite A
-				Plano TX 75075
+				6836 Dallas Pkwy
+				Ste 200
+				Plano TX 75024
 				UNITED STATES
 
 00-50-C2	(hex)		Blackline Systems Corporation
@@ -8279,8 +8279,8 @@ IAB Range    			Organization
 				Caguas Puerto Rico 00726-9359
 				PUERTO RICO
 
-00-50-C2	(hex)		Orion Technologies, Inc.
-531000-531FFF	(base 16)	Orion Technologies, Inc.
+00-50-C2	(hex)		Orion Technologies, Incorporated
+531000-531FFF	(base 16)	Orion Technologies, Incorporated
 				690 Cone Park Court
 				Suite A
 				Merritt Island FL 32952
@@ -13579,7 +13579,7 @@ IAB Range    			Organization
 87F000-87FFFF	(base 16)	Optoelettronica Italia S.r.l.
 				via Vienna 8
 				settore D
-				Trento  38100
+				Trento Trento 38121
 				ITALY
 
 00-50-C2	(hex)		Creation Technologies Chicago
@@ -17203,9 +17203,10 @@ AC3000-AC3FFF	(base 16)	Diversified Control, Inc.
 				Orchard Park New York 14127
 				UNITED STATES
 
-00-50-C2	(hex)		Orion Technologies, Inc.
-AC4000-AC4FFF	(base 16)	Orion Technologies, Inc.
+00-50-C2	(hex)		Orion Technologies, Incorporated
+AC4000-AC4FFF	(base 16)	Orion Technologies, Incorporated
 				690 Cone Park Court
+				Suite A
 				Merritt Island FL 32952
 				UNITED STATES
 
@@ -21917,9 +21918,9 @@ DBE000-DBEFFF	(base 16)	WITHSYSTEM Co.,Ltd
 
 00-50-C2	(hex)		One-Nemoto Engineering Corporation
 DBF000-DBFFFF	(base 16)	One-Nemoto Engineering Corporation
-				8F Towa-Fudousan Shinyokohama Building
-				2-18-13 Shinyokohama, Kouhoku-ku
-				Yokohama city Kanagawa-ken 222-0033
+				
+				2-35-1 Tamagawadai, Setagaya-ku
+				Tokyo 158-0096
 				JAPAN
 
 00-50-C2	(hex)		Security Services Group (SSG)
@@ -26792,4 +26793,17 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Route de Gisy
 				Bievres  91570
 				FRANCE
+
+40-D8-55	(hex)		Logical Product
+0CD000-0CDFFF	(base 16)	Logical Product
+				2-25-5,matoba,minamiku
+				2F NAKAHARA BLDG
+				Fukuoka Fukuoka 811-1314
+				JAPAN
+
+40-D8-55	(hex)		EST Analytical
+0CE000-0CEFFF	(base 16)	EST Analytical
+				503 Commercial Dr
+				Fairfield OH 45014
+				UNITED STATES
 

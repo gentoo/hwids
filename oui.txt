@@ -11794,10 +11794,10 @@ company_id			Organization
 				Beijing  
 				CHINA
 
-00-07-31   (hex)		Ophir-Spiricon Inc
-000731     (base 16)		Ophir-Spiricon Inc
-				60 W 1000 N
-				Logan UT 84321
+00-07-31   (hex)		Ophir-Spiricon LLC
+000731     (base 16)		Ophir-Spiricon LLC
+				3050 N 300 W
+				North Logan UT 84341
 				UNITED STATES
 
 00-07-32   (hex)		AAEON Technology Inc.
@@ -21271,7 +21271,6 @@ company_id			Organization
 00-0D-20   (hex)		ASAHIKASEI TECHNOSYSTEM CO.,LTD.
 000D20     (base 16)		ASAHIKASEI TECHNOSYSTEM CO.,LTD.
 				Kanda Jinbocho 1-105
-				23-7,Nishishinjuku 1-chome
 				Chiyoda-ku Tokyo 101-8101
 				JAPAN
 
@@ -25451,8 +25450,8 @@ company_id			Organization
 				warmdo  S-13900
 				SWEDEN
 
-00-0F-BB   (hex)		Nokia Siemens Networks GmbH & Co. KG
-000FBB     (base 16)		Nokia Siemens Networks GmbH & Co. KG
+00-0F-BB   (hex)		Nokia Siemens Networks GmbH & Co. KG.
+000FBB     (base 16)		Nokia Siemens Networks GmbH & Co. KG.
 				Werner-von-Siemens Straße 2-6
 				Bruchsal Baden-Württemberg 76646
 				GERMANY
@@ -37133,7 +37132,7 @@ company_id			Organization
 
 00-16-F1   (hex)		OmniSense, LLC
 0016F1     (base 16)		OmniSense, LLC
-				2 Robin Drive
+				72 sams point road
 				Ladys Island SC 29907
 				UNITED STATES
 
@@ -37973,9 +37972,8 @@ company_id			Organization
 
 00-17-77   (hex)		Obsidian Research Corporation
 001777     (base 16)		Obsidian Research Corporation
-				Edmonton Research Park
-				Suite 106   9650-20 Ave
-				Edmonton Alberta T6N1G1
+				120 - 4445 Calgary Trail NW
+				Edmonton Alberta T6H 5R7
 				CANADA
 
 00-17-78   (hex)		Central Music Co.
@@ -39281,8 +39279,8 @@ company_id			Organization
 				Carrollton Texas 75006-5119
 				UNITED STATES
 
-00-18-45   (hex)		NPL Pulsar Ltd.
-001845     (base 16)		NPL Pulsar Ltd.
+00-18-45   (hex)		Pulsar-Telecom LLC.
+001845     (base 16)		Pulsar-Telecom LLC.
 				Zaharova, 18a
 				Penza  440044
 				RUSSIAN FEDERATION
@@ -57104,11 +57102,10 @@ company_id			Organization
 				Chur  7007
 				SWITZERLAND
 
-00-23-44   (hex)		Objective Interface Systems
-002344     (base 16)		Objective Interface Systems
-				13873 Park Center Rd
-				Suite 360
-				Herndon VA 20171
+00-23-44   (hex)		Objective Interface Systems, Inc.
+002344     (base 16)		Objective Interface Systems, Inc.
+				220 Spring Street, Suite 530
+				Herndon VA 20170-6201
 				UNITED STATES
 
 00-23-45   (hex)		Sony Ericsson Mobile Communications
@@ -61301,7 +61298,7 @@ company_id			Organization
 
 00-25-E4   (hex)		OMNI-WiFi, LLC
 0025E4     (base 16)		OMNI-WiFi, LLC
-				107 Pine Hill Road
+				70 Sullivan Street
 				Berwick Maine 03901
 				UNITED STATES
 
@@ -62192,10 +62189,10 @@ company_id			Organization
 				Clearwater Florida 33760
 				UNITED STATES
 
-00-26-73   (hex)		RICOH COMPANY LTD.
-002673     (base 16)		RICOH COMPANY LTD.
-				810 SHIMOIMAIZUMI
-				Ebina City KANAGAWA PREF 243-0460
+00-26-73   (hex)		RICOH COMPANY,LTD.
+002673     (base 16)		RICOH COMPANY,LTD.
+				810 Shimoimaizumi
+				Ebina-City Kanagawa-Pref 243-0460
 				JAPAN
 
 00-26-74   (hex)		Electronic Solutions, Inc.
@@ -78426,8 +78423,8 @@ company_id			Organization
 
 00-D0-FD   (hex)		OPTIMA TELE.COM, INC.
 00D0FD     (base 16)		OPTIMA TELE.COM, INC.
-				200-90 Allstate Parkway
-				Markham ON L3R 6H3
+				4-20 Cachet Woods Court
+				Markham ON L6C 3G1
 				CANADA
 
 00-D0-FE   (hex)		ASTRAL POINT
@@ -86087,6 +86084,13 @@ company_id			Organization
 				Shanghai  201203
 				CHINA
 
+28-DB-81   (hex)		Shanghai Guao Electronic Technology Co., Ltd
+28DB81     (base 16)		Shanghai Guao Electronic Technology Co., Ltd
+				No.6, Alley 1225 TongPu Road,
+				PuTuo District
+				Shanghai 200333
+				CHINA
+
 28-E0-2C   (hex)		Apple, Inc.
 28E02C     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -87041,6 +87045,13 @@ company_id			Organization
 				Cupertino CA 95014
 				UNITED STATES
 
+34-1A-4C   (hex)		SHENZHEN WEIBU ELECTRONICS CO.,LTD.
+341A4C     (base 16)		SHENZHEN WEIBU ELECTRONICS CO.,LTD.
+				3/F, Block 132,Jindi Industrial Zone
+				Futian Dist
+				Shenzhen Guangdong 518048
+				CHINA
+
 34-1B-22   (hex)		Grandbeing Technology Co., Ltd
 341B22     (base 16)		Grandbeing Technology Co., Ltd
 				B-301,Science and Technology Building Phase II
@@ -87197,6 +87208,12 @@ company_id			Organization
 				Harkortstraße 15
 				Münster NRW 48163
 				GERMANY
+
+34-95-DB   (hex)		Logitec Corporation
+3495DB     (base 16)		Logitec Corporation
+				8268 Rokudohara, Misuzu
+				Ina Nagano 3960111
+				JAPAN
 
 34-97-FB   (hex)		ADVANCED RF TECHNOLOGIES INC
 3497FB     (base 16)		ADVANCED RF TECHNOLOGIES INC
@@ -87724,7 +87741,7 @@ company_id			Organization
 38-9F-83   (hex)		OTN Systems N.V.
 389F83     (base 16)		OTN Systems N.V.
 				Industrielaan 17b
-				Herentals Olen 2250
+				Olen  2250
 				BELGIUM
 
 38-A5-B6   (hex)		SHENZHEN MEGMEET ELECTRICAL CO.,LTD
@@ -91591,6 +91608,12 @@ company_id			Organization
 				One Dell Way, MS RR5-45
 				Round Rock Texas 78682
 				UNITED STATES
+
+5C-33-5C   (hex)		Swissphone Telecom AG
+5C335C     (base 16)		Swissphone Telecom AG
+				Faelmisstrasse 21
+				Samstagern Zurich CH-8833
+				SWITZERLAND
 
 5C-33-8E   (hex)		Alpha Networkc Inc.
 5C338E     (base 16)		Alpha Networkc Inc.
@@ -96045,8 +96068,8 @@ company_id			Organization
 				San Jose CA 95134
 				UNITED STATES
 
-7C-B0-3E   (hex)		OSRAM AG
-7CB03E     (base 16)		OSRAM AG
+7C-B0-3E   (hex)		OSRAM GmbH
+7CB03E     (base 16)		OSRAM GmbH
 				Berliner Allee 65
 				Augsburg Bayern 86136
 				GERMANY
@@ -97079,11 +97102,11 @@ company_id			Organization
 				609917
 				SINGAPORE
 
-84-D3-2A   (hex)		IEEE P1905.1
-84D32A     (base 16)		IEEE P1905.1
+84-D3-2A   (hex)		IEEE 1905.1
+84D32A     (base 16)		IEEE 1905.1
 				445 Hoes Lane
 				PO Box 1331
-				Piscataway New Jersey 08855-1331
+				Piscataway  NJ 08855-1331
 				UNITED STATES
 
 84-D9-C8   (hex)		Unipattern Co.,
@@ -97181,6 +97204,12 @@ company_id			Organization
 				3rd Hi-Tech Industrial Park, Nanshan District
 				ShenZhen GuangDong 518052
 				CHINA
+
+88-14-2B   (hex)		Protonic Holland
+88142B     (base 16)		Protonic Holland
+				Factorij 36
+				Zwaag Netherlands 1689 AL
+				NETHERLANDS
 
 88-15-44   (hex)		Meraki, Inc.
 881544     (base 16)		Meraki, Inc.
@@ -99142,6 +99171,13 @@ company_id			Organization
 				Rogers Arkansas 72756
 				UNITED STATES
 
+98-3B-16   (hex)		AMPAK Technology Inc
+983B16     (base 16)		AMPAK Technology Inc
+				No.1,Jen Ai Road
+				Hsinchu Industrial Park,Hukou
+				Hsinchu  30352
+				TAIWAN, PROVINCE OF CHINA
+
 98-3F-9F   (hex)		China SSJ (Suzhou) Network Technology Inc.
 983F9F     (base 16)		China SSJ (Suzhou) Network Technology Inc.
 				399 Linquan St., Dongnan Building 411
@@ -99796,8 +99832,8 @@ company_id			Organization
 
 9C-AD-EF   (hex)		Obihai Technology, Inc.
 9CADEF     (base 16)		Obihai Technology, Inc.
-				19638 Stevens Creek Blvd
-				Cupertino CA 95014
+				2105 S. Bascom Ave #285
+				Campbell CA 95008
 				UNITED STATES
 
 9C-AF-CA   (hex)		CISCO SYSTEMS, INC.
@@ -99824,6 +99860,13 @@ company_id			Organization
 				4F,90,Chien 1 Road, ChungHo.
 				Taipei Hsien  23585
 				TAIWAN, PROVINCE OF CHINA
+
+9C-B7-93   (hex)		Creatcomm Technology Inc.
+9CB793     (base 16)		Creatcomm Technology Inc.
+				Rm 619, Buld A, Modern Plaza
+				, No. 18 Weiye Road
+				Kunshan Jiangsu 201203
+				CHINA
 
 9C-C0-77   (hex)		PrintCounts, LLC
 9CC077     (base 16)		PrintCounts, LLC
@@ -104489,6 +104532,12 @@ C43DC7     (base 16)		NETGEAR
 				350 EAST PLUMERIA DRIVE
 				SAN JOSE CALIFORNIA 95134
 				UNITED STATES
+
+C4-43-8F   (hex)		LG Electronics
+C4438F     (base 16)		LG Electronics
+				60-39, Kasan-dong, Gucheon-gu
+				Seoul Seoul 153-801
+				KOREA, REPUBLIC OF
 
 C4-45-67   (hex)		SAMBON PRECISON and ELECTRONICS
 C44567     (base 16)		SAMBON PRECISON and ELECTRONICS
