@@ -26807,3 +26807,33 @@ FFF000-FFFFFF	(base 16)	MSR-Solutions GmbH
 				Fairfield OH 45014
 				UNITED STATES
 
+40-D8-55	(hex)		Clark-MXR, Inc.
+0CF000-0CFFFF	(base 16)	Clark-MXR, Inc.
+				7300 W. Huron River Dr.
+				Dexter MI 48130
+				UNITED STATES
+
+40-D8-55	(hex)		Icraft Oy
+0D0000-0D0FFF	(base 16)	Icraft Oy
+				Åkerlundinkatu 3
+				Tampere 33100
+				FINLAND
+
+40-D8-55	(hex)		Cantada Inc
+0D1000-0D1FFF	(base 16)	Cantada Inc
+				5742 Oakton Court
+				Sarasota Florida 34233
+				UNITED STATES
+
+40-D8-55	(hex)		ELAN SYSTEMS
+0D2000-0D2FFF	(base 16)	ELAN SYSTEMS
+				10 IHASZ STR
+				BUDAPEST  1105
+				HUNGARY
+
+40-D8-55	(hex)		LECO Corporation
+0D3000-0D3FFF	(base 16)	LECO Corporation
+				3000 Lakeview Ave.
+				St. Joseph Michigan 49085
+				UNITED STATES
+
