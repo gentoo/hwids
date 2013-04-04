@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.04.03
-#	Date:    2013-04-03 03:15:01
+#	Version: 2013.04.04
+#	Date:    2013-04-04 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1507,13 +1507,20 @@
 		1043 041c  HD 7970 DirectCU II
 		1043 0420  HD 7970 DirectCU II TOP
 		1043 0444  HD 7970 DirectCU II TOP
+		1043 0448  HD 7970 DirectCU II TOP
+		1043 044a  Tahiti XT2 [Matrix HD 7970]
+		1043 044c  Tahiti XT2 [Matrix HD 7970 Platinum]
 		1043 9999  ARES II
+		1092 3000  Tahiti XT2 [Radeon HD 7970 GHz Edition]
+		1458 2261  Tahiti XT2 [Radeon HD 7970 GHz Edition OC]
 		1682 3211  Double D HD 7970 Black Edition
 # FX-797A-TNBC
 		1682 3213  HD 7970 Black Edition
+		1682 3214  Double D HD 7970
 		1787 201c  HD 7970 IceQ X²
 # Radeon HD 7970 X2
 		1787 2317  Radeon HD 7990
+		1787 3000  Tahiti XT2 [Radeon HD 7970 GHz Edition]
 	6799  New Zealand [Radeon HD 7900 Series]
 	679a  Tahiti PRO [Radeon HD 7950]
 		1002 0b01  Radeon HD 8950 OEM
@@ -6509,6 +6516,7 @@
 	029b  G71GLM [Quadro FX 1500M]
 	029c  G71GL [Quadro FX 5500]
 	029d  G71GL [Quadro FX 3500]
+		1028 019b  G71GLM [Quadro FX 3500M]
 	029e  G71GL [Quadro FX 1500]
 	029f  G71GL [Quadro FX 4500 X2]
 # Xbox Graphics Processing Unit (Integrated). GeForce3 derivative (NV20 < NV2A < NV25).
@@ -7070,6 +7078,7 @@
 	06c0  GF100 [GeForce GTX 480]
 	06c4  GF100 [GeForce GTX 465]
 	06ca  GF100M [GeForce GTX 480M]
+	06cb  GF100 [GeForce GTX 480]
 	06cd  GF100 [GeForce GTX 470]
 	06d1  GF100GL [Tesla C2050 / C2070]
 		10de 0771  Tesla C2050
@@ -7577,7 +7586,11 @@
 	0fc6  GK107 [GeForce GTX 650]
 		1043 8428  GTX650-DC-1GD5
 	0fd1  GK107M [GeForce GT 650M / GTX 660M LE]
+		1043 1597  GeForce GT 650M
+		1043 15a7  GeForce GT 650M
 		1043 2103  N56VZ
+		1043 2105  GeForce GT 650M
+		1043 2141  GeForce GT 650M
 	0fd2  GK107M [GeForce GT 640M]
 	0fd3  GK107M [GeForce GT 640M LE]
 	0fd4  GK107M [GeForce GTX 660M]
@@ -7640,10 +7653,15 @@
 	1052  GF119M [GeForce GT 520M]
 	1054  GF119M [GeForce 410M]
 	1055  GF119M [GeForce 410M]
-	1056  GF119M [Quadro NVS 4200M]
+	1056  GF119M [NVS 4200M]
 	1057  GF119M [Quadro NVS 4200M]
 	1058  GF119M [GeForce 610M]
+		1043 10ac  GeForce GT 610M
+		1043 10bc  GeForce GT 610M
+		1043 1652  GeForce GT 610M
 	105a  GF119M [GeForce 610M]
+		1043 2111  GeForce GT 610M
+		1043 2112  GeForce GT 610M
 	105b  GF119M [GeForce 705M]
 	107c  GF119 [NVS 315]
 	107d  GF119 [NVS 310]
@@ -7682,6 +7700,37 @@
 	10c5  GT218 [GeForce 405]
 	10d8  GT218 [NVS 300]
 	1140  GF117M [GeForce 610M/710M / GT 620M/625M/630M/720M]
+		1025 064a  GeForce GT 620M
+		1025 064c  GeForce GT 620M
+		1025 0691  GeForce 710M
+		1025 0719  GeForce GT 620M
+		1025 0725  GeForce GT 620M
+		1025 072b  GeForce GT 620M
+		1025 0773  GeForce 710M
+		1028 054d  GeForce GT 630M
+		1028 054e  GeForce GT 630M
+		1028 0554  GeForce GT 620M
+		1028 0557  GeForce GT 620M
+		1028 0565  GeForce GT 630M
+		1043 10dd  NVS 5200M
+		1043 10ed  NVS 5200M
+		1043 11fd  GeForce GT 720M
+		1043 124d  GeForce GT 720M
+		1043 126d  GeForce GT 720M
+		1043 14c7  GeForce GT 720M
+		1043 1507  GeForce GT 620M
+		1043 2132  GeForce GT 620M
+		1043 2136  NVS 5200M
+		1043 21ba  GeForce GT 720M
+		1043 21fa  GeForce GT 720M
+		1043 220a  GeForce GT 720M
+		144d c0d7  GeForce GT 620M
+		144d c652  GeForce GT 620M
+		17aa 2200  NVS 5200M
+		17aa 3901  GeForce 610M / GT 620M
+		17aa 3904  GeForce GT 620M/625M
+		17aa 3983  GeForce 610M
+		17aa 500d  GeForce GT 620M
 	1180  GK104 [GeForce GTX 680]
 	1183  GK104 [GeForce GTX 660 Ti]
 	1185  GK104 [GeForce GTX 660 OEM]
@@ -7739,6 +7788,12 @@
 	1245  GF116 [GeForce GTS 450 Rev. 2]
 	1246  GF116M [GeForce GT 550M]
 	1247  GF116M [GeForce GT 555M/635M]
+		1043 1752  GeForce GT 555M
+		1043 2050  GeForce GT 555M
+		1043 2051  GeForce GT 555M
+		1043 212a  GeForce GT 635M
+		1043 212b  GeForce GT 635M
+		1043 212c  GeForce GT 635M
 	1248  GF116M [GeForce GT 555M]
 	1249  GF116 [GeForce GTS 450 Rev. 3]
 	124b  GF116 [GeForce GT 640 OEM]
@@ -7750,6 +7805,7 @@
 	1292  GK208M [GeForce GT 740M]
 	1293  GK208M [GeForce GT 730M]
 	1294  GK208M [GeForce GT 740M]
+	12a0  GK208
 10df  Emulex Corporation
 	0720  OneConnect NIC (Skyhawk)
 	0722  OneConnect iSCSI Initiator (Skyhawk)
@@ -12845,7 +12901,7 @@
 1455  Logic Plus Plus Inc
 1456  Advanced Hardware Architectures
 1457  Nuera Communications Inc
-1458  Giga-byte Technology
+1458  Gigabyte Technology Co., Ltd
 1459  DOOIN Electronics
 145a  Escalate Networks Inc
 145b  PRAIM SRL
@@ -16542,6 +16598,7 @@
 	1022  4 photo couple 4 relay Card
 	1025  16 photo couple 16 relay Card
 	4000  WatchDog Card
+6688  Zycoo Co., Ltd
 # nee Qumranet
 6900  Red Hat, Inc.
 7063  pcHDTV
