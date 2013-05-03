@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.04.26
-#	Date:    2013-04-26 03:15:01
+#	Version: 2013.05.03
+#	Date:    2013-05-03 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1391,7 +1391,7 @@
 		148c 2117  PowerColor Bravo X700
 	5f57  R423 [Radeon X800 XT]
 	6600  Mars [Radeon HD 8670A/8750M]
-	6601  Mars [Radeon HD 8500/8700M Series]
+	6601  Mars [Radeon HD 8730M]
 	6602  Mars
 	6603  Mars
 	6606  Mars XTX [Radeon HD 8790M]
@@ -1442,7 +1442,6 @@
 		1558 5104  Radeon HD 6990M
 		1558 7201  Radeon HD 6990M
 		174b e188  Radeon HD 6970M
-	6723  Barts GL [ATI FirePro V (FireGL V) Graphics Adapter]
 	6724  Blackcomb [Mobility Radeon HD 6000 series]
 	6725  Blackcomb [Radeon HD 6900M Series]
 	6738  Barts XT [Radeon HD 6870]
@@ -1886,7 +1885,6 @@
 	94a3  RV740/M97 GL [FirePro M7740]
 	94b3  RV740 PRO [Radeon HD 4770]
 	94b4  RV740 PRO [Radeon HD 4750]
-	94b5  RV740 [Radeon HD 4770]
 	94c1  RV610 [Radeon HD 2400 PRO/XT]
 		1028 0211  Optiplex 755
 		1028 0d02  Optiplex 755
@@ -7740,6 +7738,12 @@
 	11bf  GK104GL [GRID K2]
 	11c0  GK106 [GeForce GTX 660]
 	11c2  GK106 [GeForce GTX 650 Ti Boost]
+		1043 845b  GeForce GTX 650 Ti Boost DirectCU II OC
+		1462 2874  GeForce GTX 650 Ti Boost TwinFrozr II OC
+		1569 11c2  GeForce GTX 650 Ti Boost OC
+		19da 1281  GeForce GTX 650 Ti Boost OC
+		3842 3657  GeForce GTX 650 Ti Boost
+		3842 3658  GeForce GTX 650 Ti Boost Superclocked
 	11c3  GK106 [GeForce GTX 650 Ti OEM]
 		10de 1030  GeForce GTX 650 Ti OEM
 	11c4  GK106 [GeForce GTX 645 OEM]
@@ -11495,6 +11499,7 @@
 	8154  PI7C8154A/PI7C8154B/PI7C8154BI PCI-to-PCI Bridge
 	e110  PI7C9X110 PCI Express to PCI bridge
 		1775 11cc  CC11/CL11 CompactPCI Bridge
+	e111  PI7C9X111SL PCIe-to-PCI Reversible Bridge
 	e130  PCI Express to PCI-XPI7C9X130 PCI-X Bridge
 12d9  Aculab PLC
 	0002  PCI Prosody
@@ -16899,11 +16904,13 @@
 		8086 4060  Dual Band Wireless-N 7260
 # Wilkins Peak 2 BGN + BT
 		8086 4062  Wireless-N 7260
+# Wilkins Peak 2 2x2 80MHz + BT
 		8086 4070  Dual Band Wireless-AC 7260
 # Wilkins Peak 2 2x2 AGN + BT
 		8086 4160  Dual Band Wireless-N 7260
 # Wilkins Peak 2 BGN + BT
 		8086 4162  Wireless-N 7260
+# Wilkins Peak 2 2x2 80MHz + BT
 		8086 4170  Dual Band Wireless-AC 7260
 # Wilkins Peak 2 AGN + BT
 		8086 4460  Dual Band Wireless-N 7260
@@ -17700,15 +17707,15 @@
 		8086 a06f  10-Gigabit XF LR Server Adapter
 	10f5  82567LM Gigabit Network Connection
 	10f6  82574L Gigabit Network Connection
-	10f7  82599EB 10-Gigabit KX4 Network Connection
+	10f7  10 Gigabit BR KX4 Dual Port Network Connection
 		108e 7b12  Sun Dual 10GbE PCIe 2.0 FEM
 		8086 000d  Ethernet Mezzanine Adapter X520-KX4-2
-	10f8  82599EB 10 Gigabit Dual Port Backplane Connection
+	10f8  82599 10 Gigabit Dual Port Backplane Connection
 		1028 1f63  10GbE 2P X520k bNDC
 		103c 17d2  Ethernet 10Gb 2-port 560M Adapter
 		103c 18d0  Ethernet 10Gb 2-port 560FLB Adapter
 		8086 000c  Ethernet X520 10GbE Dual Port KX4-KR Mezz
-	10f9  82599EB 10 Gigabit CX4 Dual Port Network Connection
+	10f9  82599 10 Gigabit Dual Port Network Connection
 	10fb  82599EB 10-Gigabit SFI/SFP+ Network Connection
 		1028 1f72  Ethernet 10G 4P X520/I350 rNDC
 		103c 17d0  Ethernet 10Gb 2-port 560FLR-SFP+ Adapter
@@ -17725,7 +17732,7 @@
 		8086 000c  Ethernet Server Adapter X520-2
 		8086 7a11  Ethernet Server Adapter X520-2
 		8086 7a12  Ethernet Server Adapter X520-2
-	10fc  82599EB 10-Gigabit XAUI/BX4 Network Connection
+	10fc  82599 10 Gigabit Dual Port Network Connection
 	10fe  82552 10/100 Network Connection
 	1107  PRO/1000 MF Server Adapter (LX)
 	1130  82815 815 Chipset Host Bridge and Memory Controller Hub
@@ -17951,7 +17958,7 @@
 		1028 04a3  Precision M4600
 	1503  82579V Gigabit Network Connection
 		1043 849c  P8P67 Deluxe Motherboard
-	1507  82599EB 10 Gigabit Network Connection
+	1507  Ethernet Express Module X520-P2
 	1508  82598EB Gigabit BX Network Connection
 	150a  82576NS Gigabit Network Connection
 	150b  82598EB 10-Gigabit AT2 Server Adapter
@@ -17968,7 +17975,7 @@
 	150f  82580 Gigabit Fiber Network Connection
 	1510  82580 Gigabit Backplane Connection
 	1511  82580 Gigabit SFP Connection
-	1514  82599EB 10 Gigabit KX4 Network Connection
+	1514  Ethernet X520 10GbE Dual Port KX4 Mezz
 		8086 000b  Ethernet X520 10GbE Dual Port KX4 Mezz
 	1515  X540 Ethernet Controller Virtual Function
 	1516  82580 Gigabit Network Connection
@@ -17977,7 +17984,7 @@
 	1517  82599ES 10 Gigabit Network Connection
 		1137 006a  UCS CNA M61KR-I Intel Converged Network Adapter
 	1518  82576NS SerDes Gigabit Network Connection
-	151c  82599EB 10 Gigabit TN Network Connection
+	151c  82599 10 Gigabit TN Network Connection
 		108e 7b13  Dual 10GBASE-T LP
 	1520  I350 Ethernet Controller Virtual Function
 	1521  I350 Gigabit Network Connection
@@ -18030,8 +18037,8 @@
 		8086 00a2  Ethernet Converged Network Adapter X540-T1
 		8086 1f61  Ethernet 10G 4P X540/I350 rNDC
 		8086 5003  Ethernet 10G 2P X540-t Adapter
-	1529  82599 10 Gigabit Dual Port Backplane Connection with FCoE
-	152a  82599 10 Gigabit Dual port Network Connection with FCoE
+	1529  82599 10 Gigabit Dual Port Network Connection with FCoE
+	152a  82599 10 Gigabit Dual Port Backplane Connection with FCoE
 	1533  I210 Gigabit Network Connection
 		103c 0003  Ethernet Server Adapter I210-T1
 		8086 0001  Ethernet Server Adapter I210-T1
@@ -18049,7 +18056,7 @@
 		8086 011a  Ethernet Converged Network Adapter X520-4
 		8086 011b  Ethernet Converged Network Adapter X520-4
 		8086 011c  Ethernet Converged Network Adapter X520-4
-	154d  82599EB 10-Gigabit SFP+ Network Connection
+	154d  Ethernet 10G 2P X520 Adapter
 		8086 7b11  10GbE 2P X520 Adapter
 	1557  82599 10 Gigabit Network Connection
 	1559  Ethernet Connection I218-V
