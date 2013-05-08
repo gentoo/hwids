@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.03
-#	Date:    2013-05-03 03:15:02
+#	Version: 2013.05.04
+#	Date:    2013-05-04 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -8048,6 +8048,7 @@
 		1a3b 1139  AW-NE139H Half-size Mini PCIe Card
 	8177  RTL8188CE 802.11b/g/n WiFi Adapter
 	8178  RTL8188CE 802.11b/g/n WiFi Adapter
+	8179  RTL8188EE Wireless Network Adapter
 	8180  RTL8180L 802.11b MAC
 		1385 4700  MA521 802.11b Wireless PC Card
 		1737 0019  WPC11v4 802.11b Wireless-B Notebook Adapter
@@ -13630,6 +13631,7 @@
 		106b 010f  AirPort Extreme
 	4333  Serial (EDGE/GPRS modem part of Option GT Combo Edge)
 	4344  EDGE/GPRS data and 802.11b/g combo cardbus [GC89]
+	4350  BCM43222 Wireless Network Adapter
 	4353  BCM43224 802.11a/b/g/n
 		1028 000e  Wireless 1520 Half-size Mini PCIe Card
 		103c 1509  WMIB-275N Half-size Mini PCIe Card
@@ -13644,6 +13646,7 @@
 		103c 182c  BCM943228HM4L 802.11a/b/g/n 2x2 Wi-Fi Adapter
 	4365  BCM43142 802.11b/g/n
 		1028 0016  Wireless 1704 802.11n + BT 4.0
+	43b1  BCM4352 802.11ac Wireless Network Adapter
 	4401  BCM4401 100Base-T
 		1025 0035  TravelMate 660
 		103c 08b0  tc1100 tablet
@@ -13701,6 +13704,7 @@
 	5841  BCM5841 Crypto Accelerator
 	5850  BCM5850 Crypto Accelerator
 	8602  BCM7400/BCM7405 Serial ATA Controller
+	a8d8  BCM43224/5 Wireless Network Adapter
 	b302  BCM56302 StrataXGS 24x1GE 2x10GE Switch Controller
 	b334  BCM56334 StrataXGS 24x1GE 4x10GE Switch Controller
 	b800  BCM56800 StrataXGS 10GE Switch Controller
@@ -14592,7 +14596,8 @@
 1682  XFX Pine Group Inc.
 1688  CastleNet Technology Inc.
 	1170  WLAN 802.11b card
-168c  Atheros Communications Inc.
+# nee Atheros Communications, Inc.
+168c  Qualcomm Atheros
 	0007  AR5210 Wireless Network Adapter [AR5000 802.11a]
 		1737 0007  WPC54A Wireless PC Card
 		1b47 0100  Harmony 8450CN Wireless CardBus Module
@@ -14792,7 +14797,7 @@
 	002c  AR2427 802.11bg Wireless Network Adapter (PCI-Express)
 	002d  AR9227 Wireless Network Adapter
 	002e  AR9287 Wireless Network Adapter (PCI-Express)
-	0030  AR9300 Wireless LAN adaptor
+	0030  AR93xx Wireless Network Adapter
 		103c 1627  AR9380/HB112 802.11abgn 3×3 Wi-Fi Adapter
 		106b 009a  AirPort Extreme
 		1186 3a7e  DWA-566 Wireless N 300 Dual Band PCIe Desktop Adapter
@@ -14802,7 +14807,8 @@
 		103c 1838  AR9485/HB125 802.11bgn 1×1 Wi-Fi Adapter
 	0033  AR9580 Wireless Network Adapter
 	0034  AR9462 Wireless Network Adapter
-	0036  AR9565 Wireless Network Adapter
+	0036  QCA9565 / AR9565 Wireless Network Adapter
+	003c  QCA988x 802.11ac Wireless Network Adapter
 	0207  AR5210 Wireless Network Adapter [AR5000 802.11a]
 	1014  AR5212 802.11abg NIC
 		1014 058a  ThinkPad 11a/b/g Wireless LAN Mini Express Adapter (AR5BXB6)
