@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.04
-#	Date:    2013-05-04 03:15:02
+#	Version: 2013.05.11
+#	Date:    2013-05-11 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -7728,6 +7728,7 @@
 	11a2  GK104M [GeForce GTX 675MX Mac Edition]
 	11a3  GK104M [GeForce GTX 680MX]
 	11a7  GK104M [GeForce GTX 675MX]
+	11ac  GK104 [GeForce GTX 770]
 	11b0  GK104GL [Quadro K2 USM]
 	11b1  GK104GL [Tesla K2 USM]
 	11ba  GK104GL [Quadro K5000]
