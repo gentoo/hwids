@@ -27053,3 +27053,24 @@
 				Dinkelsbühl  91550
 				GERMANY
 
+  40-D8-55	(hex)		CST Group
+  0F5000-0F5FFF	(base 16)	CST Group
+  				3012 Rodgerdale Road
+				Houston TX 77042
+				UNITED STATES
+
+  40-D8-55	(hex)		PRIVATE
+  0F6000-0F6FFF	(base 16)		 
+  				 
+  40-D8-55	(hex)		Comline Elektronik Elektrotechnik GmbH
+  0F7000-0F7FFF	(base 16)	Comline Elektronik Elektrotechnik GmbH
+  				Karl-Rapp-Straße 1
+				Wackersdorf Bayern 92442
+				GERMANY
+
+  40-D8-55	(hex)		Better Place
+  0F8000-0F8FFF	(base 16)	Better Place
+  				Amal 13B, Afek Industrial park
+				Rosh Ha'ain,  48092
+				ISRAEL
+

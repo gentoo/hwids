@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.11
-#	Date:    2013-05-11 03:15:02
+#	Version: 2013.05.14
+#	Date:    2013-05-14 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1403,7 +1403,7 @@
 	6621  Mars PRO
 	6623  Mars
 	6631  Oland
-	6640  Saturn XT
+	6640  Saturn [Radeon HD 8950]
 	6641  Saturn PRO
 	6649  Bonaire
 	6650  Bonaire
@@ -1422,7 +1422,7 @@
 	6660  Sun XT [Radeon HD 8600M Series]
 	6663  Sun PRO [Radeon HD 8500M Series]
 	6667  Sun
-	666f  Sun LE
+	666f  Sun [Radeon HD 8500M]
 	6670  Hainan
 	6704  Cayman PRO GL [FirePro V7900]
 	6707  Cayman LE GL [FirePro V5900]
@@ -2761,6 +2761,7 @@
 	780b  FCH SMBus Controller
 	780c  FCH IDE Controller
 	780d  FCH Azalia Controller
+		1043 8444  F2A85-M Series
 	780e  FCH LPC Bridge
 	780f  FCH PCI Bridge
 	7812  FCH USB XHCI Controller
@@ -18068,6 +18069,10 @@
 	1557  82599 10 Gigabit Network Connection
 	1559  Ethernet Connection I218-V
 	155a  Ethernet Connection I218-LM
+	155c  Ethernet Server Bypass Adapter
+		8086 0001  Ethernet Server Bypass Adapter X540-T2
+	155d  Ethernet Server Bypass Adapter
+		8086 0001  Ethernet Server Bypass Adapter X520-SR2
 	1560  Ethernet Controller X540-AT1
 	157b  I210 Gigabit Network Connection
 	1960  80960RP (i960RP) Microprocessor
