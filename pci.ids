@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.14
-#	Date:    2013-05-14 03:15:01
+#	Version: 2013.05.17
+#	Date:    2013-05-17 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -2035,7 +2035,7 @@
 	983a  Kabini
 	983b  Kabini
 	983c  Kabini
-	983d  Kabini [Radeon HD 8250]
+	983d  Temash [Radeon HD 8280G]
 	983e  Kabini
 	983f  Kabini
 # AMD A10-5800K CPU
@@ -3635,15 +3635,21 @@
 		103c 3355  P220i
 # New Smart Array controllers for Gen8+ servers
 	323c  Smart Array Gen8+ Controllers
-		103c 1920  Smart Array
-		103c 1921  Smart Array
-		103c 1922  Smart Array
-		103c 1923  Smart Array
-		103c 1924  Smart Array
+# Add marketing names for Gen8+ Smart Array
+		103c 1920  P430i
+# Add marketing names for Gen8+ Smart Array
+		103c 1921  P830i
+# Add marketing names for Gen8+ Smart Array
+		103c 1922  P430
+# Add marketing names for Gen8+ Smart Array
+		103c 1923  P431
+# Add marketing names for Gen8+ Smart Array
+		103c 1924  P830
 		103c 1925  Smart Array
-		103c 1926  Smart Array
-		103c 1927  Smart Array
-		103c 1928  Smart Array
+# Add marketing names for Gen8+ Smart Array
+		103c 1926  P731m
+# Add marketing names for Gen8+ Smart Array
+		103c 1928  P230i
 	3300  Integrated Lights-Out Standard Virtual USB Controller
 		103c 3304  iLO2
 		103c 3305  iLO2
@@ -7610,6 +7616,7 @@
 	0ffe  GK107GL [Quadro K2000]
 	0fff  GK107GL [Quadro 410]
 	1003  GK110 [GeForce GTX Titan LE]
+	1004  GK110 [GeForce GTX 780]
 	1005  GK110 [GeForce GTX Titan]
 		1043 8451  GTXTITAN-6GD5
 # Reference Model
@@ -7682,18 +7689,54 @@
 	10c5  GT218 [GeForce 405]
 	10d8  GT218 [NVS 300]
 	1140  GF117M [GeForce 610M/710M / GT 620M/625M/630M/720M]
+		1025 0600  GeForce GT 620M
+		1025 0606  GeForce GT 620M
 		1025 064a  GeForce GT 620M
 		1025 064c  GeForce GT 620M
+		1025 067a  GeForce GT 620M
+		1025 0680  GeForce GT 620M
+		1025 0686  GeForce 710M
+		1025 0689  GeForce 710M
+		1025 068b  GeForce 710M
+		1025 068d  GeForce 710M
+		1025 068e  GeForce 710M
 		1025 0691  GeForce 710M
+		1025 0692  GeForce GT 620M
+		1025 0694  GeForce GT 620M
+		1025 0702  GeForce GT 620M
 		1025 0719  GeForce GT 620M
 		1025 0725  GeForce GT 620M
+		1025 0728  GeForce GT 620M
 		1025 072b  GeForce GT 620M
+		1025 072e  GeForce GT 620M
+		1025 0732  GeForce GT 620M
 		1025 0773  GeForce 710M
+		1025 0774  GeForce 710M
+		1025 077a  GeForce 710M
+		1025 077b  GeForce 710M
+		1025 077c  GeForce 710M
+		1025 077d  GeForce 710M
+		1025 077e  GeForce 710M
+		1025 077f  GeForce 710M
 		1028 054d  GeForce GT 630M
 		1028 054e  GeForce GT 630M
 		1028 0554  GeForce GT 620M
 		1028 0557  GeForce GT 620M
 		1028 0565  GeForce GT 630M
+		1028 0568  GeForce GT 630M
+		1028 0590  GeForce GT 630M
+		1028 0592  GeForce GT 625M
+		1028 0594  GeForce GT 625M
+		1028 0595  GeForce GT 625M
+		1028 05a2  GeForce GT 625M
+		1028 05b1  GeForce GT 625M
+		1028 05b3  GeForce GT 625M
+		1028 05da  GeForce GT 630M
+		103c 18ef  GeForce GT 630M
+		103c 18f9  GeForce GT 630M
+		103c 18fb  GeForce GT 630M
+		103c 18fd  GeForce GT 630M
+		103c 18ff  GeForce GT 630M
 		1043 10dd  NVS 5200M
 		1043 10ed  NVS 5200M
 		1043 11fd  GeForce GT 720M
@@ -7706,16 +7749,35 @@
 		1043 21ba  GeForce GT 720M
 		1043 21fa  GeForce GT 720M
 		1043 220a  GeForce GT 720M
+		144d c0d5  GeForce GT 630M
 		144d c0d7  GeForce GT 620M
+		144d c0e2  NVS 5200M
+		144d c0e3  NVS 5200M
+		144d c0e4  NVS 5200M
 		144d c652  GeForce GT 620M
+		1462 10b8  GeForce 710M
+		1462 10e9  GeForce GT 720M
+		152d 0926  GeForce GT 620M
+		152d 0982  GeForce GT 630M
+		152d 0983  GeForce GT 630M
+		152d 1030  GeForce GT 630M
 		17aa 2200  NVS 5200M
 		17aa 3901  GeForce 610M / GT 620M
+		17aa 3902  GeForce 710M
+		17aa 3903  GeForce 710M
 		17aa 3904  GeForce GT 620M/625M
+		17aa 3905  GeForce GT 720M
+		17aa 3910  GeForce GT 720M
 		17aa 3983  GeForce 610M
 		17aa 500d  GeForce GT 620M
+		17aa 5014  GeForce 710M
+		17aa 5017  GeForce 710M
+		17aa 5019  GeForce 710M
+		17aa 502a  GeForce 710M
 	1180  GK104 [GeForce GTX 680]
 		3842 3682  GeForce GTX 680 Mac Edition
 	1183  GK104 [GeForce GTX 660 Ti]
+	1184  GK104 [GeForce GTX 770]
 	1185  GK104 [GeForce GTX 660 OEM]
 	1188  GK104 [GeForce GTX 690]
 	1189  GK104 [GeForce GTX 670]
@@ -7729,7 +7791,6 @@
 	11a2  GK104M [GeForce GTX 675MX Mac Edition]
 	11a3  GK104M [GeForce GTX 680MX]
 	11a7  GK104M [GeForce GTX 675MX]
-	11ac  GK104 [GeForce GTX 770]
 	11b0  GK104GL [Quadro K2 USM]
 	11b1  GK104GL [Tesla K2 USM]
 	11ba  GK104GL [Quadro K5000]
@@ -18017,6 +18078,7 @@
 		8086 0002  Ethernet Server Adapter I350-T2
 		8086 0003  Ethernet Server Adapter I350-F4
 		8086 0004  Ethernet Server Adapter I350-F2
+		8086 00a2  Ethernet Server Adapter I350-T2
 		8086 00a3  Ethernet Server Adapter I350-F4
 		8086 00a4  Ethernet Server Adapter I350-F2
 	1523  I350 Gigabit Backplane Connection

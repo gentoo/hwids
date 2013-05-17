@@ -27074,3 +27074,28 @@
 				Rosh Ha'ain,  48092
 				ISRAEL
 
+  40-D8-55	(hex)		Invisua Lighting BV
+  0F9000-0F9FFF	(base 16)	Invisua Lighting BV
+  				Nuenenseweg 167
+				B23
+				Geldrop NB 5667KP
+				NETHERLANDS
+
+  40-D8-55	(hex)		Marmitek BV
+  0FA000-0FAFFF	(base 16)	Marmitek BV
+  				Postbus 4257
+				Eindhoven NB 5604 EG
+				NETHERLANDS
+
+  40-D8-55	(hex)		InfoMac Sp. z o. o. Sp. k.
+  0FB000-0FBFFF	(base 16)	InfoMac Sp. z o. o. Sp. k.
+  				ul Wojska Polskiego 6
+				Szczecinek Zachodniopomorskie 78-400
+				POLAND
+
+  40-D8-55	(hex)		eumig industrie-tv GmbH
+  0FC000-0FCFFF	(base 16)	eumig industrie-tv GmbH
+  				Gewerbeparkstr.9
+				Salzburg Anif 5081
+				AUSTRIA
+
