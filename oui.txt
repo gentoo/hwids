@@ -83525,6 +83525,12 @@
 				PARIS  75008
 				FRANCE
 
+  14-0D-4F   (hex)		Flextronics International
+  140D4F     (base 16)		Flextronics International
+  				2241 Lundy Ave.
+				San Jose CA 95131
+				UNITED STATES
+
   14-10-9F   (hex)		Apple Inc
   14109F     (base 16)		Apple Inc
   				1 Infinite Loop
@@ -87100,6 +87106,12 @@
   305D38     (base 16)		Beissbarth
   				Hanauer Str. 101
 				Muenchen  80993
+				GERMANY
+
+  30-61-12   (hex)		PAV GmbH
+  306112     (base 16)		PAV GmbH
+  				Georg-Kaindl-Straße 11
+				Otterfing  83624
 				GERMANY
 
   30-61-18   (hex)		Paradom Inc.
@@ -95098,6 +95110,12 @@
 				Hvalstad Akershus 1395
 				NORWAY
 
+  70-A8-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+  70A8E3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+  				D1,Huawei Industrial Base,Bantian,Longgang,Shenzhen
+				Shenzhen Guangdong 518129
+				CHINA
+
   70-AA-B2   (hex)		Research In Motion
   70AAB2     (base 16)		Research In Motion
   				295 Phillip Street
@@ -97513,6 +97531,12 @@
 				Holtsville NY 11742
 				UNITED STATES
 
+  84-25-3F   (hex)		Silex Technology, Inc
+  84253F     (base 16)		Silex Technology, Inc
+  				2-3-1 Hikaridai
+				Seika-cho Kyoto 619-0237
+				JAPAN
+
   84-25-DB   (hex)		Samsung Electronics Co.,Ltd
   8425DB     (base 16)		Samsung Electronics Co.,Ltd
   				#94-1, Imsoo-Dong
@@ -99115,6 +99139,12 @@
 				2 Keling Road, New district,
 				Suzhou Jiangsu 215163
 				CHINA
+
+  90-7A-0A   (hex)		Gebr. Bode GmbH & Co KG
+  907A0A     (base 16)		Gebr. Bode GmbH & Co KG
+  				Ochshaeuser Str. 14
+				Kassel  34266
+				GERMANY
 
   90-7A-28   (hex)		Beijing Morncloud Information And Technology Co. Ltd.
   907A28     (base 16)		Beijing Morncloud Information And Technology Co. Ltd.
@@ -101213,7 +101243,7 @@
   A0-B3-CC   (hex)		Hewlett Packard
   A0B3CC     (base 16)		Hewlett Packard
   				11445 Compaq Center Drive
-				Houston Texa 77070
+				Houston Texas 77070
 				UNITED STATES
 
   A0-B5-DA   (hex)		HongKong THTF Co., Ltd
@@ -108287,6 +108317,12 @@
   				830 Stewart Dr. #201
 				Sunnyvale Ca 94085
 				UNITED STATES
+
+  D8-49-0B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+  D8490B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+  				D1,Huawei Industrial Base,Bantian,Longgang,Shenzhen
+				Shenzhen Guangdong 518129
+				CHINA
 
   D8-4B-2A   (hex)		Cognitas Technologies, Inc.
   D84B2A     (base 16)		Cognitas Technologies, Inc.

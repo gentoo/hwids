@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.17
-#	Date:    2013-05-17 03:15:02
+#	Version: 2013.05.22
+#	Date:    2013-05-22 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -7566,7 +7566,7 @@
 	0e09  GF110 High Definition Audio Controller
 	0e0a  GK104 HDMI Audio Controller
 	0e0c  GF114 HDMI Audio Controller
-	0e1a  GK110 HDMI Audio [GeForce GTX Titan]
+	0e1a  GK110 HDMI Audio
 	0e1b  GK107 HDMI Audio Controller
 		1043 8428  GTX650-DC-1GD5
 	0e22  GF104 [GeForce GTX 460]
@@ -7742,6 +7742,7 @@
 		1043 11fd  GeForce GT 720M
 		1043 124d  GeForce GT 720M
 		1043 126d  GeForce GT 720M
+		1043 131d  GeForce GT 720M
 		1043 14c7  GeForce GT 720M
 		1043 1507  GeForce GT 620M
 		1043 2132  GeForce GT 620M
@@ -7749,6 +7750,7 @@
 		1043 21ba  GeForce GT 720M
 		1043 21fa  GeForce GT 720M
 		1043 220a  GeForce GT 720M
+		1043 221a  GeForce GT 720M
 		144d c0d5  GeForce GT 630M
 		144d c0d7  GeForce GT 620M
 		144d c0e2  NVS 5200M

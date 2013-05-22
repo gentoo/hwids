@@ -27099,3 +27099,9 @@
 				Salzburg Anif 5081
 				AUSTRIA
 
+  40-D8-55	(hex)		MONOGRAM technologies ltd
+  0FD000-0FDFFF	(base 16)	MONOGRAM technologies ltd
+  				Ilkovicova 6276
+				Bratislava  84216
+				SLOVAKIA
+
