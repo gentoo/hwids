@@ -82145,6 +82145,12 @@
 				Silverwater New South Wales 2128
 				AUSTRALIA
 
+  08-96-D7   (hex)		AVM GmbH
+  0896D7     (base 16)		AVM GmbH
+  				Alt-Moabit 95
+				Berlin 10559
+				GERMANY
+
   08-9E-01   (hex)		QUANTA COMPUTER INC.
   089E01     (base 16)		QUANTA COMPUTER INC.
   				No.211, Wen Hwa 2nd Rd., Kuei Shan Hsiang,Tao Yuan Shien, Taiwan, R. O. C.
@@ -89427,6 +89433,12 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  44-2A-FF   (hex)		E3 Technology, Inc.
+  442AFF     (base 16)		E3 Technology, Inc.
+  				Martell-house 2F, 2-28-3 Sekimachi-Kita,
+				Nerima-ku Tokyo 177-0051
+				JAPAN
 
   44-2B-03   (hex)		CISCO SYSTEMS, INC.
   442B03     (base 16)		CISCO SYSTEMS, INC.
@@ -96726,6 +96738,12 @@
   				2740 Fenton Rd
 				Ottawa ON K1T3T7
 				CANADA
+
+  7C-83-06   (hex)		Glen Dimplex Nordic as
+  7C8306     (base 16)		Glen Dimplex Nordic as
+  				Postboks 16
+				Stjoerdal N-T 7501
+				NORWAY
 
   7C-8E-E4   (hex)		Texas Instruments
   7C8EE4     (base 16)		Texas Instruments
@@ -110638,6 +110656,12 @@
 				Brampton Ontario L6P 2T4
 				CANADA
 
+  E8-EA-DA   (hex)		Denkovi Assembly Electroncs LTD
+  E8EADA     (base 16)		Denkovi Assembly Electroncs LTD
+  				St. Stambolov str. 21
+				Byala Rousse 7100
+				BULGARIA
+
   E8-F1-B0   (hex)		SAGEMCOM SAS
   E8F1B0     (base 16)		SAGEMCOM SAS
   				250 ROUTE DE L'EMPEREUR
@@ -112303,6 +112327,12 @@
 				SE
 				Kista  164 74
 				SWEDEN
+
+  F8-5B-C9   (hex)		M-Cube Spa
+  F85BC9     (base 16)		M-Cube Spa
+  				Corso Cavour 2/2d
+				Trieste 34132
+				ITALY
 
   F8-5F-2A   (hex)		Nokia Corporation
   F85F2A     (base 16)		Nokia Corporation

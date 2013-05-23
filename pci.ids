@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.22
-#	Date:    2013-05-22 03:15:01
+#	Version: 2013.05.23
+#	Date:    2013-05-23 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1277,13 +1277,13 @@
 		103c 280a  DC5750 Microtower
 		1462 7141  Aspire L250
 	5975  RS482M [Mobility Radeon Xpress 200]
-	5978  RD790 PCI to PCI bridge (external gfx0 port A)
+	5978  RX780/RD790 PCI to PCI bridge (external gfx0 port A)
 		1849 5957  A770CrossFire Motherboard
 	5979  RD790 PCI to PCI bridge (external gfx0 port B)
 	597a  RD790 PCI to PCI bridge (PCI express gpp port A)
-	597b  RD790 PCI to PCI bridge (PCI express gpp port B)
+	597b  RX780/RD790 PCI to PCI bridge (PCI express gpp port B)
 	597c  RD790 PCI to PCI bridge (PCI express gpp port C)
-	597d  RD790 PCI to PCI bridge (PCI express gpp port D)
+	597d  RX780/RD790 PCI to PCI bridge (PCI express gpp port D)
 	597e  RD790 PCI to PCI bridge (PCI express gpp port E)
 		1849 5957  A770CrossFire Motherboard
 	597f  RD790 PCI to PCI bridge (PCI express gpp port F)
@@ -2777,7 +2777,7 @@
 	9604  RS780/RS880 PCI to PCI bridge (PCIE port 0)
 	9605  RS780/RS880 PCI to PCI bridge (PCIE port 1)
 	9606  RS780 PCI to PCI bridge (PCIE port 2)
-	9607  RS780 PCI to PCI bridge (PCIE port 3)
+	9607  RS780/RS880 PCI to PCI bridge (PCIE port 3)
 	9608  RS780/RS880 PCI to PCI bridge (PCIE port 4)
 	9609  RS780/RS880 PCI to PCI bridge (PCIE port 5)
 	960a  RS780 PCI to PCI bridge (NB-SB link)
@@ -7847,6 +7847,8 @@
 	124d  GF116M [GeForce GT 555M/635M]
 	1251  GF116M [GeForce GT 560M]
 	1280  GK208 [GeForce GT 635]
+	1282  GK208 [GeForce GT 640 Rev. 2]
+	1284  GK208 [GeForce GT 630 Rev. 2]
 	1290  GK208M [GeForce GT 730M]
 	1291  GK208M [GeForce GT 735M]
 	1292  GK208M [GeForce GT 740M]
@@ -17799,6 +17801,7 @@
 		8086 0002  Ethernet Server Adapter X520-DA2
 		8086 0003  Ethernet Server Adapter X520-2
 		8086 0006  Ethernet Server Adapter X520-1
+		8086 0008  Ethernet OCP Server Adapter X520-2
 		8086 000a  Ethernet Server Adapter X520-1
 		8086 000c  Ethernet Server Adapter X520-2
 		8086 7a11  Ethernet Server Adapter X520-2
@@ -18131,6 +18134,7 @@
 	154d  Ethernet 10G 2P X520 Adapter
 		8086 7b11  10GbE 2P X520 Adapter
 	1557  82599 10 Gigabit Network Connection
+		8086 0001  Ethernet OCP Server Adapter X520-1
 	1559  Ethernet Connection I218-V
 	155a  Ethernet Connection I218-LM
 	155c  Ethernet Server Bypass Adapter

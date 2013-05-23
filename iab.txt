@@ -27105,3 +27105,28 @@
 				Bratislava  84216
 				SLOVAKIA
 
+  40-D8-55	(hex)		Cytech Technology Pte Ltd
+  0FE000-0FEFFF	(base 16)	Cytech Technology Pte Ltd
+  				55 Ubi Avenue 1 #07-04
+				Singapore  408935
+				SINGAPORE
+
+  40-D8-55	(hex)		YUYAMA　MFG．ＣＯ．，ＬＴＤ．
+  0FF000-0FFFFF	(base 16)	YUYAMA　MFG．ＣＯ．，ＬＴＤ．
+  				3-3-1
+				toyonaka osaka 561-0841
+				JAPAN
+
+  40-D8-55	(hex)		TASK SISTEMAS DE COMPUTACAO S.A.
+  100000-100FFF	(base 16)	TASK SISTEMAS DE COMPUTACAO S.A.
+  				RUA VISCONDE DE OURO PRETO
+				5, 8 ANDAR
+				RIO DE JANEIRO 22621-100
+				BRAZIL
+
+  40-D8-55	(hex)		e.p.g. Elettronica Srl
+  101000-101FFF	(base 16)	e.p.g. Elettronica Srl
+  				Via Ungaretti 2
+				BULGAROGRASSO COMO 22070
+				ITALY
+
