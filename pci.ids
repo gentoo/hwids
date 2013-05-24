@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.23
-#	Date:    2013-05-23 03:15:02
+#	Version: 2013.05.24
+#	Date:    2013-05-24 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -337,8 +337,19 @@
 		8086 3513  RMS25CB080 RAID Controller
 	005c  SAS1064A PCI-X Fusion-MPT SAS
 	005d  MegaRAID SAS-3 3108 [Invader]
+		1028 1f41  PERC H830 Adapter
+		1028 1f42  PERC H730P Adapter
+		1028 1f43  PERC H730 Adapter
+		1028 1f47  PERC H730P Mini
+		1028 1f48  PERC H730P Mini (for blades)
+		1028 1f49  PERC H730 Mini
+		1028 1f4a  PERC H730 Mini (for blades)
 	005e  SAS1066 PCI-X Fusion-MPT SAS
 	005f  MegaRAID SAS-3 3008 [Fury]
+		1028 1f44  PERC H330 Adapter
+		1028 1f4b  PERC H330 Mini
+		1028 1f4c  PERC H330 Mini (for blades)
+		1028 1f4d  PERC H330 Embedded (for monolithic)
 	0060  MegaRAID SAS 1078
 		1000 1006  MegaRAID SAS 8888ELP
 		1000 100a  MegaRAID SAS 8708ELP
@@ -4662,7 +4673,6 @@
 1083  Forex Computer Corporation
 	0001  FR710
 1084  Parador
-1085  Tulip Computers Int.B.V.
 1086  J. Bond Computer Systems
 1087  Cache Computer
 1088  Microcomputer Systems (M) Son
@@ -7764,6 +7774,8 @@
 		152d 0983  GeForce GT 630M
 		152d 1030  GeForce GT 630M
 		17aa 2200  NVS 5200M
+		17aa 3656  GeForce GT 620M
+		17aa 3802  GeForce GT 720M
 		17aa 3901  GeForce 610M / GT 620M
 		17aa 3902  GeForce 710M
 		17aa 3903  GeForce 710M
@@ -7776,17 +7788,21 @@
 		17aa 5017  GeForce 710M
 		17aa 5019  GeForce 710M
 		17aa 502a  GeForce 710M
+		1b0a 20dd  GeForce GT 620M
+		1b0a 20df  GeForce GT 620M
 	1180  GK104 [GeForce GTX 680]
 		3842 3682  GeForce GTX 680 Mac Edition
 	1183  GK104 [GeForce GTX 660 Ti]
 	1184  GK104 [GeForce GTX 770]
 	1185  GK104 [GeForce GTX 660 OEM]
+	1187  GK104 [GeForce GTX 760]
 	1188  GK104 [GeForce GTX 690]
 	1189  GK104 [GeForce GTX 670]
 	118a  GK104GL [GRID K520]
 	118b  GK104 [GeForce K2 USM]
 	118c  GK104 [NVS K2 USM]
 	118f  GK104GL [Tesla K10]
+	119d  GK104M [GeForce GTX 775M]
 	119f  GK104M [GeForce GTX 780M]
 	11a0  GK104M [GeForce GTX 680M]
 	11a1  GK104M [GeForce GTX 670MX]
@@ -7814,6 +7830,7 @@
 	11c4  GK106 [GeForce GTX 645 OEM]
 	11c6  GK106 [GeForce GTX 650 Ti]
 	11e0  GK106M [GeForce GTX 770M]
+	11e1  GK106M [GeForce GTX 765M]
 	11e2  GK106M [GeForce GTX 765M]
 	11e3  GK106M [GeForce GTX 760M]
 	11fa  GK106GL [Quadro K4000]
@@ -15954,7 +15971,7 @@
 	4005  Accelerated Virtual Video Adapter
 	4006  Memory Ballooning Controller
 1ab9  Espia Srl
-1acc  Point of View B.V
+1acc  Point of View BV
 1ad7  Spectracom Corporation
 	8000  TSync-PCIe Time Code Processor
 	9100  TPRO-PCI-66U Timecode Reader/Generator
@@ -15998,6 +16015,7 @@
 1b03  Magnum Semiconductor, Inc,
 	6100  DXT/DXTPro Multiformat Broadcast HD/SD Encoder/Decoder/Transcoder
 1b08  MSC Vertriebs GmbH
+1b0a  Pegatron
 1b13  Jaton Corp
 1b1a  K&F Computing Research Co.
 	0e70  GRAPE

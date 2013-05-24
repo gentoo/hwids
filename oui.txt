@@ -22956,10 +22956,10 @@
 
   00-0E-2F   (hex)		Roche Diagnostics GmbH
   000E2F     (base 16)		Roche Diagnostics GmbH
-  				Roche Diabetes Care – Insulin Delivery Systems
+  				Roche Diabetes Care Insulin Delivery Systems
 				Sandhofer Strasse 116
 				D-68305 Mannheim  
-				SWITZERLAND
+				GERMANY
 
   00-0E-30   (hex)		AERAS Networks, Inc.
   000E30     (base 16)		AERAS Networks, Inc.
@@ -82299,6 +82299,12 @@
 				 Shanghai  201613
 				CHINA
 
+  08-EF-3B   (hex)		MCS Logic Inc.
+  08EF3B     (base 16)		MCS Logic Inc.
+  				6F. Samho Center B Bldg., 275-6,Yangjae-Dong, Secho-Ku,Seoul
+				Seoul  137-941
+				KOREA, REPUBLIC OF
+
   08-F1-B7   (hex)		Towerstream Corpration
   08F1B7     (base 16)		Towerstream Corpration
   				55 Hammerlund Way
@@ -85904,6 +85910,12 @@
 				Redmond WA 98053
 				UNITED STATES
 
+  24-F5-AA   (hex)		Samsung Electronics Co.,LTD
+  24F5AA     (base 16)		Samsung Electronics Co.,LTD
+  				129, Samsung-ro, Yeongtong-gu
+				Suwon Gyeonggi-Do 443-742
+				KOREA, REPUBLIC OF
+
   24-FD-52   (hex)		Liteon Technology Corporation
   24FD52     (base 16)		Liteon Technology Corporation
   				4F,90,Chien 1 Road,ChungHo
@@ -86262,6 +86274,12 @@
   				1194 N Mathilda Avenue
 				Sunnyvale CA 94089
 				UNITED STATES
+
+  28-C6-71   (hex)		Yota Devices OY
+  28C671     (base 16)		Yota Devices OY
+  				Elektronikkatie 13
+				Oulu  90590
+				FINLAND
 
   28-C6-8E   (hex)		NETGEAR INC.,
   28C68E     (base 16)		NETGEAR INC.,
@@ -104220,6 +104238,13 @@
 				Kaohsiung  831
 				TAIWAN, PROVINCE OF CHINA
 
+  B8-87-A8   (hex)		Step Ahead Innovations Inc.
+  B887A8     (base 16)		Step Ahead Innovations Inc.
+  				20 Wintersport Ln.
+				Suite 140
+				Williston VT 05495
+				UNITED STATES
+
   B8-88-E3   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD
   B888E3     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD
   				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone, Jiangsu,
@@ -108393,6 +108418,12 @@
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
+  D8-69-60   (hex)		Steinsvik
+  D86960     (base 16)		Steinsvik
+  				Rundhaug 25
+				FOERRESFJORDEN Rogaland 5563
+				NORWAY
+
   D8-6B-F7   (hex)		Nintendo Co., Ltd.
   D86BF7     (base 16)		Nintendo Co., Ltd.
   				11-1 HOKOTATE-CHO
@@ -108754,6 +108785,12 @@
   				794, Higashitoyoi,
 				Kudamatsu City, Yamaguchi Pref., 744-0002,
 				JAPAN
+
+  DC-17-92   (hex)		Captivate Network
+  DC1792     (base 16)		Captivate Network
+  				2 Executive Drive Suite 301
+				Chelmsford Massachusetts 01824
+				UNITED STATES
 
   DC-1D-9F   (hex)		U & B tech
   DC1D9F     (base 16)		U & B tech
