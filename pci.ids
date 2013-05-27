@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.24
-#	Date:    2013-05-24 03:15:02
+#	Version: 2013.05.27
+#	Date:    2013-05-27 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1408,7 +1408,7 @@
 	6606  Mars XTX [Radeon HD 8790M]
 	6607  Mars LE [Radeon HD 8530M]
 	6610  Oland [Radeon HD 8600 Series]
-	6611  Oland [Radeon HD 8500 Series]
+	6611  Oland [Radeon HD 8570]
 	6613  Oland [Radeon HD 8500 Series]
 	6620  Mars
 	6621  Mars PRO
@@ -1430,7 +1430,7 @@
 # 100356OCL / 11210-01-20G
 		174b e253  Radeon HD 7790 Dual-X OC
 		1787 2329  Radeon HD 7790 TurboDuo
-	6660  Sun XT [Radeon HD 8600M Series]
+	6660  Sun XT [Radeon HD 8670A]
 	6663  Sun PRO [Radeon HD 8500M Series]
 	6667  Sun
 	666f  Sun [Radeon HD 8500M]
@@ -1544,6 +1544,8 @@
 		1002 3000  Tahiti PRO2 [Radeon HD 7950 Boost]
 		1462 3000  Radeon HD 8950 OEM
 	679b  Malta [Radeon HD 7990]
+		1002 0b28  Radeon HD 8990 OEM
+		1002 0b2a  Radeon HD 7990
 	679e  Tahiti LE [Radeon HD 7870 XT]
 	679f  Tahiti
 	6800  Wimbledon XT [Radeon HD 7970M]
@@ -1564,7 +1566,8 @@
 	6816  Pitcairn
 	6817  Pitcairn
 	6818  Pitcairn XT [Radeon HD 7870 GHz Edition]
-		1002 0b05  Pitcairn XT [Radeon HD 8870 OEM]
+		1002 0b05  Radeon HD 8870 OEM
+		174b 8b04  Radeon HD 8860
 	6819  Pitcairn PRO [Radeon HD 7850]
 		174b e221  Sapphire Radeon HD 7850 2 GB GDDR5 DVI-I/DVI-D/HDMI/DP
 	6820  Venus XTX [Radeon HD 8800M Series]
@@ -7338,7 +7341,14 @@
 	0870  C79 [GeForce 9400M]
 	0871  C79 [GeForce 9200]
 	0872  C79 [GeForce G102M]
+		1043 19b4  GeForce G102M
+		1043 1aa2  GeForce G102M
+		1043 1c02  GeForce G102M
+		1043 1c42  GeForce G205M
 	0873  C79 [GeForce G102M]
+		1043 19b4  GeForce G102M
+		1043 1c12  GeForce G102M
+		1043 1c52  GeForce G205M
 	0874  C79 [ION]
 	0876  ION VGA [GeForce 9400M]
 	087a  C79 [GeForce 9400]
@@ -7670,6 +7680,7 @@
 		1043 2111  GeForce GT 610M
 		1043 2112  GeForce GT 610M
 	105b  GF119M [GeForce 705M]
+		103c 2afb  GeForce 705A
 	107c  GF119 [NVS 315]
 	107d  GF119 [NVS 310]
 	1080  GF110 [GeForce GTX 580]
@@ -7720,14 +7731,19 @@
 		1025 072b  GeForce GT 620M
 		1025 072e  GeForce GT 620M
 		1025 0732  GeForce GT 620M
+		1025 0763  GeForce GT 720M
 		1025 0773  GeForce 710M
 		1025 0774  GeForce 710M
+		1025 0776  GeForce GT 720M
 		1025 077a  GeForce 710M
 		1025 077b  GeForce 710M
 		1025 077c  GeForce 710M
 		1025 077d  GeForce 710M
 		1025 077e  GeForce 710M
 		1025 077f  GeForce 710M
+		1025 0798  GeForce GT 720M
+		1025 079b  GeForce GT 720M
+		1025 0821  GeForce GT 720M
 		1028 054d  GeForce GT 630M
 		1028 054e  GeForce GT 630M
 		1028 0554  GeForce GT 620M
@@ -7742,11 +7758,14 @@
 		1028 05b1  GeForce GT 625M
 		1028 05b3  GeForce GT 625M
 		1028 05da  GeForce GT 630M
+		1028 05e8  GeForce GT 630M
 		103c 18ef  GeForce GT 630M
 		103c 18f9  GeForce GT 630M
 		103c 18fb  GeForce GT 630M
 		103c 18fd  GeForce GT 630M
 		103c 18ff  GeForce GT 630M
+		103c 2aef  GeForce GT 720A
+		103c 2af9  GeForce 710A
 		1043 10dd  NVS 5200M
 		1043 10ed  NVS 5200M
 		1043 11fd  GeForce GT 720M
@@ -7767,9 +7786,9 @@
 		144d c0e3  NVS 5200M
 		144d c0e4  NVS 5200M
 		144d c652  GeForce GT 620M
-		1462 10b8  GeForce 710M
+		1462 10b8  GeForce GT 710M
 		1462 10e9  GeForce GT 720M
-		152d 0926  GeForce GT 620M
+		152d 0926  GeForce 620M
 		152d 0982  GeForce GT 630M
 		152d 0983  GeForce GT 630M
 		152d 1030  GeForce GT 630M
@@ -7778,10 +7797,12 @@
 		17aa 3802  GeForce GT 720M
 		17aa 3901  GeForce 610M / GT 620M
 		17aa 3902  GeForce 710M
-		17aa 3903  GeForce 710M
+		17aa 3903  GeForce 610M/710M
 		17aa 3904  GeForce GT 620M/625M
 		17aa 3905  GeForce GT 720M
-		17aa 3910  GeForce GT 720M
+		17aa 3910  GeForce 720M
+		17aa 3912  GeForce 720M
+		17aa 3977  GeForce GT 720M
 		17aa 3983  GeForce 610M
 		17aa 500d  GeForce GT 620M
 		17aa 5014  GeForce 710M
@@ -7792,6 +7813,7 @@
 		1b0a 20df  GeForce GT 620M
 	1180  GK104 [GeForce GTX 680]
 		3842 3682  GeForce GTX 680 Mac Edition
+	1182  GK104 [GeForce GTX 760 Ti]
 	1183  GK104 [GeForce GTX 660 Ti]
 	1184  GK104 [GeForce GTX 770]
 	1185  GK104 [GeForce GTX 660 OEM]
@@ -7808,6 +7830,7 @@
 	11a1  GK104M [GeForce GTX 670MX]
 	11a2  GK104M [GeForce GTX 675MX Mac Edition]
 	11a3  GK104M [GeForce GTX 680MX]
+		106b 010d  iMac 13,2
 	11a7  GK104M [GeForce GTX 675MX]
 	11b0  GK104GL [Quadro K2 USM]
 	11b1  GK104GL [Tesla K2 USM]
@@ -7867,6 +7890,10 @@
 	1282  GK208 [GeForce GT 640 Rev. 2]
 	1284  GK208 [GeForce GT 630 Rev. 2]
 	1290  GK208M [GeForce GT 730M]
+		103c 2afa  GeForce GT 730A
+		103c 2b04  GeForce GT 730A
+		1043 13ad  GeForce GT 730M
+		1043 13cd  GeForce GT 730M
 	1291  GK208M [GeForce GT 735M]
 	1292  GK208M [GeForce GT 740M]
 	1293  GK208M [GeForce GT 730M]
@@ -16822,6 +16849,7 @@
 	0153  3rd Gen Core Processor Thermal Subsystem
 		1043 1517  Zenbook Prime UX31A
 	0154  3rd Gen Core processor DRAM Controller
+		103c 17f6  ProBook 4540s
 		1043 1477  N56VZ
 		1043 1517  Zenbook Prime UX31A
 	0155  Xeon E3-1200 v2/3rd Gen Core processor PCI Express Root Port
