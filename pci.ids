@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.28
-#	Date:    2013-05-28 03:15:01
+#	Version: 2013.05.29
+#	Date:    2013-05-29 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1838,7 +1838,40 @@
 		103c 6890  Radeon HD 8760 OEM
 	683f  Cape Verde PRO [Radeon HD 7750]
 	6840  Thames XT [Radeon HD 7670M]
+		1025 0696  Radeon HD 7650M
+		1025 0697  Radeon HD 7650M
+		1025 0698  Radeon HD 7650M
+		1025 0699  Radeon HD 7650M
+		103c 17f1  Radeon HD 7570M
+		103c 17f4  Radeon HD 7650M
+		103c 1813  Radeon HD 7590M
+		144d c0c5  Radeon HD 7690M
 	6841  Thames [Radeon 7550M/7570M/7650M]
+		1028 0561  Radeon HD 7650M
+		1028 056c  Radeon HD 7650M
+		1028 057f  Radeon HD 7570M
+		103c 17f1  Radeon HD 7570M
+		103c 17f4  Radeon HD 7650M
+		103c 1813  Radeon HD 7570M
+		103c 183a  Radeon HD 7650M
+		103c 183c  Radeon HD 7650M
+		103c 183e  Radeon HD 7650M
+		103c 1840  Radeon HD 7650M
+		103c 1842  Radeon HD 7650M
+		103c 1844  Radeon HD 7650M
+		1043 100a  Radeon HD 7650M
+		1043 104b  Radeon HD 7650M
+		1043 10dc  Radeon HD 7650M
+		1043 2134  Radeon HD 7650M
+		1179 0001  Radeon HD 7570M
+		1179 0002  Radeon HD 7570M
+		1179 fb43  Radeon HD 7550M
+		1179 fb91  Radeon HD 7550M
+		1179 fb92  Radeon HD 7550M
+		1179 fb93  Radeon HD 7550M
+		1179 fba2  Radeon HD 7550M
+		1179 fba3  Radeon HD 7550M
+		144d c0c7  Radeon HD 7550M
 	6842  Thames LE [Radeon HD 7000M Series]
 	6843  Thames [Radeon HD 7670M]
 	6849  Lombok [AMD Radeon HD 7400 Series]
@@ -2130,7 +2163,7 @@
 		17af 3012  Radeon HD 5490
 		17af 3013  Radeon HD 5470
 		17af 3014  Radeon HD 6350
-	68fa  Cedar [Radeon HD 7350]
+	68fa  Cedar [Radeon HD 7350/8350]
 		1019 0019  Radeon HD 7350
 		1019 0021  Radeon HD 7350
 		1019 0022  Radeon HD 7350
