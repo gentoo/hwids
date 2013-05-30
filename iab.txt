@@ -27155,3 +27155,59 @@
 				Malaga Western Australia 6944
 				AUSTRALIA
 
+  40-D8-55	(hex)		Orbital A/S
+  106000-106FFF	(base 16)	Orbital A/S
+  				Trykkerivej 5
+				Skjern  6900
+				DENMARK
+
+  40-D8-55	(hex)		Smith Meter, Inc
+  107000-107FFF	(base 16)	Smith Meter, Inc
+  				1602 Wagner Ave.
+				Erie PA 16514
+				UNITED STATES
+
+  40-D8-55	(hex)		ALPHA DESIGN CO.,LTD.
+  108000-108FFF	(base 16)	ALPHA DESIGN CO.,LTD.
+  				1963-4
+				higashi
+				itoshima-city Fukuoka 819-1122
+				JAPAN
+
+  40-D8-55	(hex)		Rosslare Enterprises Limited
+  109000-109FFF	(base 16)	Rosslare Enterprises Limited
+  				Flat 912 Wing Fat Industrial Building
+				12 Wang Tai Road
+				Kowloon Bay Kowloon 00000
+				HONG KONG
+
+  40-D8-55	(hex)		DAVIS DERBY LIMITED
+  10A000-10AFFF	(base 16)	DAVIS DERBY LIMITED
+  				Chequers Lane
+				Derby Derby DE21 6AW
+				UNITED KINGDOM
+
+  40-D8-55	(hex)		So-Cool Corporation.
+  10B000-10BFFF	(base 16)	So-Cool Corporation.
+  				1F., No.130, Shipin Rd., East Dist.
+				Hsinchu City Taiwan 30062
+				TAIWAN, PROVINCE OF CHINA
+
+  40-D8-55	(hex)		Contrans TI sp. z o.o.
+  10C000-10CFFF	(base 16)	Contrans TI sp. z o.o.
+  				Polanowicka 66
+				Wrocław dolnośląskie 51-180
+				POLAND
+
+  40-D8-55	(hex)		Rite-Tech Industrial CO., Ltd.
+  10D000-10DFFF	(base 16)	Rite-Tech Industrial CO., Ltd.
+  				10F, No. 5, Sec. 1, Tun-Hua S. Rd.,
+				Taipei 105
+				TAIWAN, PROVINCE OF CHINA
+
+  40-D8-55	(hex)		HKS-Prozesstechnik GmbH
+  10E000-10EFFF	(base 16)	HKS-Prozesstechnik GmbH
+  				Heinrich-Damerow-Str. 2
+				Halle Sachsen-Anhalt 06120
+				GERMANY
+

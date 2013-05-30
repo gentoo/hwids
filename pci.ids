@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.05.29
-#	Date:    2013-05-29 03:15:02
+#	Version: 2013.05.30
+#	Date:    2013-05-30 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1466,7 +1466,7 @@
 		148c 7720  Radeon HD 7720 OEM
 	6740  Whistler [Radeon HD 6730M/6770M/7690M XT]
 		1028 04a3  Precision M4600
-	6741  Whistler [Radeon HD 6600M/6700M/7600M Series]
+	6741  Whistler [Radeon HD 6630M/6650M/6750M/7670M/7690M]
 		106b 00e2  MacBookPro8,2 [Core i7, 15", Late 2011]
 	6742  Whistler LE [Radeon HD 6610M/7610M]
 		1043 1d82  K53SK Laptop Radeon HD 7610M
