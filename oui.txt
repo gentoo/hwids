@@ -85381,6 +85381,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  20-CD-39   (hex)		Texas Instruments, Inc
+  20CD39     (base 16)		Texas Instruments, Inc
+  				12500 TI Blvd
+				Dallas TX 75243
+				UNITED STATES
+
   20-CF-30   (hex)		ASUSTek COMPUTER INC.
   20CF30     (base 16)		ASUSTek COMPUTER INC.
   				15,Li-Te Rd.,Peitou,
@@ -86868,6 +86874,12 @@
 				Raanana  4366241
 				ISRAEL
 
+  2C-CC-15   (hex)		Nokia Corporation
+  2CCC15     (base 16)		Nokia Corporation
+  				Joensuunkatu 7
+				Salo  24101
+				FINLAND
+
   2C-CD-27   (hex)		Precor Inc
   2CCD27     (base 16)		Precor Inc
   				20031 142nd Avenue NE
@@ -87161,6 +87173,13 @@
   				Hanauer Str. 101
 				Muenchen  80993
 				GERMANY
+
+  30-60-23   (hex)		ARRIS Group, Inc.
+  306023     (base 16)		ARRIS Group, Inc.
+  				3871 Lakrfield Drive
+				Suite 300
+				Suwanee Georgia 30024
+				UNITED STATES
 
   30-61-12   (hex)		PAV GmbH
   306112     (base 16)		PAV GmbH
@@ -99122,6 +99141,13 @@
 				Taipei  23586
 				TAIWAN, PROVINCE OF CHINA
 
+  90-3E-AB   (hex)		ARRIS Group, Inc.
+  903EAB     (base 16)		ARRIS Group, Inc.
+  				3871 Lakfield Drive
+				Suite 300
+				Suwanee Georgia 30024
+				UNITED STATES
+
   90-46-B7   (hex)		Vadaro Pte Ltd
   9046B7     (base 16)		Vadaro Pte Ltd
   				71 Ayer Rajah Crescent
@@ -104777,6 +104803,13 @@
 				Dursley Gloucestershire GL11 4HH
 				UNITED KINGDOM
 
+  BC-2B-D7   (hex)		Revogi Innovation Co., Ltd.
+  BC2BD7     (base 16)		Revogi Innovation Co., Ltd.
+  				2018, Anhui Building, No. 6007,
+				Shennan Boulevard,
+				Shenzhen Guangdong 518113
+				CHINA
+
   BC-2C-55   (hex)		Bear Flag Design, Inc.
   BC2C55     (base 16)		Bear Flag Design, Inc.
   				1 Thayer Road
@@ -107192,6 +107225,12 @@
 				Tucheng City Taipei County  23678
 				TAIWAN, PROVINCE OF CHINA
 
+  CC-F4-07   (hex)		EUKREA ELECTROMATIQUE SARL
+  CCF407     (base 16)		EUKREA ELECTROMATIQUE SARL
+  				74 AVENUE JEAN JAURES
+				PESSAC GIRONDE 33600
+				FRANCE
+
   CC-F6-7A   (hex)		Ayecka Communication Systems LTD
   CCF67A     (base 16)		Ayecka Communication Systems LTD
   				POB 3059
@@ -107701,6 +107740,12 @@
   				Am Rosenhügel 1-7
 				Velbert  42553
 				GERMANY
+
+  D0-FF-50   (hex)		Texas Instruments, Inc
+  D0FF50     (base 16)		Texas Instruments, Inc
+  				12500 TI Blvd
+				Dallas TX 75243
+				UNITED STATES
 
   D4-00-0D   (hex)		Phoenix Broadband Technologies, LLC.
   D4000D     (base 16)		Phoenix Broadband Technologies, LLC.
@@ -109270,6 +109315,13 @@
 				KOCAELI  41455
 				TURKEY
 
+  DC-F7-55   (hex)		SITRONIK
+  DCF755     (base 16)		SITRONIK
+  				22 MARISCHAL GARDENS
+				BUCKSBURN
+				ABERDEEN ABERDEENSHIRE AB21 9BY
+				UNITED KINGDOM
+
   DC-F8-58   (hex)		Lorent Networks, Inc.
   DCF858     (base 16)		Lorent Networks, Inc.
   				Third Floor, Technology Complex, HAO Science Park
@@ -109921,6 +109973,12 @@
   				2905 Stender Way, Suite 78
 				Santa Clara CA 95054
 				UNITED STATES
+
+  E4-2D-02   (hex)		TCT Mobile Limited
+  E42D02     (base 16)		TCT Mobile Limited
+  				70 Huifeng 4rd,ZhongKai Hi-tech Development  District
+				Huizhou Guangdong 516006
+				CHINA
 
   E4-2F-26   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
   E42F26     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
