@@ -27217,3 +27217,16 @@
 				ONTARIO CA 91761
 				UNITED STATES
 
+  40-D8-55	(hex)		Aplex Technology Inc.
+  110000-110FFF	(base 16)	Aplex Technology Inc.
+  				NanYouTianAn industrial park Tower4
+				Nanshan District
+				Shenzhen Guangdong 518054
+				CHINA
+
+  40-D8-55	(hex)		Grupo Epelsa S.L.
+  111000-111FFF	(base 16)	Grupo Epelsa S.L.
+  				C/ Punto Net,3
+				Alcala de Henares Madrid 28805
+				SPAIN
+

@@ -80780,6 +80780,12 @@
 				Kitakyushu Fukuoka 8070821
 				JAPAN
 
+  04-D4-37   (hex)		ZNV
+  04D437     (base 16)		ZNV
+  				4/F, W1-A, Bldg, Gaoxin S, 1st Ave., Hi-tech Park, Nanshan District, Shenzhen, P.R.C
+				Shenzhen Guangdong 518057
+				CHINA
+
   04-D7-83   (hex)		Y&H E&C Co.,LTD.
   04D783     (base 16)		Y&H E&C Co.,LTD.
   				1501 Daerung Technotown 224-5
@@ -81954,6 +81960,12 @@
   				11445 Compaq Center Drive
 				Houston Texas 77070
 				UNITED STATES
+
+  08-35-71   (hex)		CASwell INC.
+  083571     (base 16)		CASwell INC.
+  				8F,No.242,Bo-Ai St., Shu-Lin Dist
+				New Taipei City  23845
+				TAIWAN, PROVINCE OF CHINA
 
   08-37-3D   (hex)		Samsung Electronics Co.,Ltd
   08373D     (base 16)		Samsung Electronics Co.,Ltd
@@ -84327,6 +84339,12 @@
 				Houston Texas 77070
 				UNITED STATES
 
+  18-A9-9B   (hex)		Dell Inc PCBA Test
+  18A99B     (base 16)		Dell Inc PCBA Test
+  				one dell way
+				Round rock Texas 78682
+				UNITED STATES
+
   18-AB-F5   (hex)		Ultra Electronics - Electrics
   18ABF5     (base 16)		Ultra Electronics - Electrics
   				Kingsditch Lane
@@ -85174,6 +85192,13 @@
   				Mobilvägen 10
 				Lund  22188
 				SWEDEN
+
+  20-57-21   (hex)		Salix Technology CO., Ltd.
+  205721     (base 16)		Salix Technology CO., Ltd.
+  				5F., No. 16, Lane 77, Hsing Ai Road
+				Nei-Hu
+				Taipei  114
+				TAIWAN, PROVINCE OF CHINA
 
   20-59-A0   (hex)		Paragon Technologies Inc.
   2059A0     (base 16)		Paragon Technologies Inc.
@@ -90908,6 +90933,13 @@
 				Lawrenceville GA 30044
 				UNITED STATES
 
+  50-3C-C4   (hex)		Lenovo Mobile Communication Technology Ltd.
+  503CC4     (base 16)		Lenovo Mobile Communication Technology Ltd.
+  				No.999,Qishan North 2nd Road,Information&Optoelectronics Park,
+				.Torch Hi-tech Industry Development Zone
+				Xiamen Fujian 361006
+				CHINA
+
   50-3D-E5   (hex)		CISCO SYSTEMS, INC.
   503DE5     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -94985,6 +95017,13 @@
 				Acacia Ridge QLD 4110
 				AUSTRALIA
 
+  70-4C-ED   (hex)		TMRG, Inc.
+  704CED     (base 16)		TMRG, Inc.
+  				11950 Democracy Drive
+				Suite 600
+				Reston VA 20190
+				UNITED STATES
+
   70-52-C5   (hex)		Avaya, Inc.
   7052C5     (base 16)		Avaya, Inc.
   				211 Mount Airy Road
@@ -98156,6 +98195,12 @@
 				Ieper  8900
 				BELGIUM
 
+  88-36-12   (hex)		SRC Computers, LLC
+  883612     (base 16)		SRC Computers, LLC
+  				4240 N Nevada Ave
+				Colorado Springs CO 80907
+				UNITED STATES
+
   88-41-C1   (hex)		ORBISAT DA AMAZONIA IND E AEROL SA
   8841C1     (base 16)		ORBISAT DA AMAZONIA IND E AEROL SA
   				AV SHISHIMA HIFUMI, 2911
@@ -100283,6 +100328,13 @@
 				Longmont CO 80501
 				UNITED STATES
 
+  98-76-B6   (hex)		Adafruit
+  9876B6     (base 16)		Adafruit
+  				150 Varick st
+				3rd floor
+				New York NY 10013
+				UNITED STATES
+
   98-82-17   (hex)		Disruptive Ltd
   988217     (base 16)		Disruptive Ltd
   				Windsor House
@@ -101016,6 +101068,12 @@
   				239 B. Sadovaya Str.
 				Saratov Saratov region 410005
 				RUSSIAN FEDERATION
+
+  A0-12-90   (hex)		Avaya, Inc
+  A01290     (base 16)		Avaya, Inc
+  				211 Mount Airy Road
+				Basking Ridge NJ 07920-2311
+				UNITED STATES
 
   A0-13-3B   (hex)		Copyright © HiTi Digital, Inc.
   A0133B     (base 16)		Copyright © HiTi Digital, Inc.
@@ -103512,6 +103570,13 @@
   				Technology Park Building 2-1,The Hung Fu Pioneer Park
 				Changping District Beiqijia
 				Beijing 102209
+				CHINA
+
+  B0-CE-18   (hex)		Zhejiang shenghui lighting co.,Ltd
+  B0CE18     (base 16)		Zhejiang shenghui lighting co.,Ltd
+  				Rm801,1th Xinye Building
+				Tianlin Rd388
+				cao he jing Develop Zone Shanghai 200233
 				CHINA
 
   B0-CF-4D   (hex)		MI-Zone Technology Ireland
@@ -106809,7 +106874,7 @@
   CC2A80     (base 16)		Micro-Biz intelligence solutions Co.,Ltd
   				Room 611,Sunshine Building
 				West Renmin Road
-				Zhuhai City Guangdong Provence 519000
+				Zhuhai City Guangdong Province 519000
 				CHINA
 
   CC-2D-8C   (hex)		LG ELECTRONICS INC
@@ -106992,6 +107057,12 @@
   				KT Bongduk B/D 9F, 627-15, Bongduk-dong
 				Namgu Daegu 705710
 				KOREA, REPUBLIC OF
+
+  CC-7B-35   (hex)		zte corporation
+  CC7B35     (base 16)		zte corporation
+  				12/F.,zte R&D building ,kejinan Road
+				shenzhen guangdong 518057
+				CHINA
 
   CC-7D-37   (hex)		Motorola Mobility, Inc.
   CC7D37     (base 16)		Motorola Mobility, Inc.
@@ -109645,6 +109716,12 @@
   				Planex Volta Bldg., 2-11-9 Ebisu-Nishi,Shibuya-ku,
 				Tokyo 1500021
 				JAPAN
+
+  E0-A1-98   (hex)		NOJA Power Switchgear Pty Ltd
+  E0A198     (base 16)		NOJA Power Switchgear Pty Ltd
+  				16 Archimedes Place
+				Murarrie QLD 4172
+				AUSTRALIA
 
   E0-A1-D7   (hex)		SFR
   E0A1D7     (base 16)		SFR
