@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.04
-#	Date:    2013-06-04 03:15:01
+#	Version: 2013.06.06
+#	Date:    2013-06-06 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -18619,6 +18619,7 @@
 		8086 0002  Ethernet Server Adapter I350-T2
 		8086 0003  Ethernet Server Adapter I350-F4
 		8086 0004  Ethernet Server Adapter I350-F2
+		8086 0005  Ethernet Server Adapter I350-F1
 		8086 00a2  Ethernet Server Adapter I350-T2
 		8086 00a3  Ethernet Server Adapter I350-F4
 		8086 00a4  Ethernet Server Adapter I350-F2
@@ -22304,7 +22305,7 @@
 	8c21  8 Series/C220 Series Chipset High Definition Audio Controller
 	8c22  8 Series/C220 Series Chipset Family SMBus Controller
 	8c23  8 Series Chipset Family CHAP Counters
-	8c24  8 Series Chipset Family Thermal
+	8c24  8 Series Chipset Family Thermal Management Controller
 	8c26  8 Series/C220 Series Chipset Family USB EHCI #1
 	8c2d  8 Series/C220 Series Chipset Family USB EHCI #2
 	8c31  8 Series/C220 Series Chipset Family USB xHCI

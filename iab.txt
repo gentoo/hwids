@@ -27230,3 +27230,22 @@
 				Alcala de Henares Madrid 28805
 				SPAIN
 
+  40-D8-55	(hex)		Halliburton - Sperry Drilling Service
+  112000-112FFF	(base 16)	Halliburton - Sperry Drilling Service
+  				3000 N. Sam Houston Pkwy E.
+				Houston Texas 77032
+				UNITED STATES
+
+  40-D8-55	(hex)		Testbook Ltd
+  113000-113FFF	(base 16)	Testbook Ltd
+  				7 Midshires Business Park
+				Smeaton Close
+				Alyesbury Bucks HP19 8HL
+				UNITED KINGDOM
+
+  40-D8-55	(hex)		GENERAL DYNAMICS C4 SYSTEMS
+  114000-114FFF	(base 16)	GENERAL DYNAMICS C4 SYSTEMS
+  				8220 EAST ROOSEVELT ST.  MD: R1115
+				SCOTTSDALE AZ 85257
+				UNITED STATES
+

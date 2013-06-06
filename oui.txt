@@ -86286,6 +86286,12 @@
 				São Paulo SP 04204002
 				BRAZIL
 
+  28-A2-41   (hex)		exlar corp
+  28A241     (base 16)		exlar corp
+  				18400 west 77th street
+				chanhassen mn 55317
+				UNITED STATES
+
   28-A5-74   (hex)		Miller Electric Mfg. Co.
   28A574     (base 16)		Miller Electric Mfg. Co.
   				N676 Communication Drive
@@ -90234,6 +90240,13 @@
 				Leyburn North Yorkshire DL8 5NS
 				UNITED KINGDOM
 
+  48-D2-24   (hex)		Liteon Technology Corporation
+  48D224     (base 16)		Liteon Technology Corporation
+  				4F,90,Chien 1 Road,ChungHo
+				New Taipei City
+				Taipei  23585
+				TAIWAN, PROVINCE OF CHINA
+
   48-D5-4C   (hex)		Jeda Networks
   48D54C     (base 16)		Jeda Networks
   				2618 San Miguel Drive
@@ -92259,6 +92272,12 @@
   				One Dell Way, MS RR5-45
 				Round Rock Texas 78682
 				UNITED STATES
+
+  5C-33-27   (hex)		Spazio Italia srl
+  5C3327     (base 16)		Spazio Italia srl
+  				Via G.Galilei, 50
+				Padenghe sul Garda BS 25080
+				ITALY
 
   5C-33-5C   (hex)		Swissphone Telecom AG
   5C335C     (base 16)		Swissphone Telecom AG
@@ -96561,6 +96580,12 @@
 				Sunnyvale CA 94089
 				UNITED STATES
 
+  78-FE-41   (hex)		Socus networks
+  78FE41     (base 16)		Socus networks
+  				2F.-2, No.215, Sec. 2, Chengde Rd., Datong Dist.,
+				Taipei City  103
+				TAIWAN, PROVINCE OF CHINA
+
   78-FF-57   (hex)		Intel Corporate
   78FF57     (base 16)		Intel Corporate
   				Lot 8, Jalan Hi-Tech 2/3
@@ -96950,6 +96975,12 @@
 				713 Suseo-dong, Kangnam-gu
 				Seoul  135-539
 				KOREA, REPUBLIC OF
+
+  7C-B7-7B   (hex)		Paradigm Electronics Inc
+  7CB77B     (base 16)		Paradigm Electronics Inc
+  				5340 Canotek Rd Unit#4
+				Ottawa ON K1J 9C6
+				CANADA
 
   7C-BB-6F   (hex)		Cosco Electronics Co., Ltd.
   7CBB6F     (base 16)		Cosco Electronics Co., Ltd.
@@ -98638,6 +98669,12 @@
   				9F-2 NO.31 Lane 169 Kang-ning Street, Hsi-Chih
 				Taipei County 221  221
 				TAIWAN, PROVINCE OF CHINA
+
+  8C-4B-59   (hex)		3D Imaging & Simulations Corp
+  8C4B59     (base 16)		3D Imaging & Simulations Corp
+  				815, Timnip-Dong, Yuseong-Gu
+				Daejeon 305510
+				KOREA, REPUBLIC OF
 
   8C-4C-DC   (hex)		PLANEX COMMUNICATIONS INC.
   8C4CDC     (base 16)		PLANEX COMMUNICATIONS INC.
@@ -105089,6 +105126,13 @@
   				175 SW 7th St Suite 1812
 				Miami FL 33130
 				UNITED STATES
+
+  BC-8C-CD   (hex)		Samsung Electro Mechanics co.,LTD.
+  BC8CCD     (base 16)		Samsung Electro Mechanics co.,LTD.
+  				93Moo5T. Bangsamak
+				SEMTHAI. WELLGROW INDUSTRIAL ESTATE
+				Bangpakong Chachoengsao 24180
+				THAILAND
 
   BC-92-6B   (hex)		Apple
   BC926B     (base 16)		Apple
