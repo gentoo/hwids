@@ -10156,11 +10156,11 @@
 				Ostraringvagen 2 72173 Vasteras
 				SWEDEN
 
-  00-06-31   (hex)		Optical Solutions, Inc.
-  000631     (base 16)		Optical Solutions, Inc.
-  				16305 36th Ave. N.
+  00-06-31   (hex)		Calix
+  000631     (base 16)		Calix
+  				16305 36th Ave N
 				Suite 300
-				Plymouth MN 55446-2698
+				Plymouth MN 55446
 				UNITED STATES
 
   00-06-32   (hex)		Mesco Engineering GmbH
@@ -16792,11 +16792,11 @@
 				Brugine Padova 35020
 				ITALY
 
-  00-0A-5D   (hex)		PUC Founder (MSC) Berhad
-  000A5D     (base 16)		PUC Founder (MSC) Berhad
-  				Lot G-1 & G-2, Incubator 1
-				Technology Park Malaysia
-				Kuala Lumpur WP 57000
+  00-0A-5D   (hex)		FingerTec Worldwide Sdn Bhd
+  000A5D     (base 16)		FingerTec Worldwide Sdn Bhd
+  				No 6, 8 & 10
+				Jalan BK 3/2
+				Bandar Kinrara 47100 PUchong Selangor 
 				MALAYSIA
 
   00-0A-5E   (hex)		3COM Corporation
@@ -20434,8 +20434,8 @@
 				Seoul  137-130
 				KOREA, REPUBLIC OF
 
-  00-0C-9D   (hex)		AirWalk Communications, Inc.
-  000C9D     (base 16)		AirWalk Communications, Inc.
+  00-0C-9D   (hex)		UbeeAirWalk, Inc.
+  000C9D     (base 16)		UbeeAirWalk, Inc.
   				1850 N. GreenVille Ave., Suite 164
 				Richardson TX 75081
 				UNITED STATES
@@ -24584,8 +24584,8 @@
 				Burnaby BC V5J 5E9
 				CANADA
 
-  00-0F-32   (hex)		Lootom Optoelectronic Technology (Wuxi) Co Ltd
-  000F32     (base 16)		Lootom Optoelectronic Technology (Wuxi) Co Ltd
+  00-0F-32   (hex)		Lootom Tecovideo Network Wuxi Co Ltd
+  000F32     (base 16)		Lootom Tecovideo Network Wuxi Co Ltd
   				106, LiangXi Road
 				WuXi JiangSu 214063
 				CHINA
@@ -29616,8 +29616,8 @@
 				Hsin-Chu  300
 				TAIWAN, PROVINCE OF CHINA
 
-  00-12-4F   (hex)		Tyco Thermal Controls LLC.
-  00124F     (base 16)		Tyco Thermal Controls LLC.
+  00-12-4F   (hex)		Pentair Thermal Management
+  00124F     (base 16)		Pentair Thermal Management
   				11004 - 174 St.
 				Edmonton Alberta T5S 2P3
 				CANADA
@@ -51926,8 +51926,8 @@
 
   00-20-0B   (hex)		OCTAGON SYSTEMS CORP.
   00200B     (base 16)		OCTAGON SYSTEMS CORP.
-  				6510 W. 91ST AVENUE
-				WESTMINSTER CO 80030
+  				7403 Church Ranch Blvd
+				Westminster CO 80021
 				UNITED STATES
 
   00-20-0C   (hex)		ADASTRA SYSTEMS CORP.
@@ -55132,8 +55132,8 @@
 
   00-22-0A   (hex)		OnLive, Inc
   00220A     (base 16)		OnLive, Inc
-  				181 Lytton Ave
-				Palo Alto California 94301
+  				1091 N Shoreline Blvd
+				Mountainview California 94043
 				UNITED STATES
 
   00-22-0B   (hex)		National Source Coding Center
@@ -72355,9 +72355,9 @@
 				WOBURN MA 01801
 				UNITED STATES
 
-  00-90-7A   (hex)		Polycom, Inc.
-  00907A     (base 16)		Polycom, Inc.
-  				5755 CENTRAL AVENUE
+  00-90-7A   (hex)		Spectralink, Inc
+  00907A     (base 16)		Spectralink, Inc
+  				2560 55th Street
 				BOULDER CO 80301
 				UNITED STATES
 
@@ -80625,6 +80625,13 @@
 				Windsor WI 53598
 				UNITED STATES
 
+  04-84-8A   (hex)		7INOVA TECHNOLOGY LIMITED
+  04848A     (base 16)		7INOVA TECHNOLOGY LIMITED
+  				1811unit,B Block,ZhanTao Technology Building,
+				MinZhi Road,LongHua District
+				ShenZhen GuangDong 518000
+				CHINA
+
   04-88-8C   (hex)		Eifelwerk Butler Systeme GmbH
   04888C     (base 16)		Eifelwerk Butler Systeme GmbH
   				Eifelwerkstrasse 1
@@ -84238,9 +84245,9 @@
 
   18-6D-99   (hex)		Adanis Inc.
   186D99     (base 16)		Adanis Inc.
-  				#1806,  Samho center B Bldg
-				275-6, Yangjae-Dong, Seocho-Ku,
-				SEOUL  137-941
+  				#2015-2016 Geumkang Penterium
+				IT Tower B Tower 282
+				Hakuro, Dongan-Gu, Anyang-Si Kyunggi-Do 431-060
 				KOREA, REPUBLIC OF
 
   18-7A-93   (hex)		AMICCOM Electronics Corporation
@@ -84856,6 +84863,12 @@
   				2755 Slocum Rd
 				Peyton CO 80831
 				UNITED STATES
+
+  1C-A7-70   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LT
+  1CA770     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LT
+  				Unit A 13-16/F,Skyworth Bldg., Gaoxin Ave.1.S.,Nanshan District
+				ShenZhen GuangDong 518057
+				CHINA
 
   1C-AA-07   (hex)		CISCO SYSTEMS, INC.
   1CAA07     (base 16)		CISCO SYSTEMS, INC.
@@ -96863,6 +96876,13 @@
 				Dayton OH 45424
 				UNITED STATES
 
+  7C-6F-F8   (hex)		ShenZhen ACTO Digital Video Technology Co.,Ltd.
+  7C6FF8     (base 16)		ShenZhen ACTO Digital Video Technology Co.,Ltd.
+  				3/F,Building 7,Software Park
+				,High-Tech Industrial Park,keji C. Rd.2nd
+				ShenZhen GuangDong 518055
+				CHINA
+
   7C-76-73   (hex)		ENMAS GmbH
   7C7673     (base 16)		ENMAS GmbH
   				Holzkoppelweg 23
@@ -96978,8 +96998,8 @@
 
   7C-B7-7B   (hex)		Paradigm Electronics Inc
   7CB77B     (base 16)		Paradigm Electronics Inc
-  				5340 Canotek Rd Unit#4
-				Ottawa ON K1J 9C6
+  				205 Annagem Blvd
+				Mississauga ON L5T 2VI
 				CANADA
 
   7C-BB-6F   (hex)		Cosco Electronics Co., Ltd.
@@ -103190,9 +103210,9 @@
 
   AC-E8-7E   (hex)		Bytemark Computer Consulting Ltd
   ACE87E     (base 16)		Bytemark Computer Consulting Ltd
-  				The Raylor Centre
-				James St
-				York North Yorkshire YO10 3DW
+  				Unit 2
+				Novus Business Park
+				Opus Avenue York YO26 6BL 
 				UNITED KINGDOM
 
   AC-E9-7F   (hex)		IoT Tech Limited
@@ -105962,10 +105982,11 @@
 				Shenzhen Guangdong 518104
 				CHINA
 
-  C4-59-76   (hex)		Fugoo
-  C45976     (base 16)		Fugoo
-  				1024 14th Ave SE
-				Le Mars IA 51031
+  C4-59-76   (hex)		Fugoo Coorporation
+  C45976     (base 16)		Fugoo Coorporation
+  				8001 Irvine Center Drive
+				Suite 250
+				Irvine CA 62618
 				UNITED STATES
 
   C4-5D-D8   (hex)		HDMI Forum
@@ -112257,6 +112278,13 @@
 				Vilnius  LT-08221
 				LITHUANIA
 
+  F4-7A-4E   (hex)		Woojeon&Handan
+  F47A4E     (base 16)		Woojeon&Handan
+  				569-12, Gasan-dong,
+				Geumchon-gu
+				Seoul  153-803
+				KOREA, REPUBLIC OF
+
   F4-7A-CC   (hex)		SolidFire, Inc.
   F47ACC     (base 16)		SolidFire, Inc.
   				1620 Pearl Street
@@ -113007,12 +113035,12 @@
 				Fremont CA 94538
 				UNITED STATES
 
-  F8-F0-82   (hex)		NAG LLC
-  F8F082     (base 16)		NAG LLC
-  				Zavokzalnaya st, 5a
-				Office 18
-				Ekaterinburg Sverdlovskaya oblast 620141
-				RUSSIAN FEDERATION
+  F8-F0-82   (hex)		Orion Networks International, Inc
+  F8F082     (base 16)		Orion Networks International, Inc
+  				715 Discovery Blvd,
+				Ste 502
+				Cedar Park TX 78613
+				UNITED STATES
 
   F8-F2-5A   (hex)		G-Lab GmbH
   F8F25A     (base 16)		G-Lab GmbH

@@ -5186,10 +5186,11 @@
 				Enschede OV 7521 PE
 				NETHERLANDS
 
-  00-50-C2	(hex)		Novx Systems Canada Inc.
-  341000-341FFF	(base 16)	Novx Systems Canada Inc.
-  				185 Renfrew Drive
-				Markham Ontario L3R 6G3
+  00-50-C2	(hex)		Novx Systems
+  341000-341FFF	(base 16)	Novx Systems
+  				Suite 100
+				Leslie Street
+				Richmond Hill Ontario L4B 4N1
 				CANADA
 
   00-50-C2	(hex)		St. Michael Strategies
@@ -7673,8 +7674,8 @@
 				Kuenzelsau Baden-Württemberg 74653
 				GERMANY
 
-  00-50-C2	(hex)		Radford Control Systems
-  4D0000-4D0FFF	(base 16)	Radford Control Systems
+  00-50-C2	(hex)		RCS Energy Management Ltd
+  4D0000-4D0FFF	(base 16)	RCS Energy Management Ltd
   				RMS House
 				Kennetside
 				Newbury Berkshire RG14 5PX
@@ -13593,7 +13594,8 @@
 
   00-50-C2	(hex)		InnoTrans Communications, Inc.
   881000-881FFF	(base 16)	InnoTrans Communications, Inc.
-  				6840 Via Del Oro, Ste#210
+  				22 Great Oaks Blvd
+				#100
 				San Jose CA 95119
 				UNITED STATES
 
@@ -27248,4 +27250,10 @@
   				8220 EAST ROOSEVELT ST.  MD: R1115
 				SCOTTSDALE AZ 85257
 				UNITED STATES
+
+  40-D8-55	(hex)		MESA Electronic GmbH
+  115000-115FFF	(base 16)	MESA Electronic GmbH
+  				Leitenstr. 26
+				Geretsried Bayern 82538
+				GERMANY
 
