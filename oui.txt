@@ -85425,6 +85425,12 @@
 				Dallas TX 75243
 				UNITED STATES
 
+  20-CE-C4   (hex)		Peraso Technologies
+  20CEC4     (base 16)		Peraso Technologies
+  				144 Front St. West, Suite 685
+				Toronto ON M5J 2L7
+				CANADA
+
   20-CF-30   (hex)		ASUSTek COMPUTER INC.
   20CF30     (base 16)		ASUSTek COMPUTER INC.
   				15,Li-Te Rd.,Peitou,
@@ -104753,6 +104759,13 @@
 				Meguro-ku Tokyo 153-8904
 				JAPAN
 
+  B8-DC-87   (hex)		IAI Corporation
+  B8DC87     (base 16)		IAI Corporation
+  				577-1 Obane
+				Shimizu-Ku
+				Shizuoka-City Shizuoka 424-0103
+				JAPAN
+
   B8-E5-89   (hex)		Payter BV
   B8E589     (base 16)		Payter BV
   				Rozenlaan 115
@@ -106989,6 +107002,13 @@
   				rue de la Maitrise 9
 				Nivelles  1400
 				BELGIUM
+
+  CC-47-03   (hex)		Intercon Systems Co., Ltd.
+  CC4703     (base 16)		Intercon Systems Co., Ltd.
+  				#915 Hanlim Human Tower
+				1-40 Geumjeong-dong
+				Gunpo-si Gyeonggi-do 435-824
+				KOREA, REPUBLIC OF
 
   CC-4B-FB   (hex)		Hellberg Safety AB
   CC4BFB     (base 16)		Hellberg Safety AB
