@@ -446,7 +446,7 @@
 
   00-50-C2	(hex)		PRIVATE
   044000-044FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Chase Manhattan Bank
   045000-045FFF	(base 16)	Chase Manhattan Bank
   				380 Madison Ave
@@ -456,7 +456,7 @@
 
   00-50-C2	(hex)		PRIVATE
   046000-046FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		B. R. Electronics
   047000-047FFF	(base 16)	B. R. Electronics
   				PO Box 717
@@ -601,7 +601,7 @@
 
   00-50-C2	(hex)		PRIVATE
   060000-060FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Simple Network Magic Corporation
   061000-061FFF	(base 16)	Simple Network Magic Corporation
   				401 Kentucky Lane
@@ -610,7 +610,7 @@
 
   00-50-C2	(hex)		PRIVATE
   062000-062FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Ticketmaster Corp
   063000-063FFF	(base 16)	Ticketmaster Corp
   				8181 S. 48th St.
@@ -620,7 +620,7 @@
 
   00-50-C2	(hex)		PRIVATE
   064000-064FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Clever Devices, Ltd.
   065000-065FFF	(base 16)	Clever Devices, Ltd.
   				5 Aerial Way
@@ -629,7 +629,7 @@
 
   00-50-C2	(hex)		PRIVATE
   066000-066FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Riverlink Computers, Ltd.
   067000-067FFF	(base 16)	Riverlink Computers, Ltd.
   				Pixmore Centre
@@ -1183,7 +1183,7 @@
 
   00-50-C2	(hex)		PRIVATE
   0BF000-0BFFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Imigix Ltd.
   0C0000-0C0FFF	(base 16)	Imigix Ltd.
   				Cardiff Gate Business Park
@@ -3207,7 +3207,7 @@
 
   00-50-C2	(hex)		PRIVATE
   203000-203FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Algodue Elettronica srl
   204000-204FFF	(base 16)	Algodue Elettronica srl
   				Via Passerina 3
@@ -4292,7 +4292,7 @@
 
   00-50-C2	(hex)		PRIVATE
   2B1000-2B1FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Smiths Detection
   2B2000-2B2FFF	(base 16)	Smiths Detection
   				1730 Aimco Blvd
@@ -4537,7 +4537,7 @@
 
   00-50-C2	(hex)		PRIVATE
   2D9000-2D9FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		PYRAMID Computer GmbH
   2DA000-2DAFFF	(base 16)	PYRAMID Computer GmbH
   				Boetzinger Strasse 60
@@ -10231,7 +10231,7 @@
 
   00-50-C2	(hex)		PRIVATE
   667000-667FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Keith & Koep GmbH
   668000-668FFF	(base 16)	Keith & Koep GmbH
   				Uellendahler Str. 199
@@ -12586,7 +12586,7 @@
 
   00-50-C2	(hex)		PRIVATE
   7DF000-7DFFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		C&D Technologies, Inc
   7E0000-7E0FFF	(base 16)	C&D Technologies, Inc
   				65 Industrial Park Rd
@@ -12801,7 +12801,7 @@
 
   00-50-C2	(hex)		PRIVATE
   802000-802FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		dB Broadcast Limited
   803000-803FFF	(base 16)	dB Broadcast Limited
   				Kestrel House
@@ -17557,7 +17557,7 @@
 
   00-50-C2	(hex)		PRIVATE
   AFB000-AFBFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Odus Technologies SA
   AFC000-AFCFFF	(base 16)	Odus Technologies SA
   				Rue des bosquets 18
@@ -18269,7 +18269,7 @@
 
   00-50-C2	(hex)		PRIVATE
   B6E000-B6EFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		CT Company
   B6F000-B6FFFF	(base 16)	CT Company
   				Godovikova 9, Moscow
@@ -19059,7 +19059,7 @@
 
   00-50-C2	(hex)		PRIVATE
   BEE000-BEEFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		SOCIEDAD IBERICA DE CONSTRUCCIONES ELECTRICAS, S.A. (SICE)
   BEF000-BEFFFF	(base 16)	SOCIEDAD IBERICA DE CONSTRUCCIONES ELECTRICAS, S.A. (SICE)
   				C/Sepulveda, 6
@@ -19373,7 +19373,7 @@
 
   00-50-C2	(hex)		PRIVATE
   C21000-C21FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Audient Ltd
   C22000-C22FFF	(base 16)	Audient Ltd
   				1 Stable Court
@@ -19395,7 +19395,7 @@
 
   00-50-C2	(hex)		PRIVATE
   C25000-C25FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Austco Communication Systems Pty Ltd
   C26000-C26FFF	(base 16)	Austco Communication Systems Pty Ltd
   				40 O'Malley Street
@@ -20282,7 +20282,7 @@
 
   00-50-C2	(hex)		PRIVATE
   CB5000-CB5FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Krontek Pty Ltd
   CB6000-CB6FFF	(base 16)	Krontek Pty Ltd
   				2 Carinya Close
@@ -20394,7 +20394,7 @@
 
   00-50-C2	(hex)		PRIVATE
   CC8000-CC8FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Promess GmbH
   CC9000-CC9FFF	(base 16)	Promess GmbH
   				Schaffhausener Str. 44
@@ -20599,7 +20599,7 @@
 
   00-50-C2	(hex)		PRIVATE
   CE9000-CE9FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Keith & Koep GmbH
   CEA000-CEAFFF	(base 16)	Keith & Koep GmbH
   				Uellendahler Str. 199
@@ -21720,7 +21720,7 @@
 
   00-50-C2	(hex)		PRIVATE
   D9E000-D9EFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		BitWise Controls
   D9F000-D9FFFF	(base 16)	BitWise Controls
   				98 Inverness Dr East
@@ -22688,7 +22688,7 @@
 
   00-50-C2	(hex)		PRIVATE
   E3A000-E3AFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Nanosolution Inc.
   E3B000-E3BFFF	(base 16)	Nanosolution Inc.
   				Room 110, Woolim Lions Valley
@@ -23900,7 +23900,7 @@
 
   00-50-C2	(hex)		PRIVATE
   EFC000-EFCFFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		Sanmina
   EFD000-EFDFFF	(base 16)	Sanmina
   				PO 106
@@ -25333,7 +25333,7 @@
 
   00-50-C2	(hex)		PRIVATE
   FE3000-FE3FFF	(base 16)		 
-  				 
+
   00-50-C2	(hex)		RTT Mobile Interpretation
   FE4000-FE4FFF	(base 16)	RTT Mobile Interpretation
   				1107 Hazeltine Blvd.
@@ -27063,7 +27063,7 @@
 
   40-D8-55	(hex)		PRIVATE
   0F6000-0F6FFF	(base 16)		 
-  				 
+
   40-D8-55	(hex)		Comline Elektronik Elektrotechnik GmbH
   0F7000-0F7FFF	(base 16)	Comline Elektronik Elektrotechnik GmbH
   				Karl-Rapp-Straße 1
@@ -27256,4 +27256,42 @@
   				Leitenstr. 26
 				Geretsried Bayern 82538
 				GERMANY
+
+  40-D8-55	(hex)		Uniscan LLC
+  116000-116FFF	(base 16)	Uniscan LLC
+  				Arbyzova st. 4/26
+				Novosibirsk NSO 630117
+				RUSSIAN FEDERATION
+
+  40-D8-55	(hex)		RCS Energy Management Limited
+  117000-117FFF	(base 16)	RCS Energy Management Limited
+  				RMS House
+				Kennet Side
+				Newbury Berkshire RG14 5PX
+				UNITED KINGDOM
+
+  40-D8-55	(hex)		University of Nebraska -- Lincoln
+  118000-118FFF	(base 16)	University of Nebraska -- Lincoln
+  				UNL Department of Physics and Astronomy
+				208 Jorgensen Hall
+				Lincoln NE 68588-0299
+				UNITED STATES
+
+  40-D8-55	(hex)		OOO Group of Industrial Technologies
+  119000-119FFF	(base 16)	OOO Group of Industrial Technologies
+  				Profsoyuznaya st. 124A
+				Moscow 117321
+				RUSSIAN FEDERATION
+
+  40-D8-55	(hex)		Sicon srl
+  11A000-11AFFF	(base 16)	Sicon srl
+  				Via Sila 1/3
+				Isola Vicentina Vicenza 36033
+				ITALY
+
+  40-D8-55	(hex)		nanoTRONIC GmbH
+  11B000-11BFFF	(base 16)	nanoTRONIC GmbH
+  				Werkstrasse 27
+				Lyss Bern 3250
+				SWITZERLAND
 
