@@ -82239,6 +82239,12 @@
 				25436 TORNESCH  
 				GERMANY
 
+  08-BD-43   (hex)		NETGEAR INC.,
+  08BD43     (base 16)		NETGEAR INC.,
+  				350 EAST PLUMERIA DRIVE
+				SAN JOSE CALIFORNIA 95134
+				UNITED STATES
+
   08-BE-09   (hex)		Astrol Electronic AG
   08BE09     (base 16)		Astrol Electronic AG
   				Vorderi Böde 3
@@ -86993,6 +86999,12 @@
 				RUEIL MALMAISON CEDEX IDF 92848
 				FRANCE
 
+  2C-E6-CC   (hex)		Ruckus Wireless
+  2CE6CC     (base 16)		Ruckus Wireless
+  				350 W. Java Drive
+				Sunnyvale CA 94089
+				UNITED STATES
+
   2C-E8-71   (hex)		Alert Metalguard ApS
   2CE871     (base 16)		Alert Metalguard ApS
   				Vester Voldgade 104, st, th
@@ -89735,6 +89747,12 @@
 				GJTP, DaeChon Dong, Buk Gu
 				GwangJu 500-706
 				KOREA, REPUBLIC OF
+
+  44-67-55   (hex)		Orbit Irrigation
+  446755     (base 16)		Orbit Irrigation
+  				P.O. Box 328
+				Bountiful Utah 84011
+				UNITED STATES
 
   44-68-AB   (hex)		JUIN COMPANY, LIMITED
   4468AB     (base 16)		JUIN COMPANY, LIMITED
@@ -94677,6 +94695,12 @@
 				Walnut Creek CA 94596
 				UNITED STATES
 
+  6C-90-B1   (hex)		SanLogic Inc
+  6C90B1     (base 16)		SanLogic Inc
+  				2350 Mission College Blvd
+				Santa Clara CA 95054
+				UNITED STATES
+
   6C-92-BF   (hex)		Inspur Electronic Information Industry Co.,Ltd.
   6C92BF     (base 16)		Inspur Electronic Information Industry Co.,Ltd.
   				No 224 Shanda Road
@@ -94821,6 +94845,13 @@
   				B.J.Jelacica 22c
 				Cakovec Croatia 40000
 				CROATIA
+
+  6C-D1-B0   (hex)		WING SING ELECTRONICS HONG KONG LIMITED
+  6CD1B0     (base 16)		WING SING ELECTRONICS HONG KONG LIMITED
+  				No. 1, Guoyuan Industrial Zone
+				 Huancui South Road, Dongsha Dadao
+				Guangzhou Guang Dong 510385
+				CHINA
 
   6C-D6-8A   (hex)		LG Electronics Inc
   6CD68A     (base 16)		LG Electronics Inc
@@ -96334,6 +96365,12 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  78-9F-4C   (hex)		HOERBIGER Elektronik GmbH
+  789F4C     (base 16)		HOERBIGER Elektronik GmbH
+  				Justinus-Kernerstr. 7
+				Ammerbuch Baden-Wuerttemberg D-72119
+				GERMANY
 
   78-9F-87   (hex)		Siemens AG I IA PP PRM
   789F87     (base 16)		Siemens AG I IA PP PRM
@@ -100616,6 +100653,13 @@
 				shenzhen guangdong 518057
 				CHINA
 
+  98-F8-C1   (hex)		IDT Technology Limited
+  98F8C1     (base 16)		IDT Technology Limited
+  				Block C, 9/F.,Kaiser Estate, Phase 1,
+				41 Man Yue Street, Hunghom
+				Kowloon Hong Kong 
+				HONG KONG
+
   98-F8-DB   (hex)		Marini Impianti Industriali s.r.l.
   98F8DB     (base 16)		Marini Impianti Industriali s.r.l.
   				Via delle Province, 6A
@@ -102579,6 +102623,12 @@
   				170 W. TASMAN DRIVE
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
+				UNITED STATES
+
+  A8-BB-CF   (hex)		Apple, Inc.
+  A8BBCF     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
 				UNITED STATES
 
   A8-BD-1A   (hex)		Honey Bee (Hong Kong) Limited
@@ -106729,6 +106779,12 @@
 				Irvine California 92612
 				UNITED STATES
 
+  C8-B5-B7   (hex)		Apple, Inc.
+  C8B5B7     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   C8-BB-D3   (hex)		Embrane
   C8BBD3     (base 16)		Embrane
   				2350 Mission College Blvd., Ste 703
@@ -110154,6 +110210,12 @@
 				Taipei City  114
 				TAIWAN, PROVINCE OF CHINA
 
+  E0-FA-EC   (hex)		Platan sp. z o.o. sp. k.
+  E0FAEC     (base 16)		Platan sp. z o.o. sp. k.
+  				ul.Platanowa 2
+				Sopot pomorskie 81-855
+				POLAND
+
   E4-11-5B   (hex)		Hewlett Packard
   E4115B     (base 16)		Hewlett Packard
   				11445 Compaq Center Drive
@@ -111713,6 +111775,13 @@
   				16-504, 21-ban, Shimomaruko 4-chome, Oota-ku
 				Tokyo  146-0092
 				JAPAN
+
+  F0-37-A1   (hex)		Huike Electronics (SHENZHEN) CO., LTD.
+  F037A1     (base 16)		Huike Electronics (SHENZHEN) CO., LTD.
+  				Huike industrial park,Minying industrial park,Shuitian country
+				Shiyan,Baoan District
+				SHENZHEN GUANGDONG 518108
+				CHINA
 
   F0-3A-55   (hex)		Omega Elektronik AS
   F03A55     (base 16)		Omega Elektronik AS

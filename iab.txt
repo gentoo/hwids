@@ -27295,3 +27295,15 @@
 				Lyss Bern 3250
 				SWITZERLAND
 
+  40-D8-55	(hex)		DEUTA-WERKE GmbH
+  11C000-11CFFF	(base 16)	DEUTA-WERKE GmbH
+  				Paffrather Strasse 140
+				Bergisch Gladbach Northrhine Westfalia 51465
+				GERMANY
+
+  40-D8-55	(hex)		ACD Elektronik GmBH
+  11D000-11DFFF	(base 16)	ACD Elektronik GmBH
+  				Engelberg 2
+				Achstetten  88480
+				GERMANY
+
