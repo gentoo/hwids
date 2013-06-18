@@ -84030,6 +84030,13 @@
 				Ohta-Ku Tokyo 146-8501
 				JAPAN
 
+  18-10-4E   (hex)		CEDINT-UPM
+  18104E     (base 16)		CEDINT-UPM
+  				UPM   CIF:Q2818015F
+				Ramiro de Maeztu, 7
+				28040 Pozuelo de Alarcon Madrid 
+				SPAIN
+
   18-14-20   (hex)		TEB SAS
   181420     (base 16)		TEB SAS
   				RD294 - Corpeau
@@ -86802,6 +86809,12 @@
   				32 Shaham St.
 				Petach Tikva  49250
 				ISRAEL
+
+  2C-7B-84   (hex)		OOO Petr Telegin
+  2C7B84     (base 16)		OOO Petr Telegin
+  				Gagarin avenue, 37, build P1
+				Nizhny Novgorod 603009
+				RUSSIAN FEDERATION
 
   2C-7E-CF   (hex)		Onzo Ltd
   2C7ECF     (base 16)		Onzo Ltd
@@ -91367,6 +91380,12 @@
 				Taipei  112
 				TAIWAN, PROVINCE OF CHINA
 
+  54-05-36   (hex)		Vivago Oy
+  540536     (base 16)		Vivago Oy
+  				Itsehallintokuja 6
+				Espoo FI-02600
+				FINLAND
+
   54-05-5F   (hex)		Alcatel Lucent
   54055F     (base 16)		Alcatel Lucent
   				Via Trento, 30
@@ -95310,6 +95329,12 @@
   				6F., No. 100, Zhouzi St., Neihu Dist.
 				Taipei City  11493
 				TAIWAN, PROVINCE OF CHINA
+
+  70-9E-29   (hex)		Sony Computer Entertainment Inc.
+  709E29     (base 16)		Sony Computer Entertainment Inc.
+  				1-7-1 Konan
+				Minatoku Tokyo 108-0075
+				JAPAN
 
   70-9E-86   (hex)		X6D Limited
   709E86     (base 16)		X6D Limited
@@ -102158,6 +102183,13 @@
 				Shanghai  200233
 				CHINA
 
+  A4-C0-C7   (hex)		ShenZhen Hitom Communication Technology Co..LTD
+  A4C0C7     (base 16)		ShenZhen Hitom Communication Technology Co..LTD
+  				Room 110,Unit A,No.1 Chuangye Building,43# YanShan Road,Shekou Area
+				Nanshan District
+				ShenZhen GuangDong 518052
+				CHINA
+
   A4-C0-E1   (hex)		Nintendo Co., Ltd.
   A4C0E1     (base 16)		Nintendo Co., Ltd.
   				11-1 HOKOTATE-CHO
@@ -106929,6 +106961,13 @@
 				Beijing  100085
 				CHINA
 
+  C8-F3-6B   (hex)		Yamato Scale Co.,Ltd.
+  C8F36B     (base 16)		Yamato Scale Co.,Ltd.
+  				5-22
+				Saenba-cho
+				Akashi Hyogo 673-8688
+				JAPAN
+
   C8-F3-86   (hex)		Shenzhen Xiaoniao Technology Co.,Ltd
   C8F386     (base 16)		Shenzhen Xiaoniao Technology Co.,Ltd
   				Floor 13 C-D Yunsong Buliding
@@ -109525,6 +109564,13 @@
 				Seongnam-si Gyeonggi-do 463-400
 				KOREA, REPUBLIC OF
 
+  DC-C4-22   (hex)		Systembase Limited
+  DCC422     (base 16)		Systembase Limited
+  				Jupes Field House, Pettridge Lane
+				Mere
+				Warminster Wiltshire BA12 6DG
+				UNITED KINGDOM
+
   DC-CB-A8   (hex)		Explora Technologies Inc
   DCCBA8     (base 16)		Explora Technologies Inc
   				360, Franquet Street
@@ -109983,6 +110029,13 @@
 				41, Cheongdam-dong, Gangnam-gu
 				SEOUL 135-951
 				KOREA, REPUBLIC OF
+
+  E0-B2-F1   (hex)		FN-LINK TECHNOLOGY LIMITED
+  E0B2F1     (base 16)		FN-LINK TECHNOLOGY LIMITED
+  				5th Floor, A Building, Haoye Logistics Park,
+				Shugang Channel, Bao&#39;an District,
+				SHENZHEN GUANGDONG 518126
+				CHINA
 
   E0-B7-B1   (hex)		Pace plc
   E0B7B1     (base 16)		Pace plc
@@ -111237,6 +111290,13 @@
   				12045 East Waterfront Drive
 				Playa Vista Ca. 90094
 				UNITED STATES
+
+  EC-22-57   (hex)		JiangSu NanJing University Electronic Information Technology Co.,Ltd
+  EC2257     (base 16)		JiangSu NanJing University Electronic Information Technology Co.,Ltd
+  				F7,Block 06
+				No.18 Jialing jiangdong Street
+				NanJing JiangSu 210000
+				CHINA
 
   EC-23-3D   (hex)		Huawei Technologies Co., Ltd
   EC233D     (base 16)		Huawei Technologies Co., Ltd
@@ -112566,6 +112626,13 @@
 				Shanghai 201613
 				CHINA
 
+  F4-BD-7C   (hex)		Chengdu jinshi communication Co., LTD
+  F4BD7C     (base 16)		Chengdu jinshi communication Co., LTD
+  				No. 108 #1-2-505, Eastern 5 Section, First Ring Road, JinJiang District,
+				Chengdu, Chongqing, PROC
+				Chengdu Chongqing 610000
+				CHINA
+
   F4-C6-D7   (hex)		blackned GmbH
   F4C6D7     (base 16)		blackned GmbH
   				Am Hartholz 21
@@ -113021,6 +113088,12 @@
   				7608 North Hudson Ave
 				Oklahoma City OK 73116
 				UNITED STATES
+
+  F8-9F-B8   (hex)		YAZAKI Energy System Corporation
+  F89FB8     (base 16)		YAZAKI Energy System Corporation
+  				1-7-1 YOKOI
+				Shimada -shi,Shizuoka  427-8555
+				JAPAN
 
   F8-A0-3D   (hex)		Dinstar Technologies Co., Ltd.
   F8A03D     (base 16)		Dinstar Technologies Co., Ltd.

@@ -27307,3 +27307,29 @@
 				Achstetten  88480
 				GERMANY
 
+  40-D8-55	(hex)		CEMSI, Inc.
+  11E000-11EFFF	(base 16)	CEMSI, Inc.
+  				780 Keezletown Road
+				Suite 102
+				Weyers Cave VA 24486
+				UNITED STATES
+
+  40-D8-55	(hex)		KOMPAN Pawel Sokolowski
+  11F000-11FFFF	(base 16)	KOMPAN Pawel Sokolowski
+  				Radomska 29
+				Starachowice Swietokrzyskie 27-200
+				POLAND
+
+  40-D8-55	(hex)		ObjectFab GmbH
+  120000-120FFF	(base 16)	ObjectFab GmbH
+  				Pohlandstrasse 19
+				Dresden  D-01309
+				GERMANY
+
+  40-D8-55	(hex)		shanghai Anjian Information technology co. , ltd.
+  121000-121FFF	(base 16)	shanghai Anjian Information technology co. , ltd.
+  				Room 413，Block B ,
+				No. 1919,Zhongshan West Road
+				shanghai 200235
+				CHINA
+

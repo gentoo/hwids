@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.17
-#	Date:    2013-06-17 03:15:02
+#	Version: 2013.06.18
+#	Date:    2013-06-18 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1989,6 +1989,7 @@
 	6819  Pitcairn PRO [Radeon HD 7850]
 		174b e221  Radeon HD 7850 2GB GDDR5 DVI-I/DVI-D/HDMI/DP
 	6820  Venus XTX [Radeon HD 8800M Series]
+		103c 1851  Radeon HD 7750M
 	6821  Venus XT [Radeon HD 8800M Series]
 	6822  Venus PRO
 	6823  Venus PRO [Radeon HD 8800M Series]
@@ -2002,6 +2003,7 @@
 	682b  Venus LE [Radeon HD 8800M Series]
 	682d  Chelsea XT GL [FirePro M4000]
 	682f  Chelsea LP [Radeon HD 7730M]
+		103c 1851  Radeon HD 7750M
 	6830  Cape Verde [Radeon HD 7800M Series]
 	6831  Cape Verde [AMD Radeon HD 7700M Series]
 	6835  Cape Verde PRX
@@ -2936,7 +2938,7 @@
 	983a  Kabini
 	983b  Kabini
 	983c  Kabini
-	983d  Temash [Radeon HD 8280G]
+	983d  Temash [Radeon HD 8250/8280G]
 	983e  Kabini
 	983f  Kabini
 # AMD A10-5800K CPU
