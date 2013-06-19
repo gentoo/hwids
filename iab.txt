@@ -27333,3 +27333,10 @@
 				shanghai 200235
 				CHINA
 
+  40-D8-55	(hex)		ATX Networks Ltd.
+  122000-122FFF	(base 16)	ATX Networks Ltd.
+  				12 Halapid St.
+				POB 7041
+				Petach-Tikva  49517
+				ISRAEL
+

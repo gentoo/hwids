@@ -25299,10 +25299,9 @@
 				Yokohama Kanagawa 241-0826
 				JAPAN
 
-  00-0F-A2   (hex)		Digital Path Networks
-  000FA2     (base 16)		Digital Path Networks
-  				275 Airpark Blvd
-				Suite 500
+  00-0F-A2   (hex)		2xWireless
+  000FA2     (base 16)		2xWireless
+  				1065 Maurader st
 				Chico CA 95973
 				UNITED STATES
 
@@ -100466,6 +100465,12 @@
 				Rueil Malmaison Ile de France 92500
 				FRANCE
 
+  98-5D-46   (hex)		PeopleNet Communication
+  985D46     (base 16)		PeopleNet Communication
+  				4400 Baker Road
+				Minnetonka Minnesota 55343
+				UNITED STATES
+
   98-5E-1B   (hex)		ConversDigital Co., Ltd.
   985E1B     (base 16)		ConversDigital Co., Ltd.
   				5308 5th Bldg., Dong Seoul Univ.
@@ -113328,6 +113333,13 @@
 				Shinjuku-ku
 				Tokyo  160-0022
 				JAPAN
+
+  F8-FF-5F   (hex)		Shenzhen Communication Technology Co.,Ltd
+  F8FF5F     (base 16)		Shenzhen Communication Technology Co.,Ltd
+  				2F,6 Block, Kupai inforport,No.2 Mengxi Street,(North)High-tech Industrial Park,
+				Nanshan District
+				Shenzhen Guangdong 518057
+				CHINA
 
   FC-00-12   (hex)		Toshiba Samsung Storage Technolgoy Korea Corporation
   FC0012     (base 16)		Toshiba Samsung Storage Technolgoy Korea Corporation

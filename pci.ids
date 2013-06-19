@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.18
-#	Date:    2013-06-18 03:15:02
+#	Version: 2013.06.19
+#	Date:    2013-06-19 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -2472,8 +2472,8 @@
 		17aa 21e9  Radeon HD 6370M
 		17aa 3971  Radeon HD 6370M
 		17aa 3972  Radeon HD 7370M
-		17aa 397a  Radeon HD 6370M
-		17aa 397b  Radeon HD 6370M
+		17aa 397a  Radeon HD 6370M/7370M
+		17aa 397b  Radeon HD 6370M/7370M
 		17aa 397f  Radeon HD 7370M
 	68e5  Robson LE [Radeon HD 6330M]
 		1179 fd3c  Radeon HD 6330M
