@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.19
-#	Date:    2013-06-19 03:15:02
+#	Version: 2013.06.21
+#	Date:    2013-06-21 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1447,7 +1447,9 @@
 	665d  Bonaire
 	6660  Sun XT [Radeon HD 8670A]
 	6663  Sun PRO [Radeon HD 8500M Series]
-	6667  Sun
+	6664  Sun [Radeon R5 M200 Series]
+	6665  Sun [Radeon R5 M200 Series]
+	6667  Sun [Radeon R5 M200 Series]
 	666f  Sun [Radeon HD 8500M]
 	6670  Hainan
 	6704  Cayman PRO GL [FirePro V7900]
@@ -2941,6 +2943,22 @@
 	983d  Temash [Radeon HD 8250/8280G]
 	983e  Kabini
 	983f  Kabini
+	9850  Mullins [Radeon APU A6-6200 with R3 Graphics]
+	9851  Mullins [Radeon APU A4-6000 with R2 Graphics]
+	9852  Mullins [Radeon APU A4-6000 with R2 Graphics]
+	9853  Mullins [Radeon APU E2-4000 with R2 Graphics]
+	9854  Mullins [Radeon APU E2-3700 with R2 Graphics]
+	9855  Mullins [Radeon APU XX-2450M with R3 Graphics]
+	9856  Mullins [Radeon APU XX-2200M with R2 Graphics]
+	9857  Mullins [Radeon APU XX-2200M with R2 Graphics]
+	9858  Mullins
+	9859  Mullins
+	985a  Mullins
+	985b  Mullins
+	985c  Mullins
+	985d  Mullins
+	985e  Mullins
+	985f  Mullins
 # AMD A10-5800K CPU
 	9901  Trinity [Radeon HD 7660D]
 	9902  Trinity HDMI Audio Controller
@@ -16426,6 +16444,10 @@
 	00e5  NT40E2-1 Network Adapter 1x40Gb
 # 4-Port Adapter for 1 GbE In-Line Bypass Applications
 	00f5  NT4E2-4T-BP Network Adapter 4x1Gb with Electrical Bypass
+	0105  NT4E2-4-PTP Network Adapter 4x1Gb
+	0115  NT20E2-PTP Network Adapter 2x10Gb
+	0125  NT4E2-4-PTP Network Adapter 4x1Gb
+	0135  NT20E2-PTP Network Adapter 2x10Gb
 18f6  NextIO
 	1000  [Nexsis] Switch Virtual P2P PCIe Bridge
 	1001  [Texsis] Switch Virtual P2P PCIe Bridge
@@ -16466,6 +16488,12 @@
 	0021  422/8-PCIe Serial PCIe Adapter [Fastcom]
 # RS-644 Only
 	0022  SuperFSCC/4-LVDS Serial PCIe Adapter [Fastcom]
+# Software UARTs
+	0023  SuperFSCC/4 Serial cPCI Adapter [Fastcom]
+# RS-644 Only, Software UARTs
+	0024  SuperFSCC-LVDS Serial PCI Adapter [Fastcom]
+# RS-644 Only, Software UARTs
+	0025  SuperFSCC/4-LVDS Serial PCI Adapter [Fastcom]
 18fb  Resilience Corporation
 1904  Hangzhou Silan Microelectronics Co., Ltd.
 	2031  SC92031 PCI Fast Ethernet Adapter
@@ -17810,6 +17838,8 @@
 	0412  Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller
 	0416  4th Gen Core Processor Integrated Graphics Controller
 	041a  Xeon E3-1200 v3 Processor Integrated Graphics Controller
+	0433  Coleto Creek ACC - ME/CPM interface
+	0435  Coleto Creek PCIe Endpoint
 	0436  DH8900CC Null Device
 	0438  DH8900CC Series Gigabit Network Connection
 	043a  DH8900CC Series Gigabit Fiber Network Connection
@@ -19480,7 +19510,9 @@
 	1f43  Avoton GbE EEPROM-less
 	1f44  Avoton GbE Virtual Function
 	1f45  Avoton GbE 2500base-KX
-	2250  Xeon Phi Coprocessor 5110P
+	2250  Xeon Phi Coprocessor 5100 Series
+	225c  Xeon Phi coprocessor SE10/7120 series
+	225d  Xeon Phi coprocessor 3120 series 
 	2310  DH89xxCC LPC Controller
 	2323  DH89xxCC 4 Port SATA AHCI Controller
 	2330  DH89xxCC SMBus Controller
@@ -19499,6 +19531,26 @@
 	2360  DH89xxCC Watchdog Timer
 	2364  DH89xxCC MEI 0
 	2365  DH89xxCC MEI 1
+	2390  Coleto Creek LPC Controller
+	23a1  Coleto Creek 2-Port SATA Controller [IDE Mode]
+	23a3  Coleto Creek 4-Port SATA Controller [AHCI Mode]
+	23a6  Coleto Creek 2-Port SATA Controller [IDE Mode]
+	23b0  Coleto Creek SMBus Controller
+	23b1  Coleto Creek CHAP Counter
+	23b2  Coleto Creek Thermal Management Controller
+	23b4  Coleto Creek USB2 Enhanced Host Controller #1
+	23b5  Coleto Creek USB2 Enhanced Host Controller #1
+	23c2  Coleto Creek PCI Express Root Port #1
+	23c3  Coleto Creek PCI Express Root Port #1
+	23c4  Coleto Creek PCI Express Root Port #2
+	23c5  Coleto Creek PCI Express Root Port #2
+	23c6  Coleto Creek PCI Express Root Port #3
+	23c7  Coleto Creek PCI Express Root Port #3
+	23c8  Coleto Creek PCI Express Root Port #4
+	23c9  Coleto Creek PCI Express Root Port #4
+	23e0  Coleto Creek Watchdog Timer
+	23e4  Coleto Creek MEI Controller #1
+	23e5  Coleto Creek MEI Controller #2
 	2410  82801AA ISA Bridge (LPC)
 	2411  82801AA IDE Controller
 	2412  82801AA USB Controller
@@ -21666,6 +21718,19 @@
 	2f09  Haswell-E PCI Express Root Port 3
 	2f0a  Haswell-E PCI Express Root Port 3
 	2f0b  Haswell-E PCI Express Root Port 3
+	2f10  Haswell-E IIO Debug
+	2f11  Haswell-E IIO Debug
+	2f12  Haswell-E IIO Debug
+	2f13  Haswell-E IIO Debug
+	2f14  Haswell-E IIO Debug
+	2f15  Haswell-E IIO Debug
+	2f16  Haswell-E IIO Debug
+	2f17  Haswell-E IIO Debug
+	2f18  Haswell-E IIO Debug
+	2f19  Haswell-E IIO Debug
+	2f1a  Haswell-E IIO Debug
+	2f1b  Haswell-E IIO Debug
+	2f1c  Haswell-E IIO Debug
 	2f1d  Haswell-E PCIe Ring Interface
 	2f1e  Haswell-E Scratchpad & Semaphore Registers
 	2f1f  Haswell-E Scratchpad & Semaphore Registers
@@ -21696,6 +21761,9 @@
 	2f40  Haswell-E QPI Link 2
 	2f41  Haswell-E R3 QPI Link 2 Monitoring
 	2f43  Haswell-E QPI Link 2
+	2f45  Haswell-E QPI Link 2 Debug
+	2f46  Haswell-E QPI Link 2 Debug
+	2f47  Haswell-E QPI Link 2 Debug
 	2f60  Haswell-E Home Agent 1
 	2f68  Haswell-E Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
 	2f6a  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
@@ -21706,14 +21774,27 @@
 	2f6f  Haswell-E DDRIO Global Broadcast
 	2f70  Haswell-E Home Agent 0 Debug
 	2f71  Haswell-E Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+	2f76  Haswell-E E3 QPI Link Debug
 	2f78  Haswell-E Home Agent 1 Debug
 	2f79  Haswell-E Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
 	2f7d  Haswell-E Scratchpad & Semaphore Registers
+	2f7e  Haswell-E E3 QPI Link Debug
 	2f80  Haswell-E QPI Link 0
 	2f81  Haswell-E R3 QPI Link 0 & 1 Monitoring
 	2f83  Haswell-E QPI Link 0
+	2f85  Haswell-E QPI Link 0 Debug
+	2f86  Haswell-E QPI Link 0 Debug
+	2f87  Haswell-E QPI Link 0 Debug
+	2f88  Haswell-E VCU
+	2f8a  Haswell-E VCU
 	2f90  Haswell-E QPI Link 1
 	2f93  Haswell-E QPI Link 1
+	2f95  Haswell-E QPI Link 1 Debug
+	2f96  Haswell-E QPI Link 1 Debug
+	2f98  Haswell-E Power Control Unit
+	2f99  Haswell-E Power Control Unit
+	2f9a  Haswell-E Power Control Unit
+	2f9c  Haswell-E Power Control Unit
 	2fa0  Haswell-E Home Agent 0
 	2fa8  Haswell-E Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
 	2faa  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
@@ -21728,6 +21809,8 @@
 	2fb3  Haswell-E Integrated Memory Controller 0 Channel 1 ERROR Registers
 	2fb4  Haswell-E Integrated Memory Controller 0 Channel 2 Thermal Control
 	2fb5  Haswell-E Integrated Memory Controller 0 Channel 3 Thermal Control
+	2fb6  Haswell-E Integrated Memory Controller 0 Channel 2 ERROR Registers
+	2fb7  Haswell-E Integrated Memory Controller 0 Channel 3 ERROR Registers
 	2fb8  Haswell-E DDRIO (VMSE) 2 & 3
 	2fb9  Haswell-E DDRIO (VMSE) 2 & 3
 	2fba  Haswell-E DDRIO (VMSE) 2 & 3
@@ -21738,10 +21821,10 @@
 	2fbf  Haswell-E DDRIO (VMSE) 0 & 1
 	2fc0  Haswell-E Power Control Unit
 	2fc1  Haswell-E Power Control Unit
-	2fc2  Power Control Unit
-	2fc3  Power Control Unit
-	2fc4  Power Control Unit
-	2fc5  Power Control Unit
+	2fc2  Haswell-E Power Control Unit
+	2fc3  Haswell-E Power Control Unit
+	2fc4  Haswell-E Power Control Unit
+	2fc5  Haswell-E Power Control Unit
 	2fd0  Haswell-E Integrated Memory Controller 1 Channel 0 Thermal Control
 	2fd1  Haswell-E Integrated Memory Controller 1 Channel 1 Thermal Control
 	2fd2  Haswell-E Integrated Memory Controller 1 Channel 0 ERROR Registers

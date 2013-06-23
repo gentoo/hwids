@@ -27340,3 +27340,15 @@
 				Petach-Tikva  49517
 				ISRAEL
 
+  40-D8-55	(hex)		ZAO NPC  Kompjuternie Technologii
+  123000-123FFF	(base 16)	ZAO NPC  Kompjuternie Technologii
+  				Komsomolsky avenue, 90-17
+				Perm Perm Region 614010
+				RUSSIAN FEDERATION
+
+  40-D8-55	(hex)		Debug s.r.l.
+  124000-124FFF	(base 16)	Debug s.r.l.
+  				Via della Meccanica,14
+				Vicenza ITALY 36100
+				ITALY
+
