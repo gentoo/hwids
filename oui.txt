@@ -26044,9 +26044,8 @@
 
   00-10-18   (hex)		BROADCOM CORPORATION
   001018     (base 16)		BROADCOM CORPORATION
-  				16215 ALTON PARKWAY
-				P.O. BOX 57013
-				IRVINE CA 92619-7013
+  				5300 California Ave
+				IRVINE CA 92617
 				UNITED STATES
 
   00-10-19   (hex)		SIRONA DENTAL SYSTEMS GmbH & Co. KG
@@ -54602,9 +54601,9 @@
 				Bucheon-City Kyunggi-Do 420-801
 				KOREA, REPUBLIC OF
 
-  00-21-B5   (hex)		Vyro Games Limited
-  0021B5     (base 16)		Vyro Games Limited
-  				14 St. Stephen's Green
+  00-21-B5   (hex)		Galvanic Ltd
+  0021B5     (base 16)		Galvanic Ltd
+  				38 Nothumberland Road
 				Dublin  2
 				IRELAND
 
@@ -79287,10 +79286,10 @@
 				5692 EB SON
 				NETHERLANDS
 
-  00-E0-6C   (hex)		AEP Systems International Ltd
-  00E06C     (base 16)		AEP Systems International Ltd
-  				Focus 31, West Wing
-				Cleveland Road
+  00-E0-6C   (hex)		Ultra Electronics Limited (AEP Networks)
+  00E06C     (base 16)		Ultra Electronics Limited (AEP Networks)
+  				Knaves Beech Business Centre
+				Loudwater
 				Hemel Hemstead Herts England HP2 7BW
 				UNITED KINGDOM
 
@@ -84032,9 +84031,9 @@
 
   18-10-4E   (hex)		CEDINT-UPM
   18104E     (base 16)		CEDINT-UPM
-  				UPM   CIF:Q2818015F
-				Ramiro de Maeztu, 7
-				28040 Pozuelo de Alarcon Madrid 
+  				Campus de Montegancedo
+				28223 Pozuelo de Alarcón
+				Madrid 
 				SPAIN
 
   18-14-20   (hex)		TEB SAS
@@ -84660,6 +84659,12 @@
 				Songjiang Export Processing Zone
 				Shanghai 201613
 				CHINA
+
+  1C-41-58   (hex)		Gemalto M2M GmbH
+  1C4158     (base 16)		Gemalto M2M GmbH
+  				St.-Martin-Strasse 60
+				Munich Bavaria 81541
+				GERMANY
 
   1C-43-EC   (hex)		JAPAN CIRCUIT CO.,LTD
   1C43EC     (base 16)		JAPAN CIRCUIT CO.,LTD
@@ -86330,6 +86335,13 @@
 				São Paulo SP 04204002
 				BRAZIL
 
+  28-A1-EB   (hex)		ETEK TECHNOLOGY (SHENZHEN) CO.,LTD
+  28A1EB     (base 16)		ETEK TECHNOLOGY (SHENZHEN) CO.,LTD
+  				A505-506、A509 Room,A5 Floor, Academy Of International Technology Innovation, Keji Nan 10th Road, Hi-Tech Industrial Park, Shenzhen, P.R.C.
+				4/F, Building A5, Xinjianxing Technology Industrial Park, Fengxin Road, Guangming New District, Shenzhen, P.R.C.
+				SHENZHEN GUANGDONG 518057
+				CHINA
+
   28-A2-41   (hex)		exlar corp
   28A241     (base 16)		exlar corp
   				18400 west 77th street
@@ -86373,6 +86385,12 @@
   				484 Oakmead Parkway
 				Sunnyvale CA 94085
 				UNITED STATES
+
+  28-BA-B5   (hex)		Samsung Electronics Co.,Ltd
+  28BAB5     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   28-BE-9B   (hex)		Technicolor USA Inc.
   28BE9B     (base 16)		Technicolor USA Inc.
@@ -86971,6 +86989,13 @@
   2CCD43     (base 16)		Summit Technology Group
   				145 Belmont Drive
 				Somerset NJ 08873
+				UNITED STATES
+
+  2C-CD-69   (hex)		Aqavi.com
+  2CCD69     (base 16)		Aqavi.com
+  				3 Riverway
+				Suite 700
+				Houston TX 77056
 				UNITED STATES
 
   2C-D0-5A   (hex)		Liteon Technology Corporation
@@ -87787,6 +87812,12 @@
 				San Jose CA 95134
 				UNITED STATES
 
+  34-AA-8B   (hex)		Samsung Electronics Co.,Ltd
+  34AA8B     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   34-AA-99   (hex)		Alcatel-Lucent
   34AA99     (base 16)		Alcatel-Lucent
   				600 March Road
@@ -88182,6 +88213,12 @@
 				Shanghai  201613
 				CHINA
 
+  38-5A-A8   (hex)		Beijing Zhongdun Security Technology Development Co.
+  385AA8     (base 16)		Beijing Zhongdun Security Technology Development Co.
+  				No.1 Capital Gymnasium South Road
+				Beijing 100048
+				CHINA
+
   38-5F-C3   (hex)		Yu Jeong System, Co.Ltd
   385FC3     (base 16)		Yu Jeong System, Co.Ltd
   				#503, Dong il B/D, 826, Guro-3dong,
@@ -88408,6 +88445,13 @@
   				11445 Compaq Center Drive
 				Houston Texas 77070
 				UNITED STATES
+
+  38-EC-11   (hex)		Novatek Microelectronics Corp.
+  38EC11     (base 16)		Novatek Microelectronics Corp.
+  				No.1-2 Innovation Rd I.,
+				Hsinchu Science Park,
+				Hsinchu  300
+				TAIWAN, PROVINCE OF CHINA
 
   38-EC-E4   (hex)		Samsung Electronics
   38ECE4     (base 16)		Samsung Electronics
@@ -89797,6 +89841,12 @@
 				Taipei TaiWan 23585
 				TAIWAN, PROVINCE OF CHINA
 
+  44-70-0B   (hex)		IFFU
+  44700B     (base 16)		IFFU
+  				33, Annyeom-gil 112 beon-gil,jeongnam-myeon
+				Hwaseong-si Gyeonggi-do 445-968
+				KOREA, REPUBLIC OF
+
   44-7C-7F   (hex)		Innolight Technology Corporation
   447C7F     (base 16)		Innolight Technology Corporation
   				3 Results Way
@@ -90854,6 +90904,12 @@
 				San Jose CA 95131
 				UNITED STATES
 
+  4C-CB-F5   (hex)		zte corporation
+  4CCBF5     (base 16)		zte corporation
+  				12/F.,zte R&D building ,kejinan Road
+				shenzhen guangdong 518057
+				CHINA
+
   4C-CC-34   (hex)		Motorola Solutions Inc.
   4CCC34     (base 16)		Motorola Solutions Inc.
   				One Motorola Plaza
@@ -91768,6 +91824,13 @@
   				Calmbacher Strasse 22
 				Bad Wildbad  75323
 				GERMANY
+
+  54-FB-58   (hex)		WISEWARE, Lda
+  54FB58     (base 16)		WISEWARE, Lda
+  				Centro Social e Administrativo da ZIV
+				Lote 141, R/C
+				Zona Industrial de Vagos Portugal 3840-385
+				PORTUGAL
 
   54-FD-BF   (hex)		Scheidt & Bachmann GmbH
   54FDBF     (base 16)		Scheidt & Bachmann GmbH
@@ -98825,6 +98888,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  8C-2F-39   (hex)		IBA Dosimetry GmbH
+  8C2F39     (base 16)		IBA Dosimetry GmbH
+  				Bahnhofstrasse 5
+				Schwarzenbruck  90592
+				GERMANY
+
   8C-33-30   (hex)		EmFirst Co., Ltd.
   8C3330     (base 16)		EmFirst Co., Ltd.
   				701 Suwon Venture Center
@@ -99539,6 +99608,12 @@
 				Suzhou Jiangsu 215163
 				CHINA
 
+  90-72-40   (hex)		Apple
+  907240     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   90-7A-0A   (hex)		Gebr. Bode GmbH & Co KG
   907A0A     (base 16)		Gebr. Bode GmbH & Co KG
   				Ochshaeuser Str. 14
@@ -99669,6 +99744,12 @@
   90B134     (base 16)		Motorola Mobility, Inc.
   				6450 Sequence Drive
 				San Diego CA 92121
+				UNITED STATES
+
+  90-B2-1F   (hex)		Apple
+  90B21F     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
 				UNITED STATES
 
   90-B8-D0   (hex)		Joyent, Inc.
@@ -100010,6 +100091,12 @@
   				137 Delta Drive
 				Pittsburgh PA 15238
 				UNITED STATES
+
+  94-7C-3E   (hex)		Polewall Norge AS
+  947C3E     (base 16)		Polewall Norge AS
+  				Vige Havnevei 78
+				Kristiansand Vest-Agder 4633
+				NORWAY
 
   94-81-A4   (hex)		Azuray Technologies
   9481A4     (base 16)		Azuray Technologies
@@ -100604,6 +100691,12 @@
 				JINHUA CITY ZHEJIANG PROVINCE, 321017
 				CHINA
 
+  98-8E-4A   (hex)		NOXUS(BEIJING) TECHNOLOGY CO.,LTD
+  988E4A     (base 16)		NOXUS(BEIJING) TECHNOLOGY CO.,LTD
+  				02-1205,11/F, No.2 Building,No.8,Worker’s Stadium North Road Chaoyang District
+				Beijing 100027
+				CHINA
+
   98-8E-DD   (hex)		TE Connectivity Limerick
   988EDD     (base 16)		TE Connectivity Limerick
   				International Science Centre, Block 1
@@ -100679,6 +100772,12 @@
 				Suite 108
 				Milpitas CA 95035
 				UNITED STATES
+
+  98-D3-31   (hex)		Shenzhen Bolutek Technology Co.,Ltd.
+  98D331     (base 16)		Shenzhen Bolutek Technology Co.,Ltd.
+  				Building B, District A, Internet industry base, Baoan
+				Shenzhen Guangdong 518000
+				CHINA
 
   98-D6-86   (hex)		Chyi Lee industry Co., ltd.
   98D686     (base 16)		Chyi Lee industry Co., ltd.
@@ -101949,6 +102048,13 @@
 				Lund Skåne 22643
 				SWEDEN
 
+  A4-29-40   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+  A42940     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+  				Shenzhen University-town Business Park,Lishan Road,Taoyuan Street
+				Nanshan District
+				Shenzhen Guangdong 518055
+				CHINA
+
   A4-29-B7   (hex)		bluesky
   A429B7     (base 16)		bluesky
   				Rm1410 Tower A,Chengjian plaza,NO.18 beitaipingzhuang Road,Haidian District,
@@ -102746,6 +102852,12 @@
 				SAN CHUNG CITY TAIPEI 241
 				TAIWAN, PROVINCE OF CHINA
 
+  A8-CC-C5   (hex)		Saab AB (publ)
+  A8CCC5     (base 16)		Saab AB (publ)
+  				Nobymalmsvagen
+				Linkoping  SE-581 82
+				UNITED STATES
+
   A8-CE-90   (hex)		CVC
   A8CE90     (base 16)		CVC
   				No.361,Renhua Rd.,
@@ -103154,6 +103266,12 @@
 				Kulim Kedah 09000
 				MALAYSIA
 
+  AC-7F-3E   (hex)		Apple
+  AC7F3E     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   AC-80-D6   (hex)		Hexatronic AB
   AC80D6     (base 16)		Hexatronic AB
   				Exportgatan 47B
@@ -103487,6 +103605,13 @@
 				Ulsan Buk-gu 683-360
 				KOREA, REPUBLIC OF
 
+  B0-05-94   (hex)		Liteon Technology Corporation
+  B00594     (base 16)		Liteon Technology Corporation
+  				4F,90,Chien 1 Road,ChungHo
+				New Taipei City
+				Taipei  23585
+				TAIWAN, PROVINCE OF CHINA
+
   B0-12-03   (hex)		Dynamics Hong Kong Limited
   B01203     (base 16)		Dynamics Hong Kong Limited
   				Room A4, 3/F, Friend's House , No.6A Carnarvon Road,
@@ -103728,6 +103853,12 @@
 				Maduvankarai, Guindy
 				Chennai Tamilnadu 600032
 				INDIA
+
+  B0-9F-BA   (hex)		Apple
+  B09FBA     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   B0-A1-0A   (hex)		Pivotal Systems Corporation
   B0A10A     (base 16)		Pivotal Systems Corporation
@@ -104992,6 +105123,12 @@
 				Oulu  
 				FINLAND
 
+  B8-E8-56   (hex)		Apple
+  B8E856     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   B8-E9-37   (hex)		Sonos, Inc.
   B8E937     (base 16)		Sonos, Inc.
   				223 East De La Guerra Street
@@ -105030,8 +105167,8 @@
 				Milpitas CA 95035
 				UNITED STATES
 
-  B8-F8-28   (hex)		Changshu Gaoshida Optoelectronic Technology Co.，Ltd.
-  B8F828     (base 16)		Changshu Gaoshida Optoelectronic Technology Co.，Ltd.
+  B8-F8-28   (hex)		Changshu Gaoshida Optoelectronic Technology Co. Ltd.
+  B8F828     (base 16)		Changshu Gaoshida Optoelectronic Technology Co. Ltd.
   				Baimao Industrail Park Changshu  Jiangsu
 				Changshu Jiangsu 215500
 				CHINA
@@ -105845,6 +105982,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  C0-A0-BB   (hex)		D-Link International
+  C0A0BB     (base 16)		D-Link International
+  				1 Internal Business Park, #03-12,The Synergy
+				Singapore 609917
+				SINGAPORE
+
   C0-A0-C7   (hex)		FAIRFIELD INDUSTRIES
   C0A0C7     (base 16)		FAIRFIELD INDUSTRIES
   				1111 GILLINGHAM LANE
@@ -106032,8 +106175,8 @@
 				San Diego California 92123
 				UNITED STATES
 
-  C4-09-38   (hex)		STAR-NET RUIJIE (HONGKONG) COMPANY LIMITED,THK
-  C40938     (base 16)		STAR-NET RUIJIE (HONGKONG) COMPANY LIMITED,THK
+  C4-09-38   (hex)		Fujian Star-net Communication Co., Ltd
+  C40938     (base 16)		Fujian Star-net Communication Co., Ltd
   				19-22# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
 				Fuzhou Fujian 350002
 				CHINA
@@ -106560,6 +106703,12 @@
   				51a Bennington St.
 				Newton MA 02458
 				UNITED STATES
+
+  C8-14-79   (hex)		Samsung Electronics Co.,Ltd
+  C81479     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   C8-19-F7   (hex)		Samsung Electronics Co.,Ltd
   C819F7     (base 16)		Samsung Electronics Co.,Ltd
@@ -112567,6 +112716,13 @@
 				London SW6 2AG
 				UNITED KINGDOM
 
+  F4-5F-69   (hex)		Matsufu Electronics distribution Company
+  F45F69     (base 16)		Matsufu Electronics distribution Company
+  				Suites 1601~3, Kinwick Centre, 32 Hollywood Road, Hong Kong
+				No.11, Guanglida Building, Nobile Plaza, Qianjin Rd,
+				 Shanghai, China  
+				HONG KONG
+
   F4-5F-D4   (hex)		Cisco SPVTG
   F45FD4     (base 16)		Cisco SPVTG
   				5030 Sugarloaf Pkwy
@@ -112691,6 +112847,12 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  F4-A2-94   (hex)		EAGLE WORLD DEVELOPMENT CO., LIMITED
+  F4A294     (base 16)		EAGLE WORLD DEVELOPMENT CO., LIMITED
+  				1F, CMA Bldg., 64 Connaught Road Central
+				Hong Kong 00852
+				HONG KONG
 
   F4-A5-2A   (hex)		Hawa Technologies Inc
   F4A52A     (base 16)		Hawa Technologies Inc

@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.21
-#	Date:    2013-06-21 03:15:02
+#	Version: 2013.06.26
+#	Date:    2013-06-26 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -16491,9 +16491,9 @@
 # Software UARTs
 	0023  SuperFSCC/4 Serial cPCI Adapter [Fastcom]
 # RS-644 Only, Software UARTs
-	0024  SuperFSCC-LVDS Serial PCI Adapter [Fastcom]
-# RS-644 Only, Software UARTs
 	0025  SuperFSCC/4-LVDS Serial PCI Adapter [Fastcom]
+# RS-644 Only, Software UARTs
+	0026  SuperFSCC-LVDS Serial PCI Adapter [Fastcom]
 18fb  Resilience Corporation
 1904  Hangzhou Silan Microelectronics Co., Ltd.
 	2031  SC92031 PCI Fast Ethernet Adapter
@@ -16918,6 +16918,8 @@
 		1a78 0038  FlashMAX PCIe SSD [rev 4]
 		1a78 0039  FlashMAX PCIe SSD [rev 4D]
 	0040  FlashMAX II
+	0041  FlashMAX II
+	0042  FlashMAX II
 1a84  Commex Technologies
 	0001  Vulcan SP HT6210 10-Gigabit Ethernet (rev 02)
 1a88  MEN Mikro Elektronik
@@ -19510,7 +19512,7 @@
 	1f43  Avoton GbE EEPROM-less
 	1f44  Avoton GbE Virtual Function
 	1f45  Avoton GbE 2500base-KX
-	2250  Xeon Phi Coprocessor 5100 Series
+	2250  Xeon Phi coprocessor 5100 series
 	225c  Xeon Phi coprocessor SE10/7120 series
 	225d  Xeon Phi coprocessor 3120 series 
 	2310  DH89xxCC LPC Controller
@@ -23500,8 +23502,16 @@ b1d9  ATCOM Technology co., LTD.
 # Pinnacle should be 11bd, but they got it wrong several times --mj
 bd11  Pinnacle Systems, Inc. (Wrong ID)
 bdbd  Blackmagic Design
-# HD/SDI input and output card for PCI Express 1x
-	a11b  DeckLink SDI
+	a117  Intensity Pro
+	a11a  DeckLink HD Extreme 2
+	a11b  DeckLink SDI/Duo/Quad
+	a11c  DeckLink HD Extreme 3
+	a11d  DeckLink Studio
+	a11e  DeckLink Optical Fibre
+	a121  DeckLink HD Extreme 3D/3D+
+	a12e  DeckLink 4K Extreme
+	a12f  DeckLink Mini Monitor
+	a130  DeckLink Mini Recorder
 c001  TSI Telsys
 c0a9  Micron/Crucial Technology
 c0de  Motorola

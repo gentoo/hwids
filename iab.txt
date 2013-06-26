@@ -27352,3 +27352,35 @@
 				Vicenza ITALY 36100
 				ITALY
 
+  40-D8-55	(hex)		Scandyna A/S
+  125000-125FFF	(base 16)	Scandyna A/S
+  				Jegindoevej 4
+				Viborg  8800
+				DENMARK
+
+  40-D8-55	(hex)		TTI LTD
+  126000-126FFF	(base 16)	TTI LTD
+  				Glebe Road
+				Huntingdon
+				Cambridge Cambridgeshire PE29 7DR
+				UNITED KINGDOM
+
+  40-D8-55	(hex)		LIGHTSTAR
+  127000-127FFF	(base 16)	LIGHTSTAR
+  				18, CHASEONGDONGRO, 142BEONGIL GIJANGEUP, GIJANGGUN
+				BUSAN  619-905
+				KOREA, REPUBLIC OF
+
+  40-D8-55	(hex)		Akse srl
+  128000-128FFF	(base 16)	Akse srl
+  				Via Aldo Moro, 39
+				Reggio Emilia Italy 42124
+				ITALY
+
+  40-D8-55	(hex)		DSP DESIGN
+  129000-129FFF	(base 16)	DSP DESIGN
+  				TAPTON PARK INNOVATION CENTRE
+				BRIMINGTON ROAD
+				CHESTERFIELD DERBYSHIRE S41 0TZ
+				UNITED KINGDOM
+
