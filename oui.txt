@@ -25302,7 +25302,7 @@
 
   00-0F-A2   (hex)		2xWireless
   000FA2     (base 16)		2xWireless
-  				1065 Maurader st
+  				1065 Maurader St
 				Chico CA 95973
 				UNITED STATES
 
@@ -90533,6 +90533,12 @@
 				WINSTON - SALEM NC 27101
 				UNITED STATES
 
+  4C-14-A3   (hex)		TCL Technoly Electronics (Huizhou) Co., Ltd.
+  4C14A3     (base 16)		TCL Technoly Electronics (Huizhou) Co., Ltd.
+  				19th Zhongkai Hi-tech Development Zone
+				Huizhou Guangdong 516006
+				CHINA
+
   4C-17-EB   (hex)		SAGEMCOM
   4C17EB     (base 16)		SAGEMCOM
   				250 route de l'Empereur
@@ -101527,6 +101533,12 @@
 				Fremont CA 94538
 				UNITED STATES
 
+  A0-48-1C   (hex)		Hewlett Packard
+  A0481C     (base 16)		Hewlett Packard
+  				11445 Compaq Center Drive
+				Houston Texas 77070
+				UNITED STATES
+
   A0-4C-C1   (hex)		Helixtech Corp.
   A04CC1     (base 16)		Helixtech Corp.
   				6F Lions bldg., 160-2 Gangnam-daero,
@@ -102213,6 +102225,13 @@
 				Horsforth
 				Leeds West Yorkshire LS18 4JP
 				UNITED KINGDOM
+
+  A4-89-5B   (hex)		ARK INFOSOLUTIONS PVT LTD
+  A4895B     (base 16)		ARK INFOSOLUTIONS PVT LTD
+  				4428, GANESH BAZAR CLOTH MARKET
+				CHANDNI CHOWK
+				DELHI 110006
+				INDIA
 
   A4-90-05   (hex)		CHINA GREATWALL COMPUTER SHENZHEN CO.,LTD
   A49005     (base 16)		CHINA GREATWALL COMPUTER SHENZHEN CO.,LTD
@@ -108094,6 +108113,12 @@
 				Chengdu  610041
 				CHINA
 
+  D0-9D-0A   (hex)		LINKCOM
+  D09D0A     (base 16)		LINKCOM
+  				11 Rue du Soleil Levant
+				Clamart  92140
+				FRANCE
+
   D0-A3-11   (hex)		Neuberger Gebäudeautomation GmbH
   D0A311     (base 16)		Neuberger Gebäudeautomation GmbH
   				Oberer Kaiserweg 6
@@ -111534,6 +111559,12 @@
   EC1A59     (base 16)		Belkin International Inc.
   				12045 East Waterfront Drive
 				Playa Vista Ca. 90094
+				UNITED STATES
+
+  EC-21-9F   (hex)		VidaBox LLC
+  EC219F     (base 16)		VidaBox LLC
+  				240 Madison Ave
+				Garden City Park NEW YORK 11040
 				UNITED STATES
 
   EC-22-57   (hex)		JiangSu NanJing University Electronic Information Technology Co.,Ltd

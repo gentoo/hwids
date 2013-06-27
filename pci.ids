@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.26
-#	Date:    2013-06-26 03:15:01
+#	Version: 2013.06.27
+#	Date:    2013-06-27 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -3531,6 +3531,7 @@
 	1419  Family 15h (Models 10h-1fh) I/O Memory Management Unit
 	1439  Family 16h Processor Functions 5:1
 	1510  Family 14h Processor Root Complex
+		174b 1001  Sapphire PURE Fusion Mini
 	1512  Family 14h Processor Root Port
 	1513  Family 14h Processor Root Port
 	1514  Family 14h Processor Root Port
@@ -4878,7 +4879,7 @@
 		103c 30aa  nc6310
 	8101  TSB43DB42 IEEE-1394a-2000 Controller (PHY/Link)
 	8201  PCI1620 Firmware Loading Function
-	8204  PCI7410,7510,7610 PCI Firmware Loading Function
+	8204  PCI7410/7510/7610 PCI Firmware Loading Function
 		1028 0139  Latitude D400
 		1028 014e  Latitude D800
 	8231  XIO2000(A)/XIO2200A PCI Express-to-PCI Bridge
@@ -4971,7 +4972,7 @@
 		1028 014e  Latitude D800
 	ac48  PCI7610 PC Card Cardbus Controller
 	ac49  PCI7410 PC Card Cardbus Controller
-	ac4a  PCI7510,7610 PC card Cardbus Controller
+	ac4a  PCI7510/7610 CardBus Bridge
 		1028 0139  Latitude D400
 		1028 014e  Latitude D800
 	ac4b  PCI7610 SD/MMC controller
@@ -5009,7 +5010,7 @@
 	ac8d  PCI 7620
 	ac8e  PCI7420 CardBus Controller
 		1028 018d  Inspiron 700m/710m
-	ac8f  PCI7420/7620 Combo CardBus, 1394a-2000 OHCI and SD/MS-Pro Controller
+	ac8f  PCI7420/7620 SD/MS-Pro Controller
 		1028 018d  Inspiron 700m/710m
 	b001  TMS320C6424
 	fe00  FireWire Host Controller
@@ -8492,6 +8493,7 @@
 		10b0 104a  Gainward GeForce GT 610
 	0e09  GF110 High Definition Audio Controller
 	0e0a  GK104 HDMI Audio Controller
+	0e0b  GK106 HDMI Audio Controller
 	0e0c  GF114 HDMI Audio Controller
 	0e1a  GK110 HDMI Audio
 	0e1b  GK107 HDMI Audio Controller
@@ -14001,7 +14003,8 @@
 	21cc  TCP460 CompactPCI 16 Channel Serial Interface RS232/RS422
 	21cd  TCP461 CompactPCI 8 Channel Serial Interface RS232/RS422
 	3064  TPCI100 (2 Slot IndustryPack PCI Carrier)
-	30c8  TPCI200
+	30c8  TPCI200 4 Slot IndustryPack PCI Carrier
+	70c8  TPCE200 4 Slot IndustryPack PCIe Carrier
 1499  EMTEC CO., Ltd
 149a  ANDOR Technology Ltd
 149b  SEIKO Instruments Inc
@@ -14680,6 +14683,7 @@
 		103c 182c  BCM943228HM4L 802.11a/b/g/n 2x2 Wi-Fi Adapter
 	4365  BCM43142 802.11b/g/n
 		1028 0016  Wireless 1704 802.11n + BT 4.0
+	43a0  BCM4360 802.11ac Wireless Network Adapter
 	43b1  BCM4352 802.11ac Wireless Network Adapter
 	4401  BCM4401 100Base-T
 		1025 0035  TravelMate 660
