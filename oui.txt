@@ -83227,9 +83227,10 @@
 				Mareno di Piave Treviso 31010
 				ITALY
 
-  10-65-A3   (hex)		Panamax Inc.
-  1065A3     (base 16)		Panamax Inc.
-  				1690 Corporate Circle
+  10-65-A3   (hex)		Core Brands LLC
+  1065A3     (base 16)		Core Brands LLC
+  				1880 South McDowell Blvd
+				2nd Floor
 				Petaluma CA 94954
 				UNITED STATES
 
@@ -85089,6 +85090,13 @@
   				Juexi Road no.9 Juexi street
 				Xiangshan County Zhejiang Province
 				Ningbo Zhejiang 315708
+				CHINA
+
+  20-0B-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+  200BC7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+  				D1,Huawei Industrial Base
+				Bantian,Longgang
+				Shenzhen Guangdong 518129
 				CHINA
 
   20-10-7A   (hex)		Gemtek Technology Co., Ltd.
@@ -88677,6 +88685,12 @@
 				Sunnyvale CA 94085
 				UNITED STATES
 
+  3C-61-04   (hex)		Juniper Networks
+  3C6104     (base 16)		Juniper Networks
+  				1194 N Mathilda Avenue
+				Sunnyvale CA 94089
+				UNITED STATES
+
   3C-62-00   (hex)		Samsung electronics CO., LTD
   3C6200     (base 16)		Samsung electronics CO., LTD
   				416, Maetan-3dong, Yeongtong-gu,
@@ -91744,6 +91758,12 @@
 				Shenzhen Guangdong 518108
 				CHINA
 
+  54-A5-4B   (hex)		NSC Communiaction Siberia Ltd
+  54A54B     (base 16)		NSC Communiaction Siberia Ltd
+  				Ordjonikidze 38
+				Novosibirsk 630099
+				RUSSIAN FEDERATION
+
   54-A6-19   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
   54A619     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
   				No. 389, Ningqiao Road,Pudong
@@ -93477,6 +93497,13 @@
   				1 infinite Loop
 				cupertino cA 95014
 				UNITED STATES
+
+  64-21-84   (hex)		Nippon Denki Kagaku Co.,LTD
+  642184     (base 16)		Nippon Denki Kagaku Co.,LTD
+  				Nishino Gotochou 18
+				Yamashina Ward
+				Kyoto City Kyoto Pref 607-8356
+				JAPAN
 
   64-22-16   (hex)		Shandong Taixin Electronic co.,Ltd
   642216     (base 16)		Shandong Taixin Electronic co.,Ltd
@@ -105307,6 +105334,13 @@
 				Dursley Gloucestershire GL11 4HH
 				UNITED KINGDOM
 
+  BC-2B-6B   (hex)		Beijing Haier IC Design Co.,Ltd
+  BC2B6B     (base 16)		Beijing Haier IC Design Co.,Ltd
+  				Room 205, Tongheng Building, No.4 Huayuan Road, Haidian District
+				Beijing, China
+				Beijing Beijing 100088
+				CHINA
+
   BC-2B-D7   (hex)		Revogi Innovation Co., Ltd.
   BC2BD7     (base 16)		Revogi Innovation Co., Ltd.
   				2018, Anhui Building, No. 6007,
@@ -107430,6 +107464,12 @@
 				1-40 Geumjeong-dong
 				Gunpo-si Gyeonggi-do 435-824
 				KOREA, REPUBLIC OF
+
+  CC-4A-E1   (hex)		Fourtec -Fourier Technologies
+  CC4AE1     (base 16)		Fourtec -Fourier Technologies
+  				16 Hamelacha St. POB 11681
+				Rosh Ha’ayin  48091
+				ISRAEL
 
   CC-4B-FB   (hex)		Hellberg Safety AB
   CC4BFB     (base 16)		Hellberg Safety AB
@@ -111612,6 +111652,13 @@
 				Raanana  2396
 				ISRAEL
 
+  EC-3E-09   (hex)		PERFORMANCE DESIGNED PRODUCTS, LLC
+  EC3E09     (base 16)		PERFORMANCE DESIGNED PRODUCTS, LLC
+  				14144 Ventura Blvd
+				Suite 200
+				Sherman Oaks California 91423
+				UNITED STATES
+
   EC-3F-05   (hex)		Institute 706, The Second Academy China Aerospace Science & Industry Corp
   EC3F05     (base 16)		Institute 706, The Second Academy China Aerospace Science & Industry Corp
   				YongDing Road ,HaiDian District.BeiJing ,No.51
@@ -112270,6 +112317,12 @@
 				Concordia Plaza 1 Science Museum Rd,TsimShaTsui
 				Kowloon 
 				HONG KONG
+
+  F0-84-2F   (hex)		ADB Broadband Italia
+  F0842F     (base 16)		ADB Broadband Italia
+  				VIALE SARCA 336
+				MILANO ITALY 20126
+				ITALY
 
   F0-84-C9   (hex)		zte corporation
   F084C9     (base 16)		zte corporation
@@ -113229,6 +113282,13 @@
   				27-18, Minami Oi 6-chome, Shinagawa-ku
 				Tokyo  140-8572
 				JAPAN
+
+  F8-4A-BF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+  F84ABF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+  				D1,Huawei Industrial Base
+				Bantian Longgang
+				Shenzhen Guangdong 518129
+				CHINA
 
   F8-4F-57   (hex)		Cisco
   F84F57     (base 16)		Cisco

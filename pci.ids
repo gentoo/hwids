@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.27
-#	Date:    2013-06-27 03:15:02
+#	Version: 2013.06.28
+#	Date:    2013-06-28 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -9038,7 +9038,7 @@
 		1458 e000  GA-MA69G-S3H Motherboard
 		1462 235c  P965 Neo MS-7235 mainboard
 		1462 236c  945P Neo3-F motherboard
-	8168  RTL8111/8168 PCI Express Gigabit Ethernet controller
+	8168  RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
 		1019 8168  RTL8111/8168 PCI Express Gigabit Ethernet controller
 		1028 04b2  Vostro 3350
 		1028 04da  Vostro 3750
