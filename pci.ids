@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.28
-#	Date:    2013-06-28 03:15:01
+#	Version: 2013.06.29
+#	Date:    2013-06-29 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -8536,11 +8536,14 @@
 	0fe4  GK107M [GeForce GT 750M]
 	0fe5  GK107 [GeForce K340 USM]
 	0fe6  GK107 [NVS K1 USM]
+	0fe7  GRID K1 vGPU
+		10de 101e  GRID K100
 	0fef  GK107GL [GRID K340]
 	0ff1  GK107 [NVS 1000]
 	0ff2  GK107GL [GRID K1]
 	0ff5  GK107GL [Tesla K1 USM]
 	0ff7  GK107GL [Quadro K1 USM]
+		10de 1037  GRID K140Q
 	0ff9  GK107GL [Quadro K2000D]
 	0ffa  GK107GL [Quadro K600]
 	0ffb  GK107GLM [Quadro K2000M]
@@ -8747,6 +8750,8 @@
 	118a  GK104GL [GRID K520]
 	118b  GK104 [GeForce K2 USM]
 	118c  GK104 [NVS K2 USM]
+	118d  GRID K2 vGPU
+		10de 101d  GRID K200
 	118f  GK104GL [Tesla K10]
 	119d  GK104M [GeForce GTX 775M]
 	119f  GK104M [GeForce GTX 780M]
@@ -8757,6 +8762,8 @@
 		106b 010d  iMac 13,2
 	11a7  GK104M [GeForce GTX 675MX]
 	11b0  GK104GL [Quadro K2 USM]
+		10de 101a  GRID K240Q
+		10de 101b  GRID K260Q
 	11b1  GK104GL [Tesla K2 USM]
 	11ba  GK104GL [Quadro K5000]
 	11bb  GK104GL [Quadro 4100]

@@ -27384,3 +27384,9 @@
 				CHESTERFIELD DERBYSHIRE S41 0TZ
 				UNITED KINGDOM
 
+  40-D8-55	(hex)		Jadpod Communication Company Limited
+  12A000-12AFFF	(base 16)	Jadpod Communication Company Limited
+  				Buidling B2, Xujingchang Industrial Park, Haoye Road
+				Shenzhen Guangdong 518000
+				CHINA
+

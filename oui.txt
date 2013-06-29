@@ -84231,6 +84231,12 @@
 				Seongnam  463-760
 				KOREA, REPUBLIC OF
 
+  18-62-2C   (hex)		SAGEMCOM SAS
+  18622C     (base 16)		SAGEMCOM SAS
+  				250 ROUTE DE L'EMPEREUR
+				RUEIL MALMAISON  92848
+				FRANCE
+
   18-66-E3   (hex)		Veros Systems, Inc.
   1866E3     (base 16)		Veros Systems, Inc.
   				PO Box 10534
@@ -113703,6 +113709,12 @@
   				14 Floor, Bldg. No. 102, Digital Empire2, 486, Sin-dong, Yeongtong-gu, Suwon-si,
 				Su-won Gyeonggi 443-734
 				KOREA, REPUBLIC OF
+
+  FC-01-9E   (hex)		VIEVU
+  FC019E     (base 16)		VIEVU
+  				105 W. John St
+				Seattle WA 98119
+				UNITED STATES
 
   FC-01-CD   (hex)		FUNDACION TEKNIKER
   FC01CD     (base 16)		FUNDACION TEKNIKER
