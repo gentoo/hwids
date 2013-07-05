@@ -87788,6 +87788,13 @@
 				Cambridge MA 02139
 				UNITED STATES
 
+  34-A3-BF   (hex)		Terewave. Inc.
+  34A3BF     (base 16)		Terewave. Inc.
+  				Room 217, Ssangyong Research Center
+				100-beongji, Shinseong-dong
+				Yuseong-gu Daejeon-city 305804
+				KOREA, REPUBLIC OF
+
   34-A5-5D   (hex)		TECHNOSOFT INTERNATIONAL SRL
   34A55D     (base 16)		TECHNOSOFT INTERNATIONAL SRL
   				RO6640904
@@ -88171,6 +88178,12 @@
 				Weener Niedersachsen 26826
 				GERMANY
 
+  38-42-A6   (hex)		Ingenieurbuero Stahlkopf
+  3842A6     (base 16)		Ingenieurbuero Stahlkopf
+  				Senner Hellweg 115
+				Bielefeld NRW 33659
+				GERMANY
+
   38-43-69   (hex)		Patrol Products Consortium LLC
   384369     (base 16)		Patrol Products Consortium LLC
   				1128 Narragansett Blvd.
@@ -88291,6 +88304,12 @@
   				Building 24 (floors 1,3,4,5) and 28 (floors1-4)  Central Science and Technology Park,Shennan Rd, Nanshan,
 				Shenzhen, Guangdong Province 518057
 				CHINA
+
+  38-89-DC   (hex)		Opticon Sensors Europe B.V.
+  3889DC     (base 16)		Opticon Sensors Europe B.V.
+  				Opaallaan 35
+				Hoofddorp Noord Holland 2132 XV
+				NETHERLANDS
 
   38-8A-B7   (hex)		ITC Networks
   388AB7     (base 16)		ITC Networks
@@ -88750,6 +88769,13 @@
   				6450 Sequence Drive
 				San Diego CA 92121
 				UNITED STATES
+
+  3C-77-E6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  3C77E6     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				NO.1925,Nanle Road
+				Songjiang Export Processing Zone
+				Shanghai 201613
+				CHINA
 
   3C-7D-B1   (hex)		Texas Instruments
   3C7DB1     (base 16)		Texas Instruments
@@ -91026,6 +91052,13 @@
 				Milton Keynes Bucks MK8 0AJ
 				UNITED KINGDOM
 
+  50-17-FF   (hex)		Cisco
+  5017FF     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   50-22-67   (hex)		PixeLINK
   502267     (base 16)		PixeLINK
   				3030 Conroy Road
@@ -91788,6 +91821,12 @@
   				920, Ilsan TechnoTown 1141-1, Baekseok-dong, Ilsandong-gu
 				Goyang-si Gyunggi-do 410-722
 				KOREA, REPUBLIC OF
+
+  54-BE-F7   (hex)		PEGATRON CORPORATION
+  54BEF7     (base 16)		PEGATRON CORPORATION
+  				No. 76, Ligong St., Beitou
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
 
   54-CD-A7   (hex)		Fujian Shenzhou Electronic Co.,Ltd
   54CDA7     (base 16)		Fujian Shenzhou Electronic Co.,Ltd
@@ -92775,6 +92814,12 @@
   				2288, Oaza-Ohshinohara, Yasu-cho,
 				Yasu-gun Shiga 520-2393
 				JAPAN
+
+  5C-DD-70   (hex)		Hangzhou H3C Technologies Co., Limited
+  5CDD70     (base 16)		Hangzhou H3C Technologies Co., Limited
+  				310 Liuhe Road, Zhijiang Science Park
+				Hangzhou Zhejiang 310053
+				CHINA
 
   5C-E0-CA   (hex)		FeiTian United (Beijing) System Technology Co., Ltd.
   5CE0CA     (base 16)		FeiTian United (Beijing) System Technology Co., Ltd.
@@ -95149,6 +95194,13 @@
   				I.Yakovleva St., 1
 				Cheboksary Chuvash Republic  428003
 				RUSSIAN FEDERATION
+
+  70-18-8B   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  70188B     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				NO.1925,Nanle Road
+				Songjiang Export Processing Zone
+				Shanghai 201613
+				CHINA
 
   70-1A-04   (hex)		Liteon Tech Corp.
   701A04     (base 16)		Liteon Tech Corp.
@@ -98871,6 +98923,12 @@
 				GRAND JUNCTION CO 81505
 				UNITED STATES
 
+  8C-08-8B   (hex)		Remote Solution
+  8C088B     (base 16)		Remote Solution
+  				92, Chogokri, Nammyun
+				Kimcheon city Kyungbuk 740-871
+				KOREA, REPUBLIC OF
+
   8C-0C-90   (hex)		Ruckus Wireless
   8C0C90     (base 16)		Ruckus Wireless
   				880 West Maude Ave
@@ -99959,6 +100017,12 @@
   				RM2902,East Tower, Nanshan Software Park
 				Shenzhen Guangdong 518052
 				CHINA
+
+  94-0B-D5   (hex)		Himax Technologies, Inc
+  940BD5     (base 16)		Himax Technologies, Inc
+  				No.26, Zilian Rd., Xinshi Dist.
+				Tainan City  741
+				TAIWAN, PROVINCE OF CHINA
 
   94-0C-6D   (hex)		TP-LINK Technologies Co.,Ltd.
   940C6D     (base 16)		TP-LINK Technologies Co.,Ltd.
@@ -101382,6 +101446,13 @@
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
+  9C-E7-BD   (hex)		Winduskorea co., Ltd
+  9CE7BD     (base 16)		Winduskorea co., Ltd
+  				RM313, Seoul-Garden Bldg,
+				141-1 Gocheok-dong, Guro-ku
+				Seoul  152-828
+				KOREA, REPUBLIC OF
+
   9C-EB-E8   (hex)		BizLink (Kunshan) Co.,Ltd
   9CEBE8     (base 16)		BizLink (Kunshan) Co.,Ltd
   				No.168,Nanhe Road,Economic & Technological Development Zone,
@@ -101861,6 +101932,12 @@
 				Suite 120
 				San Diego CA 92121
 				UNITED STATES
+
+  A0-BF-50   (hex)		S.C. ADD-PRODUCTION S.R.L.
+  A0BF50     (base 16)		S.C. ADD-PRODUCTION S.R.L.
+  				36, Dragomirna str.
+				Chisinau  MD-2008
+				MOLDOVA, REPUBLIC OF
 
   A0-BF-A5   (hex)		CORESYS
   A0BFA5     (base 16)		CORESYS
@@ -102430,6 +102507,12 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  A4-C7-DE   (hex)		Cambridge Industries(Group) Co.,Ltd.
+  A4C7DE     (base 16)		Cambridge Industries(Group) Co.,Ltd.
+  				22 Floor,Qilai Tower;889 Yishan Road
+				Shanghai 200233
+				CHINA
 
   A4-D0-94   (hex)		Erwin Peters Systemtechnik GmbH
   A4D094     (base 16)		Erwin Peters Systemtechnik GmbH
@@ -104503,6 +104586,13 @@
 				Cattolica  47841
 				ITALY
 
+  B4-CC-E9   (hex)		PROSYST
+  B4CCE9     (base 16)		PROSYST
+  				2C Rue de l' EPINOY
+				ZAC de TEMPLEMARS
+				TEMPLEMARS  59175
+				FRANCE
+
   B4-CF-DB   (hex)		Shenzhen Jiuzhou Electric Co.,LTD
   B4CFDB     (base 16)		Shenzhen Jiuzhou Electric Co.,LTD
   				6F,Jiuzhou Electric Building,Southern No.12RD.,Hi-Tech Industrial Park,Nanshan District,
@@ -105952,6 +106042,13 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  C0-67-AF   (hex)		Cisco
+  C067AF     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   C0-6C-0F   (hex)		Dobbs Stanford
   C06C0F     (base 16)		Dobbs Stanford
@@ -110346,6 +110443,12 @@
 				SEOUL 135-951
 				KOREA, REPUBLIC OF
 
+  E0-AF-4B   (hex)		Pluribus Networks, Inc.
+  E0AF4B     (base 16)		Pluribus Networks, Inc.
+  				1808 Embarcadero Rd, Suite B
+				Palo Alto CA 94303
+				UNITED STATES
+
   E0-B2-F1   (hex)		FN-LINK TECHNOLOGY LIMITED
   E0B2F1     (base 16)		FN-LINK TECHNOLOGY LIMITED
   				5th Floor, A Building, Haoye Logistics Park,
@@ -111488,6 +111591,13 @@
   				Industriestraße 3
 				3300 Niederösterreich 3300
 				AUSTRIA
+
+  E8-D4-E0   (hex)		Beijing BenyWave Technology Co., Ltd.
+  E8D4E0     (base 16)		Beijing BenyWave Technology Co., Ltd.
+  				No.55, Jiachuang Road, Taihu Town
+				Tongzhou District
+				Beijing 101111
+				CHINA
 
   E8-DA-96   (hex)		Zhuhai Tianrui Electrical Power Tech. Co., Ltd.
   E8DA96     (base 16)		Zhuhai Tianrui Electrical Power Tech. Co., Ltd.

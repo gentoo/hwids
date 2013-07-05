@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.06.29
-#	Date:    2013-06-29 03:15:02
+#	Version: 2013.07.04
+#	Date:    2013-07-04 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -585,7 +585,7 @@
 	1310  Kaveri
 	1311  Kaveri
 	1313  Kaveri
-	1314  Wrestler HDMI Audio [Radeon HD 6250/6310]
+	1314  Wrestler HDMI Audio
 		174b 1001  PURE Fusion Mini
 	1315  Kaveri
 	1316  Kaveri
@@ -1251,7 +1251,7 @@
 		1458 4019  Radeon 9200
 		174b 7c12  Radeon 9200
 		17af 200d  Excalibur Radeon 9200
-		18bc 0050  GeXcube GC-R9200-C3 (Secondary)
+		18bc 0050  GC-R9200-C3 (Secondary)
 	5944  RV280 [Radeon 9200 SE PCI]
 	5950  RS480/RS482/RS485 Host Bridge
 		1025 0080  Aspire 5024WLMMi
@@ -1282,7 +1282,7 @@
 		174b 7c13  Radeon 9200
 		17af 200c  Excalibur Radeon 9200
 		18bc 0050  Radeon 9200 Game Buster
-		18bc 0051  GeXcube GC-R9200-C3
+		18bc 0051  GC-R9200-C3
 		18bc 0053  Radeon 9200 Game Buster VIVO
 	5962  RV280 [Radeon 9200]
 	5964  RV280 [Radeon 9200 SE]
@@ -2796,7 +2796,7 @@
 	94c3  RV610 [Radeon HD 2400 PRO]
 		1028 0302  Radeon HD 2400 Pro
 		174b e400  Radeon HD 2400 PRO
-		18bc 3550  GeCube Radeon HD 2400 PRO
+		18bc 3550  Radeon HD 2400 PRO
 	94c4  RV610 LE [Radeon HD 2400 PRO AGP]
 	94c5  RV610 [Radeon HD 2400 LE]
 	94c7  RV610 [Radeon HD 2350]
@@ -3001,7 +3001,7 @@
 	aa08  RV630 HDMI Audio [Radeon HD 2600 Series]
 	aa10  RV610 HDMI Audio [Radeon HD 2350/2400 Series]
 		174b aa10  Radeon HD 2400 PRO
-		18bc aa10  GeCube Radeon HD 2400 PRO
+		18bc aa10  Radeon HD 2400 PRO
 	aa18  RV670/680 HDMI Audio [Radeon HD 3690/3800 Series]
 	aa20  RV635 HDMI Audio [Radeon HD 3600 Series]
 	aa28  RV620 HDMI Audio [Radeon HD 3400 Series]
@@ -3531,7 +3531,7 @@
 	1419  Family 15h (Models 10h-1fh) I/O Memory Management Unit
 	1439  Family 16h Processor Functions 5:1
 	1510  Family 14h Processor Root Complex
-		174b 1001  Sapphire PURE Fusion Mini
+		174b 1001  PURE Fusion Mini
 	1512  Family 14h Processor Root Port
 	1513  Family 14h Processor Root Port
 	1514  Family 14h Processor Root Port
@@ -5499,6 +5499,7 @@
 		103c 12dd  4Gb Fibre Channel [AB429A]
 	2432  ISP2432-based 4Gb Fibre Channel to PCI Express HBA
 	2532  ISP2532-based 8Gb Fibre Channel to PCI Express HBA
+		103c 3262  StorageWorks 81Q
 		1077 0167  QME2572 Dual Port FC8 HBA Mezzanine
 	3022  ISP4022-based Ethernet NIC
 	3032  ISP4032-based Ethernet IPv6 NIC
@@ -16363,7 +16364,8 @@
 	db78  FusionHDTV DVB-T Dual Express
 18b8  Ammasso
 	b001  AMSO 1100 iWARP/RDMA Gigabit Ethernet Coprocessor
-18bc  Info-Tek Corp.
+# formally Info-Tek Corp.
+18bc  GeCube Technologies, Inc.
 18c3  Micronas Semiconductor Holding AG
 	0720  nGene PCI-Express Multimedia Controller
 		07ca 032e  Hybrid M779 PCI-E
@@ -16886,7 +16888,8 @@
 1a41  Tilera Corp.
 	0001  TILE64 processor
 	0002  TILEPro processor
-	0200  TILE-Gx36 processor
+	0200  TILE-Gx processor
+	2000  TILE-Gx PCI Express Bridge
 1a4a  SLAC National Accelerator Lab PPA-REG
 	1000  MCOR Power Supply Controller
 	1010  AMC EVR - Stockholm Timing Board
@@ -17004,6 +17007,7 @@
 	0612  ASM1062 Serial ATA Controller
 	1042  ASM1042 SuperSpeed USB Host Controller
 	1080  ASM1083/1085 PCIe to PCI Bridge
+1b2c  Opal-RT Technologies Inc.
 1b36  Red Hat, Inc.
 1b37  Signal Processing Devices Sweden AB
 	0014  ADQ412
@@ -19145,6 +19149,10 @@
 		8086 0001  Ethernet Server Bypass Adapter X520-SR2
 	1560  Ethernet Controller X540-AT1
 	157b  I210 Gigabit Network Connection
+	15a0  Ethernet Connection (2) I218-LM
+	15a1  Ethernet Connection (2) I218-V
+	15a2  Ethernet Connection (3) I218-LM
+	15a3  Ethernet Connection (3) I218-V
 	1960  80960RP (i960RP) Microprocessor
 		101e 0431  MegaRAID 431 RAID Controller
 		101e 0438  MegaRAID 438 Ultra2 LVD RAID Controller
@@ -23582,7 +23590,19 @@ dcba  Dynamic Engineering
 # PMC Format FPGA design with 8 high speed UART channels
 	0048  PMC-Biserial-III-BAE9
 dd01  Digital Devices GmbH
-	0003  Octopus LE DVB adapter
+	0003  Octopus DVB Adapter
+		dd01 0001  Octopus DVB adapter
+		dd01 0002  Octopus LE DVB adapter
+		dd01 0003  Octopus OEM
+		dd01 0004  Octopus V3 DVB adapter
+		dd01 0010  Octopus Mini
+		dd01 0020  Cine S2 V6 DVB adapter
+		dd01 0021  Cine S2 V6.5 DVB adapter
+		dd01 0030  Cine CT V6.1 DVB adapter
+		dd01 db03  Mystique SaTiX-S2 V3 DVB adapter
+	0011  Octopus CI DVB Adapter
+		dd01 0040  Octopus CI
+		dd01 0041  Octopus CI Single
 dead  Indigita Corporation
 deaf  Middle Digital Inc.
 	9050  PC Weasel Virtual VGA

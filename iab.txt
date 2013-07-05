@@ -27390,3 +27390,29 @@
 				Shenzhen Guangdong 518000
 				CHINA
 
+  40-D8-55	(hex)		Mango DSP, Inc.
+  12B000-12BFFF	(base 16)	Mango DSP, Inc.
+  				83 East Ave.
+				Suite#115
+				Norwalk CT 06851
+				UNITED STATES
+
+  40-D8-55	(hex)		NSP Europe Ltd
+  12C000-12CFFF	(base 16)	NSP Europe Ltd
+  				Unit 5, Devonshire Business Park
+				4 Chester Road
+				Borehamwood Hert WD6 1NA
+				UNITED KINGDOM
+
+  40-D8-55	(hex)		Biotage Sweden AB
+  12D000-12DFFF	(base 16)	Biotage Sweden AB
+  				Vimpelgatan 5
+				Uppsala  753 18
+				SWEDEN
+
+  40-D8-55	(hex)		Canfield Scientific, Inc.
+  12E000-12EFFF	(base 16)	Canfield Scientific, Inc.
+  				253 Passaic Avenue
+				Fairfield NJ 07004
+				UNITED STATES
+
