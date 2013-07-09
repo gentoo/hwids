@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.07
-#	Date:    2013-07-07 03:15:01
+#	Version: 2013.07.09
+#	Date:    2013-07-09 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -17092,6 +17092,7 @@
 1bad  ReFLEX CES
 1bb0  SimpliVity Corporation
 	0002  OmniCube Accelerator OA-3000
+	0010  OmniCube Accelerator OA-3000-2
 1bb3  Bluecherry
 	4304  BC-04120A MPEG4 4 port video encoder / decoder
 	4309  BC-08240A MPEG4 4 port video encoder / decoder

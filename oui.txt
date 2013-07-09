@@ -80511,6 +80511,13 @@
 				Fuzhou Fujian 350000
 				CHINA
 
+  04-4F-8B   (hex)		Adapteva, Inc.
+  044F8B     (base 16)		Adapteva, Inc.
+  				1666 Massachusetts Ave
+				Suite 14
+				Lexington MA 02420
+				UNITED STATES
+
   04-4F-AA   (hex)		Ruckus Wireless
   044FAA     (base 16)		Ruckus Wireless
   				880 West Maude Ave.
@@ -85725,6 +85732,13 @@
 				Berlin 10439
 				GERMANY
 
+  24-64-EF   (hex)		CYG SUNRI CO.,LTD.
+  2464EF     (base 16)		CYG SUNRI CO.,LTD.
+  				No. 3, Langshan 1st Road, North Area of Hi-Tech Industrial Park
+				Nanshan District, Shenzhen City
+				Shenzhen Guangdong 518057
+				CHINA
+
   24-65-11   (hex)		AVM GmbH
   246511     (base 16)		AVM GmbH
   				Alt-Moabit 95
@@ -88574,6 +88588,12 @@
 				Amman  11953
 				JORDAN
 
+  3C-15-EA   (hex)		TESCOM CO., LTD.
+  3C15EA     (base 16)		TESCOM CO., LTD.
+  				#928 UTV, 1141-2 Baeksuk Ilsandong
+				Goyang Gyeonggi 410-722
+				KOREA, REPUBLIC OF
+
   3C-19-15   (hex)		GFI Chrono Time
   3C1915     (base 16)		GFI Chrono Time
   				121 rue des Guillees
@@ -91387,6 +91407,13 @@
 				Suwon Geyonggi 443742
 				KOREA, REPUBLIC OF
 
+  50-B8-88   (hex)		wi2be Tecnologia S/A
+  50B888     (base 16)		wi2be Tecnologia S/A
+  				Rua Manoel Valdomiro de Macedo, 2285
+				Barracao B
+				Curitiba Parana 81170-150
+				BRAZIL
+
   50-B8-A2   (hex)		ImTech Technologies LLC,
   50B8A2     (base 16)		ImTech Technologies LLC,
   				2101 NE Jack London St
@@ -91797,8 +91824,8 @@
 				Shenzhen Guangdong 518108
 				CHINA
 
-  54-A5-4B   (hex)		NSC Communiaction Siberia Ltd
-  54A54B     (base 16)		NSC Communiaction Siberia Ltd
+  54-A5-4B   (hex)		NSC Communiactions Siberia Ltd
+  54A54B     (base 16)		NSC Communiactions Siberia Ltd
   				Ordjonikidze 38
 				Novosibirsk 630099
 				RUSSIAN FEDERATION
@@ -96944,6 +96971,12 @@
 				HAIFA  31008
 				ISRAEL
 
+  7C-06-23   (hex)		Ultra Electronics, CIS
+  7C0623     (base 16)		Ultra Electronics, CIS
+  				419 Bridport Road
+				Greenford Middlesex UB6 8UA
+				UNITED KINGDOM
+
   7C-08-D9   (hex)		Shanghai Engineering Research Center for Broadband Technologies and Applications
   7C08D9     (base 16)		Shanghai Engineering Research Center for Broadband Technologies and Applications
   				150 Honggu Road
@@ -98021,6 +98054,12 @@
   				1194 N Mathilda Avenue
 				Sunnyvale CA 94089
 				UNITED STATES
+
+  84-1B-38   (hex)		Shenzhen Excelsecu Data Technology Co.,Ltd
+  841B38     (base 16)		Shenzhen Excelsecu Data Technology Co.,Ltd
+  				Unit 701-709,7/F，South Block,SDGI Building A, No.2,
+				Shenzhen Guangdong 518057
+				CHINA
 
   84-1B-5E   (hex)		NETGEAR
   841B5E     (base 16)		NETGEAR
@@ -109194,6 +109233,12 @@
 				Foshan Guangdong 528133
 				CHINA
 
+  D8-27-0C   (hex)		MaxTronic International Co., Ltd.
+  D8270C     (base 16)		MaxTronic International Co., Ltd.
+  				4F., No.529, Zhongzheng Rd., Xindian Dist.
+				New Taipei City  231
+				TAIWAN, PROVINCE OF CHINA
+
   D8-28-C9   (hex)		General Electric Consumer and Industrial
   D828C9     (base 16)		General Electric Consumer and Industrial
   				AP35-1405
@@ -111142,6 +111187,9 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  E8-04-10   (hex)		PRIVATE
+  E80410     (base 16)		 
+
   E8-04-62   (hex)		CISCO SYSTEMS, INC.
   E80462     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -111742,6 +111790,12 @@
 				Kioicho Park Bld. 1F
 				Chiyoda Tokyo 102-0094
 				JAPAN
+
+  EC-2A-F0   (hex)		Ypsomed AG
+  EC2AF0     (base 16)		Ypsomed AG
+  				Brunnmattstrasse 6
+				Burgdorf BE 3400
+				SWITZERLAND
 
   EC-2C-49   (hex)		University of Tokyo
   EC2C49     (base 16)		University of Tokyo
@@ -113578,6 +113632,12 @@
   				Floor 6, Guoxing Building
 				Changxing Road, Nanshan District
 				shenzhen Guangdong 518052
+				CHINA
+
+  F8-A4-5F   (hex)		Beijing Xiaomi communications co.,ltd
+  F8A45F     (base 16)		Beijing Xiaomi communications co.,ltd
+  				The Rainbow City of China Resources,NO 68,Qinghe Middle Street,Haidian District,Beijing,China 100085
+				Beijing Beijing 100085
 				CHINA
 
   F8-A9-DE   (hex)		PUISSANCE PLUS

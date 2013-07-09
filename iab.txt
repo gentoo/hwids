@@ -15261,8 +15261,8 @@
 				Joensuu Pohjois-Karjala 80110
 				FINLAND
 
-  00-50-C2	(hex)		Mecos Traxler AG
-  98D000-98DFFF	(base 16)	Mecos Traxler AG
+  00-50-C2	(hex)		Mecos AG
+  98D000-98DFFF	(base 16)	Mecos AG
   				Industriestrasse 26
 				Winterthur  8404
 				SWITZERLAND
@@ -27415,4 +27415,56 @@
   				253 Passaic Avenue
 				Fairfield NJ 07004
 				UNITED STATES
+
+  40-D8-55	(hex)		PRIVATE
+  12F000-12FFFF	(base 16)		 
+
+  40-D8-55	(hex)		GSP Sprachtechnologie GmbH
+  130000-130FFF	(base 16)	GSP Sprachtechnologie GmbH
+  				Teltowkanalstr.1
+				Berlin  12247
+				GERMANY
+
+  40-D8-55	(hex)		EMAC, INC.
+  131000-131FFF	(base 16)	EMAC, INC.
+  				2390 EMAC WAY
+				CARBONDALE IL 62902
+				UNITED STATES
+
+  40-D8-55	(hex)		AeroVision Avionics, Inc
+  132000-132FFF	(base 16)	AeroVision Avionics, Inc
+  				2F, No.30, R&D Rd. II,
+				Science Park
+				Hsinchu Taiwan, R.O.C 30076
+				UNITED STATES
+
+  40-D8-55	(hex)		Tattile srl
+  133000-133FFF	(base 16)	Tattile srl
+  				Via Donizetti 1/3/5
+				Mairano BS 25030
+				ITALY
+
+  40-D8-55	(hex)		digitech GmbH &amp; Co. KG
+  134000-134FFF	(base 16)	digitech GmbH &amp; Co. KG
+  				Martinsplatz 3
+				Patersdorf Bavaria 94265
+				GERMANY
+
+  40-D8-55	(hex)		GLOBALCOM ENGINEERING SRL
+  135000-135FFF	(base 16)	GLOBALCOM ENGINEERING SRL
+  				VIA VOLTA 9
+				MORNAGO VA 21020
+				ITALY
+
+  40-D8-55	(hex)		Devriecom B.V.
+  136000-136FFF	(base 16)	Devriecom B.V.
+  				Oosteinde 219
+				Vriezenveen Ov 7671AX
+				NETHERLANDS
+
+  40-D8-55	(hex)		GDE Polska
+  137000-137FFF	(base 16)	GDE Polska
+  				Swiatnicka 88 Str.
+				Wlosan  32-031 Mogilany
+				POLAND
 
