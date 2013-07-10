@@ -3341,11 +3341,11 @@
 				Nampa IA 83687
 				UNITED STATES
 
-  00-02-0E   (hex)		ECI Telecom, Ltd., NSD-US
-  00020E     (base 16)		ECI Telecom, Ltd., NSD-US
-  				1300 Omega Dr.
-				Pittsburgh PA 15205
-				UNITED STATES
+  00-02-0E   (hex)		ECI Telecom, Ltd
+  00020E     (base 16)		ECI Telecom, Ltd
+  				30 Hasivim St
+				Petach-Tikva 49133  
+				ISRAEL
 
   00-02-0F   (hex)		AATR
   00020F     (base 16)		AATR
@@ -82679,6 +82679,13 @@
 				Shenzhen Guangdong 518057
 				CHINA
 
+  0C-9B-13   (hex)		Shanghai Magic Mobile Telecommunication Co.Ltd.
+  0C9B13     (base 16)		Shanghai Magic Mobile Telecommunication Co.Ltd.
+  				 B7 parts, second floor
+				No. 30, East Fute Road
+				Waigaoqiao Free Trade Zone Shanghai 200131
+				CHINA
+
   0C-9D-56   (hex)		Consort Controls Ltd
   0C9D56     (base 16)		Consort Controls Ltd
   				13 Campion Terrace
@@ -84289,6 +84296,12 @@
 				Tuam
 				County Galway  
 				IRELAND
+
+  18-7E-D5   (hex)		shenzhen kaism technology Co. Ltd
+  187ED5     (base 16)		shenzhen kaism technology Co. Ltd
+  				37# chuanglong west road pinghu
+				shenzhen  518111
+				CHINA
 
   18-80-CE   (hex)		Barberry Solutions Ltd
   1880CE     (base 16)		Barberry Solutions Ltd
@@ -91824,8 +91837,8 @@
 				Shenzhen Guangdong 518108
 				CHINA
 
-  54-A5-4B   (hex)		NSC Communiactions Siberia Ltd
-  54A54B     (base 16)		NSC Communiactions Siberia Ltd
+  54-A5-4B   (hex)		NSC Communications Siberia Ltd
+  54A54B     (base 16)		NSC Communications Siberia Ltd
   				Ordjonikidze 38
 				Novosibirsk 630099
 				RUSSIAN FEDERATION
@@ -92108,6 +92121,12 @@
   				Jyllandsgade 28
 				Sønderborg  DK-6400
 				DENMARK
+
+  58-63-9A   (hex)		TPL SYSTEMES
+  58639A     (base 16)		TPL SYSTEMES
+  				ZAE DU PERIGORD NOIR
+				SARLAT  24200
+				FRANCE
 
   58-65-E6   (hex)		INFOMARK CO., LTD.
   5865E6     (base 16)		INFOMARK CO., LTD.
@@ -98625,6 +98644,12 @@
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
 				UNITED STATES
+
+  88-44-F6   (hex)		Nokia Corporation
+  8844F6     (base 16)		Nokia Corporation
+  				Joensuunkatu 7
+				Salo  24101
+				FINLAND
 
   88-46-2A   (hex)		Telechips Inc.
   88462A     (base 16)		Telechips Inc.

@@ -27468,3 +27468,9 @@
 				Wlosan  32-031 Mogilany
 				POLAND
 
+  40-D8-55	(hex)		Calon Associates Limited
+  138000-138FFF	(base 16)	Calon Associates Limited
+  				2 Whitworth Court
+				Runcorn Cheshire WA7 1WA
+				UNITED KINGDOM
+
