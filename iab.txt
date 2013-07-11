@@ -27474,3 +27474,9 @@
 				Runcorn Cheshire WA7 1WA
 				UNITED KINGDOM
 
+  40-D8-55	(hex)		WOW System
+  139000-139FFF	(base 16)	WOW System
+  				#411, MEGA Center, SKn Techno Park, Sangdaewon 1-dong, Jungwon-gu
+				Seongnam-si Gyeonggi-do 462-721
+				KOREA, REPUBLIC OF
+

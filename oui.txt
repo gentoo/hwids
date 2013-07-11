@@ -86820,6 +86820,12 @@
 				TAIPEI  114
 				TAIWAN, PROVINCE OF CHINA
 
+  2C-5F-F3   (hex)		Pertronic Industries
+  2C5FF3     (base 16)		Pertronic Industries
+  				17 Eastern Hutt Road
+				Wingate  5019
+				NEW ZEALAND
+
   2C-62-5A   (hex)		Finest Security Systems Co., Ltd
   2C625A     (base 16)		Finest Security Systems Co., Ltd
   				12F, No.103, Sec3, Nan King E. RD
@@ -87689,6 +87695,13 @@
   				Box 55
 				Kungsaengen  196 22
 				SWEDEN
+
+  34-61-78   (hex)		The Boeing Company
+  346178     (base 16)		The Boeing Company
+  				325 James S. McDonnell Blvd
+				MC S306-2115
+				Hazelwood MO 63042-2513
+				UNITED STATES
 
   34-68-4A   (hex)		Teraworks Co., Ltd.
   34684A     (base 16)		Teraworks Co., Ltd.
@@ -113478,6 +113491,12 @@
 				Tokyo  140-8572
 				JAPAN
 
+  F8-4A-7F   (hex)		Innometriks Inc
+  F84A7F     (base 16)		Innometriks Inc
+  				3654 Ocean Ranch Blvd
+				Oceanside Ca 92056
+				UNITED STATES
+
   F8-4A-BF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
   F84ABF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
   				D1,Huawei Industrial Base
@@ -113510,6 +113529,12 @@
 				SE
 				Kista  164 74
 				SWEDEN
+
+  F8-54-AF   (hex)		ECI Telecom Ltd.
+  F854AF     (base 16)		ECI Telecom Ltd.
+  				30 Hasivim St.
+				Petah Tikva  49133
+				ISRAEL
 
   F8-5B-C9   (hex)		M-Cube Spa
   F85BC9     (base 16)		M-Cube Spa

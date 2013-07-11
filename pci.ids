@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.09
-#	Date:    2013-07-09 03:15:01
+#	Version: 2013.07.11
+#	Date:    2013-07-11 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -16996,6 +16996,11 @@
 	0a41  microEnable IV-FULL x1
 	0a44  microEnable IV-FULL x4
 	0e44  microEnable IV-GigE x4
+1ae9  Wilocity Ltd.
+	0101  Wil6200 PCI Express Root Port
+	0200  Wil6200 PCI Express Port
+	0201  Wil6200 Wireless PCI Express Port
+	0301  Wil6200 802.11ad Wireless Network Adapter
 1aec  Wolfson Microelectronics
 1aed  Fusion-io
 	1003  ioDimm3 (v1.2)
