@@ -82532,6 +82532,12 @@
 				Subang Jaya Selangor 47500
 				MALAYSIA
 
+  0C-5C-D8   (hex)		DOLI Elektronik GmbH
+  0C5CD8     (base 16)		DOLI Elektronik GmbH
+  				Adi-Maislinger-Str. 7
+				Munich  81373
+				GERMANY
+
   0C-60-76   (hex)		Hon Hai Precision Ind. Co.,Ltd.
   0C6076     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
   				NO.1925,Nanle Road ,Songjiang Export Processing Zone
@@ -92299,6 +92305,12 @@
   				912 Ruberta Ave
 				Glendale CA 91201
 				UNITED STATES
+
+  58-A2-B5   (hex)		LG Electronics
+  58A2B5     (base 16)		LG Electronics
+  				60-39, Kasan-dong, Kumchon-gu
+				Seoul  153-801
+				KOREA, REPUBLIC OF
 
   58-A7-6F   (hex)		iD corporation
   58A76F     (base 16)		iD corporation

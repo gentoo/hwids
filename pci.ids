@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.11
-#	Date:    2013-07-11 03:15:02
+#	Version: 2013.07.12
+#	Date:    2013-07-12 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -662,6 +662,7 @@
 		1043 010d  A9550GE/TD (Secondary)
 	4242  R200 [All-In-Wonder Radeon 8500 DV]
 		1002 02aa  Radeon 8500 AIW DV Edition
+	4243  R200 PCI Bridge [All-in-Wonder Radeon 8500DV]
 	4336  RS100 [Radeon IGP 320M]
 		1002 4336  Pavilion ze4300 ATI Radeon Mobility U1 (IGP 320 M)
 		103c 0024  Pavilion ze4400 builtin Video
@@ -2836,6 +2837,19 @@
 # 113-2E172001-003
 		174b 3000  Radeon HD 4350/4550 HyperMemory DDR2
 	9553  RV710/M92 [Mobility Radeon HD 4530/4570/545v]
+		1025 015e  Mobility Radeon HD 4570
+		1025 017d  Mobility Radeon HD 4570
+		1025 0205  Mobility Radeon HD 4570
+		1025 0206  Mobility Radeon HD 4570
+		1025 0237  Mobility Radeon HD 4570
+		1028 02be  Mobility Radeon HD 4570
+		1028 02e8  Mobility Radeon HD 4530
+		103c 3624  Mobility Radeon HD 4530
+		103c 3628  Mobility Radeon HD 4530
+		103c 3636  Mobility Radeon HD 4530
+		1043 1b32  Mobility Radeon HD 4570
+		1043 1b42  Mobility Radeon HD 4570
+		104d 9056  Mobility Radeon HD 4570
 		1179 ff82  Satellite L505-13T GPU (Mobility Radeon HD 5145)
 	9555  RV710/M92 [Mobility Radeon HD 4350/4550]
 		103c 1411  ProBook 4720s GPU (Mobility Radeon HD 4350)
@@ -3687,6 +3701,8 @@
 	7812  FCH USB XHCI Controller
 	7813  FCH SD Flash Controller
 	7814  FCH USB XHCI Controller
+	7900  CZ SATA Controller [IDE mode]
+	790b  CZ SMBus Controller
 	9600  RS780 Host Bridge
 		1043 82f1  M3A78-EH Motherboard
 	9601  RS880 Host Bridge
