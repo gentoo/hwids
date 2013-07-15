@@ -84726,6 +84726,12 @@
 				SEOUL 150839
 				KOREA, REPUBLIC OF
 
+  1C-4B-B9   (hex)		SMG ENTERPRISE, LLC
+  1C4BB9     (base 16)		SMG ENTERPRISE, LLC
+  				865 LOVE ST
+				ELK GROVE VILLAGE IL 60007
+				UNITED STATES
+
   1C-4B-D6   (hex)		AzureWave
   1C4BD6     (base 16)		AzureWave
   				8F., No. 94, Baoshong Rd.
@@ -85797,6 +85803,12 @@
 				Kulim Kedah 09000
 				MALAYSIA
 
+  24-80-00   (hex)		Westcontrol AS
+  248000     (base 16)		Westcontrol AS
+  				Breivikvg 7
+				Joerpeland - 4100
+				NORWAY
+
   24-81-AA   (hex)		KSH International Co., Ltd.
   2481AA     (base 16)		KSH International Co., Ltd.
   				2F, No.17 Minsheng Rd, Xindian Dist.,
@@ -86812,6 +86824,12 @@
   				170 W. TASMAN DRIVE
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
+				UNITED STATES
+
+  2C-55-3C   (hex)		Gainspeed, Inc.
+  2C553C     (base 16)		Gainspeed, Inc.
+  				295 Santa Ana Court
+				Sunnyvale CA 94085
 				UNITED STATES
 
   2C-59-E5   (hex)		Hewlett Packard
@@ -104432,6 +104450,13 @@
 				Cuers Var 83390
 				FRANCE
 
+  B4-3E-3B   (hex)		Viableware, Inc
+  B43E3B     (base 16)		Viableware, Inc
+  				12220 113th Ave NE
+				Suite 210
+				Kirkland WA 98034
+				UNITED STATES
+
   B4-41-7A   (hex)		ShenZhen Gongjin Electronics Co.,Ltd
   B4417A     (base 16)		ShenZhen Gongjin Electronics Co.,Ltd
   				4F,Baiying Building, No.1019,Nanhai RD,Shekou
@@ -110175,6 +110200,12 @@
   				Franz-Josefs-Kai 1
 				Vienna  1010
 				AUSTRIA
+
+  DC-FB-02   (hex)		Buffalo Inc.
+  DCFB02     (base 16)		Buffalo Inc.
+  				Akamon-dori Bldg, 30-20, Ohsu 3-chome
+				Naka-ku, Nagoya Aichi Pref. 460-8315
+				JAPAN
 
   E0-05-C5   (hex)		TP-LINK Technologies Co.,Ltd.
   E005C5     (base 16)		TP-LINK Technologies Co.,Ltd.

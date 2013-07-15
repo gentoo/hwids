@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.12
-#	Date:    2013-07-12 03:15:02
+#	Version: 2013.07.14
+#	Date:    2013-07-14 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -14770,7 +14770,7 @@
 	4718  Sentry5 Crypto Accelerator
 	4719  BCM47xx/53xx RoboSwitch Core
 	4720  BCM4712 MIPS CPU
-	4727  BCM4313 802.11b/g/n Wireless LAN Controller
+	4727  BCM4313 802.11bgn Wireless Network Adapter
 		1028 0010  Inspiron M5010 / XPS 8300
 	5365  BCM5365P Sentry5 Host Bridge
 	5600  BCM5600 StrataSwitch 24+2 Ethernet Switch Controller
