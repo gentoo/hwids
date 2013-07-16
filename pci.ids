@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.14
-#	Date:    2013-07-14 03:15:01
+#	Version: 2013.07.16
+#	Date:    2013-07-16 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -2101,7 +2101,7 @@
 		17aa 5101  Radeon HD 7670M
 		17aa 5102  Radeon HD 7670M
 		17aa 5103  Radeon HD 7670M
-	6841  Thames [Radeon 7550M/7570M/7650M]
+	6841  Thames [Radeon HD 7550M/7570M/7650M]
 		1028 0561  Radeon HD 7650M
 		1028 056c  Radeon HD 7650M
 		1028 057f  Radeon HD 7570M

@@ -86244,6 +86244,12 @@
 				Dublin  12
 				IRELAND
 
+  28-4D-92   (hex)		Luminator
+  284D92     (base 16)		Luminator
+  				900 Klein Road
+				Plano Texas 75074
+				UNITED STATES
+
   28-4F-CE   (hex)		Liaoning Wontel Science and Technology Development Co.,Ltd.
   284FCE     (base 16)		Liaoning Wontel Science and Technology Development Co.,Ltd.
   				A704 Floor TaiHe building
@@ -91148,6 +91154,12 @@
 				Kawasaki Kanagawa 211-0063
 				JAPAN
 
+  50-27-C7   (hex)		TECHNART Co.,Ltd
+  5027C7     (base 16)		TECHNART Co.,Ltd
+  				2-21 Nishiohjicho
+				Kusatsu Shiga 525-0037
+				JAPAN
+
   50-2A-7E   (hex)		Smart electronic GmbH
   502A7E     (base 16)		Smart electronic GmbH
   				Industrie Str. 29
@@ -94893,6 +94905,12 @@
 				Shenzhen Guangdong 518055
 				CHINA
 
+  6C-5A-B5   (hex)		TCL Technoly Electronics (Huizhou) Co., Ltd.
+  6C5AB5     (base 16)		TCL Technoly Electronics (Huizhou) Co., Ltd.
+  				19th Zhongkai Hi-tech Development Zone
+				Huizhou Guangdong 516006
+				CHINA
+
   6C-5C-DE   (hex)		SunReports, Inc.
   6C5CDE     (base 16)		SunReports, Inc.
   				1406 Cedarwood Dr.
@@ -98104,6 +98122,13 @@
 				SUWON KYUNGGI-DO 443-743
 				KOREA, REPUBLIC OF
 
+  84-0F-45   (hex)		Shanghai GMT Digital Technologies Co., Ltd
+  840F45     (base 16)		Shanghai GMT Digital Technologies Co., Ltd
+  				Room 501-505
+				Building 1,NO.500 Zhangheng Rd
+				Zhangjiang Hi-tech Park Shanghai 201204
+				CHINA
+
   84-17-15   (hex)		GP Electronics (HK) Ltd.
   841715     (base 16)		GP Electronics (HK) Ltd.
   				Gold Peak Industrial Building, 6F
@@ -98770,6 +98795,12 @@
 				SJCM/2
 				San Jose CA 95134
 				UNITED STATES
+
+  88-78-9C   (hex)		Game Technologies SA
+  88789C     (base 16)		Game Technologies SA
+  				Plac W. Andersa 3
+				Poznan  61894
+				POLAND
 
   88-86-A0   (hex)		Simton Technologies, Ltd.
   8886A0     (base 16)		Simton Technologies, Ltd.
@@ -105793,6 +105824,13 @@
 				Nanshan District, Shenzhen Guangdong 518067
 				CHINA
 
+  BC-98-89   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  BC9889     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  				No.5 DongXin Road
+				Hongsan District
+				Wuhan City Hubei Province 430074
+				CHINA
+
   BC-99-BC   (hex)		FonSee Technology Inc.
   BC99BC     (base 16)		FonSee Technology Inc.
   				14F-2, No.32, Gaotie 2nd Rd.,
@@ -109043,6 +109081,13 @@
 				Gaithersburg MD 20879
 				UNITED STATES
 
+  D4-AD-2D   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  D4AD2D     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  				No.5 DongXin Road
+				Hongsan District
+				Wuhan City Hubei Province 430074
+				CHINA
+
   D4-AE-52   (hex)		Dell Inc
   D4AE52     (base 16)		Dell Inc
   				One Dell Way, MS:RR5-45
@@ -110561,6 +110606,12 @@
   				6-3-36 Furukawanakazato,
 				Osaki Miyagi-pref 989-6181
 				JAPAN
+
+  E0-AE-B2   (hex)		Bender GmbH &amp; Co.KG
+  E0AEB2     (base 16)		Bender GmbH &amp; Co.KG
+  				Londorfer Straße 65
+				Grünberg Hessen 35305
+				GERMANY
 
   E0-AE-ED   (hex)		LOENK
   E0AEED     (base 16)		LOENK
@@ -113514,6 +113565,12 @@
 				Kaigan
 				Minato-ku Tokyo 105-0022
 				JAPAN
+
+  F8-45-AD   (hex)		Konka Group Co., Ltd.
+  F845AD     (base 16)		Konka Group Co., Ltd.
+  				Overseas Chinese Town Nanshan
+				shenzhen Guangdong 518053
+				CHINA
 
   F8-46-2D   (hex)		SYNTEC Incorporation
   F8462D     (base 16)		SYNTEC Incorporation

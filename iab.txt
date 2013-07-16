@@ -27480,3 +27480,9 @@
 				Seongnam-si Gyeonggi-do 462-721
 				KOREA, REPUBLIC OF
 
+  40-D8-55	(hex)		Supplier Ind. e Com de Eletroeletrônicos
+  13A000-13AFFF	(base 16)	Supplier Ind. e Com de Eletroeletrônicos
+  				Av. Edgar Nelson Meister, 1242, Bloco i Sala 402
+				Joinville Santa Catarina 89219501
+				BRAZIL
+
