@@ -27486,3 +27486,22 @@
 				Joinville Santa Catarina 89219501
 				BRAZIL
 
+  40-D8-55	(hex)		Davin Technologies Co.,Ltd
+  13B000-13BFFF	(base 16)	Davin Technologies Co.,Ltd
+  				1203-Ho, World Merdiang 1 Cha
+				Gasan-dong, Geumcheon-gu
+				Seoul Seoul 153-781
+				KOREA, REPUBLIC OF
+
+  40-D8-55	(hex)		shanghai anjian Information technology co. , ltd.
+  13C000-13CFFF	(base 16)	shanghai anjian Information technology co. , ltd.
+  				Room 413，Block B ,No. 1919,Zhongshan West Road, Shanghai
+				Shanghai Shanghai 200235
+				CHINA
+
+  40-D8-55	(hex)		Perm Scientific-Industrial Instrument Making Company JSC
+  13D000-13DFFF	(base 16)	Perm Scientific-Industrial Instrument Making Company JSC
+  				25th of October Str, 106
+				Perm Privolgsky Federal District 614990
+				RUSSIAN FEDERATION
+

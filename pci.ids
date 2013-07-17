@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.16
-#	Date:    2013-07-16 03:15:02
+#	Version: 2013.07.17
+#	Date:    2013-07-17 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1338,6 +1338,7 @@
 		15d9 a811  H8DGU
 	5a20  RD890S PCI Express bridge for GPP2 port 1
 	5a23  RD990 I/O Memory Management Unit (IOMMU)
+	5a31  RC410 Host Bridge
 	5a33  Radeon Xpress 200 Host Bridge
 	5a34  RS480 PCI-X Root Port
 # Comes in pair with 5a3f
@@ -16551,6 +16552,8 @@
 	0025  SuperFSCC/4-LVDS Serial PCI Adapter [Fastcom]
 # RS-644 Only, Software UARTs
 	0026  SuperFSCC-LVDS Serial PCI Adapter [Fastcom]
+# Software UARTs
+	0027  FSCC/4 Serial PCIe Adapter [Fastcom]
 18fb  Resilience Corporation
 1904  Hangzhou Silan Microelectronics Co., Ltd.
 	2031  SC92031 PCI Fast Ethernet Adapter
