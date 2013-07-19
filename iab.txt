@@ -27505,3 +27505,36 @@
 				Perm Privolgsky Federal District 614990
 				RUSSIAN FEDERATION
 
+  40-D8-55	(hex)		hanatech
+  13E000-13EFFF	(base 16)	hanatech
+  				D-1412 gwangmyeong techno park
+				1345 soha-dong
+				gwangmyeong-si gyeonggi-do 423-795
+				KOREA, REPUBLIC OF
+
+  40-D8-55	(hex)		Zhejiang Wellsun Electric Meter Co.,Ltd
+  13F000-13FFFF	(base 16)	Zhejiang Wellsun Electric Meter Co.,Ltd
+  				No 189 East Xixia Road
+				Tiantai County,
+				Taizhou Zhejiang 317200
+				CHINA
+
+  40-D8-55	(hex)		InnoTrans Communications, Inc
+  140000-140FFF	(base 16)	InnoTrans Communications, Inc
+  				22 Great Oaks Blvd, Ste #100
+				San Jose CA 95119
+				UNITED STATES
+
+  40-D8-55	(hex)		Key Systems, Inc.
+  141000-141FFF	(base 16)	Key Systems, Inc.
+  				Po Box G
+				Fishers New York 14453
+				UNITED STATES
+
+  40-D8-55	(hex)		Tetracore, Inc.
+  142000-142FFF	(base 16)	Tetracore, Inc.
+  				9901 Belward Campus Drive
+				Suite 300
+				Rockville Maryland 20850
+				UNITED STATES
+

@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.17
-#	Date:    2013-07-17 03:15:01
+#	Version: 2013.07.19
+#	Date:    2013-07-19 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -691,36 +691,36 @@
 		105b 0c81  Realtek ALC 653
 		107b 0300  MX6421
 		1462 0131  MS-1013 Notebook
-	4371  IXP SB400 PCI-PCI Bridge
+	4371  IXP SB4x0 PCI-PCI Bridge
 		103c 308b  MX6125
 		1462 7217  Aspire L250
-	4372  IXP SB400 SMBus Controller
+	4372  IXP SB4x0 SMBus Controller
 		1025 0080  Aspire 5024WLMMi
 		103c 2a20  Pavilion t3030.de Desktop PC
 		103c 308b  MX6125
 		1462 0131  MS-1013 Notebook
 		1462 7217  Aspire L250
-	4373  IXP SB400 USB2 Host Controller
+	4373  IXP SB4x0 USB2 Host Controller
 		1025 0080  Aspire 5024WLMMi
 		103c 2a20  Pavilion t3030.de Desktop PC
 		103c 308b  MX6125
 		1462 7217  Aspire L250
-	4374  IXP SB400 USB Host Controller
+	4374  IXP SB4x0 USB Host Controller
 		103c 2a20  Pavilion t3030.de Desktop PC
 		103c 308b  MX6125
 		1462 7217  Aspire L250
-	4375  IXP SB400 USB Host Controller
+	4375  IXP SB4x0 USB Host Controller
 		1025 0080  Aspire 5024WLMMi
 		103c 2a20  Pavilion t3030.de Desktop PC
 		103c 308b  MX6125
 		1462 7217  Aspire L250
-	4376  IXP SB400 IDE Controller
+	4376  IXP SB4x0 IDE Controller
 		1025 0080  Aspire 5024WLMMi
 		103c 2a20  Pavilion t3030.de Desktop PC
 		103c 308b  MX6125
 		1462 0131  MS-1013 Notebook
 		1462 7217  Aspire L250
-	4377  IXP SB400 PCI-ISA Bridge
+	4377  IXP SB4x0 PCI-ISA Bridge
 		1025 0080  Aspire 5024WLMi
 		103c 2a20  Pavilion t3030.de Desktop PC
 		103c 308b  MX6125
@@ -729,7 +729,7 @@
 		1025 0080  Aspire 5024WLMMi
 		103c 308b  MX6125
 		1462 0131  MS-1013 Notebook
-	4379  IXP SB400 Serial ATA Controller
+	4379  IXP SB4x0 Serial ATA Controller
 		1462 7141  Aspire L250
 	437a  IXP SB400 Serial ATA Controller
 		1002 4379  4379 Serial ATA Controller
@@ -747,7 +747,7 @@
 		1458 b005  Gigabyte GA-MA69G-S3H Motherboard
 		1462 7327  K9AG Neo2
 		17f2 5999  KI690-AM2 Motherboard
-	4381  SB400 SATA Controller (RAID 5 mode)
+	4381  SB600 SATA Controller (RAID 5 mode)
 	4382  SB600 AC97 Audio
 	4383  SBx00 Azalia (Intel HDA)
 		1019 2120  A785GM-M
@@ -1339,15 +1339,13 @@
 	5a20  RD890S PCI Express bridge for GPP2 port 1
 	5a23  RD990 I/O Memory Management Unit (IOMMU)
 	5a31  RC410 Host Bridge
-	5a33  Radeon Xpress 200 Host Bridge
-	5a34  RS480 PCI-X Root Port
-# Comes in pair with 5a3f
-	5a36  RS480 PCI Bridge
-	5a37  RS480 PCI Bridge
-	5a38  RS480 PCI Bridge
-# Comes in pair with 5a38
-	5a39  RS480 PCI Bridge
-	5a3f  RS480 PCI Bridge
+	5a33  RS400 Host Bridge
+	5a34  RS4xx PCI Express Port [ext gfx]
+	5a36  RC4xx/RS4xx PCI Express Port 1
+	5a37  RC4xx/RS4xx PCI Express Port 2
+	5a38  RC4xx/RS4xx PCI Express Port 3
+	5a39  RC4xx/RS4xx PCI Express Port 4
+	5a3f  RC4xx/RS4xx PCI Bridge [int gfx]
 		1462 7217  Aspire L250
 	5a41  RS400 [Radeon Xpress 200]
 	5a42  RS400M [Radeon Xpress 200M]
@@ -19578,12 +19576,11 @@
 	1f3d  Avoton PCU SMBus
 	1f3e  Avoton RAID SATA3 Controller
 	1f3f  Avoton RAID SATA3 Controller
-	1f40  Avoton GbE x4 1000base-KX
-	1f41  Avoton GbE x4 SGMII
+	1f40  Ethernet Connection I354 1.0 GbE Backplane
+	1f41  Ethernet Connection I354
 	1f42  Avoton GbE
-	1f43  Avoton GbE EEPROM-less
 	1f44  Avoton GbE Virtual Function
-	1f45  Avoton GbE 2500base-KX
+	1f45  Ethernet Connection I354 2.5 GbE Backplane
 	2250  Xeon Phi coprocessor 5100 series
 	225c  Xeon Phi coprocessor SE10/7120 series
 	225d  Xeon Phi coprocessor 3120 series 

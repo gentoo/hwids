@@ -74849,6 +74849,12 @@
 				Nuremberg Bavaria 90482
 				GERMANY
 
+  00-A2-FF   (hex)		abatec group AG
+  00A2FF     (base 16)		abatec group AG
+  				Oberregauerstraße 48
+				Regau  4844
+				AUSTRIA
+
   00-AA-00   (hex)		INTEL CORPORATION
   00AA00     (base 16)		INTEL CORPORATION
   				5200 NE ELAM YOUNG PARKWAY
@@ -83728,6 +83734,12 @@
 				Shenzhen Guangdong 518002
 				CHINA
 
+  14-46-E4   (hex)		AVISTEL
+  1446E4     (base 16)		AVISTEL
+  				15 rue Auguste Bartholdi
+				Carrieres sur Seine  78420
+				FRANCE
+
   14-49-78   (hex)		Digital Control Incorporated
   144978     (base 16)		Digital Control Incorporated
   				19625 62nd Ave S
@@ -87719,6 +87731,13 @@
   				12/F,ZTE R&D Buliding,Kejinan Road,Shenzhen,P.R.China
 				Shenzhen Guangdong 518057
 				CHINA
+
+  34-4F-3F   (hex)		IO-Power Technology Co., Ltd.
+  344F3F     (base 16)		IO-Power Technology Co., Ltd.
+  				1F., No.100,
+				Jinzhu Rd., North Dist.,
+				Hsinchu City  30055
+				TAIWAN, PROVINCE OF CHINA
 
   34-4F-69   (hex)		EKINOPS SAS
   344F69     (base 16)		EKINOPS SAS
@@ -92392,6 +92411,13 @@
 				KAMITOBA, MINAMI-KU
 				KYOTO  601-8501
 				JAPAN
+
+  58-BD-F9   (hex)		Sigrand
+  58BDF9     (base 16)		Sigrand
+  				UNIT 602 6/F, Causeway Bay Comm Bldg,
+				1 Sugar st., Causeway Bay,
+				Hong Kong 999077
+				HONG KONG
 
   58-BF-EA   (hex)		CISCO SYSTEMS, INC.
   58BFEA     (base 16)		CISCO SYSTEMS, INC.
@@ -99887,6 +99913,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  90-79-90   (hex)		Benchmark Electronics Romania SRL
+  907990     (base 16)		Benchmark Electronics Romania SRL
+  				Aeroportului no 6 Ghimbav
+				Brasov  507075
+				ROMANIA
+
   90-7A-0A   (hex)		Gebr. Bode GmbH & Co KG
   907A0A     (base 16)		Gebr. Bode GmbH & Co KG
   				Ochshaeuser Str. 14
@@ -103483,6 +103515,13 @@
 				Seefeld BY 82229
 				GERMANY
 
+  AC-50-36   (hex)		Pi-Coral Inc
+  AC5036     (base 16)		Pi-Coral Inc
+  				2130 Gold St
+				Suite 200
+				San Jose CA 95002-1177
+				UNITED STATES
+
   AC-51-35   (hex)		MPI TECH
   AC5135     (base 16)		MPI TECH
   				Vadstrupvej 35
@@ -106100,6 +106139,13 @@
 				Berlin  10559
 				GERMANY
 
+  C0-25-5C   (hex)		Cisco
+  C0255C     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   C0-27-B9   (hex)		Beijing National Railway Research & Design Institute  of Signal & Communication Co., Ltd.
   C027B9     (base 16)		Beijing National Railway Research & Design Institute  of Signal & Communication Co., Ltd.
   				Building No.18, Huayuan YiLi,Fengtai District,
@@ -106965,6 +107011,13 @@
   C4D489     (base 16)		JiangSu Joyque Information Industry Co.,Ltd
   				10  Floor YaHua Building, Xi'anBei Road,
 				Xuzhou JiangSu 221006
+				CHINA
+
+  C4-D6-55   (hex)		Tercel technology co.,ltd
+  C4D655     (base 16)		Tercel technology co.,ltd
+  				Huafa South Road, Futian District,
+				Building B-807 FlyingTimes
+				SHENZHEN GUANGDONG 518000
 				CHINA
 
   C4-D9-87   (hex)		Intel Corporate
@@ -108448,6 +108501,13 @@
   D08999     (base 16)		APCON, Inc.
   				9255 SW Pioneer Court
 				Wilsonville OR 97070
+				UNITED STATES
+
+  D0-8A-55   (hex)		Skullcandy
+  D08A55     (base 16)		Skullcandy
+  				1441 Ute blvd.
+				Suite 250
+				Park City Utah 84098
 				UNITED STATES
 
   D0-8B-7E   (hex)		Passif Semiconductor
@@ -111934,6 +111994,13 @@
 				Byala Rousse 7100
 				BULGARIA
 
+  E8-ED-F3   (hex)		Cisco
+  E8EDF3     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   E8-F1-B0   (hex)		SAGEMCOM SAS
   E8F1B0     (base 16)		SAGEMCOM SAS
   				250 ROUTE DE L'EMPEREUR
@@ -114170,6 +114237,12 @@
   				897-6, HoGye-Dong, DongAn-Gu,
 				AnYang-Si, GyeongGi-Do, 431-836
 				KOREA, REPUBLIC OF
+
+  FC-1B-FF   (hex)		V-ZUG AG
+  FC1BFF     (base 16)		V-ZUG AG
+  				Industriestrasse 66
+				Zug 6301
+				SWITZERLAND
 
   FC-1D-59   (hex)		I Smart Cities HK Ltd
   FC1D59     (base 16)		I Smart Cities HK Ltd
