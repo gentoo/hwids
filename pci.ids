@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.19
-#	Date:    2013-07-19 03:15:01
+#	Version: 2013.07.22
+#	Date:    2013-07-22 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -6510,7 +6510,7 @@
 	1681  M1681 P4 Northbridge [AGP8X,HyperTransport and SDR/DDR]
 	1687  M1687 K8 Northbridge [AGP8X and HyperTransport]
 	1689  M1689 K8 Northbridge [Super K8 Single Chip]
-	1695  M1695 K8 Northbridge [PCI Express and HyperTransport]
+	1695  M1695 Host Bridge
 	1697  M1697 HTT Host Bridge
 	3141  M3141
 	3143  M3143
@@ -9028,7 +9028,7 @@
 		1af4 1100  Qemu virtual machine
 	8129  RTL-8129
 		10ec 8129  RT8129 Fast Ethernet Adapter
-		11ec 8129  RT8129 Fast Ethernet Adapter
+		11ec 8129  RTL8111/8168 PCIe Gigabit Ethernet (misconfigured)
 	8136  RTL8101E/RTL8102E PCI Express Fast Ethernet controller
 		103c 2ab1  Pavillion p6774
 		103c 30cc  Pavilion dv6700

@@ -85186,6 +85186,13 @@
 				Taipei TaiWan 23585
 				TAIWAN, PROVINCE OF CHINA
 
+  20-18-0E   (hex)		Shenzhen Sunchip Technology Co., Ltd
+  20180E     (base 16)		Shenzhen Sunchip Technology Co., Ltd
+  				Room 818-831, Building B1,
+				Mingyou Purchasing Center, Bao'an District
+				Shenzhen Guangdong 518101
+				CHINA
+
   20-1A-06   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
   201A06     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
   				No.25, Third Avenue, A Zone
@@ -86392,6 +86399,13 @@
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
 				UNITED STATES
+
+  28-94-AF   (hex)		Samhwa Telecom
+  2894AF     (base 16)		Samhwa Telecom
+  				293-7, Doksan-dong
+				Kumchun-gu
+				Seoul 153-813
+				KOREA, REPUBLIC OF
 
   28-98-7B   (hex)		Samsung Electronics Co.,Ltd
   28987B     (base 16)		Samsung Electronics Co.,Ltd
@@ -95908,6 +95922,13 @@
 				Willenhall West Midlands WV12 5QU
 				UNITED KINGDOM
 
+  74-0E-DB   (hex)		Optowiz Co., Ltd
+  740EDB     (base 16)		Optowiz Co., Ltd
+  				D-901 Bundang Techno Park
+				151 Yatap-dong, Bundang-gu
+				Seongnam-si Kyeonggi-do 463-760
+				KOREA, REPUBLIC OF
+
   74-14-89   (hex)		SRT Wireless
   741489     (base 16)		SRT Wireless
   				4101 SW 47th Avenue #102
@@ -98030,6 +98051,13 @@
   				301 Goolsby Blvd
 				Deerfield Beach FL 33442
 				UNITED STATES
+
+  80-B2-19   (hex)		ELEKTRON TECHNOLOGY UK LIMITED
+  80B219     (base 16)		ELEKTRON TECHNOLOGY UK LIMITED
+  				BROERS BUILDING,
+				21 JJ THOMSON AVENUE
+				CAMBRIDGE CAMBS CB3 0FA
+				UNITED KINGDOM
 
   80-B2-89   (hex)		Forworld Electronics Ltd.
   80B289     (base 16)		Forworld Electronics Ltd.
@@ -101753,6 +101781,12 @@
   				9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,
 				Xindian Dist. New Taipei City 231
 				TAIWAN, PROVINCE OF CHINA
+
+  A0-14-3D   (hex)		PARROT SA
+  A0143D     (base 16)		PARROT SA
+  				174, quai de Jemmapes
+				PARIS  75010
+				FRANCE
 
   A0-16-5C   (hex)		TangoTec Ltd.
   A0165C     (base 16)		TangoTec Ltd.
@@ -106182,6 +106216,12 @@
   				12F.NO 480. Rueiguang Rd.
 				Taipei  11492
 				TAIWAN, PROVINCE OF CHINA
+
+  C0-35-80   (hex)		A&R TECH
+  C03580     (base 16)		A&R TECH
+  				Marksteinergasse 13
+				Vienna  1210
+				AUSTRIA
 
   C0-35-BD   (hex)		Velocytech Aps
   C035BD     (base 16)		Velocytech Aps
