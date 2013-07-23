@@ -8518,8 +8518,8 @@
 				79098 Freiburg 
 				GERMANY
 
-  00-50-C2	(hex)		TOYO RADIO SYSTEMS CO., LTD.
-  557000-557FFF	(base 16)	TOYO RADIO SYSTEMS CO., LTD.
+  00-50-C2	(hex)		Netcomsec
+  557000-557FFF	(base 16)	Netcomsec
   				1-1, Koyato 2-chome
 				Samukawa-machi Koza-gun, Kanagawa 253-0197
 				JAPAN
@@ -27537,4 +27537,16 @@
 				Suite 300
 				Rockville Maryland 20850
 				UNITED STATES
+
+  40-D8-55	(hex)		Tokyo Drawing Ltd.
+  143000-143FFF	(base 16)	Tokyo Drawing Ltd.
+  				103 Ni Terai-machi
+				Nomi-shi Ishikawa 923-1121
+				JAPAN
+
+  40-D8-55	(hex)		Venco
+  144000-144FFF	(base 16)	Venco
+  				Carretera del Mig 75
+				Hospitalet de Llobregat Barcelona 08907
+				SPAIN
 
