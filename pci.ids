@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.07.22
-#	Date:    2013-07-22 03:15:01
+#	Version: 2013.07.24
+#	Date:    2013-07-24 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -15615,6 +15615,9 @@
 	3640  FarSync T4E (4-port X.21/V.35/V.24)
 	4620  FarSync T2Ue PCI Express (2-port X.21/V.35/V.24)
 	4640  FarSync T4Ue PCI Express (4-port X.21/V.35/V.24)
+	5621  FarSync T2Ee PCI Express (2 port X.21/V.35/V.24)
+	5641  FarSync T4Ee PCI Express (4 port X.21/V.35/V.24)
+	6620  FarSync T2U-PMC PCI Express (2 port X.21/V.35/V.24)
 161f  Rioworks
 1626  TDK Semiconductor Corp.
 	8410  RTL81xx Fast Ethernet

@@ -82480,6 +82480,12 @@
 				Richmond Hill Ontario L4B 1J2
 				CANADA
 
+  0C-30-21   (hex)		Apple, Inc
+  0C3021     (base 16)		Apple, Inc
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   0C-37-DC   (hex)		Huawei Technologies Co., Ltd
   0C37DC     (base 16)		Huawei Technologies Co., Ltd
   				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District
@@ -82511,6 +82517,12 @@
 				Science Park
 				Hsin-Chu  300
 				TAIWAN, PROVINCE OF CHINA
+
+  0C-4D-E9   (hex)		Apple, Inc.
+  0C4DE9     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   0C-51-F7   (hex)		CHAUVIN ARNOUX
   0C51F7     (base 16)		CHAUVIN ARNOUX
@@ -86133,6 +86145,12 @@
   28068D     (base 16)		ITL, LLC
   				P.O. Box 41875
 				Nashville TN 37204
+				UNITED STATES
+
+  28-0B-5C   (hex)		Apple, Inc.
+  280B5C     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
 				UNITED STATES
 
   28-0C-B8   (hex)		Mikrosay Yazilim ve Elektronik A.S.
@@ -92413,6 +92431,13 @@
 				Hsinchu  302
 				TAIWAN, PROVINCE OF CHINA
 
+  58-B9-61   (hex)		SOLEM Electronique
+  58B961     (base 16)		SOLEM Electronique
+  				ZAE La Plaine
+				5, Rue Georges Besse
+				CLAPIERS  34830
+				FRANCE
+
   58-B9-E1   (hex)		Crystalfontz America, Inc.
   58B9E1     (base 16)		Crystalfontz America, Inc.
   				12412 E. Saltese Ave.
@@ -93267,6 +93292,12 @@
 				Haidian Dist,
 				Beijing  100085
 				CHINA
+
+  60-64-A1   (hex)		RADiflow Ltd.
+  6064A1     (base 16)		RADiflow Ltd.
+  				31 Habarzel St.
+				Tel Aviv  6971045
+				ISRAEL
 
   60-67-20   (hex)		Intel Corporate
   606720     (base 16)		Intel Corporate
@@ -96315,6 +96346,12 @@
 				STOCKHOLM  164 83
 				SWEDEN
 
+  74-D4-35   (hex)		GIGA-BYTE TECHNOLOGY CO.,LTD.
+  74D435     (base 16)		GIGA-BYTE TECHNOLOGY CO.,LTD.
+  				Pin-Jen City, Taoyuan, Taiwan, R.O.C.
+				Pin-Jen Taoyuan 324
+				TAIWAN, PROVINCE OF CHINA
+
   74-D6-75   (hex)		WYMA Tecnologia
   74D675     (base 16)		WYMA Tecnologia
   				Rua Clímaco Barbosa, 171-179
@@ -96615,6 +96652,12 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  78-49-1D   (hex)		The Will-Burt Company
+  78491D     (base 16)		The Will-Burt Company
+  				169 S. Main St.
+				Orrivlle Ohio 44667
+				UNITED STATES
 
   78-4B-08   (hex)		f.robotics acquisitions ltd
   784B08     (base 16)		f.robotics acquisitions ltd
@@ -97953,6 +97996,13 @@
   				Wyspianskiego 3
 				Nowy Sacz woj. Malopolskie 33-300
 				POLAND
+
+  80-79-AE   (hex)		ShanDong Tecsunrise  Co.,Ltd
+  8079AE     (base 16)		ShanDong Tecsunrise  Co.,Ltd
+  				B316,F-2,QiLu Soft Park,
+				No.1 ShunHua Road,Hi-tech Development Zone
+				JiNan ShanDong 250101
+				CHINA
 
   80-7A-7F   (hex)		ABB Genway Xiamen Electrical Equipment CO., LTD
   807A7F     (base 16)		ABB Genway Xiamen Electrical Equipment CO., LTD
@@ -99922,6 +99972,13 @@
 				339156
 				SINGAPORE
 
+  90-67-17   (hex)		Alphion India Private Limited
+  906717     (base 16)		Alphion India Private Limited
+  				405 Windfall, Sahar Plaza
+				J B Nagar, Andheri Kurla Road, Andheri
+				Mumbai Maharashtra 400059
+				INDIA
+
   90-67-B5   (hex)		Alcatel-Lucent
   9067B5     (base 16)		Alcatel-Lucent
   				600-700 Mountain Ave.
@@ -100060,6 +100117,13 @@
   				3186-G Airway Ave.
 				Costa Mesa CA 92626
 				UNITED STATES
+
+  90-9F-43   (hex)		Accutron Instruments Inc.
+  909F43     (base 16)		Accutron Instruments Inc.
+  				11 Mary Street
+				Unit B
+				Sudbury Ontario P3C1B4
+				CANADA
 
   90-A2-DA   (hex)		GHEO SA
   90A2DA     (base 16)		GHEO SA
@@ -106748,6 +106812,12 @@
 				Atlanta GA 30305
 				UNITED STATES
 
+  C4-27-95   (hex)		Technicolor USA Inc.
+  C42795     (base 16)		Technicolor USA Inc.
+  				101 West 103rd Street
+				Indianapolis IN 46290
+				UNITED STATES
+
   C4-2C-03   (hex)		Apple, Inc.
   C42C03     (base 16)		Apple, Inc.
   				1 Infinite Loop
@@ -109771,6 +109841,12 @@
   D89685     (base 16)		GoPro
   				3000 Clearview Way
 				San Mateo CA 94402
+				UNITED STATES
+
+  D8-96-95   (hex)		Apple, Inc
+  D89695     (base 16)		Apple, Inc
+  				1 Infinite Loop
+				Cupertino CA 95014
 				UNITED STATES
 
   D8-97-3B   (hex)		Emerson Network Power Embedded Power

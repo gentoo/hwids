@@ -27550,3 +27550,9 @@
 				Hospitalet de Llobregat Barcelona 08907
 				SPAIN
 
+  40-D8-55	(hex)		Weber Marking Systems GmbH
+  145000-145FFF	(base 16)	Weber Marking Systems GmbH
+  				Taschenmacherstrasse 2
+				Lübeck  Schleswig-Holstein 23556
+				GERMANY
+
