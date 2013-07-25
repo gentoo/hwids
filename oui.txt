@@ -105859,6 +105859,12 @@
 				Taipei  11085
 				TAIWAN, PROVINCE OF CHINA
 
+  BC-41-00   (hex)		Codaco Electronic s.r.o.
+  BC4100     (base 16)		Codaco Electronic s.r.o.
+  				Hemy 825
+				Valasske Mezirici Vsetin 75701
+				CZECH REPUBLIC
+
   BC-43-77   (hex)		Hang Zhou Huite Technology Co.,ltd.
   BC4377     (base 16)		Hang Zhou Huite Technology Co.,ltd.
   				Rm1338,Block A¬FuLi Technology Building ,No.328,WenEr Rd
@@ -108104,6 +108110,12 @@
   				PL 443
 				Vaasa  65101
 				FINLAND
+
+  CC-72-0F   (hex)		Viscount Systems Inc.
+  CC720F     (base 16)		Viscount Systems Inc.
+  				4585 Tillicum Street
+				Burnaby British Columbia V5J 5K9
+				CANADA
 
   CC-76-69   (hex)		SEETECH
   CC7669     (base 16)		SEETECH
