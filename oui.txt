@@ -27398,6 +27398,12 @@
 				TU-CHENG TAIPEI  
 				TAIWAN, PROVINCE OF CHINA
 
+  00-10-F0   (hex)		RITTAL-WERK RUDOLF LOH GmbH & Co.
+  0010F0     (base 16)		RITTAL-WERK RUDOLF LOH GmbH & Co.
+  				AUF DEM STUTZELBERG
+				D-35745 HERBORN  
+				GERMANY
+
   00-10-F1   (hex)		I-O CORPORATION
   0010F1     (base 16)		I-O CORPORATION
   				2256 SOUTH 3600 WEST
@@ -80215,6 +80221,12 @@
 				Moscow  115093
 				RUSSIAN FEDERATION
 
+  00-E3-B2   (hex)		Samsung Electronics Co.,Ltd
+  00E3B2     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   00-E6-66   (hex)		ARIMA Communications Corp.
   00E666     (base 16)		ARIMA Communications Corp.
   				6F.,No.866,Zhongzheng Rd.,Zhonghe Dist.,
@@ -87290,6 +87302,12 @@
 				Rheine NRW 48432
 				GERMANY
 
+  30-19-66   (hex)		Samsung Electronics Co.,Ltd
+  301966     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   30-1A-28   (hex)		Mako Networks Ltd
   301A28     (base 16)		Mako Networks Ltd
   				1/62 Paul Matthews Rd
@@ -87623,6 +87641,12 @@
   				1200 Souteat Avenue
 				Tallmadge Ohio 44278
 				UNITED STATES
+
+  30-D6-C9   (hex)		Samsung Electronics Co.,Ltd
+  30D6C9     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   30-DE-86   (hex)		Cedac Software S.r.l.
   30DE86     (base 16)		Cedac Software S.r.l.
@@ -107945,6 +107969,12 @@
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
+  CC-07-AB   (hex)		Samsung Electronics Co.,Ltd
+  CC07AB     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   CC-08-E0   (hex)		Apple, Inc.
   CC08E0     (base 16)		Apple, Inc.
   				1 Infinite Loop
@@ -111858,6 +111888,12 @@
   				20D Room, Block B, Modern Windows Buidling, FuTian District,
 				Shenzhen Guangdong 518028
 				CHINA
+
+  E8-4E-84   (hex)		Samsung Electronics Co.,Ltd
+  E84E84     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   E8-4E-CE   (hex)		Nintendo Co., Ltd.
   E84ECE     (base 16)		Nintendo Co., Ltd.
