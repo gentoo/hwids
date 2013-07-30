@@ -87265,6 +87265,12 @@
 				Taipei Hsien  236
 				TAIWAN, PROVINCE OF CHINA
 
+  30-10-E4   (hex)		Apple, Inc.
+  3010E4     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   30-14-2D   (hex)		Piciorgros GmbH
   30142D     (base 16)		Piciorgros GmbH
   				Claudiastrasse 5
@@ -92091,6 +92097,12 @@
 				Taoyuan Street, Nanshan District,
 				Shenzhen Guangdong 518000
 				CHINA
+
+  54-EA-A8   (hex)		Apple, Inc.
+  54EAA8     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   54-F5-B6   (hex)		ORIENTAL PACIFIC INTERNATIONAL LIMITED
   54F5B6     (base 16)		ORIENTAL PACIFIC INTERNATIONAL LIMITED
@@ -103313,6 +103325,12 @@
   				Frederikskaj
 				Copenhagen V  DK-1790
 				DENMARK
+
+  A8-86-DD   (hex)		Apple, Inc.
+  A886DD     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   A8-87-92   (hex)		Broadband Antenna Tracking Systems
   A88792     (base 16)		Broadband Antenna Tracking Systems
