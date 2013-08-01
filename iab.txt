@@ -27556,3 +27556,37 @@
 				Lübeck  Schleswig-Holstein 23556
 				GERMANY
 
+  40-D8-55	(hex)		Pleiger Elektronik GmbH  and Co. KG
+  146000-146FFF	(base 16)	Pleiger Elektronik GmbH  and Co. KG
+  				Im Hammertal 51
+				Witten NRW 58456
+				GERMANY
+
+  40-D8-55	(hex)		Aplex Technology Inc.
+  147000-147FFF	(base 16)	Aplex Technology Inc.
+  				2Q , NanYouTianAn industrial park Tower4
+				Nanshan District
+				Shenzhen Guangdong 518054
+				CHINA
+
+  40-D8-55	(hex)		SEIKO TIME SYSTEMS INC.
+  148000-148FFF	(base 16)	SEIKO TIME SYSTEMS INC.
+  				2-4-3 Fukuzumi
+				Koto-ku TOKYO 135-8610
+				JAPAN
+
+  40-D8-55	(hex)		Engage Technologies
+  149000-149FFF	(base 16)	Engage Technologies
+  				7041 Boone Ave. N
+				Brooklyn Park MN 55428
+				UNITED STATES
+
+  40-D8-55	(hex)		GENERAL DYNAMICS C4 SYSTEMS
+  14A000-14AFFF	(base 16)	GENERAL DYNAMICS C4 SYSTEMS
+  				8220 EAST ROOSEVELT ST. MD: R1115
+				SCOTTSDALE AZ 85257
+				UNITED STATES
+
+  40-D8-55	(hex)		PRIVATE
+  14B000-14BFFF	(base 16)		 
+

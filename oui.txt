@@ -82523,6 +82523,12 @@
 				Indianapolis  46256
 				UNITED STATES
 
+  0C-47-3D   (hex)		Hitron Technologies. Inc
+  0C473D     (base 16)		Hitron Technologies. Inc
+  				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  300
+				TAIWAN, PROVINCE OF CHINA
+
   0C-4C-39   (hex)		Mitrastar Technology
   0C4C39     (base 16)		Mitrastar Technology
   				4F No.6 Innovation Road II
@@ -82765,6 +82771,12 @@
   				17/F, Jiangong Building
 				No.20 Wensan Road
 				Hangzhou ZheJiang 310012
+				CHINA
+
+  0C-A6-94   (hex)		Sunitec Enterprise Co.,Ltd
+  0CA694     (base 16)		Sunitec Enterprise Co.,Ltd
+  				3F.,No.98-1,Mincyuan Rd.Sindian City
+				Taipei County 231  231141
 				CHINA
 
   0C-AF-5A   (hex)		GENUS POWER INFRASTRUCTURES LIMITED
@@ -84260,6 +84272,12 @@
   				Via Trento, 30
 				Vimercate MB 20059
 				ITALY
+
+  18-44-62   (hex)		Riava Networks, Inc.
+  184462     (base 16)		Riava Networks, Inc.
+  				Kato Bldg. 1F, 6-12-4 Soto-Kanda
+				Chiyoda-ku Tokyo 1010021
+				JAPAN
 
   18-46-17   (hex)		Samsung Electronics
   184617     (base 16)		Samsung Electronics
@@ -88199,6 +88217,13 @@
 				Bedford Texas 76021
 				UNITED STATES
 
+  34-DB-FD   (hex)		Cisco
+  34DBFD     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   34-DF-2A   (hex)		Fujikon Industrial Co.,Limited
   34DF2A     (base 16)		Fujikon Industrial Co.,Limited
   				16/F., Tower 1, Grand Central Plaza,138 Shatin Rural
@@ -90925,6 +90950,13 @@
   				Majavantie 10
 				TUUSULA  FI-04320
 				FINLAND
+
+  4C-5E-0C   (hex)		Routerboard.com
+  4C5E0C     (base 16)		Routerboard.com
+  				Mikrotikls SIA
+				Pernavas 46
+				Riga  LV1009
+				LATVIA
 
   4C-5F-D2   (hex)		Alcatel-Lucent
   4C5FD2     (base 16)		Alcatel-Lucent
@@ -93867,6 +93899,12 @@
 				554911
 				SINGAPORE
 
+  64-42-14   (hex)		Swisscom Energy Solutions AG
+  644214     (base 16)		Swisscom Energy Solutions AG
+  				Solothurnerstrasse 19
+				Olten  4600
+				SWITZERLAND
+
   64-43-46   (hex)		GuangDong Quick Network Computer CO.,LTD
   644346     (base 16)		GuangDong Quick Network Computer CO.,LTD
   				12F,No.80 of Middle XianLie Road,YueXiu District
@@ -95138,6 +95176,13 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  6C-83-66   (hex)		Nanjing SAC Power Grid Automation Co., Ltd.
+  6C8366     (base 16)		Nanjing SAC Power Grid Automation Co., Ltd.
+  				No11 Phoenix Road
+				Jiangning Development Zone,
+				Nanjing Jiangsu 211100
+				CHINA
 
   6C-86-86   (hex)		Technonia
   6C8686     (base 16)		Technonia
@@ -99001,6 +99046,13 @@
 				Stourport-on-Severn Worcestershire DY13 9BZ
 				UNITED KINGDOM
 
+  88-5A-92   (hex)		Cisco
+  885A92     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   88-5C-4F   (hex)		Alcatel Lucent
   885C4F     (base 16)		Alcatel Lucent
   				Via trento, 30
@@ -101525,6 +101577,13 @@
 				Shenzhen Guangdong 518057
 				CHINA
 
+  9C-44-3D   (hex)		CHENGDU XUGUANG TECHNOLOGY CO, LTD
+  9C443D     (base 16)		CHENGDU XUGUANG TECHNOLOGY CO, LTD
+  				2ND SECTION,PARK ROAD
+				LONGQUANYI
+				CHENGDU SICHUAN 610100
+				CHINA
+
   9C-45-63   (hex)		DIMEP Sistemas
   9C4563     (base 16)		DIMEP Sistemas
   				Av. MOfarrej, 840
@@ -101923,6 +101982,13 @@
   				Thamova 13
 				Praha 8  186 00
 				CZECH REPUBLIC
+
+  9C-F8-DB   (hex)		shenzhen eyunmei technology co,.ltd
+  9CF8DB     (base 16)		shenzhen eyunmei technology co,.ltd
+  				8/F Yiben Building,No.1063 ChaGuang Road,XiLi Town,
+				Nanshan District
+				Shenzhen Guangdong 518055
+				CHINA
 
   9C-F9-38   (hex)		AREVA NP GmbH
   9CF938     (base 16)		AREVA NP GmbH
@@ -114376,6 +114442,12 @@
 				Taoyuan County  330
 				TAIWAN, PROVINCE OF CHINA
 
+  F8-DB-88   (hex)		Dell Inc PCBA Test
+  F8DB88     (base 16)		Dell Inc PCBA Test
+  				one dell way
+				Round rock Texas 78682
+				UNITED STATES
+
   F8-DC-7A   (hex)		Variscite LTD
   F8DC7A     (base 16)		Variscite LTD
   				60 Medinat Hayehudim st.
@@ -114831,6 +114903,13 @@
   				Torshamnsgatan 35
 				Kista  SE-16440
 				SWEDEN
+
+  FC-B0-C4   (hex)		Shanghai DareGlobal Technologies Co., Ltd
+  FCB0C4     (base 16)		Shanghai DareGlobal Technologies Co., Ltd
+  				22F Info-Tech Building
+				No.1555 Kongjiang Road
+				Shanghai  200092
+				CHINA
 
   FC-C2-3D   (hex)		Atmel Corporation
   FCC23D     (base 16)		Atmel Corporation
