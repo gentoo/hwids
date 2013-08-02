@@ -89560,6 +89560,12 @@
 				Shenzhen Guangdong 518000
 				CHINA
 
+  40-7A-80   (hex)		Nokia Corporation
+  407A80     (base 16)		Nokia Corporation
+  				Joensuunkatu 7
+				Salo N.A. 24101
+				FINLAND
+
   40-7B-1B   (hex)		Mettle Networks Inc.
   407B1B     (base 16)		Mettle Networks Inc.
   				111 N. Market St STE 300
@@ -91639,6 +91645,12 @@
   				2101 NE Jack London St
 				Corvallis Oregon 97330
 				UNITED STATES
+
+  50-C2-71   (hex)		SECURETECH INC
+  50C271     (base 16)		SECURETECH INC
+  				#304, 799 Kwanyang-dong, Dongan-gu,
+				Anyang-ci Gyunggi-do 431-767
+				KOREA, REPUBLIC OF
 
   50-C5-8D   (hex)		Juniper Networks
   50C58D     (base 16)		Juniper Networks
@@ -94532,6 +94544,13 @@
 				kawagoe-shi saitama 350-1107
 				JAPAN
 
+  68-2D-DC   (hex)		Wuhan Changjiang Electro-Communication Equipment CO.,LTD
+  682DDC     (base 16)		Wuhan Changjiang Electro-Communication Equipment CO.,LTD
+  				No.8,Yinghu Sience&Technology industrial park
+				Jiutong Road,East-West Lake District
+				Wuhan Hubei 430040
+				CHINA
+
   68-3B-1E   (hex)		Countwise LTD
   683B1E     (base 16)		Countwise LTD
   				1149 Sawgrass Corporate Parkway
@@ -95686,6 +95705,12 @@
 				Kadoma Osaka 571-8504
 				JAPAN
 
+  70-59-57   (hex)		Medallion Instrumentation Systems
+  705957     (base 16)		Medallion Instrumentation Systems
+  				17150 Hickory St
+				Spring Lake MI 49456
+				UNITED STATES
+
   70-5A-B6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
   705AB6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
   				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
@@ -95703,6 +95728,13 @@
   				PO Box 636
 				Provo UT 84603
 				UNITED STATES
+
+  70-61-73   (hex)		Calantec GmbH
+  706173     (base 16)		Calantec GmbH
+  				Doebelner Str. 4
+				Aufgang C
+				Berlin 12927
+				GERMANY
 
   70-64-17   (hex)		ORBIS TECNOLOGIA ELECTRICA S.A.
   706417     (base 16)		ORBIS TECNOLOGIA ELECTRICA S.A.
@@ -97434,6 +97466,13 @@
 				San Diego CA 92131
 				UNITED STATES
 
+  7C-49-B9   (hex)		Plexus Manufacturing Sdn Bhd
+  7C49B9     (base 16)		Plexus Manufacturing Sdn Bhd
+  				Plot 87
+				Lebuhraya Kampung Jawa
+				Bayan Lepas Penang 11900
+				MALAYSIA
+
   7C-4A-82   (hex)		Portsmith LLC
   7C4A82     (base 16)		Portsmith LLC
   				850 E. Franklin Road
@@ -97672,6 +97711,13 @@
 				713 Suseo-dong, Kangnam-gu
 				Seoul  135-539
 				KOREA, REPUBLIC OF
+
+  7C-B7-33   (hex)		ASKEY COMPUTER CORP
+  7CB733     (base 16)		ASKEY COMPUTER CORP
+  				10F,No.119,JIANKANG RD,
+				ZHONGHE DIST
+				NEW TAIPEI CITY 23585 TAIPEI 
+				TAIWAN, PROVINCE OF CHINA
 
   7C-B7-7B   (hex)		Paradigm Electronics Inc
   7CB77B     (base 16)		Paradigm Electronics Inc
@@ -100208,6 +100254,13 @@
   				RUA DEP. ANTONIO EDU VIEIRA
 				FLORIAN POLIS SANTA CATARINA 88040000
 				BRAZIL
+
+  90-8C-44   (hex)		H.K ZONGMU TECHNOLOGY CO., LTD.
+  908C44     (base 16)		H.K ZONGMU TECHNOLOGY CO., LTD.
+  				ROOM 604, BUILDING B, 977 SHANGFENG RD
+				TANG TOWN, PUDONG DISTRICT
+				SHANGHAI 201201
+				CHINA
 
   90-8D-1D   (hex)		GH Technologies
   908D1D     (base 16)		GH Technologies
@@ -112036,6 +112089,12 @@
   				Gevener Weg 38
 				Neuenrade NRW 58579
 				GERMANY
+
+  E8-61-1F   (hex)		Dawning Information Industry Co.,Ltd
+  E8611F     (base 16)		Dawning Information Industry Co.,Ltd
+  				NO.15 Huake Street,Hi-Tech Zone
+				 Tianjin 300384
+				CHINA
 
   E8-6C-DA   (hex)		Supercomputers and Neurocomputers Research Center
   E86CDA     (base 16)		Supercomputers and Neurocomputers Research Center

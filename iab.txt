@@ -27590,3 +27590,35 @@
   40-D8-55	(hex)		PRIVATE
   14B000-14BFFF	(base 16)		 
 
+  40-D8-55	(hex)		PLT
+  14C000-14CFFF	(base 16)	PLT
+  				Partiyniy pereulok d.1 build. 58
+				Moscow 115093
+				RUSSIAN FEDERATION
+
+  40-D8-55	(hex)		SOMFY SAS
+  14D000-14DFFF	(base 16)	SOMFY SAS
+  				400, avenue de la République
+				BP 250
+				CLUSES  - 74307
+				FRANCE
+
+  40-D8-55	(hex)		Marposs S.p.A
+  14E000-14EFFF	(base 16)	Marposs S.p.A
+  				Via Saliceto 13
+				Bentivoglio Bologna 40010
+				ITALY
+
+  40-D8-55	(hex)		TDS Software Solutions Pty Ltd
+  14F000-14FFFF	(base 16)	TDS Software Solutions Pty Ltd
+  				5 The Crest
+				Chandlers Hill South Australia 5160
+				AUSTRALIA
+
+  40-D8-55	(hex)		SHIKINO HIGH-TECH
+  150000-150FFF	(base 16)	SHIKINO HIGH-TECH
+  				Shibakoen Denki Bldg, 9F
+				1-1-12, Shibakoen
+				Minato-ku Tokyo 1050011
+				JAPAN
+
