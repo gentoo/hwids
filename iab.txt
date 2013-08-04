@@ -27622,3 +27622,9 @@
 				Minato-ku Tokyo 1050011
 				JAPAN
 
+  40-D8-55	(hex)		Progress Rail Services, Inspection and Information Systems
+  151000-151FFF	(base 16)	Progress Rail Services, Inspection and Information Systems
+  				3801-1 South Selsa Road
+				Independence Missouri 64057
+				UNITED STATES
+

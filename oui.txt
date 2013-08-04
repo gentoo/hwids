@@ -83945,6 +83945,13 @@
 				Suwanee Georgia 30024
 				UNITED STATES
 
+  14-B1-26   (hex)		Industrial Software Co
+  14B126     (base 16)		Industrial Software Co
+  				91, Aleksandyr Malinov blvd.
+				room 604
+				Sofia 1715
+				BULGARIA
+
   14-B1-C8   (hex)		InfiniWing, Inc.
   14B1C8     (base 16)		InfiniWing, Inc.
   				19925 Stevens Creek Blvd
@@ -86322,6 +86329,12 @@
   				1308 10th Street
 				Bridgeport TX 76426
 				UNITED STATES
+
+  28-47-AA   (hex)		Nokia Corporation
+  2847AA     (base 16)		Nokia Corporation
+  				Joensuunkatu 7
+				Salo  24101
+				FINLAND
 
   28-48-46   (hex)		GridCentric Inc.
   284846     (base 16)		GridCentric Inc.
@@ -93094,6 +93107,12 @@
 				Poway CA 92064
 				UNITED STATES
 
+  5C-D6-1F   (hex)		Qardio, Inc
+  5CD61F     (base 16)		Qardio, Inc
+  				340 S Lemon Ave #1104F
+				Walnut California 91789
+				UNITED STATES
+
   5C-D9-98   (hex)		D-Link Corporation
   5CD998     (base 16)		D-Link Corporation
   				No.289, Sinhu 3rd Rd., Neihu District,
@@ -95733,7 +95752,7 @@
   706173     (base 16)		Calantec GmbH
   				Doebelner Str. 4
 				Aufgang C
-				Berlin 12927
+				Berlin 12627
 				GERMANY
 
   70-64-17   (hex)		ORBIS TECNOLOGIA ELECTRICA S.A.
@@ -99996,6 +100015,13 @@
 				New Taipei City  22151
 				TAIWAN, PROVINCE OF CHINA
 
+  90-20-83   (hex)		General Engine Management Systems Ltd.
+  902083     (base 16)		General Engine Management Systems Ltd.
+  				GEMS
+				Crabtree Road
+				Egham Surrey TW208RN
+				UNITED KINGDOM
+
   90-21-55   (hex)		HTC Corporation
   902155     (base 16)		HTC Corporation
   				No.23 Xinghua Road
@@ -100550,6 +100576,12 @@
 				Xili town, Nanshan,
 				Shenzhen Guangdong 518000
 				CHINA
+
+  94-10-3E   (hex)		Belkin International Inc.
+  94103E     (base 16)		Belkin International Inc.
+  				12045  East Waterfront Drive
+				Playa Vista CA 90094
+				UNITED STATES
 
   94-11-DA   (hex)		ITF Fröschl GmbH
   9411DA     (base 16)		ITF Fröschl GmbH
@@ -102967,6 +102999,13 @@
 				Santa Ana CA 92704
 				UNITED STATES
 
+  A4-9F-89   (hex)		Shanghai Rui Rui Communication Technology Co.Ltd.
+  A49F89     (base 16)		Shanghai Rui Rui Communication Technology Co.Ltd.
+  				Room 1130,Building No.1
+				No.388 ShenFu Road,MinXing District
+				ShangHai 201199
+				CHINA
+
   A4-A2-4A   (hex)		Cisco SPVTG
   A4A24A     (base 16)		Cisco SPVTG
   				5030 Sugarloaf Parkway
@@ -105027,6 +105066,12 @@
   				110F,NO.119,CHIENKANG RD,CHUNG-HO,
 				TAIPEI 23585
 				TAIWAN, PROVINCE OF CHINA
+
+  B4-75-0E   (hex)		Belkin International Inc.
+  B4750E     (base 16)		Belkin International Inc.
+  				12045 East Waterfront Drive
+				Playa Vista CA. 90094
+				UNITED STATES
 
   B4-7F-5E   (hex)		Foresight Manufacture (S) Pte Ltd
   B47F5E     (base 16)		Foresight Manufacture (S) Pte Ltd
@@ -109980,6 +110025,12 @@
 				Sugar Land Texas 77479
 				UNITED STATES
 
+  D8-50-E6   (hex)		ASUSTek COMPUTER INC.
+  D850E6     (base 16)		ASUSTek COMPUTER INC.
+  				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei Taiwan 112
+				TAIWAN, PROVINCE OF CHINA
+
   D8-54-3A   (hex)		Texas Instruments
   D8543A     (base 16)		Texas Instruments
   				12500 TI Boulevard
@@ -110515,6 +110566,12 @@
 				N-5132 Nyborg
 				Bergen  5132
 				NORWAY
+
+  DC-3E-F8   (hex)		Nokia Corporation
+  DC3EF8     (base 16)		Nokia Corporation
+  				Joensuunkatu 7
+				Salo  24101
+				FINLAND
 
   DC-45-17   (hex)		Motorola Mobility, Inc.
   DC4517     (base 16)		Motorola Mobility, Inc.
