@@ -27628,3 +27628,16 @@
 				Independence Missouri 64057
 				UNITED STATES
 
+  40-D8-55	(hex)		Home Automation Europe
+  152000-152FFF	(base 16)	Home Automation Europe
+  				Joan Muyskenweg 22
+				Amsterdam  1096CJ
+				NETHERLANDS
+
+  40-D8-55	(hex)		BlinkPipe Ltd
+  153000-153FFF	(base 16)	BlinkPipe Ltd
+  				Wellington House
+				East Road
+				Cambridge Cambs CB11BH
+				UNITED KINGDOM
+
