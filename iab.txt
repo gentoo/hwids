@@ -1285,8 +1285,8 @@
 				Torrance CA 90503
 				UNITED STATES
 
-  00-50-C2	(hex)		Telegrang AB
-  0D0000-0D0FFF	(base 16)	Telegrang AB
+  00-50-C2	(hex)		Telefrang AB
+  0D0000-0D0FFF	(base 16)	Telefrang AB
   				Varbergsgatan 8
 				S-412 65 Gothenburg  
 				SWEDEN
@@ -8518,10 +8518,10 @@
 				79098 Freiburg 
 				GERMANY
 
-  00-50-C2	(hex)		Netcomsec
-  557000-557FFF	(base 16)	Netcomsec
-  				1-1, Koyato 2-chome
-				Samukawa-machi Koza-gun, Kanagawa 253-0197
+  00-50-C2	(hex)		Netcomsec Co Ltd
+  557000-557FFF	(base 16)	Netcomsec Co Ltd
+  				10 Nisshinco 2-chome
+				Fuchu City Tokyo 253-0197
 				JAPAN
 
   00-50-C2	(hex)		Bedo Elektronik GmbH
@@ -27640,4 +27640,59 @@
 				East Road
 				Cambridge Cambs CB11BH
 				UNITED KINGDOM
+
+  40-D8-55	(hex)		iart
+  154000-154FFF	(base 16)	iart
+  				Muelhauserstrasse 111
+				Basel Basel-Stadt 4056
+				SWITZERLAND
+
+  40-D8-55	(hex)		Telefrang AB
+  155000-155FFF	(base 16)	Telefrang AB
+  				Victor Hasselblads gata 9
+				Västra Frölunda Västra Götaland 42131
+				SWEDEN
+
+  40-D8-55	(hex)		Emphysys, Inc.
+  156000-156FFF	(base 16)	Emphysys, Inc.
+  				2X Gill Street
+				Woburn MA 01801
+				UNITED STATES
+
+  40-D8-55	(hex)		Hitachi Power Solutions Co., Ltd.
+  157000-157FFF	(base 16)	Hitachi Power Solutions Co., Ltd.
+  				38 shinkoutyou
+				hitachinaka ibaraki 312-0005
+				JAPAN
+
+  40-D8-55	(hex)		Exibea AB
+  158000-158FFF	(base 16)	Exibea AB
+  				Ekmansgatan 3
+				411 SE- 41132
+				SWEDEN
+
+  40-D8-55	(hex)		PLATINUM GmbH
+  159000-159FFF	(base 16)	PLATINUM GmbH
+  				Pfannerstrasse 75
+				Wangen  88239
+				GERMANY
+
+  40-D8-55	(hex)		DORLET S.A.U
+  15A000-15AFFF	(base 16)	DORLET S.A.U
+  				Albert Einstein 34
+				Parque Tecnológico de Álava
+				Miñano Mayor Alava 01510
+				SPAIN
+
+  40-D8-55	(hex)		SQF Spezialelektronik GmbH
+  15B000-15BFFF	(base 16)	SQF Spezialelektronik GmbH
+  				Achimer Str.56
+				Oyten  28876
+				GERMANY
+
+  40-D8-55	(hex)		Spectratech Inc.
+  15C000-15CFFF	(base 16)	Spectratech Inc.
+  				4-22-3-101 Kaminoge
+				Setagayaku Tokyo 158-0093
+				JAPAN
 
