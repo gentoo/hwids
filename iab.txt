@@ -27696,3 +27696,84 @@
 				Setagayaku Tokyo 158-0093
 				JAPAN
 
+  40-D8-55	(hex)		Actronic Technologies
+  15D000-15DFFF	(base 16)	Actronic Technologies
+  				45 Patiki Rd
+				Avondale
+				Auckland 1026
+				NEW ZEALAND
+
+  40-D8-55	(hex)		Prodco International Inc.
+  15E000-15EFFF	(base 16)	Prodco International Inc.
+  				9408 boul. du Gulf
+				Montreal Quebec H1J3A1
+				CANADA
+
+  40-D8-55	(hex)		CT COMPANY
+  15F000-15FFFF	(base 16)	CT COMPANY
+  				Nizhni Krasnoselsky st.,35
+				MOSCOW RUSSIA 140070
+				RUSSIAN FEDERATION
+
+  40-D8-55	(hex)		Thermo Fisher Sceintific
+  160000-160FFF	(base 16)	Thermo Fisher Sceintific
+  				1410 Gillingham Lane
+				Sugar Land Texas 77478
+				UNITED STATES
+
+  40-D8-55	(hex)		Solidscape Inc
+  161000-161FFF	(base 16)	Solidscape Inc
+  				316 Daniel Webster Hwy
+				Merrimack NH 03054
+				UNITED STATES
+
+  40-D8-55	(hex)		LUNA-NEXUS
+  162000-162FFF	(base 16)	LUNA-NEXUS
+  				Terasaki 2nd 6F, 1-8-29
+				Nishimiyahara, Yodogawa-Ku
+				Osaka 532-0004
+				JAPAN
+
+  40-D8-55	(hex)		KMtronic LTD
+  163000-163FFF	(base 16)	KMtronic LTD
+  				Dobry Czintulov 28A
+				Gorna Oriahovitca VT 5100
+				BULGARIA
+
+  40-D8-55	(hex)		NFT Automatisierungssysteme GmbH
+  164000-164FFF	(base 16)	NFT Automatisierungssysteme GmbH
+  				Ignatz-Wiemeler-Str. 16
+				Ibbenbueren NRW 49477
+				GERMANY
+
+  40-D8-55	(hex)		TECHBOARD SRL
+  165000-165FFF	(base 16)	TECHBOARD SRL
+  				VIA DELLA SCIENZA 50
+				MODENA Modena 41122
+				ITALY
+
+  40-D8-55	(hex)		Anhui Jiante Network Technology Co., Ltd.
+  166000-166FFF	(base 16)	Anhui Jiante Network Technology Co., Ltd.
+  				513 Room, new Bai Sha business center,NO.9 ,LiuAn Road ,LuYang District, Hefei City ,Anhui Province,China
+				Hefei Anhui 230000
+				CHINA
+
+  40-D8-55	(hex)		Assembly Contracts Ltd
+  167000-167FFF	(base 16)	Assembly Contracts Ltd
+  				Ledson Road
+				Roundthorn Industrial Estate
+				Manchester Lancashire M23 9GP
+				UNITED KINGDOM
+
+  40-D8-55	(hex)		OPASCA Systems GmbH
+  168000-168FFF	(base 16)	OPASCA Systems GmbH
+  				Julius-Hatry-Str. 1
+				Mannheim  68163
+				GERMANY
+
+  40-D8-55	(hex)		Photop Koncent
+  169000-169FFF	(base 16)	Photop Koncent
+  				5 Houyu Rd.,P.O.Box 206
+				fuzhou fujian 350001
+				CHINA
+

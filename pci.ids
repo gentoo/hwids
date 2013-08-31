@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.08.20
-#	Date:    2013-08-20 03:15:01
+#	Version: 2013.08.31
+#	Date:    2013-08-31 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -475,6 +475,8 @@
 	0095  SAS3108 PCI-Express Fusion-MPT SAS-3
 	0096  SAS3004 PCI-Express Fusion-MPT SAS-3
 	0097  SAS3008 PCI-Express Fusion-MPT SAS-3
+		1028 1f45  12GB/s HBA internal
+		1028 1f46  12GB/s HBA external
 	0407  MegaRAID
 		1000 0530  MegaRAID 530 SCSI 320-0X RAID Controller
 		1000 0531  MegaRAID 531 SCSI 320-4X RAID Controller
@@ -2773,7 +2775,7 @@
 	9488  RV730/M96-XT [Mobility Radeon HD 4670]
 	9489  RV730/M96 GL [Mobility FireGL V5725]
 	9490  RV730 XT [Radeon HD 4670]
-		174b e880  Radeon HD 4670 512MB DDR3
+		174b e880  Radeon HD 4670 512MB GDDR3 Dual DVI-I/TVO
 	9491  RV730/M96-CSP [Radeon E4690]
 	9495  RV730 [Radeon HD 4600 AGP Series]
 		1002 0028  Radeon HD 4650/4670 AGP
@@ -3440,6 +3442,12 @@
 		1014 035d  PCIe3 1.8GB Cache RAID SAS Adapter Quad-port 6GB (57C8)
 		1014 035e  PCIe2 3.6GB Cache 6Gb SAS RAID Adapter Quad-port (57CE)
 		1014 03fb  PCIe3 28GB Cache RAID SAS Enclosure 6Gb x 16 (57D5)
+		1014 03fe  PCIe3 x8 Cache SAS RAID Internal Adapter 6Gb (57D8)
+		1014 03ff  PCIe3 x8 SAS RAID Internal Adapter 6Gb (57D7)
+		1014 0474  PCIe3 x16 Cache SAS RAID Internal Adapter 6Gb (57EB)
+		1014 0475  PCIe3 x16 SAS RAID Internal Adapter 6Gb (57EC)
+		1014 0499  PCIe3 x16 Cache SAS RAID Internal Adapter 6Gb (57ED)
+		1014 049a  PCIe3 x16 SAS RAID Internal Adapter 6Gb (57EE)
 	04aa  Flash Adapter 90 (PCIe2 0.9TB)
 	3022  QLA3022 Network Adapter
 	4022  QLA3022 Network Adapter
@@ -4813,7 +4821,7 @@
 		104c 8023  TSB43AB22/A IEEE-1394a-2000 Controller (PHY/Link)
 	8023  TSB43AB22A IEEE-1394a-2000 Controller (PHY/Link) [iOHCI-Lynx]
 		103c 088c  NC8000 laptop
-		1043 808b  K8N4-E Mainboard
+		1043 808b  K8N4/A8N Series Mainboard
 		1043 815b  P5W DH Deluxe Motherboard
 		1443 8023  FireCard400
 		8086 5044  Desktop Board DP35DP
@@ -5833,6 +5841,7 @@
 		1095 6112  SiI 3112 SATARaid Controller
 		9005 0250  SATAConnect 1205SA Host Controller
 	3114  SiI 3114 [SATALink/SATARaid] Serial ATA Controller
+		1043 8167  A8N-SLI Deluxe/Premium Mainboard
 		1095 3114  SiI 3114 SATALink Controller
 		1095 6114  SiI 3114 SATARaid Controller
 	3124  SiI 3124 PCI-X Serial ATA Controller
@@ -6841,7 +6850,7 @@
 	0048  NV40 [GeForce 6800 XT]
 	004e  NV40GL [Quadro FX 4000]
 	0050  CK804 ISA Bridge
-		1043 815a  K8N4-E or A8N-E Mainboard
+		1043 815a  K8N4/A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1458 0c11  GA-K8N Ultra-9 Mainboard
 		1462 7100  MSI K8N Diamond
@@ -6852,7 +6861,7 @@
 		1028 0225  PowerEdge T105 ISA Bridge
 	0052  CK804 SMBus
 		1028 0225  PowerEdge T105 SMBus
-		1043 815a  K8N4-E or A8N-E Mainboard
+		1043 815a  K8N4/A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1458 0c11  GA-K8N Ultra-9 Mainboard
 		1462 7100  MSI K8N Diamond
@@ -6860,7 +6869,7 @@
 		147b 1c1a  KN8-Ultra Mainboard
 		1565 3402  NF4 AM2L Mainboard
 	0053  CK804 IDE
-		1043 815a  K8N4-E or A8N-E Mainboard
+		1043 815a  K8N4/A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1458 5002  GA-K8N Ultra-9 Mainboard
 		1462 7100  MSI K8N Diamond
@@ -6869,7 +6878,7 @@
 		1565 3402  NF4 AM2L Mainboard
 	0054  CK804 Serial ATA Controller
 		1028 0225  PowerEdge T105 Serial ATA
-		1043 815a  A8N-E Mainboard
+		1043 815a  A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1458 b003  GA-K8N Ultra-9 Mainboard
 		1462 7100  MSI K8N Diamond
@@ -6878,7 +6887,7 @@
 		1565 5401  NF4 AM2L Mainboard
 	0055  CK804 Serial ATA Controller
 		1028 0225  PowerEdge T105 Serial ATA
-		1043 815a  K8N4-E or A8N-E Mainboard
+		1043 815a  K8N4/A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1458 b003  GA-K8N Ultra-9 Mainboard
 		1462 7125  K8N Neo4-F mainboard
@@ -6886,7 +6895,7 @@
 		1565 5401  NF4 AM2L Mainboard
 	0056  CK804 Ethernet Controller
 	0057  CK804 Ethernet Controller
-		1043 8141  K8N4-E or A8N-E Mainboard
+		1043 8141  K8N4/A8N Series Mainboard
 		10de cb84  NF4 Lanparty
 		10f1 2865  Tomcat K8E (S2865)
 		1458 e000  GA-K8N Ultra-9 Mainboard
@@ -6896,14 +6905,14 @@
 		1565 2501  NF4 AM2L Mainboard
 	0058  CK804 AC'97 Modem
 	0059  CK804 AC'97 Audio Controller
-		1043 812a  K8N4-E or A8N-E Mainboard
+		1043 812a  K8N4/A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1462 7585  K8N Neo4-F mainboard
 		147b 1c1a  KN8-Ultra Mainboard
 		1565 8211  NF4 AM2L Mainboard
 	005a  CK804 USB Controller
 		1028 0225  PowerEdge T105 onboard USB
-		1043 815a  K8N4-E or A8N-E Mainboard
+		1043 815a  K8N4/A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1458 5004  GA-K8N Ultra-9 Mainboard
 		1462 7100  MSI K8N Diamond
@@ -6912,7 +6921,7 @@
 		1565 3402  NF4 AM2L Mainboard
 	005b  CK804 USB Controller
 		1028 0225  PowerEdge T105 onboard USB
-		1043 815a  K8N4-E or A8N-E Mainboard
+		1043 815a  K8N4/A8N Series Mainboard
 		10f1 2865  Tomcat K8E (S2865)
 		1458 5004  GA-K8N Ultra-9 Mainboard
 		1462 7100  MSI K8N Diamond
@@ -6923,7 +6932,7 @@
 	005d  CK804 PCIE Bridge
 	005e  CK804 Memory Controller
 		1028 0225  PowerEdge T105 Memory Controller
-		1043 815a  A8N-E Mainboard
+		1043 815a  A8N Series Mainboard
 		10de 005e  ECS Elitegroup NFORCE3-A939 motherboard.
 		10f1 2865  Tomcat K8E (S2865)
 		10f1 2891  Thunder K8SRE Mainboard
@@ -7643,6 +7652,7 @@
 	0390  G73 [GeForce 7650 GS]
 	0391  G73 [GeForce 7600 GT]
 		1458 3427  GV-NX76T128D-RH
+		1462 0452  NX7600GT-VT2D256E
 	0392  G73 [GeForce 7600 GS]
 		1462 0622  NX7600GS-T2D256EH
 	0393  G73 [GeForce 7300 GT]
@@ -8590,6 +8600,7 @@
 	0fe0  GK107M [GeForce GTX 660M Mac Edition]
 	0fe1  GK107M [GeForce GT 730M]
 	0fe3  GK107M [GeForce GT 745M]
+		17aa 3675  GeForce GT 745A
 	0fe4  GK107M [GeForce GT 750M]
 	0fe5  GK107 [GeForce K340 USM]
 	0fe6  GK107 [NVS K1 USM]
@@ -8717,8 +8728,15 @@
 		1025 077f  GeForce 710M
 		1025 0781  GeForce GT 720M
 		1025 0798  GeForce GT 720M
+		1025 0799  GeForce GT 720M
 		1025 079b  GeForce GT 720M
+		1025 079c  GeForce GT 720M
+		1025 0807  GeForce GT 720M
 		1025 0821  GeForce GT 720M
+		1025 0823  GeForce GT 720M
+		1025 0830  GeForce GT 720M
+		1025 0837  GeForce GT 720M
+		1025 0841  GeForce 710M
 		1028 054d  GeForce GT 630M
 		1028 054e  GeForce GT 630M
 		1028 0554  GeForce GT 620M
@@ -8734,6 +8752,7 @@
 		1028 05b3  GeForce GT 625M
 		1028 05da  GeForce GT 630M
 		1028 05e8  GeForce GT 630M
+		1028 05f4  GeForce GT 720M
 		103c 18ef  GeForce GT 630M
 		103c 18f9  GeForce GT 630M
 		103c 18fb  GeForce GT 630M
@@ -8755,7 +8774,10 @@
 		1043 21fa  GeForce GT 720M
 		1043 220a  GeForce GT 720M
 		1043 221a  GeForce GT 720M
+		1043 223a  GeForce GT 710M
+		1043 224a  GeForce GT 710M
 		1043 8595  GeForce GT 720M
+		10cf 17f5  GeForce GT 720M
 		1179 fa01  GeForce 710M
 		1179 fa02  GeForce 710M
 		1179 fa03  GeForce 710M
@@ -8804,6 +8826,7 @@
 		17aa 3801  GeForce GT 720M
 		17aa 3802  GeForce GT 720M
 		17aa 3803  GeForce GT 720M
+		17aa 3804  GeForce GT 720M
 		17aa 3901  GeForce 610M / GT 620M
 		17aa 3902  GeForce 710M
 		17aa 3903  GeForce 610M/710M
@@ -8820,8 +8843,13 @@
 		17aa 5019  GeForce 710M
 		17aa 501a  GeForce 710M
 		17aa 501f  GeForce GT 720M
+		17aa 5025  GeForce 710M
 		17aa 5027  GeForce 710M
 		17aa 502a  GeForce 710M
+		17aa 502b  GeForce GT 720M
+		17aa 502d  GeForce 710M
+		17aa 502e  GeForce GT 720M
+		17aa 502f  GeForce GT 720M
 		1854 0177  GeForce 710M
 		1854 0180  GeForce 710M
 		1b0a 20dd  GeForce GT 620M
@@ -8832,14 +8860,17 @@
 	1183  GK104 [GeForce GTX 660 Ti]
 	1184  GK104 [GeForce GTX 770]
 	1185  GK104 [GeForce GTX 660 OEM]
+		10de 106f  GK104 [GeForce GTX 760 OEM]
 	1187  GK104 [GeForce GTX 760]
 	1188  GK104 [GeForce GTX 690]
 	1189  GK104 [GeForce GTX 670]
+		10de 1074  GK104 [GeForce GTX 760 Ti OEM]
 	118a  GK104GL [GRID K520]
 	118b  GK104 [GeForce K2 USM]
 	118c  GK104 [NVS K2 USM]
 	118d  GK104GL [GRID K2]
 		10de 101d  GRID K200
+	118e  GK104 [GeForce GTX 760 OEM]
 	118f  GK104GL [Tesla K10]
 	119d  GK104M [GeForce GTX 775M]
 	119e  GK104M [GeForce GTX 780M]
@@ -8935,6 +8966,8 @@
 		1043 13cd  GeForce GT 730M
 	1291  GK208M [GeForce GT 735M]
 	1292  GK208M [GeForce GT 740M]
+		17aa 3675  GeForce GT 740A
+		17aa 3684  GeForce GT 740A
 	1293  GK208M [GeForce GT 730M]
 	1294  GK208M [GeForce GT 740M]
 	1295  GK208M [GeForce 710M]
@@ -10566,6 +10599,7 @@
 		1137 0048  VIC M81KR Mezzanine FCoE HBA
 		1137 004f  VIC 1280 Mezzanine FCoE HBA
 	004e  VIC 82 PCIe Upstream Port
+	0071  VIC SR-IOV VF
 	0084  VIC 1240 MLOM FCoE HBA
 	0085  VIC 1225 PCIe FCOE HBA
 	00cf  VIC Userspace NIC
@@ -11245,7 +11279,10 @@
 	2a2b  88W8687 [TopDog] 802.11b/g Wireless
 	2a30  88W8687 [TopDog] 802.11b/g Wireless
 	2a40  88W8366 [TopDog] 802.11n Wireless
+	2a41  88W8366 [TopDog] 802.11n Wireless
+	2a42  88W8366 [TopDog] 802.11n Wireless
 	2a43  88W8366 [TopDog] 802.11n Wireless
+	2b36  88W8764 [Avastar] 802.11n Wireless
 	4101  OLPC Cafe Controller Secure Digital Controller
 	4320  88E8001 Gigabit Ethernet Controller
 		1019 0f38  Marvell 88E8001 Gigabit Ethernet Controller (ECS)
@@ -13740,6 +13777,7 @@
 	4085  T420-4085 SFP+ Unified Wire Ethernet Controller
 	4086  T440-4086 10Gbase-T Unified Wire Ethernet Controller
 	4087  T440T-4087 Unified Wire Ethernet Controller
+	4088  T440-4088 Unified Wire Ethernet Controller
 	4401  T420-CR Unified Wire Ethernet Controller
 	4402  T422-CR Unified Wire Ethernet Controller
 	4403  T440-CR Unified Wire Ethernet Controller
@@ -13763,6 +13801,7 @@
 	4485  T420-4085 SFP+ Unified Wire Ethernet Controller
 	4486  T440-4086 10Gbase-T Unified Wire Ethernet Controller
 	4487  T440T-4087 Unified Wire Ethernet Controller
+	4488  T440-4088 Unified Wire Ethernet Controller
 	4501  T420-CR Unified Wire Storage Controller
 	4502  T422-CR Unified Wire Storage Controller
 	4503  T440-CR Unified Wire Storage Controller
@@ -13786,6 +13825,7 @@
 	4585  T420-4085 SFP+ Unified Wire Storage Controller
 	4586  T440-4086 10Gbase-T Unified Wire Storage Controller
 	4587  T440T-4087 Unified Wire Storage Controller
+	4588  T440-4088 Unified Wire Storage Controller
 	4601  T420-CR Unified Wire Storage Controller
 	4602  T422-CR Unified Wire Storage Controller
 	4603  T440-CR Unified Wire Storage Controller
@@ -13809,6 +13849,7 @@
 	4685  T420-4085 SFP+ Unified Wire Storage Controller
 	4686  T440-4086 10Gbase-T Unified Wire Storage Controller
 	4687  T440T-4087 Unified Wire Storage Controller
+	4688  T440-4088 Unified Wire Storage Controller
 	4701  T420-CR Unified Wire Ethernet Controller
 	4702  T422-CR Unified Wire Ethernet Controller
 	4703  T440-CR Unified Wire Ethernet Controller
@@ -13832,6 +13873,7 @@
 	4785  T420-4085 SFP+ Unified Wire Ethernet Controller
 	4786  T440-4086 10Gbase-T Unified Wire Ethernet Controller
 	4787  T440T-4087 Unified Wire Ethernet Controller
+	4788  T440-4088 Unified Wire Ethernet Controller
 	4801  T420-CR Unified Wire Ethernet Controller
 	4802  T422-CR Unified Wire Ethernet Controller
 	4803  T440-CR Unified Wire Ethernet Controller
@@ -13855,6 +13897,7 @@
 	4885  T420-4085 SFP+ Unified Wire Ethernet Controller
 	4886  T440-4086 10Gbase-T Unified Wire Ethernet Controller
 	4887  T440T-4087 Unified Wire Ethernet Controller
+	4888  T440-4088 Unified Wire Ethernet Controller
 	5001  T520-CR Unified Wire Ethernet Controller
 	5002  T522-CR Unified Wire Ethernet Controller
 	5003  T540-CR Unified Wire Ethernet Controller
@@ -13874,6 +13917,9 @@
 	5011  T520-LL-CR Unified Wire Ethernet Controller
 	5012  T560-CR Unified Wire Ethernet Controller
 	5013  T580-CR Unified Wire Ethernet Controller
+	5014  T580-LP-SO-CR Unified Wire Ethernet Controller
+	5080  T540-5080 Unified Wire Ethernet Controller
+	5081  T540-5081 Unified Wire Ethernet Controller
 	5401  T520-CR Unified Wire Ethernet Controller
 	5402  T522-CR Unified Wire Ethernet Controller
 	5403  T540-CR Unified Wire Ethernet Controller
@@ -13893,6 +13939,9 @@
 	5411  T520-LL-CR Unified Wire Ethernet Controller
 	5412  T560-CR Unified Wire Ethernet Controller
 	5413  T580-CR Unified Wire Ethernet Controller
+	5414  T580-LP-SO-CR Unified Wire Ethernet Controller
+	5480  T540-5080 Unified Wire Ethernet Controller
+	5481  T540-5081 Unified Wire Ethernet Controller
 	5501  T520-CR Unified Wire Storage Controller
 	5502  T522-CR Unified Wire Storage Controller
 	5503  T540-CR Unified Wire Storage Controller
@@ -13912,6 +13961,9 @@
 	5511  T520-LL-CR Unified Wire Storage Controller
 	5512  T560-CR Unified Wire Storage Controller
 	5513  T580-CR Unified Wire Storage Controller
+	5514  T580-LP-SO-CR Unified Wire Storage Controller
+	5580  T540-5080 Unified Wire Storage Controller
+	5581  T540-5081 Unified Wire Storage Controller
 	5601  T520-CR Unified Wire Storage Controller
 	5602  T522-CR Unified Wire Storage Controller
 	5603  T540-CR Unified Wire Storage Controller
@@ -13931,6 +13983,9 @@
 	5611  T520-LL-CR Unified Wire Storage Controller
 	5612  T560-CR Unified Wire Storage Controller
 	5613  T580-CR Unified Wire Storage Controller
+	5614  T580-LP-SO-CR Unified Wire Storage Controller
+	5680  T540-5080 Unified Wire Storage Controller
+	5681  T540-5081 Unified Wire Storage Controller
 	5701  T520-CR Unified Wire Ethernet Controller
 	5702  T522-CR Unified Wire Ethernet Controller
 	5703  T540-CR Unified Wire Ethernet Controller
@@ -13950,6 +14005,9 @@
 	5711  T520-LL-CR Unified Wire Ethernet Controller
 	5712  T560-CR Unified Wire Ethernet Controller
 	5713  T580-CR Unified Wire Ethernet Controller
+	5714  T580-LP-SO-CR Unified Wire Ethernet Controller
+	5780  T540-5080 Unified Wire Ethernet Controller
+	5781  T540-5081 Unified Wire Ethernet Controller
 	5801  T520-CR Unified Wire Ethernet Controller
 	5802  T522-CR Unified Wire Ethernet Controller
 	5803  T540-CR Unified Wire Ethernet Controller
@@ -13969,6 +14027,9 @@
 	5811  T520-LL-CR Unified Wire Ethernet Controller
 	5812  T560-CR Unified Wire Ethernet Controller
 	5813  T580-CR Unified Wire Ethernet Controller
+	5814  T580-LP-SO-CR Unified Wire Ethernet Controller
+	5880  T540-5080 Unified Wire Ethernet Controller
+	5881  T540-5081 Unified Wire Ethernet Controller
 	a000  PE10K Unified Wire Ethernet Controller
 1426  Storage Technology Corp.
 1427  Better On-Line Solutions
@@ -14838,7 +14899,7 @@
 	4712  BCM47xx V.92 56k modem
 	4713  Sentry5 Ethernet Controller
 	4714  BCM47xx Sentry5 External Interface
-	4715  Sentry5 USB Controller
+	4715  BCM47xx Sentry5 USB / Ethernet Controller
 	4716  BCM47xx Sentry5 USB Host Controller
 	4717  BCM47xx Sentry5 USB Device Controller
 	4718  Sentry5 Crypto Accelerator
@@ -15344,7 +15405,8 @@
 1553  CHICONY Electronics Co Ltd
 1554  PROLINK Microsystems Corp
 1555  GESYTEC GmBH
-1556  PLD APPLICATIONS
+1556  PLDA
+	1100  PCI Express Core Reference Design
 1557  MEDIASTAR Co Ltd
 1558  CLEVO/KAPOK Computer
 1559  SI LOGIC Ltd
@@ -16723,6 +16785,9 @@
 		1924 6904  SFN5111T-R4 10GBASE-T Server Adapter
 		1924 7104  SFN5161T-R4 10GBASE-T Server Adapter
 		1924 7904  SFN5151T-R4 10GBASE-T Server Adapter
+	0903  SFC9120
+		1924 8002  SFN7122F-R1 SFP+ Server Adapter
+		1924 8006  SFN7022F-R1 SFP+ Server Adapter
 	1803  SFC9020 Virtual Function [Solarstorm]
 	1813  SFL9021 Virtual Function [Solarstorm]
 	6703  SFC4000 rev A iSCSI/Onload [Solarstorm]
@@ -18939,7 +19004,7 @@
 		103c 18d0  Ethernet 10Gb 2-port 560FLB Adapter
 		8086 000c  Ethernet X520 10GbE Dual Port KX4-KR Mezz
 	10f9  82599 10 Gigabit Dual Port Network Connection
-	10fb  82599EB 10-Gigabit SFI/SFP+ Network Connection
+	10fb  82599ES 10-Gigabit SFI/SFP+ Network Connection
 		1028 1f72  Ethernet 10G 4P X520/I350 rNDC
 		103c 17d0  Ethernet 10Gb 2-port 560FLR-SFP+ Adapter
 		103c 17d2  Ethernet 10Gb 2-port 560M Adapter
