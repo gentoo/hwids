@@ -27777,3 +27777,52 @@
 				fuzhou fujian 350001
 				CHINA
 
+  40-D8-55	(hex)		Aplex Technology Inc.
+  16A000-16AFFF	(base 16)	Aplex Technology Inc.
+  				2Q , NanYouTianAn industrial park Tower4
+				Nanshan District
+				Shenzhen Guangdong 518054
+				CHINA
+
+  40-D8-55	(hex)		TECHWAY
+  16B000-16BFFF	(base 16)	TECHWAY
+  				19 avenue de Norvege
+				ZI COURTABOEUF
+				Villebon sur Yvette France 91140
+				FRANCE
+
+  40-D8-55	(hex)		PRIVATE
+  16C000-16CFFF	(base 16)		 
+
+  40-D8-55	(hex)		GENERAL DYNAMICS C4 SYSTEMS
+  16D000-16DFFF	(base 16)	GENERAL DYNAMICS C4 SYSTEMS
+  				8220 EAST ROOSEVELT ST
+				SCOTTSDALE AZ 85257
+				UNITED STATES
+
+  40-D8-55	(hex)		Secuinfo Co.Ltd
+  16E000-16EFFF	(base 16)	Secuinfo Co.Ltd
+  				1411, Kranz Techno, 5442-1, Sangdaewon dong
+				Jungwon-gu,
+				Seongnam Gyeonggi-do 462-729
+				KOREA, REPUBLIC OF
+
+  40-D8-55	(hex)		BrightLeaf Power
+  16F000-16FFFF	(base 16)	BrightLeaf Power
+  				121 Apollo Road
+				Montrose Colorado 81401
+				UNITED STATES
+
+  40-D8-55	(hex)		ICS Eletronics
+  170000-170FFF	(base 16)	ICS Eletronics
+  				7034 Commerce Circle
+				Suite A
+				Pleasanton CA 94588
+				UNITED STATES
+
+  40-D8-55	(hex)		Sicon srl
+  171000-171FFF	(base 16)	Sicon srl
+  				Via Sila 1/3
+				Isola Vicentina Vicenza 36033
+				ITALY
+
