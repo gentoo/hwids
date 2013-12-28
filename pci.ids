@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2013.12.25
-#	Date:    2013-12-25 03:15:02
+#	Version: 2013.12.28
+#	Date:    2013-12-28 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1426,8 +1426,12 @@
 	6605  Mars [Radeon R7 M260]
 	6606  Mars XTX [Radeon HD 8790M]
 	6607  Mars LE [Radeon HD 8530M]
-	6610  Oland XT [Radeon HD 8670/R7 250]
+	6610  Oland XT [Radeon HD 8670 / R7 250]
 	6611  Oland [Radeon HD 8570 / R7 240 OEM]
+		1028 210b  Radeon R5 240 OEM
+		174b 4248  Radeon R7 240 OEM
+		174b a240  Radeon R7 240 OEM
+		1b0a 90d3  Radeon R7 240 OEM
 	6613  Oland PRO [Radeon R7 240]
 	6620  Mars
 	6621  Mars PRO
@@ -1643,7 +1647,11 @@
 		1462 6570  Turks [Radeon HD 6570]
 		148c 6570  Turks [Radeon HD 6570]
 		1682 6570  Turks [Radeon HD 6570]
+		174b 5570  Turks [Radeon HD 5570]
 		174b 6570  Turks [Radeon HD 6570]
+		174b 7570  Turks [Radeon HD 7570]
+		174b 8510  Turks [Radeon HD 8510]
+		174b 8570  Turks [Radeon HD 8570]
 		1787 6570  Turks [Radeon HD 6570]
 		17af 6570  Turks [Radeon HD 6570]
 		8086 2111  Radeon HD 6625M
@@ -16225,7 +16233,11 @@
 		103c 1838  AR9485/HB125 802.11bgn 1×1 Wi-Fi Adapter
 	0033  AR9580 Wireless Network Adapter
 	0034  AR9462 Wireless Network Adapter
+		1a56 2003  Killer Wireless-N 1202 Half-size Mini PCIe Card
 	0036  QCA9565 / AR9565 Wireless Network Adapter
+	0037  AR9485 Wireless Network Adapter
+# Also used as Gigabyte GC-WB150 on a PCIe-to-mini-PCIe converter
+		1a3b 2100  AW-NB100H 802.11n Wireless Mini PCIe Card
 	003c  QCA988x 802.11ac Wireless Network Adapter
 	0207  AR5210 Wireless Network Adapter [AR5000 802.11a]
 	1014  AR5212 802.11abg NIC
@@ -17060,6 +17072,8 @@
 	0086  MPC8343E
 	0087  MPC8343
 	00b4  MPC8315E
+	00b6  MPC8314E
+		1a56 1101  Killer Xeno Pro Gigabit Ethernet Controller
 	00c2  MPC8379E
 	00c3  MPC8379
 	00c4  MPC8378E
@@ -17088,6 +17102,8 @@
 	7010  MPC8641 PCI Host Bridge
 	7011  MPC8641D PCI Host Bridge
 	7018  MPC8610
+	c006  MPC8308
+		1a56 1201  Killer E2100 Gigabit Ethernet Controller
 1958  Faster Technology, LLC.
 1959  PA Semi, Inc
 	a000  PA6T Core
