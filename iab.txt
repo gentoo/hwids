@@ -28545,3 +28545,10 @@
 				Saint-Petersburg - 195176
 				RUSSIAN FEDERATION
 
+  40-D8-55	(hex)		Narinet, Inc.
+  EE6000-EE6FFF	(base 16)	Narinet, Inc.
+  				C-303, Bundang Techno-Park
+				280 Yatapnam-ro, Bundang-Gu
+				Seongnam Gyunggi-Do 463-816
+				KOREA, REPUBLIC OF
+
