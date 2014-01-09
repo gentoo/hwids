@@ -519,6 +519,7 @@ keyboard:dmi:bvn*:bvr*:bd*:svnLENOVO*:pnS10-*:pvr*
 
 # Thinkpad X200_Tablet
 keyboard:dmi:bvn*:bvr*:bd*:svnLENOVO*:pnThinkPad*X2*Tablet*:pvr*
+keyboard:dmi:bvn*:bvr*:bd*:svnLENOVO*:pn*:pvrThinkPad*X2*Tablet*
  KEYBOARD_KEY_5d=menu
  KEYBOARD_KEY_63=fn
  KEYBOARD_KEY_66=screenlock
@@ -878,6 +879,7 @@ keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*550P*:pvr*
  KEYBOARD_KEY_a9=!                                      # Fn Lock - Function lock off
 
 keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*700Z*:pvr*
+keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*700G*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*900X[34][CDG]*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*940X3G*:pvr*
  KEYBOARD_KEY_ce=!prog1                                 # Fn+F1 launch settings
@@ -889,13 +891,19 @@ keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*940X3G*:pvr*
  KEYBOARD_KEY_b3=!prog3                                 # Fn+F11 fan/cooling mode changer
 
 # Series 9
-keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*90X3A*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*900X[34][AB]*:pvr*
  KEYBOARD_KEY_ce=!                                      # Fn+F8 keyboard backlight up
  KEYBOARD_KEY_8d=!                                      # Fn+F7 keyboard backlight down
  KEYBOARD_KEY_96=!                                      # Fn+F1 performance mode (?)
  KEYBOARD_KEY_97=!                                      # Fn+F12 Wi-Fi toggle
  KEYBOARD_KEY_d5=!                                      # Fn+F6 battery life extender
+
+keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*90X3A*:pvr*
+ KEYBOARD_KEY_ce=!prog1                                 # Fn+F1 launch settings
+ KEYBOARD_KEY_8d=!prog3                                 # Fn+F6 performance mode
+ KEYBOARD_KEY_97=!kbdillumdown                          # Fn+F7 keyboard backlight down
+ KEYBOARD_KEY_96=!kbdillumup                            # Fn+F8 keyboard backlight up
+ KEYBOARD_KEY_d5=!wlan                                  # Fn+F12 Wi-Fi toggle
 
 # SQ1US
 keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pnSQ1US:pvr*
@@ -913,11 +921,6 @@ keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*SX20S*:pvr*
  KEYBOARD_KEY_75=mute
  KEYBOARD_KEY_77=f22                                    # Touchpad on
  KEYBOARD_KEY_79=f23                                    # Touchpad off
-
-keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*700Z*:pvr*
- KEYBOARD_KEY_ba=ejectcd
- KEYBOARD_KEY_96=keyboardbrightnessup
- KEYBOARD_KEY_97=keyboardbrightnessdown
 
 keyboard:dmi:bvn*:bvr*:bd*:svn[sS][aA][mM][sS][uU][nN][gG]*:pn*700T*:pvr*
  KEYBOARD_KEY_ad=leftmeta
@@ -1056,9 +1059,9 @@ keyboard:dmi:bvn*:bvr*:bd*:svnFOXCONN:pnQBOOK:*
 keyboard:dmi:bvn*:bvr*:bd*:svnMTC:pn*:pvrA0:*
 keyboard:dmi:bvn*:bvr*:bd*:svnMio*Technology:pnN890:*
 keyboard:dmi:bvn*:bvr*:bd*:svnPEGATRON*CORP.:pnSpring*Peak:*
-keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSatellite*[uU]30[05]*:pvr*
+keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSatellite*[uU][35]0[05]*:pvr*
+keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSATELLITE*[uU][35]0[05]*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSatellite*Pro*[uU]300*:pvr*
-keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSATELLITE*[uU]500*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svnViooo*Corporation:pnPT17:*
 keyboard:dmi:bvn*:bvr*:bd*:svnHANNspree:pnSN10E100:*
 keyboard:dmi:bvn*:bvr*:bd*:svnGIGABYTE:pni1520M:*

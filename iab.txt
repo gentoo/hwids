@@ -26576,7 +26576,7 @@
   40-D8-55	(hex)		Baudisch Electronic GmbH
   0A8000-0A8FFF	(base 16)	Baudisch Electronic GmbH
   				Im Gewerbegebiet 7-9
-				Wäschenbeuren Baden Würrtemberg 73116
+				Wäschenbeuren Baden Würrtemberg 73116
 				GERMANY
 
   40-D8-55	(hex)		Apantac LLC
@@ -26826,7 +26826,7 @@
 
   40-D8-55	(hex)		Icraft Oy
   0D0000-0D0FFF	(base 16)	Icraft Oy
-  				Åkerlundinkatu 3
+  				Åkerlundinkatu 3
 				Tampere 33100
 				FINLAND
 
@@ -27052,7 +27052,7 @@
   40-D8-55	(hex)		MB Connect Line GmbH
   0F4000-0F4FFF	(base 16)	MB Connect Line GmbH
   				Winnettener Straße 6
-				Dinkelsbühl  91550
+				Dinkelsbühl  91550
 				GERMANY
 
   40-D8-55	(hex)		CST Group
@@ -27680,8 +27680,8 @@
   40-D8-55	(hex)		DORLET S.A.U
   15A000-15AFFF	(base 16)	DORLET S.A.U
   				Albert Einstein 34
-				Parque Tecnológico de Álava
-				Miñano Mayor Alava 01510
+				Parque Tecnológico de Álava
+				Miñano Mayor Alava 01510
 				SPAIN
 
   40-D8-55	(hex)		SQF Spezialelektronik GmbH
@@ -27840,7 +27840,7 @@
 
   40-D8-55	(hex)		EcoGuard AB
   174000-174FFF	(base 16)	EcoGuard AB
-  				Radiatorvägen 11
+  				Radiatorvägen 11
 				OREBRO  70227
 				SWEDEN
 
@@ -27883,7 +27883,7 @@
 
   40-D8-55	(hex)		LUCEO
   17B000-17BFFF	(base 16)	LUCEO
-  				16 Rue Laënnec
+  				16 Rue Laënnec
 				Vern Sur Seiche  35770
 				FRANCE
 
@@ -28018,8 +28018,8 @@
   40-D8-55	(hex)		Spider Tecnologia Ind. e Com Ltda
   190000-190FFF	(base 16)	Spider Tecnologia Ind. e Com Ltda
   				Rua Alencar Araripe,1440
-				Sacomã
-				São Paulo SP 04253-000
+				Sacomã
+				São Paulo SP 04253-000
 				BRAZIL
 
   40-D8-55	(hex)		Soukai Electric
@@ -28395,6 +28395,12 @@
 				SOlbiate Olona VA 21058
 				ITALY
 
+  40-D8-55	(hex)		NKT Photonics A/S
+  1CC000-1CCFFF	(base 16)	NKT Photonics A/S
+  				Blokken 84
+				Birkerod  3460
+				DENMARK
+
   40-D8-55	(hex)		YXLON International A/S
   1CD000-1CDFFF	(base 16)	YXLON International A/S
   				Helgeshoej Alle 38
@@ -28544,6 +28550,12 @@
   				Metallistov pr. 23-4-10
 				Saint-Petersburg - 195176
 				RUSSIAN FEDERATION
+
+  40-D8-55	(hex)		Shenzhen MaiWei Cable TV Equipment CO.,LTD.
+  50D000-50DFFF	(base 16)	Shenzhen MaiWei Cable TV Equipment CO.,LTD.
+  				13/F,Fiyta Hi-tech Building,GaoXinnanyi Avenue,Southern District of Hi-tech Park,Nanshan District
+				Shenzhen Guangdong 518057
+				CHINA
 
   40-D8-55	(hex)		Narinet, Inc.
   EE6000-EE6FFF	(base 16)	Narinet, Inc.
