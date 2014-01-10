@@ -74903,6 +74903,12 @@
 				Seoul  153-801
 				KOREA, REPUBLIC OF
 
+  00-AC-E0   (hex)		ARRIS Group, Inc.
+  00ACE0     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive
+				San Diego CA 92121
+				UNITED STATES
+
   00-B0-09   (hex)		Grass Valley Group
   00B009     (base 16)		Grass Valley Group
   				P.O. Box 599000
@@ -83647,6 +83653,13 @@
 				Taubaté São Paulo 12032-000
 				BRAZIL
 
+  10-88-CE   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  1088CE     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  				No.5 DongXin Road
+				Hongsan District
+				Wuhan City Hubei Province 430074
+				CHINA
+
   10-8C-CF   (hex)		CISCO SYSTEMS, INC.
   108CCF     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -85897,6 +85910,12 @@
 				Suite 15B-H
 				Beijing  100080
 				CHINA
+
+  20-5A-00   (hex)		Coval
+  205A00     (base 16)		Coval
+  				ZA Les Petits Champs
+				MONTELIER Drome 26120
+				FRANCE
 
   20-5B-2A   (hex)		PRIVATE
   205B2A     (base 16)		 
@@ -93706,6 +93725,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  54-EE-75   (hex)		Wistron InfoComm(Kunshan)Co.,Ltd.
+  54EE75     (base 16)		Wistron InfoComm(Kunshan)Co.,Ltd.
+  				168# First Avenue,Kunshan Integrated Free Trade Zone,Kunshan,Jiangsu,China
+				Kunshan Jiangsu 215300
+				CHINA
+
   54-F5-B6   (hex)		ORIENTAL PACIFIC INTERNATIONAL LIMITED
   54F5B6     (base 16)		ORIENTAL PACIFIC INTERNATIONAL LIMITED
   				5 ARGUS PLACE
@@ -95257,6 +95282,13 @@
   				16255 Ventura Boulevard, Suite 310
 				Encino CA 91436
 				UNITED STATES
+
+  60-B6-17   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  60B617     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  				No.5 DongXin Road
+				Hongsan District
+				Wuhan City Hubei Province 430074
+				CHINA
 
   60-B9-33   (hex)		Deutron Electronics Corp.
   60B933     (base 16)		Deutron Electronics Corp.
@@ -98170,6 +98202,13 @@
   				310 Liuhe Road, Zhijiang Science Park
 				Hangzhou Zhejiang, P.R.China 310053
 				CHINA
+
+  74-26-AC   (hex)		Cisco
+  7426AC     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   74-27-3C   (hex)		ChangYang Technology (Nanjing) Co., LTD
   74273C     (base 16)		ChangYang Technology (Nanjing) Co., LTD
@@ -101102,6 +101141,12 @@
   848D84     (base 16)		Rajant Corporation
   				400 East King Street
 				Malvern PA 19355
+				UNITED STATES
+
+  84-8D-C7   (hex)		Cisco SPVTG
+  848DC7     (base 16)		Cisco SPVTG
+  				5030 Sugarloaf Parkway
+				Lawrenceville GA 30044
 				UNITED STATES
 
   84-8E-0C   (hex)		Apple
@@ -104052,6 +104097,12 @@
 				Middleton WI 53562
 				UNITED STATES
 
+  98-6B-3D   (hex)		ARRIS Group, Inc.
+  986B3D     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive
+				San Diego CA 92121
+				UNITED STATES
+
   98-6C-F5   (hex)		zte corporation
   986CF5     (base 16)		zte corporation
   				12/F.,zte R&D building ,kejinan Road
@@ -105883,6 +105934,13 @@
 				Houston Texas 77070
 				UNITED STATES
 
+  A4-60-32   (hex)		MRV Communications (Networks) LTD
+  A46032     (base 16)		MRV Communications (Networks) LTD
+  				Hayetzira 6
+				P.O Box 614
+				Yokneam Yokneam 20692
+				ISRAEL
+
   A4-67-06   (hex)		Apple
   A46706     (base 16)		Apple
   				1 Infinite Loop
@@ -107521,6 +107579,13 @@
   ACFDEC     (base 16)		Apple, Inc
   				1 Infinite Loop
 				Cupertino CA 95014
+				UNITED STATES
+
+  B0-00-B4   (hex)		Cisco
+  B000B4     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
 				UNITED STATES
 
   B0-05-94   (hex)		Liteon Technology Corporation
@@ -110930,6 +110995,13 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  C4-91-3A   (hex)		Shenzhen Sanland Electronic Co., ltd.
+  C4913A     (base 16)		Shenzhen Sanland Electronic Co., ltd.
+  				3 floor,Block D, Glory Technology Industrial Park,
+				Baolong 5th road, Longgang District
+				ShenZhen Guangdong 518116
+				CHINA
 
   C4-93-00   (hex)		8Devices
   C49300     (base 16)		8Devices
@@ -117494,6 +117566,13 @@
 				Seongnam-si Kyunggi-Do 462-807
 				KOREA, REPUBLIC OF
 
+  F0-8C-FB   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  F08CFB     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  				No.5 DongXin Road
+				Hongsan District
+				Wuhan City Hubei Province 430074
+				CHINA
+
   F0-8E-DB   (hex)		VeloCloud Networks
   F08EDB     (base 16)		VeloCloud Networks
   				720 University Ave.
@@ -119608,6 +119687,13 @@
   				No. 6, Innovation Road 2, Hsinchu Science Park
 				Hsinchu Taiwan 300
 				TAIWAN, PROVINCE OF CHINA
+
+  FC-F6-47   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  FCF647     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
+  				No.5 DongXin Road
+				Hongsan District
+				Wuhan City Hubei Province 430074
+				CHINA
 
   FC-F8-AE   (hex)		Intel Corporate
   FCF8AE     (base 16)		Intel Corporate
