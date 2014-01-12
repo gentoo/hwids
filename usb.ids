@@ -16085,7 +16085,7 @@
 2318  Shining Technologies, Inc. [hex]
 	0011  CitiDISK Jr. IDE Enclosure
 2341  Arduino SA
-	0001  Uno (CDC ACM)24
+	0001  Uno (CDC ACM)
 	0010  Mega 2560 (CDC ACM)
 	003b  Serial Adapter (CDC ACM)
 	003f  Mega ADK (CDC ACM)
@@ -16103,7 +16103,7 @@
 2443  Aessent Technology Ltd
 	00dc  aes220 FPGA Mini-Module
 2478  Tripp-Lite
-	2008  U209-000-R Serial Port22
+	2008  U209-000-R Serial Port
 24ae  Rapoo
         6000 Rapoo Wireless Audio H1030
 2632  TwinMOS
