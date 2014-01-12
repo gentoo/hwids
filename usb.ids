@@ -16104,6 +16104,8 @@
 	00dc  aes220 FPGA Mini-Module
 2478  Tripp-Lite
 	2008  U209-000-R Serial Port
+24ae  Rapoo
+        6000 Rapoo Wireless Audio H1030
 2632  TwinMOS
 	3209  7-in-1 Card Reader
 2650  Electronics For Imaging, Inc. [hex]
@@ -17211,7 +17213,7 @@ HUT 07  Keyboard
 	031  \ and | (Backslash and Bar)
 	032  # and ~ (Hash and Tilde, Non-US Keyboard near right shift)
 	033  ; and : (Semicolon and Colon)
-	034  ´ and " (Accent Acute and Double Quotes)
+	034  ' and " (Accent Acute and Double Quotes)
 	035  ` and ~ (Accent Grace and Tilde)
 	036  , and < (Comma and Less)
 	037  . and > (Period and Greater)
