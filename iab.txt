@@ -14426,8 +14426,8 @@
 
   00-50-C2	(hex)		Cristal Controles Ltee
   907000-907FFF	(base 16)	Cristal Controles Ltee
-  				1375 Frank-Carrel #14
-				Quebec  G1N 2E7
+  				2025 Lavoisier #135
+				Quebec  G1N 4L6
 				CANADA
 
   00-50-C2	(hex)		Codex Digital Ltd

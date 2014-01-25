@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.01.09
-#	Date:    2014-01-09 03:15:01
+#	Version: 2014.01.25
+#	Date:    2014-01-25 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -334,6 +334,7 @@
 		1028 1f35  PERC H710 Adapter
 		1028 1f37  PERC H710 Mini (for blades)
 		1028 1f38  PERC H710 Mini (for monolithics)
+		15d9 0690  LSI MegaRAID ROMB
 		8086 3510  RMS25PB080 RAID Controller
 		8086 3513  RMS25CB080 RAID Controller
 	005c  SAS1064A PCI-X Fusion-MPT SAS
@@ -345,6 +346,8 @@
 		1028 1f48  PERC H730P Mini (for blades)
 		1028 1f49  PERC H730 Mini
 		1028 1f4a  PERC H730 Mini (for blades)
+		17aa 1052  ThinkServer RAID 720i
+		17aa 1053  ThinkServer RAID 720ix
 	005e  SAS1066 PCI-X Fusion-MPT SAS
 	005f  MegaRAID SAS-3 3008 [Fury]
 		1028 1f44  PERC H330 Adapter
@@ -416,6 +419,7 @@
 		1137 00b1  UCSC RAID SAS 2008M-8i
 		15d9 0400  Supermicro SMC2008-iMR
 		1734 1177  RAID Ctrl SAS 6G 0/1 (D2607)
+		17aa 1051  ThinkServer RAID 510i
 		8086 350d  RMS2AF040 RAID Controller
 		8086 9240  RAID Controller RS2WC080
 		8086 9241  RAID Controller RS2WC040
@@ -1703,6 +1707,7 @@
 		1b0a 909e  Radeon HD 6570
 		1b0a 90b5  Radeon HD 7570
 		1b0a 90b6  Radeon HD 7570
+	675b  Turks [Radeon HD 7600 Series]
 	675d  Turks PRO [Radeon HD 7570]
 	675f  Turks LE [Radeon HD 5570/6510/7510/8510]
 		148c 6510  Radeon HD 6510
@@ -3009,6 +3014,7 @@
 	985d  Mullins
 	985e  Mullins
 	985f  Mullins
+	9900  Trinity [Radeon HD 7660G]
 # AMD A10-5800K CPU
 	9901  Trinity [Radeon HD 7660D]
 	9902  Trinity HDMI Audio Controller
@@ -3247,6 +3253,7 @@
 		1186 1101  DFE-500TX Fast Ethernet
 		1186 1102  DFE-500TX Fast Ethernet
 		1186 1112  DFE-570TX Quad Fast Ethernet
+		11f0 4235  21143 [FASTLine-II UTP 10/100]
 		1259 2800  AT-2800Tx Fast Ethernet
 		1266 0004  Eagle Fast EtherMAX
 		12af 0019  NetFlyer Cardbus Fast Ethernet
@@ -3302,6 +3309,7 @@
 	00ac  GD 5436 [Alpine]
 	00b0  GD 5440
 	00b8  GD 5446
+		1af4 1100  QEMU Virtual Machine
 	00bc  GD 5480
 		1013 00bc  CL-GD5480
 	00d0  GD 5462
@@ -3655,6 +3663,7 @@
 		1668 0299  ActionLink Home Network Adapter
 	2003  Am 1771 MBW [Alchemy]
 	2020  53c974 [PCscsi]
+		1af4 1100  QEMU Virtual Machine
 	2040  79c974
 	2080  CS5536 [Geode companion] Host Bridge
 	2081  Geode LX Video
@@ -4142,6 +4151,8 @@
 		110a 001e  MGA-G100 AGP
 	2007  MGA Mistral
 	2527  Millennium G550
+# PCI\VEN_102B&DEV_2527&SUBSYS_0F42102B&REV_01
+		102b 0f42  Matrox G550 Low Profile PCI
 		102b 0f83  Millennium G550
 		102b 0f84  Millennium G550 Dual Head DDR 32Mb
 		102b 1e41  Millennium G550
@@ -4358,6 +4369,7 @@
 		1028 04b2  Vostro 3350
 		1028 04da  Vostro 3750
 		1043 8413  P8P67 Deluxe Motherboard
+		1af4 1100  QEMU Virtual Machine
 		1b96 0001  USB 3.0 PCIe Card
 	01e7  uPD72873 [Firewarden] IEEE1394a OHCI 1.1 Link/2-port PHY Controller
 	01f2  uPD72874 [Firewarden] IEEE1394a OHCI 1.1 Link/3-port PHY Controller
@@ -4868,6 +4880,7 @@
 	8022  TSB43AB22 IEEE-1394a-2000 Controller (PHY/Link) [iOHCI-Lynx]
 		104c 8023  TSB43AB22/A IEEE-1394a-2000 Controller (PHY/Link)
 	8023  TSB43AB22A IEEE-1394a-2000 Controller (PHY/Link) [iOHCI-Lynx]
+		1028 0168  Precision Workstation 670 Mainboard
 		103c 088c  NC8000 laptop
 		1043 808b  K8N4/A8N Series Mainboard
 		1043 815b  P5W DH Deluxe Motherboard
@@ -5465,6 +5478,7 @@
 	003b  UniNorth/Intrepid ATA/100
 	003e  KeyLargo/Intrepid Mac I/O
 	003f  KeyLargo/Intrepid USB
+		1af4 1100  QEMU Virtual Machine
 	0040  K2 KeyLargo USB
 	0041  K2 KeyLargo Mac/IO
 	0042  K2 FireWire
@@ -6228,6 +6242,7 @@
 	8718  PEX 8718 16-Lane, 5-Port PCI Express Gen 3 (8.0 GT/s) Switch
 	8732  PEX 8732 32-lane, 8-Port PCI Express Gen 3 (8.0 GT/s) Switch
 	8734  PEX 8734 32-lane, 8-Port PCI Express Gen 3 (8.0GT/s) Switch
+	8747  PEX 8747 48-Lane, 5-Port PCI Express Gen 3 (8.0 GT/s) Switch
 # This is the Non-Transparent-Bridge Virtualized Port as presented by the PLX PEX 8732 chip, the physical bridges show up at 10b5:8732
 	87b0  PEX 8732 32-lane, 8-Port PCI Express Gen 3 (8.0 GT/s) Switch
 	9016  PLX 9016 8-port serial controller
@@ -7088,7 +7103,6 @@
 	00c9  NV41M [GeForce Go 6800 Ultra]
 	00cc  NV41GLM [Quadro FX Go1400]
 	00cd  NV41GL [Quadro FX 3450/4000 SDI]
-		10de 029b  wx4300 Workstation
 	00ce  NV41GL [Quadro FX 1400]
 	00cf  NV41
 	00d0  nForce3 LPC Bridge
@@ -9133,6 +9147,9 @@
 	12ba  GK208GLM [Quadro K510M]
 10df  Emulex Corporation
 	0720  OneConnect NIC (Skyhawk)
+		17aa 1056  ThinkServer OCm14102-UX-L AnyFabric
+		17aa 1057  ThinkServer OCm14104-UX-L AnyFabric
+		17aa 1059  ThinkServer OCm14104-UT-L AnyFabric
 	0722  OneConnect iSCSI Initiator (Skyhawk)
 	0723  OneConnect iSCSI Initiator + Target (Skyhawk)
 	0724  OneConnect FCoE Initiator (Skyhawk)
@@ -9147,6 +9164,8 @@
 	e200  Lancer-X: LightPulse Fibre Channel Host Adapter
 	e208  LightPulse 16Gb Fibre Channel Host Adapter (Lancer-VF)
 	e220  OneConnect NIC (Lancer)
+		17aa 1054  ThinkServer LPm16002B-M6-L AnyFabric
+		17aa 1055  ThinkServer LPm16004B-M8-L AnyFabric
 	e240  OneConnect iSCSI Initiator (Lancer)
 	e260  OneConnect FCoE Initiator (Lancer)
 	e268  OneConnect 10Gb FCoE Converged Network Adapter (Lancer-VF)
@@ -9283,7 +9302,7 @@
 		1113 1208  EN1208
 		1186 0300  DE-528
 		1259 2400  AT-2400
-		1af4 1100  Qemu virtual machine
+		1af4 1100  QEMU Virtual Machine
 	8129  RTL-8129
 		10ec 8129  RT8129 Fast Ethernet Adapter
 		11ec 8129  RTL8111/8168 PCIe Gigabit Ethernet (misconfigured)
@@ -9337,6 +9356,7 @@
 		1799 5010  F5D5010 CardBus Notebook Network Card
 		187e 3303  FN312
 		1904 8139  RTL8139D Fast Ethernet Adapter
+		1af4 1100  QEMU Virtual Machine
 		2646 0001  KNE120TX
 		8e2e 7000  KF-230TX
 		8e2e 7100  KF-230TX/2
@@ -9500,6 +9520,7 @@
 		1102 0053  SB0090 Audigy Player/OEM
 		1102 0058  SB0090 Audigy Player/OEM
 		1102 1002  SB Audigy2 Platinum
+		1102 1003  SB0350 Audigy 2
 		1102 1007  SB0240 Audigy 2 Platinum 6.1
 		1102 1009  SB Audigy2 OEM HP
 		1102 2001  SB Audigy 2 ZS Platinum Pro
@@ -9783,6 +9804,7 @@
 # probably all K7VT2/4*/6
 		1849 3038  K7VT series Motherboards
 		19da a179  ZBOX nano VD01
+		1af4 1100  QEMU Virtual Machine
 	3040  VT82C586B ACPI
 	3043  VT86C100A [Rhine]
 		10bd 0000  VT86C100A Fast Ethernet Adapter
@@ -9975,6 +9997,7 @@
 	3230  K8M890CE/K8N890CE [Chrome 9]
 	3238  K8T890 Host Bridge
 	3249  VT6421 IDE/SATA Controller
+		1106 3249  VT6421 IDE/SATA Controller
 	324a  CX700/VX700 PCI to PCI Bridge
 	324b  CX700/VX700 Host Bridge
 	324e  CX700/VX700 Internal Module Bus
@@ -10171,7 +10194,7 @@
 	013d  P1690Plus
 1109  Cogent Data Technologies, Inc.
 	1400  EM110TX [EX110TX]
-110a  Siemens Nixdorf AG
+110a  Siemens AG
 	0002  Pirahna 2-port
 	0005  Tulip controller, power management, switch extender
 	0006  FSC PINC (I/O-APIC)
@@ -12414,13 +12437,13 @@
 	0002  DirecPC
 1274  Ensoniq
 	1171  ES1373 [AudioPCI] (also Creative Labs CT5803)
-	1371  ES1371 [AudioPCI-97]
+	1371  ES1371 / Creative Labs CT2518 [AudioPCI-97]
 		0e11 0024  AudioPCI on Motherboard Compaq Deskpro
 		0e11 b1a7  ES1371, ES1373 AudioPCI
 		1033 80ac  ES1371, ES1373 AudioPCI
 		1042 1854  Tazer
 		107b 8054  Tabor2
-		1274 1371  Creative Sound Blaster AudioPCI64V, AudioPCI128
+		1274 1371  AudioPCI 64V/128 / Creative Sound Blaster CT4810
 		1274 8001  CT4751 board
 		1462 6470  ES1371, ES1373 AudioPCI On Motherboard MS-6147 1.1A
 		1462 6560  ES1371, ES1373 AudioPCI On Motherboard MS-6156 1.10
@@ -14100,6 +14123,7 @@
 	5012  T560-CR Unified Wire Ethernet Controller
 	5013  T580-CR Unified Wire Ethernet Controller
 	5014  T580-LP-SO-CR Unified Wire Ethernet Controller
+	5015  T502-BT Unified Wire Ethernet Controller
 	5080  T540-5080 Unified Wire Ethernet Controller
 	5081  T540-5081 Unified Wire Ethernet Controller
 	5401  T520-CR Unified Wire Ethernet Controller
@@ -14122,6 +14146,7 @@
 	5412  T560-CR Unified Wire Ethernet Controller
 	5413  T580-CR Unified Wire Ethernet Controller
 	5414  T580-LP-SO-CR Unified Wire Ethernet Controller
+	5415  T502-BT Unified Wire Ethernet Controller
 	5480  T540-5080 Unified Wire Ethernet Controller
 	5481  T540-5081 Unified Wire Ethernet Controller
 	5501  T520-CR Unified Wire Storage Controller
@@ -14144,6 +14169,7 @@
 	5512  T560-CR Unified Wire Storage Controller
 	5513  T580-CR Unified Wire Storage Controller
 	5514  T580-LP-SO-CR Unified Wire Storage Controller
+	5515  T502-BT Unified Wire Storage Controller
 	5580  T540-5080 Unified Wire Storage Controller
 	5581  T540-5081 Unified Wire Storage Controller
 	5601  T520-CR Unified Wire Storage Controller
@@ -14166,6 +14192,7 @@
 	5612  T560-CR Unified Wire Storage Controller
 	5613  T580-CR Unified Wire Storage Controller
 	5614  T580-LP-SO-CR Unified Wire Storage Controller
+	5615  T502-BT Unified Wire Storage Controller
 	5680  T540-5080 Unified Wire Storage Controller
 	5681  T540-5081 Unified Wire Storage Controller
 	5701  T520-CR Unified Wire Ethernet Controller
@@ -17407,6 +17434,8 @@
 	1004  Virtio SCSI
 	1005  Virtio RNG
 	1009  Virtio filesystem
+	1110  Virtio Inter-VM shared memory
+		1af4 1100  QEMU Virtual Machine
 1af5  Netezza Corp.
 1afa  J & W Electronics Co., Ltd.
 1b03  Magnum Semiconductor, Inc,
@@ -17426,6 +17455,17 @@
 		1849 1080  Motherboard
 1b2c  Opal-RT Technologies Inc.
 1b36  Red Hat, Inc.
+	0001  QEMU PCI-PCI bridge
+	0002  QEMU PCI 16550A Adapter
+		1af4 1100  QEMU Virtual Machine
+	0003  QEMU PCI Dual-port 16550A Adapter
+		1af4 1100  QEMU Virtual Machine
+	0004  QEMU PCI Quad-port 16550A Adapter
+		1af4 1100  QEMU Virtual Machine
+	0005  QEMU PCI Test Device
+		1af4 1100  QEMU Virtual Machine
+	0100  QXL paravirtual graphic card
+		1af4 1100  QEMU Virtual Machine
 1b37  Signal Processing Devices Sweden AB
 	0014  ADQ412
 1b3a  Westar Display Technologies
@@ -17499,6 +17539,7 @@
 	0003  MAX3
 	0004  MAX4
 1bf4  VTI Instruments Corporation
+	0001  SentinelEX
 1bfd  EeeTOP
 1c1c  Symphony
 	0001  82C101
@@ -18521,7 +18562,7 @@
 # Stone Peak 2 BGN
 		8086 5002  Wireless-N 7265
 # Stone Peak 2 AGN
-		8086 500a  Dual Band Wireless-AC 7265
+		8086 500a  Dual Band Wireless-N 7265
 # Stone Peak 2 AC
 		8086 5010  Dual Band Wireless-AC 7265
 # Stone Peak 2 AC
@@ -18532,8 +18573,14 @@
 		8086 502a  Dual Band Wireless-N 7265
 # Maple Peak AC
 		8086 5090  Dual Band Wireless-AC 7265
+# Stone Peak 2 AGN
+		8086 5100  Dual Band Wireless-AC 7265
+# Stone Peak 2 AGN
+		8086 510a  Dual Band Wireless-AC 7265
 # Stone Peak 2 AC
 		8086 5110  Dual Band Wireless-AC 7265
+# Stone Peak 2 AC
+		8086 5112  Dual Band Wireless-AC 7265
 # Maple Peak AC
 		8086 5190  Dual Band Wireless-AC 7265
 # Stone Peak 2 AGN
@@ -18549,7 +18596,11 @@
 # Stone Peak 2 AC
 		8086 9010  Dual Band Wireless-AC 7265
 # Stone Peak 2 AC
+		8086 9012  Dual Band Wireless-AC 7265
+# Stone Peak 2 AC
 		8086 9110  Dual Band Wireless-AC 7265
+# Stone Peak 2 AC
+		8086 9112  Dual Band Wireless-AC 7265
 # Stone Peak 2 AC
 		8086 9210  Dual Band Wireless-AC 7265
 # Stone Peak 2 AC
@@ -18705,6 +18756,8 @@
 	0e41  Xeon E5 v2/Core i7 QPI Ring Registers
 	0e43  Xeon E5 v2/Core i7 QPI Link Reut 2
 	0e44  Xeon E5 v2/Core i7 QPI Link Reut 2
+	0e45  Ivytown-EX QPI Link Agent Register
+	0e47  Ivytown-EX QPI Link Agent Register
 	0e60  Xeon E5 v2/Core i7 Home Agent 1
 	0e68  Xeon E5 v2/Core i7 Integrated Memory Controller 1 Target Address/Thermal Registers
 	0e6a  Xeon E5 v2/Core i7 Integrated Memory Controller 1 Channel Target Address Decoder Registers
@@ -18722,10 +18775,12 @@
 	0e81  Xeon E5 v2/Core i7 QPI Ring Registers
 	0e83  Xeon E5 v2/Core i7 QPI Link Reut 0
 	0e84  Xeon E5 v2/Core i7 QPI Link Reut 0
+	0e85  Ivytown-EX QPI Link Agent Register
 	0e87  Xeon E5 v2/Core i7 QPI Registers
 	0e90  Xeon E5 v2/Core i7 QPI Link 1
 	0e93  Xeon E5 v2/Core i7 QPI Link 1
 	0e94  Xeon E5 v2/Core i7 QPI Link Reut 1
+	0e95  Ivytown-EX QPI Link Agent Register
 	0ea0  Xeon E5 v2/Core i7 Home Agent 0
 	0ea8  Xeon E5 v2/Core i7 Integrated Memory Controller 0 Target Address/Thermal Registers
 	0eaa  Xeon E5 v2/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder Registers
@@ -18917,6 +18972,7 @@
 		1028 0134  PowerEdge 600SC
 		1028 0151  Optiplex GX270
 		107b 8920  PRO/1000 MT Desktop Adapter
+		1af4 1100  QEMU Virtual Machine
 		8086 001e  PRO/1000 MT Desktop Adapter
 		8086 002e  PRO/1000 MT Desktop Adapter
 		8086 1376  PRO/1000 GT Desktop Adapter
@@ -18980,6 +19036,7 @@
 		1179 0001  PRO/1000 MT Mobile Connection
 		8086 101e  PRO/1000 MT Mobile Connection
 	1026  82545GM Gigabit Ethernet Controller
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		8086 1000  PRO/1000 MT Server Connection
 		8086 1001  PRO/1000 MT Server Adapter
@@ -19323,6 +19380,7 @@
 		103c 2159  Ethernet 10Gb 2-port 562i Adapter
 		108e 7b11  Ethernet Server Adapter X520-2
 		1734 11a9  10 Gigabit Dual Port Network Connection
+		17aa 1071  ThinkServer X520-2 AnyFabric
 		8086 0002  Ethernet Server Adapter X520-DA2
 		8086 0003  Ethernet Server Adapter X520-2
 		8086 0006  Ethernet Server Adapter X520-1
@@ -19355,6 +19413,7 @@
 		172a 0000  AEP SSL Accelerator
 	1209  8255xER/82551IT Fast Ethernet Controller
 		140b 0610  PMC610 quad Ethernet board
+		1af4 1100  QEMU Virtual Machine
 		4c53 1050  CT7 mainboard
 		4c53 1051  CE7 mainboard
 		4c53 1070  PC6 mainboard
@@ -19437,6 +19496,7 @@
 		1668 1100  EtherExpress PRO/100B (TX) (MiniPCI Ethernet+Modem)
 		1775 1100  CR11/VR11 Single Board Computer
 		1775 ce90  CE9
+		1af4 1100  QEMU Virtual Machine
 		4c53 1080  CT8 mainboard
 		4c53 10e0  PSL09 PrPMC
 		8086 0001  EtherExpress PRO/100B (TX)
@@ -19598,6 +19658,7 @@
 		108e 7b16  Quad Port GbE PCIe 2.0 ExpressModule, UTP
 		108e 7b18  Quad Port GbE PCIe 2.0 Low Profile Adapter, UTP
 		10a9 802a  UV2-BaseIO dual-port GbE
+		17aa 1074  ThinkServer I350-T4 AnyFabric
 		8086 0001  Ethernet Server Adapter I350-T4
 		8086 0002  Ethernet Server Adapter I350-T2
 		8086 00a1  Ethernet Server Adapter I350-T4
@@ -19636,6 +19697,7 @@
 		108e 7b14  Sun Dual Port 10 GbE PCIe 2.0 ExpressModule, Base-T
 		108e 7b15  Sun Dual Port 10 GbE PCIe 2.0 Low Profile Adapter, Base-T
 		1137 00bf  Ethernet Converged Network Adapter X540-T2
+		17aa 1073  ThinkServer X540-T2 AnyFabric
 		8086 0001  Ethernet Converged Network Adapter X540-T2
 		8086 0002  Ethernet Converged Network Adapter X540-T1
 		8086 001a  Ethernet Converged Network Adapter X540-T2
@@ -19646,6 +19708,7 @@
 	152a  82599 10 Gigabit Dual Port Backplane Connection with FCoE
 	1533  I210 Gigabit Network Connection
 		103c 0003  Ethernet Server Adapter I210-T1
+		17aa 1100  ThinkServer Ethernet Server Adapter
 		8086 0001  Ethernet Server Adapter I210-T1
 		8086 0002  Ethernet Server Adapter I210-T1
 	1534  I210 Gigabit Network Connection
@@ -19683,6 +19746,43 @@
 	15a1  Ethernet Connection (2) I218-V
 	15a2  Ethernet Connection (3) I218-LM
 	15a3  Ethernet Connection (3) I218-V
+	1600  Broadwell-U Host Bridge -OPI
+	1601  Broadwell-U PCI Express x16 Controller
+	1602  Broadwell-U Integrated Graphics
+	1603  Broadwell-U Camarillo Device
+	1604  Broadwell-U Host Bridge -OPI
+	1605  Broadwell-U PCI Express x8 Controller
+	1606  Broadwell-U Integrated Graphics
+	1607  Broadwell-U CHAPS Device
+	1608  Broadwell-U Host Bridge -OPI
+	1609  Broadwell-U x4 PCIe
+	160a  Broadwell-U Integrated Graphics
+	160b  Broadwell-U Integrated Graphics
+	160c  Broadwell-U Audio Controller
+	160d  Broadwell-U Integrated Graphics
+	160e  Broadwell-U Integrated Graphics
+	160f  Broadwell-U SoftSKU
+	1610  Broadwell-U Host Bridge - DMI
+	1612  Broadwell-U Integrated Graphics
+	1614  Broadwell-U Host Bridge - DMI
+	1616  Broadwell-U Integrated Graphics
+	1618  Broadwell-U Host Bridge - DMI
+	161a  Broadwell-U Integrated Graphics
+	161b  Broadwell-U Integrated Graphics
+	161d  Broadwell-U Integrated Graphics
+	161e  Broadwell-U Integrated Graphics
+	1622  Broadwell-U Integrated Graphics
+	1626  Broadwell-U Integrated Graphics
+	162a  Broadwell-U Integrated Graphics
+	162b  Broadwell-U Integrated Graphics
+	162d  Broadwell-U Integrated Graphics
+	162e  Broadwell-U Integrated Graphics
+	1632  Broadwell-U Integrated Graphics
+	1636  Broadwell-U Integrated Graphics
+	163a  Broadwell-U Integrated Graphics
+	163b  Broadwell-U Integrated Graphics
+	163d  Broadwell-U Integrated Graphics
+	163e  Broadwell-U Integrated Graphics
 	1960  80960RP (i960RP) Microprocessor
 		101e 0431  MegaRAID 431 RAID Controller
 		101e 0438  MegaRAID 438 Ultra2 LVD RAID Controller
@@ -20127,6 +20227,7 @@
 		11d4 0048  SoundMAX Integrated Digital Audio
 		11d4 5340  SoundMAX Integrated Digital Audio
 		1734 1025  Activy 3xx
+		1af4 1100  QEMU Virtual Machine
 	2416  82801AA AC'97 Modem Controller
 	2418  82801AA PCI Bridge
 	2420  82801AB ISA Bridge (LPC)
@@ -20230,6 +20331,7 @@
 		1179 ff01  PRO/100 VE Network Connection
 		1186 7801  EtherExpress PRO/100 VE
 		144d 2602  HomePNA 1M CNR
+		1af4 1100  QEMU Virtual Machine
 		8086 3010  EtherExpress PRO/100 VE
 		8086 3011  EtherExpress PRO/100 VM
 		8086 3012  82562EH based Phoneline
@@ -20523,12 +20625,14 @@
 		1509 1968  Averatec 5110H
 		1734 1004  D1451 Mainboard (SCENIC N300, i845GV)
 		1734 1055  Amilo M1420
+		1af4 1100  QEMU Virtual Machine
 		4c53 1090  Cx9 / Vx9 mainboard
 		8086 24c2  Latitude X300
 		e4bf 0cc9  CC9-SAMBA
 		e4bf 0cd2  CD2-BEBOP
 	24d0  82801EB/ER (ICH5/ICH5R) LPC Interface Bridge
 	24d1  82801EB (ICH5) SATA Controller
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		1028 019a  PowerEdge SC1425
 		103c 12bc  d530 CMT (DG746A)
@@ -20546,6 +20650,7 @@
 	24d2  82801EB/ER (ICH5/ICH5R) USB UHCI Controller #1
 		1014 02dd  eServer xSeries server mainboard
 		1014 02ed  eServer xSeries server mainboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		1028 016c  PowerEdge 1850 onboard UHCI
 		1028 016d  PowerEdge 2850 onboard UHCI
@@ -20569,6 +20674,7 @@
 		1014 02dd  eServer xSeries server mainboard
 		1014 02ed  eServer xSeries server mainboard
 		1028 0156  Precision 360
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		103c 12bc  d330 uT
 		103c 3208  ProLiant DL140 G2
@@ -20586,6 +20692,7 @@
 	24d4  82801EB/ER (ICH5/ICH5R) USB UHCI Controller #2
 		1014 02dd  eServer xSeries server mainboard
 		1014 02ed  eServer xSeries server mainboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		1028 016c  PowerEdge 1850 onboard UHCI
 		1028 016d  PowerEdge 2850 onboard UHCI
@@ -20608,6 +20715,7 @@
 		8086 524c  D865PERL mainboard
 	24d5  82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller
 		100a 147b  Abit IS7-E motherboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		103c 006a  NX9500
 		103c 12bc  d330 uT
@@ -20625,6 +20733,7 @@
 		103c 006a  NX9500
 	24d7  82801EB/ER (ICH5/ICH5R) USB UHCI Controller #3
 		1014 02ed  xSeries server mainboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		1028 016c  PowerEdge 1850 onboard UHCI
 		1028 016d  PowerEdge 2850 onboard UHCI
@@ -20646,6 +20755,7 @@
 	24db  82801EB/ER (ICH5/ICH5R) IDE Controller
 		1014 02dd  eServer xSeries server mainboard
 		1014 02ed  eServer xSeries server mainboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		1028 016c  PowerEdge 1850 IDE Controller
 		1028 016d  PowerEdge 2850 IDE Controller
@@ -20670,6 +20780,7 @@
 	24dd  82801EB/ER (ICH5/ICH5R) USB2 EHCI Controller
 		1014 02dd  eServer xSeries server mainboard
 		1014 02ed  eServer xSeries server mainboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		1028 016c  PowerEdge 1850 onboard EHCI
 		1028 016d  PowerEdge 2850 onboard EHCI
@@ -20689,6 +20800,7 @@
 		8086 524c  D865PERL mainboard
 	24de  82801EB/ER (ICH5/ICH5R) USB UHCI Controller #4
 		1014 02ed  xSeries server mainboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		1043 80a6  P4P800/P5P800 series motherboard
 		1458 24d2  GA-8IPE1000 Pro2 motherboard (865PE)
@@ -20702,6 +20814,12 @@
 		8086 4c43  Desktop Board D865GLC
 		8086 524c  D865PERL mainboard
 	24df  82801ER (ICH5R) SATA Controller
+	24f3  Wireless 8260
+# Snow Field Peak AC
+		8086 0010  Dual Band Wireless-AC 8260
+	24f4  Wireless 8260
+# Snow Field Peak AC
+		8086 0030  Dual Band Wireless-AC 8260
 	2500  82820 820 (Camino) Chipset Host Bridge (MCH)
 		1028 0095  Precision Workstation 220 Chipset
 		1043 801c  P3C-2000 system chipset
@@ -20859,6 +20977,7 @@
 		1775 10d0  V5D Single Board Computer
 		1775 1100  CR11/VR11 Single Board Computer
 		1775 ce90  CE9
+		1af4 1100  QEMU Virtual Machine
 		4c53 10b0  CL9 mainboard
 		4c53 10d0  Telum ASLP10 Processor AMC
 		4c53 10e0  PSL09 PrPMC
@@ -21077,6 +21196,7 @@
 		1043 1173  Asus A6VC
 		1043 814e  P5GD1-VW Mainboard
 		1462 7028  915P/G Neo2
+		1af4 1100  QEMU Virtual Machine
 	266a  82801FB/FBM/FR/FW/FRW (ICH6 Family) SMBus Controller
 		1028 0177  Dimension 8400
 		1028 0179  Optiplex GX280
@@ -21726,6 +21846,7 @@
 	2918  82801IB (ICH9) LPC Interface Controller
 		1028 0236  PowerEdge R610 82801IB (ICH9) LPC Interface Controller
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 	2919  ICH9M LPC Interface Controller
 	2920  82801IR/IO/IH (ICH9R/DO/DH) 4 port SATA Controller [IDE mode]
 		1028 020d  Inspiron 530
@@ -21740,6 +21861,7 @@
 		1028 0237  PowerEdge T610 SATA IDE Controller
 		1462 7360  G33/P35 Neo
 	2922  82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 	2923  82801IB (ICH9) 4 port SATA Controller [AHCI mode]
 	2925  82801IR/IO (ICH9R/DO) SATA Controller [RAID mode]
@@ -21766,6 +21888,7 @@
 		103c 3628  dv6-1190en
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
 	2932  82801I (ICH9 Family) Thermal Subsystem
@@ -21785,6 +21908,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
 	2935  82801I (ICH9 Family) USB UHCI Controller #2
@@ -21801,6 +21925,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
 	2936  82801I (ICH9 Family) USB UHCI Controller #3
@@ -21815,6 +21940,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
 	2937  82801I (ICH9 Family) USB UHCI Controller #4
@@ -21829,6 +21955,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 2937  Optiplex 755
 		8086 2942  828011 (ICH9 Family ) USB UHCI Controller
 		8086 5044  Desktop Board DP35DP
@@ -21844,6 +21971,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 2938  Optiplex 755
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
@@ -21854,6 +21982,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
 	293a  82801I (ICH9 Family) USB2 EHCI Controller #1
@@ -21870,6 +21999,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
 	293c  82801I (ICH9 Family) USB2 EHCI Controller #2
@@ -21883,6 +22013,7 @@
 		103c 2a6f  Asus IPIBL-LB Motherboard
 		1043 8277  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 293c  Optiplex 755
 		8086 5044  Desktop Board DP35DP
 		e4bf cc4d  CCM-BOOGIE
@@ -21893,6 +22024,7 @@
 		103c 3628  dv6-1190en
 		1043 829f  P5K PRO Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 293e  Optiplex 755
 		8086 2940  Optiplex 755
 		e4bf cc4d  CCM-BOOGIE
@@ -21975,6 +22107,7 @@
 		1043 8276  P5K PRO Motherboard
 		1043 82b0  P5KPL-VM Motherboard
 		1462 7360  G33/P35 Neo
+		1af4 1100  QEMU Virtual Machine
 		8086 5044  Desktop Board DP35DP
 	29c1  82G33/G31/P35/P31 Express PCI Express Root Port
 		1028 020d  Inspiron 530
@@ -22637,6 +22770,7 @@
 		4c53 10d0  Telum ASLP10 Processor AMC
 	3591  E7525/E7520 Error Reporting Registers
 		1014 02dd  eServer xSeries server mainboard
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 		103c 3208  ProLiant DL140 G2
 		4c53 10d0  Telum ASLP10 Processor AMC
@@ -22660,6 +22794,7 @@
 	359b  E7525/E7520/E7320 Extended Configuration Registers
 		1014 02dd  eServer xSeries server mainboard
 	359e  E7525 Memory Controller Hub
+		1028 0168  Precision Workstation 670 Mainboard
 		1028 0169  Precision 470
 	35b0  3100 Chipset Memory I/O Controller Hub
 	35b1  3100 DRAM Controller Error Reporting Registers
@@ -23208,6 +23343,8 @@
 	5201  EtherExpress PRO/100 Intelligent Server
 		8086 0001  EtherExpress PRO/100 Server Ethernet Adapter
 	530d  80310 (IOP) IO Processor
+	5845  QEMU NVM Express Controller
+		1af4 1100  QEMU Virtual Machine
 	65c0  5100 Chipset Memory Controller Hub
 	65e2  5100 Chipset PCI Express x4 Port 2
 	65e3  5100 Chipset PCI Express x4 Port 3
@@ -23233,7 +23370,7 @@
 	7010  82371SB PIIX3 IDE [Natoma/Triton II]
 		1af4 1100  Qemu virtual machine
 	7020  82371SB PIIX3 USB [Natoma/Triton II]
-		1af4 1100  Qemu virtual machine
+		1af4 1100  QEMU Virtual Machine
 	7030  430VX - 82437VX TVX [Triton VX]
 	7050  Intercast Video Capture Card
 	7051  PB 642365-003 (Business Video Conferencing Card)
@@ -23244,6 +23381,7 @@
 		15ad 1976  Virtual Machine Chipset
 	7112  82371AB/EB/MB PIIX4 USB
 		15ad 1976  Virtual Machine Chipset
+		1af4 1100  QEMU Virtual Machine
 	7113  82371AB/EB/MB PIIX4 ACPI
 		15ad 1976  Virtual Machine Chipset
 		1af4 1100  Qemu virtual machine
@@ -23465,6 +23603,7 @@
 	8d02  Wellsburg 6-Port SATA Controller [AHCI mode]
 	8d04  Wellsburg SATA Controller [RAID mode]
 	8d06  Wellsburg SATA Controller [RAID mode]
+		17aa 1031  ThinkServer RAID 110i
 	8d08  Wellsburg 2-port SATA Controller [IDE mode]
 	8d0e  Wellsburg SATA Controller [RAID mode]
 	8d10  Wellsburg PCI Express Root Port #1
@@ -24057,6 +24196,7 @@
 	8088  PMC-Sierra PM8018 SAS HBA [Series 7H]
 	8089  PMC-Sierra PM8019 SAS encryption HBA [Series 7He]
 	808f  AIC-7901 U320 w/HostRAID
+		1028 0168  Precision Workstation 670 Mainboard
 	8090  ASC-39320 U320 w/HostRAID
 	8091  ASC-39320D U320 w/HostRAID
 	8092  ASC-29320 U320 w/HostRAID
@@ -24212,6 +24352,21 @@ d4d4  Dy4 Systems Inc
 d531  I+ME ACTIA GmbH
 d84d  Exsys
 dada  Datapath Limited
+	0133  VisionRGB-X2
+	0139  VisionRGB-E1
+	0144  VisionSD8
+	0150  VisionRGB-E2
+	0151  VisionSD4+1
+	0159  VisionAV
+	0161  DGC161
+	0165  DGC165
+	0167  DGC167
+	0168  DGC168
+	1139  VisionRGB-E1S
+	1150  VisionRGB-E2S
+	1151  VisionSD4+1S
+	1153  VisionDVI-DL
+	1154  VisionSDI2
 db10  Diablo Technologies
 dcba  Dynamic Engineering
 	0046  PCIe Altera Cyclone IV
