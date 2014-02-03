@@ -118,6 +118,9 @@ keyboard:dmi:bvn*:bvr*:bd*:svnAcer*:pnTravelMate*6593:*
 keyboard:dmi:bvn*:bvr*:bd*:svnAcer*:pnAspire*1640:*
  KEYBOARD_KEY_ee=screenlock
 
+keyboard:dmi:bvn*:bvr*:bd*:svnAcer*:pnAOA*:pvr*
+ KEYBOARD_KEY_a9=!switchvideomode                       # Fn+F5
+
 ###########################################################
 # Alienware
 ###########################################################
@@ -416,6 +419,22 @@ keyboard:dmi:bvn*:bvr*:bd*:svnHewlett-Packard*:pnHDX9494NR:pvr*
  KEYBOARD_KEY_b2=www                                    # Fn+F3
  KEYBOARD_KEY_d8=!f23                                   # touchpad off
  KEYBOARD_KEY_d9=!f22                                   # touchpad on
+
+# Chromebook 14
+# Top row keys (between ESC and power button)
+keyboard:dmi:bvn*:bvr*:bd*:svnHewlett-Packard*:pnFalco:pvr*
+ KEYBOARD_KEY_3b=back
+ KEYBOARD_KEY_3c=forward
+ KEYBOARD_KEY_3d=refresh
+ KEYBOARD_KEY_3f=switchvideomode
+ KEYBOARD_KEY_40=brightnessdown
+ KEYBOARD_KEY_41=brightnessup
+ KEYBOARD_KEY_42=mute
+ KEYBOARD_KEY_43=volumedown
+ KEYBOARD_KEY_44=volumeup
+ KEYBOARD_KEY_db=search # Same position as caps lock key on most keyboards
+# KEYBOARD_KEY_3e=fullscreen, no defined key sym
+
 
 ###########################################################
 # IBM
@@ -965,6 +984,9 @@ keyboard:name:Sony Vaio Keys:dmi:bvn*:bvr*:bd*:svnSony*:pnVGN-Z21*:pvr*
  KEYBOARD_KEY_17=prog1
  KEYBOARD_KEY_20=media
 
+keyboard:name:Sony Vaio Keys:dmi:bvn*:bvr*:bd*:svnSony*:pnVGN-FW250*:pvr*
+ KEYBOARD_KEY_10=suspend                                # Fn+F12
+
 keyboard:name:Sony Vaio Keys:dmi:bvn*:bvr*:bd*:svnSony*:pnVPC*:pvr*
  KEYBOARD_KEY_05=f21                                    # Fn+F1 -> KEY_F21 (The actual touchpad toggle)
  KEYBOARD_KEY_0d=zoomout                                # Fn+F9
@@ -1070,6 +1092,7 @@ keyboard:dmi:bvn*:bvr*:bd*:svnPEGATRON*CORP.:pnSpring*Peak:*
 keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSatellite*[uU][35]0[05]*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSATELLITE*[uU][35]0[05]*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnSatellite*Pro*[uU]300*:pvr*
+keyboard:dmi:bvn*:bvr*:bd*:svnTOSHIBA:pnEQUIUM [uU][35]0[05]*:pvr*
 keyboard:dmi:bvn*:bvr*:bd*:svnViooo*Corporation:pnPT17:*
 keyboard:dmi:bvn*:bvr*:bd*:svnHANNspree:pnSN10E100:*
 keyboard:dmi:bvn*:bvr*:bd*:svnGIGABYTE:pni1520M:*

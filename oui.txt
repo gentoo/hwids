@@ -9399,11 +9399,11 @@
 				SE-11134 Stockholm
 				SWEDEN
 
-  00-05-BC   (hex)		Resorsys Ltd.
-  0005BC     (base 16)		Resorsys Ltd.
-  				80 Johnsdone Avenue,
+  00-05-BC   (hex)		Resource Data Management Ltd
+  0005BC     (base 16)		Resource Data Management Ltd
+  				80 Johnstone Avenue,
 				Hilington, Glasgow,
-				Scotland  G52 4LT
+				Scotland  G52 4NZ
 				UNITED KINGDOM
 
   00-05-BD   (hex)		ROAX BV
@@ -19208,8 +19208,8 @@
 				Tokyo Ueno Taitoh-ku 3-4-1 110-0005
 				JAPAN
 
-  00-0B-DB   (hex)		Dell ESG PCBA Test
-  000BDB     (base 16)		Dell ESG PCBA Test
+  00-0B-DB   (hex)		Dell Inc
+  000BDB     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -21610,8 +21610,8 @@
 				Beijing  100031
 				CHINA
 
-  00-0D-56   (hex)		Dell ESG PCBA Test
-  000D56     (base 16)		Dell ESG PCBA Test
+  00-0D-56   (hex)		Dell Inc
+  000D56     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -24457,8 +24457,8 @@
 				Chengdu Sichuan 610041
 				CHINA
 
-  00-0F-1F   (hex)		Dell ESG PCBA Test
-  000F1F     (base 16)		Dell ESG PCBA Test
+  00-0F-1F   (hex)		Dell Inc
+  000F1F     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -27918,8 +27918,8 @@
 				Suwon Kyoungki-Do 440-310
 				KOREA, REPUBLIC OF
 
-  00-11-43   (hex)		Dell ESG PCBA Test
-  001143     (base 16)		Dell ESG PCBA Test
+  00-11-43   (hex)		Dell Inc
+  001143     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -29516,8 +29516,8 @@
 				Tao Yuan  326
 				TAIWAN, PROVINCE OF CHINA
 
-  00-12-3F   (hex)		Dell ESG PCBA Test
-  00123F     (base 16)		Dell ESG PCBA Test
+  00-12-3F   (hex)		Dell Inc
+  00123F     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -31451,8 +31451,8 @@
 				Suwanee GA 30024
 				UNITED STATES
 
-  00-13-72   (hex)		Dell ESG PCBA Test
-  001372     (base 16)		Dell ESG PCBA Test
+  00-13-72   (hex)		Dell Inc
+  001372     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -32579,8 +32579,8 @@
 				159836
 				SINGAPORE
 
-  00-14-22   (hex)		Dell ESG PCBA Test
-  001422     (base 16)		Dell ESG PCBA Test
+  00-14-22   (hex)		Dell Inc
+  001422     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -35243,8 +35243,8 @@
 				Tokyo  190-0003
 				JAPAN
 
-  00-15-C5   (hex)		Dell ESG PCBA Test
-  0015C5     (base 16)		Dell ESG PCBA Test
+  00-15-C5   (hex)		Dell Inc
+  0015C5     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -39730,8 +39730,8 @@
 				Monmouth Junction New Jersey 08852
 				UNITED STATES
 
-  00-18-8B   (hex)		Dell ESG PCBA Test
-  00188B     (base 16)		Dell ESG PCBA Test
+  00-18-8B   (hex)		Dell Inc
+  00188B     (base 16)		Dell Inc
   				One Dell Way
 				Round Rock Texas 78682
 				UNITED STATES
@@ -47396,10 +47396,11 @@
 				Artarmon NSW 2065
 				AUSTRALIA
 
-  00-1D-40   (hex)		Living Independently Group, Inc.
-  001D40     (base 16)		Living Independently Group, Inc.
-  				767 Third Ave, 14th Floor
-				New York NY 10017
+  00-1D-40   (hex)		 Intel – GE Care Innovations LLC
+  001D40     (base 16)		 Intel – GE Care Innovations LLC
+  				3721 Douglas Blvd
+				Suite 100
+				Roseville CA 95661
 				UNITED STATES
 
   00-1D-41   (hex)		Hardy Instruments
@@ -80613,6 +80614,12 @@
 				Xiamen city Fujian Province 361102
 				CHINA
 
+  04-57-2F   (hex)		Sertel Electronics UK Ltd
+  04572F     (base 16)		Sertel Electronics UK Ltd
+  				Rutland House, 148 Edmund Street,
+				Birmingham  B3 2FD
+				UNITED KINGDOM
+
   04-58-6F   (hex)		Sichuan Whayer information industry Co.,LTD
   04586F     (base 16)		Sichuan Whayer information industry Co.,LTD
   				Layer 16,Building 10, C Area
@@ -82411,6 +82418,12 @@
   				1505 Wallace Drive, Suite 102
 				Carrollton TX 75006
 				UNITED STATES
+
+  08-B2-A3   (hex)		Cynny Italia S.r.L.
+  08B2A3     (base 16)		Cynny Italia S.r.L.
+  				Via delle Mantellate, 8
+				Firenze FI 59021
+				ITALY
 
   08-B4-CF   (hex)		Abicom International
   08B4CF     (base 16)		Abicom International
@@ -84916,8 +84929,8 @@
 				Houston Texas 77070
 				UNITED STATES
 
-  18-A9-9B   (hex)		Dell Inc PCBA Test
-  18A99B     (base 16)		Dell Inc PCBA Test
+  18-A9-9B   (hex)		Dell Inc
+  18A99B     (base 16)		Dell Inc
   				one dell way
 				Round rock Texas 78682
 				UNITED STATES
@@ -85123,6 +85136,13 @@
   				295 Labrosse
 				Pointe-claire QC H9R-1A3
 				CANADA
+
+  18-FB-7B   (hex)		Dell Inc
+  18FB7B     (base 16)		Dell Inc
+  				one dell way
+				MS:RR5-45
+				Round rock Texas 78682
+				UNITED STATES
 
   18-FC-9F   (hex)		Changhe Electronics Co., Ltd.
   18FC9F     (base 16)		Changhe Electronics Co., Ltd.
@@ -88499,6 +88519,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  30-91-8F   (hex)		Technicolor
+  30918F     (base 16)		Technicolor
+  				Prins Boudewijnlaan 47
+				Edegem - Belgium Antwerp B-2650
+				BELGIUM
+
   30-92-F6   (hex)		SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD
   3092F6     (base 16)		SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD
   				Suite 604-605,Xing Yuan Technology Plaza
@@ -88703,8 +88729,8 @@
 				Cupertino CA 95014
 				UNITED STATES
 
-  34-17-EB   (hex)		Dell Inc PCBA Test
-  3417EB     (base 16)		Dell Inc PCBA Test
+  34-17-EB   (hex)		Dell Inc
+  3417EB     (base 16)		Dell Inc
   				one dell way
 				MS:RR5-45
 				Round rock Texas 78682
@@ -92982,6 +93008,12 @@
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
+  50-58-00   (hex)		WyTec International, Inc.
+  505800     (base 16)		WyTec International, Inc.
+  				19206 Huebner Rd Suite 202
+				San Antonio Texas 78258
+				UNITED STATES
+
   50-5A-C6   (hex)		GUANGDONG SUPER TELECOM CO.,LTD.
   505AC6     (base 16)		GUANGDONG SUPER TELECOM CO.,LTD.
   				4/F,NO.1025-1027 Gaopu Rd
@@ -93541,6 +93573,12 @@
 				Tettnang  88069
 				GERMANY
 
+  54-4A-16   (hex)		Texas Instruments
+  544A16     (base 16)		Texas Instruments
+  				12500 TI Blvd
+				Dallas Texas 75093
+				UNITED STATES
+
   54-53-ED   (hex)		Sony Corporation
   5453ED     (base 16)		Sony Corporation
   				Gotenyama Tec.
@@ -93855,6 +93893,13 @@
   54EE75     (base 16)		Wistron InfoComm(Kunshan)Co.,Ltd.
   				168# First Avenue,Kunshan Integrated Free Trade Zone,Kunshan,Jiangsu,China
 				Kunshan Jiangsu 215300
+				CHINA
+
+  54-EF-92   (hex)		Shenzhen Elink Technology Co., LTD
+  54EF92     (base 16)		Shenzhen Elink Technology Co., LTD
+  				A531, Famous, No 168 Bao Yuan Road,
+				 Xixiang, Bao'an District
+				Shenzhen Guangdong 518000
 				CHINA
 
   54-F5-B6   (hex)		ORIENTAL PACIFIC INTERNATIONAL LIMITED
@@ -94565,6 +94610,12 @@
 				Sydney NSW 2113
 				AUSTRALIA
 
+  5C-31-3E   (hex)		Texas Instruments
+  5C313E     (base 16)		Texas Instruments
+  				12500 TI Blvd
+				Dallas Texas 75093
+				UNITED STATES
+
   5C-33-27   (hex)		Spazio Italia srl
   5C3327     (base 16)		Spazio Italia srl
   				Via G.Galilei, 50
@@ -94982,6 +95033,12 @@
 				Research Triangle Park NC 27709-2195
 				UNITED STATES
 
+  5C-F4-AB   (hex)		ZyXEL Communications Corp
+  5CF4AB     (base 16)		ZyXEL Communications Corp
+  				No. 6 Innovation Road II, Science Park
+				Hsichu Taiwan 300
+				TAIWAN, PROVINCE OF CHINA
+
   5C-F5-0D   (hex)		Institute of microelectronic applications
   5CF50D     (base 16)		Institute of microelectronic applications
   				Na Valentince 1003/1
@@ -95302,6 +95359,12 @@
   607688     (base 16)		Velodyne
   				345 Digital Drive
 				Morgan Hill CA 95037
+				UNITED STATES
+
+  60-81-2B   (hex)		Custom Control Concepts
+  60812B     (base 16)		Custom Control Concepts
+  				6020 S 190th ST
+				Kent Washington 98032
 				UNITED STATES
 
   60-83-B2   (hex)		GkWare e.K.
@@ -97575,6 +97638,12 @@
 				SHENZ GUANGONG 518057
 				CHINA
 
+  6C-EC-EB   (hex)		Texas Instruments
+  6CECEB     (base 16)		Texas Instruments
+  				12500 TI BLVD
+				Dallas Texas 75243
+				UNITED STATES
+
   6C-F0-49   (hex)		GIGA-BYTE TECHNOLOGY CO.,LTD.
   6CF049     (base 16)		GIGA-BYTE TECHNOLOGY CO.,LTD.
   				No.215,Nan-Ping Road,
@@ -98608,8 +98677,8 @@
 				Beijing  100176
 				CHINA
 
-  74-86-7A   (hex)		Dell Inc PCBA Test
-  74867A     (base 16)		Dell Inc PCBA Test
+  74-86-7A   (hex)		Dell Inc
+  74867A     (base 16)		Dell Inc
   				one dell way
 				Round rock Texas 78682
 				UNITED STATES
@@ -99282,6 +99351,12 @@
 				 Hsinchu Science Park,
 				Hsin-chu  300
 				TAIWAN, PROVINCE OF CHINA
+
+  78-92-3E   (hex)		Nokia Corporation
+  78923E     (base 16)		Nokia Corporation
+  				Joensuunkatu 7
+				Salo N.A. 24101
+				FINLAND
 
   78-92-9C   (hex)		Intel Corporate
   78929C     (base 16)		Intel Corporate
@@ -100276,6 +100351,13 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  7C-D3-0A   (hex)		INVENTEC Corporation
+  7CD30A     (base 16)		INVENTEC Corporation
+  				Inventec Building, 66 Hou-Kang Street
+				Shih-Lin District,
+				Taipei  111
+				TAIWAN, PROVINCE OF CHINA
+
   7C-D7-62   (hex)		Freestyle Technology Pty Ltd
   7CD762     (base 16)		Freestyle Technology Pty Ltd
   				1A 24 Ricketts Road
@@ -100453,6 +100535,12 @@
   				60 shimoishida,azabu-cho,
 				Miyoshi-shi Aichi-ken 470-0206
 				JAPAN
+
+  80-0E-24   (hex)		ForgetBox
+  800E24     (base 16)		ForgetBox
+  				61 rue de Sèvres
+				Ville d'Avray IDF 92140
+				FRANCE
 
   80-14-40   (hex)		Sunlit System Technology Corp
   801440     (base 16)		Sunlit System Technology Corp
@@ -106223,10 +106311,10 @@
 				Norrköping  60221
 				SWEDEN
 
-  A4-7C-1F   (hex)		Global Microwave Systems Inc.
-  A47C1F     (base 16)		Global Microwave Systems Inc.
-  				1916 Palomar Oaks Way, Suite 100
-				Carlsbad CA 92008
+  A4-7C-1F   (hex)		Cobham plc
+  A47C1F     (base 16)		Cobham plc
+  				3985 Gateway Centre Blvd
+				Pinellas Park FL 33782
 				UNITED STATES
 
   A4-7E-39   (hex)		zte corporation
@@ -106305,6 +106393,12 @@
   A49EDB     (base 16)		AutoCrib, Inc.
   				3011 S. Croddy Way
 				Santa Ana CA 92704
+				UNITED STATES
+
+  A4-9F-85   (hex)		Lyve Minds, Inc
+  A49F85     (base 16)		Lyve Minds, Inc
+  				10001 N. De Anza Blvd, Ste 300
+				Cupertino CA 95014
 				UNITED STATES
 
   A4-9F-89   (hex)		Shanghai Rui Rui Communication Technology Co.Ltd.
@@ -109557,8 +109651,8 @@
 				Shanghai 200241
 				CHINA
 
-  B8-CA-3A   (hex)		Dell PCBA Test
-  B8CA3A     (base 16)		Dell PCBA Test
+  B8-CA-3A   (hex)		Dell Inc
+  B8CA3A     (base 16)		Dell Inc
   				One Dell Way
 				MS RR5-45
 				Round Rock Texas 78682
@@ -110085,6 +110179,12 @@
 				SEMTHAI. WELLGROW INDUSTRIAL ESTATE
 				Bangpakong Chachoengsao 24180
 				THAILAND
+
+  BC-8D-0E   (hex)		Alcatel-Lucent
+  BC8D0E     (base 16)		Alcatel-Lucent
+  				600 March Road
+				Kanata Ontario K2K 2E6
+				CANADA
 
   BC-92-6B   (hex)		Apple
   BC926B     (base 16)		Apple
@@ -111563,8 +111663,8 @@
 				209386
 				SINGAPORE
 
-  C8-1F-66   (hex)		Dell Inc PCBA Test
-  C81F66     (base 16)		Dell Inc PCBA Test
+  C8-1F-66   (hex)		Dell Inc
+  C81F66     (base 16)		Dell Inc
   				one dell way
 				Round rock Texas 78682
 				UNITED STATES
@@ -112556,6 +112656,12 @@
 				Warsaw  02-968
 				POLAND
 
+  CC-A0-E5   (hex)		DZG Metering GmbH
+  CCA0E5     (base 16)		DZG Metering GmbH
+  				Heidelberger Str. 32
+				Oranienburg Brandenburg 16515
+				GERMANY
+
   CC-A3-74   (hex)		Guangdong Guanglian Electronic Technology Co.Ltd
   CCA374     (base 16)		Guangdong Guanglian Electronic Technology Co.Ltd
   				B338,Block13,No.232 Waihuandonglu Road,High Education Mega Center
@@ -112710,6 +112816,12 @@
   				6 Haomanut St.
 				Netanya  42504
 				ISRAEL
+
+  CC-E1-D5   (hex)		Buffalo Inc.
+  CCE1D5     (base 16)		Buffalo Inc.
+  				AKAMONDORI Bldg.,30-20,Ohsu 3-chome
+				Naka-ku,Nagoya Aichi Pref 460-8315
+				JAPAN
 
   CC-E7-98   (hex)		My Social Stuff
   CCE798     (base 16)		My Social Stuff
@@ -112994,6 +113106,12 @@
   				17F.-8, No.866, Zhongzheng Rd., Zhonghe Dist
 				New Taipei  235
 				TAIWAN, PROVINCE OF CHINA
+
+  D0-5F-B8   (hex)		Texas Instruments
+  D05FB8     (base 16)		Texas Instruments
+  				12500 TI Blvd
+				Dallas Texas 75093
+				UNITED STATES
 
   D0-5F-CE   (hex)		Hitachi Data Systems
   D05FCE     (base 16)		Hitachi Data Systems
@@ -113696,6 +113814,13 @@
 				Duedingen FR 3186
 				SWITZERLAND
 
+  D4-67-61   (hex)		SAHAB TECHNOLOGY
+  D46761     (base 16)		SAHAB TECHNOLOGY
+  				OFFICE 31 , BUILDING 134 , ROAD 39 , BLOCK 335
+				UMM AL-HASSAM
+				MANAMA 26584
+				BAHRAIN
+
   D4-67-E7   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
   D467E7     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
   				No.5 DongXin Road
@@ -113988,6 +114113,12 @@
   				66 Treffers Road
 				Christchurch Canterbury 8042
 				NEW ZEALAND
+
+  D4-CF-F9   (hex)		Shenzhen Sen5 Technology Co., Ltd.
+  D4CFF9     (base 16)		Shenzhen Sen5 Technology Co., Ltd.
+  				3F (East), Block D, SDG Infoport, No.2 Kefeng Road,Nanshan District
+				Shenzhen Guangdong 518057
+				CHINA
 
   D4-D1-84   (hex)		ADB Broadband Italia
   D4D184     (base 16)		ADB Broadband Italia
@@ -114285,6 +114416,12 @@
 				Shenzhen Guangdong 518129
 				CHINA
 
+  D8-49-2F   (hex)		CANON INC.
+  D8492F     (base 16)		CANON INC.
+  				30-2 Shimomaruko 3-chome,
+				Ohta-ku Tokyo 146-8501
+				JAPAN
+
   D8-4B-2A   (hex)		Cognitas Technologies, Inc.
   D84B2A     (base 16)		Cognitas Technologies, Inc.
   				6406 Laurel Bush Ln.
@@ -114467,6 +114604,12 @@
   				127 S Bell Ave
 				Ames IA 50010
 				UNITED STATES
+
+  D8-97-7C   (hex)		Grey Innovation
+  D8977C     (base 16)		Grey Innovation
+  				255 Mary St
+				Richmond Victoria 3121
+				AUSTRALIA
 
   D8-9D-67   (hex)		Hewlett Packard
   D89D67     (base 16)		Hewlett Packard
@@ -117137,6 +117280,12 @@
 				Meguro-ku Tokyo 153-8904
 				JAPAN
 
+  EC-2E-4E   (hex)		HITACHI-LG DATA STORAGE INC
+  EC2E4E     (base 16)		HITACHI-LG DATA STORAGE INC
+  				4F, MSC CENTER  BLDG., 22-23 KAIGAN 3-CHOME, MINATO-KU,
+				TOKYO TOKYO 108-0022
+				JAPAN
+
   EC-30-91   (hex)		CISCO SYSTEMS, INC.
   EC3091     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -117482,6 +117631,12 @@
 				San Jose CA 95134
 				UNITED STATES
 
+  EC-E5-12   (hex)		tado GmbH
+  ECE512     (base 16)		tado GmbH
+  				Lindwurmstr. 76
+				Munich Bavaria 80337
+				GERMANY
+
   EC-E5-55   (hex)		Hirschmann Automation
   ECE555     (base 16)		Hirschmann Automation
   				Stuttgarter Straße 45-51
@@ -117536,8 +117691,8 @@
 				Salo N.A. 24101
 				FINLAND
 
-  EC-F4-BB   (hex)		Dell Inc PCBA Test
-  ECF4BB     (base 16)		Dell Inc PCBA Test
+  EC-F4-BB   (hex)		Dell Inc
+  ECF4BB     (base 16)		Dell Inc
   				one dell way
 				MS:RR5-45
 				Round rock Texas 78682
@@ -117619,8 +117774,8 @@
 				Seoul  153-801
 				KOREA, REPUBLIC OF
 
-  F0-1F-AF   (hex)		Dell Inc PCBA Test
-  F01FAF     (base 16)		Dell Inc PCBA Test
+  F0-1F-AF   (hex)		Dell Inc
+  F01FAF     (base 16)		Dell Inc
   				one dell way
 				Round rock Texas 78682
 				UNITED STATES
@@ -119058,6 +119213,13 @@
 				Seoul 153759
 				KOREA, REPUBLIC OF
 
+  F8-66-01   (hex)		Suzhou Chi-tek information technology Co., Ltd
+  F86601     (base 16)		Suzhou Chi-tek information technology Co., Ltd
+  				Rm204C、204D, Building A7,
+				Biobay, No.218, Xinghu St, SIP
+				 SuZhou Jiangsu 215123
+				CHINA
+
   F8-66-F2   (hex)		CISCO SYSTEMS, INC.
   F866F2     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -119245,8 +119407,8 @@
 				Chippenham Wiltshire SN15 1BN
 				UNITED KINGDOM
 
-  F8-B1-56   (hex)		Dell Inc PCBA Test
-  F8B156     (base 16)		Dell Inc PCBA Test
+  F8-B1-56   (hex)		Dell Inc
+  F8B156     (base 16)		Dell Inc
   				one dell way
 				Round rock Texas 78682
 				UNITED STATES
@@ -119257,8 +119419,8 @@
 				Guangzhou Guangdong 510006
 				CHINA
 
-  F8-BC-12   (hex)		Dell Inc PCBA Test
-  F8BC12     (base 16)		Dell Inc PCBA Test
+  F8-BC-12   (hex)		Dell Inc
+  F8BC12     (base 16)		Dell Inc
   				one dell way
 				Round rock Texas 78682
 				UNITED STATES
@@ -119357,8 +119519,8 @@
 				Taoyuan County  330
 				TAIWAN, PROVINCE OF CHINA
 
-  F8-DB-88   (hex)		Dell Inc PCBA Test
-  F8DB88     (base 16)		Dell Inc PCBA Test
+  F8-DB-88   (hex)		Dell Inc
+  F8DB88     (base 16)		Dell Inc
   				one dell way
 				Round rock Texas 78682
 				UNITED STATES
@@ -119704,6 +119866,13 @@
 				ShenZhen GuangDong 518129
 				CHINA
 
+  FC-4A-E9   (hex)		Castlenet Technology Inc.
+  FC4AE9     (base 16)		Castlenet Technology Inc.
+  				No.64, Chung-Shan Rd.
+				Tu-Cheng Dist.
+				New Taipei City  23680
+				TAIWAN, PROVINCE OF CHINA
+
   FC-4B-1C   (hex)		INTERSENSOR S.R.L.
   FC4B1C     (base 16)		INTERSENSOR S.R.L.
   				101 Bd. Iuliu Maniu str., Bl. A2, Sc. 2, #47
@@ -119990,6 +120159,13 @@
 				Nanshan District
 				Shenzhen Guangdong 518000
 				CHINA
+
+  FC-E1-86   (hex)		A3M Co., LTD
+  FCE186     (base 16)		A3M Co., LTD
+  				KeumJeong Highview 2F #205,
+				153-8, LS-ro,
+				Gunpo Gyeonggi 435-845
+				KOREA, REPUBLIC OF
 
   FC-E1-92   (hex)		Sichuan Jinwangtong Electronic Science&Technology Co,.Ltd
   FCE192     (base 16)		Sichuan Jinwangtong Electronic Science&Technology Co,.Ltd
