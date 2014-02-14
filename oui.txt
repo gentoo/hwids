@@ -56570,10 +56570,10 @@
 				Burnaby BC V5J 5L2
 				CANADA
 
-  00-22-EF   (hex)		Ibis Tek, LLC
-  0022EF     (base 16)		Ibis Tek, LLC
-  				912 Pittsburgh Road
-				Butler PA 16002
+  00-22-EF   (hex)		iWDL Technologies
+  0022EF     (base 16)		iWDL Technologies
+  				10522 Meinert Rd
+				Wexford PA 15090
 				UNITED STATES
 
   00-22-F0   (hex)		3 Greens Aviation Limited
@@ -90314,6 +90314,12 @@
 				Kulim Kedah 09000
 				MALAYSIA
 
+  3C-AB-8E   (hex)		Apple
+  3CAB8E     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   3C-B1-5B   (hex)		Avaya, Inc
   3CB15B     (base 16)		Avaya, Inc
   				211 Mount Airy Road
@@ -90683,6 +90689,13 @@
 				Göteborg  41104
 				SWEDEN
 
+  40-45-DA   (hex)		Spreadtrum Communications (Shanghai) Co., Ltd.
+  4045DA     (base 16)		Spreadtrum Communications (Shanghai) Co., Ltd.
+  				Building 1, Spreadtrum Center, No.2288, Zuchongzhi Rd
+				Zhangjiang High-Tech Park, Pudong District,
+				Shanghai 201203
+				CHINA
+
   40-4A-03   (hex)		ZyXEL Communications Corporation
   404A03     (base 16)		ZyXEL Communications Corporation
   				No.6 Innovation Road II
@@ -90965,6 +90978,12 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  40-B3-CD   (hex)		Chiyoda Electronics Co.,Ltd.
+  40B3CD     (base 16)		Chiyoda Electronics Co.,Ltd.
+  				1-3-11 Nishiki-cho
+				Warabi Saitama 335-0005
+				JAPAN
 
   40-B3-FC   (hex)		Logital Co. Limited
   40B3FC     (base 16)		Logital Co. Limited
@@ -95440,6 +95459,12 @@
 				Menlo Park CA 94025
 				UNITED STATES
 
+  60-92-17   (hex)		Apple
+  609217     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   60-96-20   (hex)		PRIVATE
   609620     (base 16)		 
 
@@ -97691,6 +97716,13 @@
   				211 Mout Airy Road
 				Basking Ridge NJ 07920-2311
 				UNITED STATES
+
+  6C-FA-A7   (hex)		AMPAK Technology Inc.
+  6CFAA7     (base 16)		AMPAK Technology Inc.
+  				No.1,Jen Ai Road
+				Hsinchu Industrail Park,Hukou
+				Hsinchu  30352
+				TAIWAN, PROVINCE OF CHINA
 
   6C-FD-B9   (hex)		Proware Technologies Co Ltd.
   6CFDB9     (base 16)		Proware Technologies Co Ltd.
@@ -101532,6 +101564,12 @@
 				Okayama-city Okayama 700-0815
 				JAPAN
 
+  84-B1-53   (hex)		Apple
+  84B153     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   84-B5-9C   (hex)		Juniper networks
   84B59C     (base 16)		Juniper networks
   				1194 N. Mathilda Avenue
@@ -101677,6 +101715,13 @@
 				3F-Hirayama building
 				Ichinomiya-shi Aichi-ken 491-0853
 				JAPAN
+
+  88-0F-10   (hex)		Huami Information Technology Co.,Ltd.
+  880F10     (base 16)		Huami Information Technology Co.,Ltd.
+  				Room 1201 Building A4, National Animation Industry Base
+				No.800 Wangjing West Road.
+				Hefei Anhui 230088
+				CHINA
 
   88-0F-B6   (hex)		Jabil Circuits India Pvt Ltd,-EHTP unit
   880FB6     (base 16)		Jabil Circuits India Pvt Ltd,-EHTP unit
@@ -111118,6 +111163,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  C4-34-6B   (hex)		Hewlett Packard
+  C4346B     (base 16)		Hewlett Packard
+  				11445 Compaq Center Drive
+				Houston Texas 77070
+				UNITED STATES
+
   C4-36-DA   (hex)		Rusteletech Ltd.
   C436DA     (base 16)		Rusteletech Ltd.
   				Ordzhonikidze Str. 11, Bldg. 40, Off. 15
@@ -114587,6 +114638,12 @@
 				Chikushino-shi Fukuoka 818-0041
 				JAPAN
 
+  D8-7E-B1   (hex)		x.o.ware, inc.
+  D87EB1     (base 16)		x.o.ware, inc.
+  				114 E. Haley St., Ste N
+				Santa Barbara California 93101
+				UNITED STATES
+
   D8-81-CE   (hex)		AHN INC.
   D881CE     (base 16)		AHN INC.
   				1006,Halla sigma valley, 53, Gasandigital 2-Ro
@@ -114775,6 +114832,12 @@
   				22/F DELTA HOUSE 3 ON YIU ST
 				SHATIN NT  
 				HONG KONG
+
+  D8-CF-9C   (hex)		Apple
+  D8CF9C     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   D8-D1-CB   (hex)		Apple
   D8D1CB     (base 16)		Apple
@@ -119168,6 +119231,12 @@
   				27-18, Minami Oi 6-chome, Shinagawa-ku
 				Tokyo  140-8572
 				JAPAN
+
+  F8-4A-73   (hex)		EUMTECH CO., LTD
+  F84A73     (base 16)		EUMTECH CO., LTD
+  				Room 1201, 115, Dongdeok-ro
+				Daegu 700-719
+				KOREA, REPUBLIC OF
 
   F8-4A-7F   (hex)		Innometriks Inc
   F84A7F     (base 16)		Innometriks Inc

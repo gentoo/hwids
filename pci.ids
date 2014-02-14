@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.02.11
-#	Date:    2014-02-11 03:15:01
+#	Version: 2014.02.14
+#	Date:    2014-02-14 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -4238,10 +4238,15 @@
 	47c2  Solios COM port
 	4949  Radient frame grabber family
 		102b 0010  Radient eCL (Single-full) frame grabber
+		102b 0011  Radient eCLV (Single-full) frame grabber
 		102b 0020  Radient eCL (Dual-base) frame grabber
 		102b 0030  Radient eCL (Dual-full) frame grabber
 		102b 0040  Radient eCL (Quad-base) frame grabber
 		102b 0050  Radient eCL (Golden) frame grabber
+		102b 1010  Radient eV-CXP (quad CXP-6) frame grabber
+		102b 1015  Radient eV-CXP (dual CXP-6) frame grabber
+		102b 1020  Radient eV-CXP (quad CXP-3) frame grabber
+		102b 1050  Radient eV-CXP (Golden) frame grabber
 	4cdc  Morphis JPEG2000 accelerator
 	4f54  Morphis (e)Quad frame grabber
 	4fc5  Morphis (e)Dual frame grabber
@@ -9024,6 +9029,7 @@
 		1b0a 20df  GeForce GT 620M
 		1b0a 2202  GeForce GT 720M
 	1180  GK104 [GeForce GTX 680]
+		1043 83f1  GTX680-DC2-2GD5
 		3842 3682  GeForce GTX 680 Mac Edition
 	1182  GK104 [GeForce GTX 760 Ti]
 	1183  GK104 [GeForce GTX 660 Ti]
@@ -9149,6 +9155,7 @@
 	1293  GK208M [GeForce GT 730M]
 	1294  GK208M [GeForce GT 740M]
 	1295  GK208M [GeForce 710M]
+	1296  GK208M [GeForce 825M]
 	1298  GK208M [GeForce GT 720M]
 	12a0  GK208
 	12b9  GK208GLM [Quadro K610M]
@@ -9156,6 +9163,8 @@
 	1341  GM108M [GeForce 840M]
 	1380  GM107 [GeForce GTX 750 Ti]
 	1381  GM107 [GeForce GTX 750]
+	1391  GM107M [GeForce GTX 850M]
+	1392  GM107M [GeForce GTX 860M]
 10df  Emulex Corporation
 	0720  OneConnect NIC (Skyhawk)
 		17aa 1056  ThinkServer OCm14102-UX-L AnyFabric
@@ -10222,11 +10231,23 @@
 # Superfastcom-PCI (Commtech, Inc.) or DSCC4 WAN Adapter
 	2102  DSCC4 PEB/PEF 20534 DMA Supported Serial Communication Controller with 4 Channels
 	2104  Eicon Diva 2.02 compatible passive ISDN card
-	3141  SIMATIC NET CP 5611 (Profibus Adapter)
-	3142  SIMATIC NET CP 5613A1 (Profibus Adapter)
+	3141  SIMATIC NET CP 5611 / 5621
+	3142  SIMATIC NET CP 5613 / 5614
+	3143  SIMATIC NET CP 1613
 	4021  SIMATIC NET CP 5512 (Profibus and MPI Cardbus Adapter)
-	4029  SIMATIC NET CP 5613A2 (Profibus Adapter)
+	4029  SIMATIC NET CP 5614 A2
+		110a 4029  SIMATIC NET CP 5613 A2
+		110a c029  SIMATIC NET CP 5614 A2
 	4035  SIMATIC NET CP 1613 A2
+	4036  SIMATIC NET CP 1616
+	4038  SIMATIC NET CP 1604
+	4069  SIMATIC NET CP 5623
+		110a c069  SIMATIC NET CP 5624
+	407c  SIMATIC NET CP 5612
+	407d  SIMATIC NET CP 5613 A3
+	407e  SIMATIC NET CP 5622
+	4083  SIMATIC NET CP 5614 A3
+	4084  SIMATIC NET CP 1626
 	4942  FPGA I-Bus Tracer for MBD
 	6120  SZB6120
 110b  Chromatic Research Inc.
@@ -12128,6 +12149,7 @@
 	8330  OZ600 MS/xD Controller
 		1028 04a3  Precision M4600
 	8331  O2 Flash Memory Card
+	8520  SD/MMC Card Reader Controller
 1218  Hybricon Corp.
 1219  First Virtual Corporation
 121a  3Dfx Interactive, Inc.
@@ -14824,6 +14846,15 @@
 	168d  NetXtreme II BCM57840 10/20 Gigabit Ethernet
 	168e  NetXtreme II BCM57810 10 Gigabit Ethernet
 		103c 1798  Flex-10 10Gb 2-port 530FLB Adapter [Meru]
+		103c 17a5  HP Flex-10 10Gb 2-port 530M Adapter
+		103c 18d3  HP Ethernet 10Gb 2-port 530T Adapter
+		103c 1930  HP FlexFabric 10Gb 2-port 534FLR-SFP+ Adapter
+		103c 1931  HP StoreFabric CN1100R Dual Port Converged Network Adapter
+		103c 1932  HP FlexFabric 10Gb 2-port 534FLB Adapter
+		103c 1933  HP FlexFabric 10Gb 2-port 534M Adapter
+		103c 193a  HP FlexFabric 10Gb 2-port 533FLR-T Adapter
+		103c 3382  HP Ethernet 10Gb 2-port 530FLR-SFP+ Adapter
+		103c 339d  HP Ethernet 10Gb 2-port 530SFP+ Adapter
 	1690  NetXtreme BCM57760 Gigabit Ethernet PCIe
 	1691  NetLink BCM57788 Gigabit Ethernet PCIe
 		1028 04aa  XPS 8300
@@ -14849,7 +14880,11 @@
 	16a0  NetLink BCM5785 Fast Ethernet
 	16a1  BCM57840 NetXtreme II 10 Gigabit Ethernet
 	16a2  BCM57840 NetXtreme II 10/20-Gigabit Ethernet
+		103c 1916  HP FlexFabric 20Gb 2-port 630FLB Adapter
+		103c 1917  HP FlexFabric 20Gb 2-port 630M Adapter
 	16a4  BCM57840 NetXtreme II Ethernet Multi Function
+		103c 1916  HP NPAR 20Gb 2-port 630FLB Adapter
+		103c 1917  HP NPAR 20Gb 2-port 630M Adapter
 # The Broadcom 57800 device has two 1Gig ports and two 10Gig ports. The subsystem information can be used to differentiate.
 	16a5  NetXtreme II BCM57800 1/10 Gigabit Ethernet Multi Function
 		1028 1f5c  NetXtreme II BCM57800 10-Gigabit Ethernet Multi Function
@@ -14893,8 +14928,30 @@
 		103c 703b  NC373i Integrated Multifunction Gigabit Server Adapter
 		103c 703d  NC373F PCI Express Multifunction Gigabit Server Adapter
 	16ad  NetXtreme II BCM57840 10/20 Gigabit Ethernet Virtual Function
+		103c 1916  HP FlexFabric 20Gb 2-port 630FLB Adapter
+		103c 1917  HP FlexFabric 20Gb 2-port 630M Adapter
 	16ae  NetXtreme II BCM57810 10 Gigabit Ethernet Multi Function
+		103c 1798  HP NPAR 10Gb 2-port 530FLB Adapter
+		103c 17a5  HP NPAR 10Gb 2-port 530M Adapter
+		103c 18d3  HP NPAR 10Gb 2-port 530T Adapter
+		103c 1930  HP NPAR 10Gb 2-port 534FLR-SFP+ Adapter
+		103c 1931  HP NPAR CN1100R Dual Port Converged Network Adapter
+		103c 1932  HP NPAR 10Gb 2-port 534FLB Adapter
+		103c 1933  HP NPAR 10Gb 2-port 534M Adapter
+		103c 193a  HP NPAR 10Gb 2-port 533FLR-T Adapter
+		103c 3382  HP NPAR 10Gb 2-port 530FLR-SFP+ Adapter
+		103c 339d  HP NPAR 10Gb 2-port 530SFP+ Adapter
 	16af  NetXtreme II BCM57810 10 Gigabit Ethernet Virtual Function
+		103c 1798  HP Flex-10 10Gb 2-port 530FLB Adapter
+		103c 17a5  HP Flex-10 10Gb 2-port 530M Adapter
+		103c 18d3  HP Ethernet 10Gb 2-port 530T Adapter
+		103c 1930  HP FlexFabric 10Gb 2-port 534FLR-SFP+ Adapter
+		103c 1931  HP StoreFabric CN1100R Dual Port Converged Network Adapter
+		103c 1932  HP FlexFabric 10Gb 2-port 534FLB Adapter
+		103c 1933  HP FlexFabric 10Gb 2-port 534M Adapter
+		103c 193a  HP FlexFabric 10Gb 2-port 533FLR-T Adapter
+		103c 3382  HP Ethernet 10Gb 2-port 530FLR-SFP+ Adapter
+		103c 339d  HP Ethernet 10Gb 2-port 530SFP+ Adapter
 	16b0  NetXtreme BCM57761 Gigabit Ethernet PCIe
 	16b1  NetLink BCM57781 Gigabit Ethernet PCIe
 		1849 96b1  Z77 Extreme4 motherboard
@@ -17133,6 +17190,7 @@
 	0083  MPC8347 TBGA
 	0084  MPC8347E PBGA
 	0085  MPC8347 PBGA
+		110a 4046  SIMATIC NET CP 1623
 	0086  MPC8343E
 	0087  MPC8343
 	00b4  MPC8315E
@@ -19761,6 +19819,7 @@
 		8086 011a  Ethernet Converged Network Adapter X520-4
 		8086 011b  Ethernet Converged Network Adapter X520-4
 		8086 011c  Ethernet Converged Network Adapter X520-4
+	154c  XL710 X710 Virtual Function
 	154d  Ethernet 10G 2P X520 Adapter
 		8086 7b11  10GbE 2P X520 Adapter
 	1557  82599 10 Gigabit Network Connection
@@ -19776,8 +19835,30 @@
 		8086 0001  Ethernet Server Bypass Adapter X520-SR2
 		8086 0002  Ethernet Server Bypass Adapter X520-LR2
 	1560  Ethernet Controller X540
+	1571  XL710 X710 Virtual Function
+	1572  Ethernet 10G 2P X710 Adapter
+		1028 1f99  Ethernet 10G 4P X710/I350 rNDC
+		8086 0001  Ethernet Converged Network Adapter X710-4
+		8086 0002  Ethernet Converged Network Adapter X710-4
+		8086 0004  Ethernet Converged Network Adapter X710-4
+		8086 0005  Ethernet 10G 4P X710 Adapter
+		8086 0006  Ethernet 10G2P X710 Adapter
+		8086 0007  Ethernet Converged Network Adapter X710-2
+		8086 0008  Ethernet Converged Network Adapter X710-2
 	157b  I210 Gigabit Network Connection
 	157c  I210 Gigabit Backplane Connection
+	1580  Ethernet Controller XL710 for 40Gbe backplane
+	1581  Ethernet Controller X710 for 10Gbe backplane
+		1028 1f98  Ethernet 10G 4P X710-k bNDC
+	1583  Ethernet Controller LX710 for 40GbE QSFP+
+		8086 0001  Ethernet Converged Network Adapter XL710-Q2
+		8086 0002  Ethernet Converged Network Adapter XL710-Q2
+		8086 0003  Ethernet I/O Module XL710-Q2
+	1584  Ethernet Controller XL710 for 40GbE QSFP+
+		8086 0001  Ethernet Converged Network Adapter XL710-Q1
+		8086 0002  Ethernet Converged Network Adapter XL710-Q1
+		8086 0003  Ethernet I/O Module XL710-Q1
+	1585  Ethernet Controller XL710 for 10GbE QSFP+
 	15a0  Ethernet Connection (2) I218-LM
 	15a1  Ethernet Connection (2) I218-V
 	15a2  Ethernet Connection (3) I218-LM
