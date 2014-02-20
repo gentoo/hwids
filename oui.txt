@@ -84043,6 +84043,13 @@
 				St.  Petersburg  196084
 				RUSSIAN FEDERATION
 
+  14-2B-D6   (hex)		Guangdong Appscomm Co.,Ltd
+  142BD6     (base 16)		Guangdong Appscomm Co.,Ltd
+  				Rm 903, Block C3, Chuangxin Building, No.182,
+				Science Road, Science City, LuoGang Zone
+				Guangzhou Guangdong 510663
+				CHINA
+
   14-2D-27   (hex)		Hon Hai Precision Ind. Co.,Ltd.
   142D27     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
   				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District,Chongqing,China
@@ -85957,6 +85964,13 @@
 				SAN JOSE CALIFORNIA 95134
 				UNITED STATES
 
+  20-53-CA   (hex)		Risk Technology Ltd
+  2053CA     (base 16)		Risk Technology Ltd
+  				Matrix House, Merlin Court
+				Atlantic Street
+				Altrincham Cheshire WA14 5NL
+				UNITED KINGDOM
+
   20-54-76   (hex)		Sony Mobile Communications AB
   205476     (base 16)		Sony Mobile Communications AB
   				Mobilvägen 10
@@ -87839,6 +87853,12 @@
   				4F 32,SEC.1 HUAN SHAN RD.,NEI HU,
 				TAIPEI  114
 				TAIWAN, PROVINCE OF CHINA
+
+  2C-5B-E1   (hex)		Centripetal Networks, Inc
+  2C5BE1     (base 16)		Centripetal Networks, Inc
+  				11720 Sunrise Valley Drive, Suite 100
+				Reston Virginia 20191
+				UNITED STATES
 
   2C-5D-93   (hex)		Ruckus Wireless
   2C5D93     (base 16)		Ruckus Wireless
@@ -91707,6 +91727,12 @@
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
+  44-D4-E0   (hex)		Sony Mobile Communications AB
+  44D4E0     (base 16)		Sony Mobile Communications AB
+  				Nya Vattentornet
+				Lund SE 22128
+				SWEDEN
+
   44-D6-3D   (hex)		Talari Networks
   44D63D     (base 16)		Talari Networks
   				3200 Glen Royal Rd.
@@ -93603,6 +93629,13 @@
   				Xinghe Building, Zhongxin Road, Shajing Town, Baoan
 				SHENZHEN GUANGDONG 518104
 				CHINA
+
+  54-4A-00   (hex)		Cisco
+  544A00     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   54-4A-05   (hex)		wenglor sensoric gmbh
   544A05     (base 16)		wenglor sensoric gmbh
@@ -95829,6 +95862,13 @@
 				BUDAPEST  H-1134
 				HUNGARY
 
+  64-12-25   (hex)		Cisco
+  641225     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   64-16-8D   (hex)		CISCO SYSTEMS, INC.
   64168D     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -96278,6 +96318,12 @@
   				No. 23, Xinghua Rd,
 				Taoyuan County  330
 				TAIWAN, PROVINCE OF CHINA
+
+  64-A7-DD   (hex)		Avaya, Inc
+  64A7DD     (base 16)		Avaya, Inc
+  				211 Mount Airy Road
+				Basking Ridge NJ 07920-2311
+				UNITED STATES
 
   64-A8-37   (hex)		Juni Korea Co., Ltd
   64A837     (base 16)		Juni Korea Co., Ltd
@@ -101300,6 +101346,13 @@
   				1 Infinite Loop
 				Cupertion CA 95014
 				UNITED STATES
+
+  84-38-38   (hex)		Samsung Electro Mechanics co., LTD.
+  843838     (base 16)		Samsung Electro Mechanics co., LTD.
+  				93Moo5T. Bangsamak
+				SEMTHAI. WELLGROW INDUSTRIAL ESTATE
+				Bangpakong Chachoengsao 24180
+				THAILAND
 
   84-3A-4B   (hex)		Intel Corporate
   843A4B     (base 16)		Intel Corporate
@@ -112086,6 +112139,13 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  C8-BA-94   (hex)		Samsung Electro Mechanics co., LTD.
+  C8BA94     (base 16)		Samsung Electro Mechanics co., LTD.
+  				93Moo5T. Bangsamak
+				SEMTHAI. WELLGROW INDUSTRIAL ESTATE
+				Bangpakong Chachoengsao 24180
+				THAILAND
 
   C8-BB-D3   (hex)		Embrane
   C8BBD3     (base 16)		Embrane
