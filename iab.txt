@@ -11844,8 +11844,8 @@
 
   00-50-C2	(hex)		BES GmbH
   769000-769FFF	(base 16)	BES GmbH
-  				Große Wehe 1
-				Bad Zwischenahn  D 26160
+  				Spitzenmeer 1
+				Westerstede  D 26655  
 				GERMANY
 
   00-50-C2	(hex)		Digidrive Audio Limited

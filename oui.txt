@@ -47131,10 +47131,10 @@
 				Shenzhen Guangdong 518103
 				CHINA
 
-  00-1D-16   (hex)		Efixo
-  001D16     (base 16)		Efixo
-  				67 Montee De Saint Menet
-				MARSEILLE  13011
+  00-1D-16   (hex)		SFR
+  001D16     (base 16)		SFR
+  				40/42 Quai du point du jour
+				Boulongne Billancourt Hauts de Seine   92659
 				FRANCE
 
   00-1D-17   (hex)		Digital Sky Corporation
@@ -68858,10 +68858,10 @@
 				TOKYO 103  
 				JAPAN
 
-  00-60-60   (hex)		DAWNING TECHNOLOGIES, INC.
-  006060     (base 16)		DAWNING TECHNOLOGIES, INC.
-  				409 MASON ROAD
-				FAIRPORT NY 14450
+  00-60-60   (hex)		Data Innovations North America
+  006060     (base 16)		Data Innovations North America
+  				120 Kimball Avenue Suite 100
+				South Burlington VT 05403
 				UNITED STATES
 
   00-60-61   (hex)		WHISTLE COMMUNICATIONS CORP.
@@ -91549,6 +91549,12 @@
 				Kulim Kedah 09000
 				MALAYSIA
 
+  44-86-C1   (hex)		Siemens Low Voltage & Products
+  4486C1     (base 16)		Siemens Low Voltage & Products
+  				5400 Triangle Parkway
+				Norcross GA 30092
+				UNITED STATES
+
   44-87-FC   (hex)		ELITEGROUP COMPUTER SYSTEM CO., LTD.
   4487FC     (base 16)		ELITEGROUP COMPUTER SYSTEM CO., LTD.
   				NO. 239, Sec. 2, Ti Ding Blvd.
@@ -92006,6 +92012,12 @@
 
   48-76-04   (hex)		PRIVATE
   487604     (base 16)		 
+
+  48-82-44   (hex)		Life Fitness / Div. of Brunswick
+  488244     (base 16)		Life Fitness / Div. of Brunswick
+  				10601 W. Belmont Ave
+				Franklin Park IL 60131
+				UNITED STATES
 
   48-8E-42   (hex)		DIGALOG GmbH
   488E42     (base 16)		DIGALOG GmbH
@@ -94076,6 +94088,13 @@
   				Har-Tuv B
 				Beith Shemesh  99000
 				ISRAEL
+
+  58-23-8C   (hex)		Technicolor CH USA
+  58238C     (base 16)		Technicolor CH USA
+  				101 West 103rd Street
+				INH720
+				Indianapolis IN 46290
+				UNITED STATES
 
   58-2E-FE   (hex)		Lighting Science Group
   582EFE     (base 16)		Lighting Science Group
@@ -100588,6 +100607,12 @@
 				Fremont CA 94538
 				UNITED STATES
 
+  7C-FE-4E   (hex)		Shenzhen Safe vision Technology Co.,LTD
+  7CFE4E     (base 16)		Shenzhen Safe vision Technology Co.,LTD
+  				Shenzhen ring view south road and 27 digital dragon industrial park industrial zone
+				shenzhen Guangdong province 518110
+				CHINA
+
   7C-FF-62   (hex)		Huizhou Super Electron Technology Co.,Ltd.
   7CFF62     (base 16)		Huizhou Super Electron Technology Co.,Ltd.
   				10F,Financial Tower,No.23,Xiapu Road
@@ -101557,6 +101582,12 @@
   				Tuerkenstrasse 89
 				Munich Bavaria 80799
 				GERMANY
+
+  84-94-8C   (hex)		Hitron Technologies. Inc
+  84948C     (base 16)		Hitron Technologies. Inc
+  				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu Taiwan 300
+				TAIWAN, PROVINCE OF CHINA
 
   84-97-B8   (hex)		Memjet Inc.
   8497B8     (base 16)		Memjet Inc.
@@ -106143,6 +106174,12 @@
 				SHENZHEN GUANGDONG 518126
 				CHINA
 
+  A0-FC-6E   (hex)		Telegrafia a.s.
+  A0FC6E     (base 16)		Telegrafia a.s.
+  				Lomena 7
+				Kosice Slovakia 040 01
+				SLOVAKIA
+
   A0-FE-91   (hex)		AVAT Automation GmbH
   A0FE91     (base 16)		AVAT Automation GmbH
   				Derendinger Strasse 40
@@ -106278,6 +106315,13 @@
   A43A69     (base 16)		Vers Inc
   				PO Box 5265
 				Wayland MA 01778
+				UNITED STATES
+
+  A4-3B-FA   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  A43BFA     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  				
+				445 HOES LANE
+				PISCATAWAY NJ 08854
 				UNITED STATES
 
   A4-46-6B   (hex)		EOC Technology
@@ -107271,6 +107315,13 @@
   				Newland Science & Technology Park No.1 Rujiang West Rd., Mawei,
 				Fuzhou Fujian 350015
 				CHINA
+
+  A8-F7-E0   (hex)		PLANET Technology Corporation
+  A8F7E0     (base 16)		PLANET Technology Corporation
+  				11F, No. 96, Min Quan Road,
+				Xin Dian Dist.,
+				New Taipei City  22341
+				TAIWAN, PROVINCE OF CHINA
 
   A8-F9-4B   (hex)		Eltex Enterprise Ltd.
   A8F94B     (base 16)		Eltex Enterprise Ltd.
@@ -111824,6 +111875,13 @@
 				Hsin Tien Taipei County 23141
 				TAIWAN, PROVINCE OF CHINA
 
+  C8-31-68   (hex)		eZEX corporation
+  C83168     (base 16)		eZEX corporation
+  				Rm 508, Ssangyong IT Twin-Tower II, 442-5
+				Sangdaewon-dong, Jungwon-gu
+				Seongnam-si Gyeonggi-do 462-120
+				KOREA, REPUBLIC OF
+
   C8-32-32   (hex)		Hunting Innova
   C83232     (base 16)		Hunting Innova
   				8383 N Sam Houston Pkwy West
@@ -114960,6 +115018,13 @@
   				12500 TI Boulevard
 				Dallas TX 75243
 				UNITED STATES
+
+  D8-DE-CE   (hex)		ISUNG CO.,LTD
+  D8DECE     (base 16)		ISUNG CO.,LTD
+  				92, Huimanggongwon-ro
+				1704-3, Jeongwang-dong, Siheung-si, Kyunggido
+				Siheung-si Kyunggido 429-859
+				KOREA, REPUBLIC OF
 
   D8-DF-0D   (hex)		beroNet GmbH
   D8DF0D     (base 16)		beroNet GmbH
@@ -120364,6 +120429,12 @@
   				570 El Camino Real #150-419
 				Redwood City CA 94063
 				UNITED STATES
+
+  FC-F1-52   (hex)		Sony Corporation
+  FCF152     (base 16)		Sony Corporation
+  				1-7-1 Konan
+				Minato-ku Tokyo 108-0075
+				JAPAN
 
   FC-F1-CD   (hex)		OPTEX-FA CO.,LTD.
   FCF1CD     (base 16)		OPTEX-FA CO.,LTD.
