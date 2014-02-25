@@ -27,11 +27,12 @@ fetch:
 	$(Q)curl -z sdio.ids -o sdio.ids -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/sdio.ids
 	$(Q)curl -z udev/20-acpi-vendor.hwdb -o udev/20-acpi-vendor.hwdb -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/20-acpi-vendor.hwdb
 	$(Q)curl -z udev/20-bluetooth-vendor-product.hwdb -o udev/20-bluetooth-vendor-product.hwdb -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/20-bluetooth-vendor-product.hwdb
+	$(Q)curl -z udev/20-net-ifname.hwdb -o udev/20-net-ifname.hwdb -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/20-net-ifname.hwdb
 	$(Q)curl -z udev/60-keyboard.hwdb -o udev/60-keyboard.hwdb -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/60-keyboard.hwdb
 	$(Q)curl -z udev-hwdb-update.pl -o udev-hwdb-update.pl -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/ids-update.pl
 	$(Q)$(STATUS)
 
-PV ?= $(shell ( awk '$$2 == "Date:" { print $$3; nextfile }' pci.ids usb.ids; git log --format=format:%ci -1 -- oui.txt hwdb/20-acpi-vendor.hwdb udev/20-bluetooth-vendor-product.hwdb udev-hwdb-update.pl | cut -d ' ' -f1; ) | sort | tail -n 1 | tr -d -)
+PV ?= $(shell ( awk '$$2 == "Date:" { print $$3; nextfile }' pci.ids usb.ids; git log --format=format:%ci -1 -- oui.txt udev/20-acpi-vendor.hwdb udev/20-bluetooth-vendor-product.hwdb udev/20-net-ifname.hwdb udev/60-keyboard.hwdb udev-hwdb-update.pl | cut -d ' ' -f1; ) | sort | tail -n 1 | tr -d -)
 P = hwids-$(PV)
 
 tag:
