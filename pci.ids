@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.02.27
-#	Date:    2014-02-27 03:15:02
+#	Version: 2014.03.01
+#	Date:    2014-03-01 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -2060,7 +2060,7 @@
 		1002 0030  Radeon HD 8760 OEM
 		1019 0030  Radeon HD 8760 OEM
 		103c 6890  Radeon HD 8760 OEM
-	683f  Cape Verde PRO [Radeon HD 7750]
+	683f  Cape Verde PRO [Radeon HD 7750 / R7 250E]
 	6840  Thames [Radeon HD 7500M/7600M Series]
 		1025 050e  Radeon HD 7670M
 		1025 050f  Radeon HD 7670M
@@ -5159,6 +5159,7 @@
 	3020  FIVE-EX based Fibre Channel to PCIe HBA
 	302c  M001 PCI Express Switch Upstream Port
 	302d  M001 PCI Express Switch Downstream Port
+	3070  Hitachi FIVE-FX Fibre Channel to PCIe HBA
 	3505  SH7751 PCI Controller (PCIC)
 	350e  SH7751R PCI Controller (PCIC)
 1055  Efar Microsystems

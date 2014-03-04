@@ -27233,11 +27233,10 @@
 				35008 LAS PALMAS G.C.  
 				SPAIN
 
-  00-10-D6   (hex)		ITT - A/CD
-  0010D6     (base 16)		ITT - A/CD
-  				DEPT. 8521
-				100 KINGSLAND ROAD
-				CLIFTON NJ 07014
+  00-10-D6   (hex)		Exelis
+  0010D6     (base 16)		Exelis
+  				7310 Innovation Blvd., M/S 536
+				Ft Wayne IN 46818
 				UNITED STATES
 
   00-10-D7   (hex)		ARGOSY RESEARCH INC.
@@ -84344,6 +84343,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  14-B4-84   (hex)		Samsung Electronics Co.,Ltd
+  14B484     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   14-B7-3D   (hex)		ARCHEAN Technologies
   14B73D     (base 16)		ARCHEAN Technologies
   				1899 avenue d'Italie
@@ -84624,6 +84629,12 @@
 				KY Bldg.
 				Yokohama-shi Kanagawa 231-0013
 				JAPAN
+
+  18-22-7E   (hex)		Samsung Electronics Co.,Ltd
+  18227E     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   18-26-66   (hex)		Samsung Electronics Co.,Ltd
   182666     (base 16)		Samsung Electronics Co.,Ltd
@@ -88649,6 +88660,12 @@
 				Xi'an Shaanxi 710075
 				CHINA
 
+  30-C7-AE   (hex)		Samsung Electronics Co.,Ltd
+  30C7AE     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   30-C8-2A   (hex)		Wi-Next s.r.l.
   30C82A     (base 16)		Wi-Next s.r.l.
   				Via Carlo Ferrero 10
@@ -92236,6 +92253,13 @@
 				Bad Blankenburg TH 07422
 				GERMANY
 
+  48-D8-55   (hex)		IEEE REGISTRATION AUTHORITY
+  48D855     (base 16)		IEEE REGISTRATION AUTHORITY
+  				Please see IAB public listing for more information.
+				445 HOES LANE
+				PISCATAWAY NJ 08854
+				UNITED STATES
+
   48-D8-FE   (hex)		ClarIDy Solutions, Inc.
   48D8FE     (base 16)		ClarIDy Solutions, Inc.
   				7F, No.9, ParkAvenue II Rd., Hsinchu Science Park,
@@ -95577,6 +95601,12 @@
   				141 Chesterfield Industrial Blvd
 				Chesterfield MO 63005-1219
 				UNITED STATES
+
+  60-8F-5C   (hex)		Samsung Electronics Co.,Ltd
+  608F5C     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   60-90-84   (hex)		DSSD Inc
   609084     (base 16)		DSSD Inc
@@ -116238,6 +116268,12 @@
   				15,Li-Te Rd.,Peitou,
 				Taipei  112
 				TAIWAN, PROVINCE OF CHINA
+
+  E0-CB-EE   (hex)		Samsung Electronics Co.,Ltd
+  E0CBEE     (base 16)		Samsung Electronics Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   E0-CE-C3   (hex)		ASKEY COMPUTER CORP
   E0CEC3     (base 16)		ASKEY COMPUTER CORP
