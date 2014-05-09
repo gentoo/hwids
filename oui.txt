@@ -85210,6 +85210,12 @@
 				New Taipei  242
 				TAIWAN, PROVINCE OF CHINA
 
+  18-CF-5E   (hex)		Liteon Technology Corporation
+  18CF5E     (base 16)		Liteon Technology Corporation
+  				4F,90,Chien 1 Road,ChungHo, Taipei Hsien
+				TaiPei TaiWan 23585
+				TAIWAN, PROVINCE OF CHINA
+
   18-D0-71   (hex)		DASAN SMC, Inc.
   18D071     (base 16)		DASAN SMC, Inc.
   				309,  Bundang Techno Park, 151, Yatap-dong, Bundang-gu
@@ -88463,6 +88469,12 @@
   2CF4C5     (base 16)		Avaya, Inc
   				211 Mount Airy Road
 				Basking Ridge NJ 07920
+				UNITED STATES
+
+  2C-FA-A2   (hex)		Alcatel-Lucent
+  2CFAA2     (base 16)		Alcatel-Lucent
+  				26801 West Agoura Rd
+				Calabasas CA 91301
 				UNITED STATES
 
   30-05-5C   (hex)		Brother industries, LTD.
@@ -93683,7 +93695,8 @@
 
   50-6F-9A   (hex)		Wi-Fi Alliance
   506F9A     (base 16)		Wi-Fi Alliance
-  				3925 W. Braker Lane
+  				10900-B Stonelake Boulevard
+				Suite126
 				Austin TX 78759
 				UNITED STATES
 
@@ -95826,9 +95839,9 @@
 
   60-11-99   (hex)		Siama Systems Inc
   601199     (base 16)		Siama Systems Inc
-  				450 St-Pierre
-				Suite 300
-				Montreal Quebec H2Y 2M9
+  				FCFFAA
+				Suite 110
+				Montreal Quebec H2Y 2P5
 				CANADA
 
   60-12-83   (hex)		Soluciones Tecnologicas para la Salud y el Bienestar SA
@@ -101287,6 +101300,13 @@
   				445 Capricorn St.
 				Brea California 92821
 				UNITED STATES
+
+  7C-CC-B8   (hex)		Intel Corporate
+  7CCCB8     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech Park
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
   7C-CD-11   (hex)		MS-Magnet
   7CCD11     (base 16)		MS-Magnet
@@ -110478,6 +110498,13 @@
 				Pease Pottage West Sussex RH11 9BJ
 				UNITED KINGDOM
 
+  B8-08-CF   (hex)		Intel Corporate
+  B808CF     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
   B8-0B-9D   (hex)		ROPEX Industrie-Elektronik GmbH
   B80B9D     (base 16)		ROPEX Industrie-Elektronik GmbH
   				Gansaecker 21
@@ -111462,6 +111489,13 @@
 				Ghatkopar
 				Mumbai Maharashtra 400086
 				INDIA
+
+  BC-67-1C   (hex)		Cisco
+  BC671C     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   BC-67-78   (hex)		Apple
   BC6778     (base 16)		Apple
@@ -115352,10 +115386,11 @@
 				Birmingham West Midlands B33 0LG
 				UNITED KINGDOM
 
-  D4-5C-70   (hex)		Wireless Gigabit Alliance
-  D45C70     (base 16)		Wireless Gigabit Alliance
-  				3855 SW 153rd Drive
-				Beaverton OR 97006
+  D4-5C-70   (hex)		Wi-Fi Alliance
+  D45C70     (base 16)		Wi-Fi Alliance
+  				10900-B Stonelake Boulevard
+				Suite 126
+				Austin TX 78759
 				UNITED STATES
 
   D4-5D-42   (hex)		Nokia Corporation
@@ -115846,6 +115881,13 @@
   				189 Technology Dr
 				Irvine CA 92618
 				UNITED STATES
+
+  D8-0C-CF   (hex)		C.G.V. S.A.S.
+  D80CCF     (base 16)		C.G.V. S.A.S.
+  				18, RUE THEODORE MONOD
+				ZA LA VIGIE BP 90004
+				OSTWALD CEDEX BAS-RHIN 67541
+				FRANCE
 
   D8-0D-E3   (hex)		FXI TECHNOLOGIES AS
   D80DE3     (base 16)		FXI TECHNOLOGIES AS
@@ -119721,6 +119763,12 @@
 				Darmstadt Hessen 64293
 				GERMANY
 
+  F0-76-1C   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
+  F0761C     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
+  				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN SUZHOU 215300
+				CHINA
+
   F0-77-65   (hex)		Sourcefire, Inc
   F07765     (base 16)		Sourcefire, Inc
   				9780 Patuxent Woods Drive
@@ -120119,6 +120167,13 @@
 				49 Hoi Yuen Road,  Kwun Tong, Kowloon
 				HONG KONG  NIL
 				CHINA
+
+  F4-06-69   (hex)		Intel Corporate
+  F40669     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
   F4-06-8D   (hex)		devolo AG
   F4068D     (base 16)		devolo AG
@@ -121071,6 +121126,12 @@
 				San Jose CA 95134
 				UNITED STATES
 
+  F8-73-94   (hex)		NETGEAR INC.,
+  F87394     (base 16)		NETGEAR INC.,
+  				350 EAST PLUMERIA DRIVE
+				SAN JOSE CALIFORNIA 95134
+				UNITED STATES
+
   F8-76-9B   (hex)		Neopis Co., Ltd.
   F8769B     (base 16)		Neopis Co., Ltd.
   				#401 Neo bd., 196-44 Anyang7-Dong
@@ -121259,6 +121320,13 @@
   F8C091     (base 16)		Highgates Technology
   				1415 Highgate Ave
 				Los Angeles CA 90042
+				UNITED STATES
+
+  F8-C2-88   (hex)		Cisco
+  F8C288     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
 				UNITED STATES
 
   F8-C6-78   (hex)		Carefusion
