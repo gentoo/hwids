@@ -83103,6 +83103,13 @@
 				Taipei County 231  231141
 				CHINA
 
+  0C-AC-05   (hex)		Unitend Technologies Inc.
+  0CAC05     (base 16)		Unitend Technologies Inc.
+  				No.6 Nanda'an Hutong, Xizhimeng st
+				3 floor
+				Zicheng District Beijing 100035
+				CHINA
+
   0C-AF-5A   (hex)		GENUS POWER INFRASTRUCTURES LIMITED
   0CAF5A     (base 16)		GENUS POWER INFRASTRUCTURES LIMITED
   				SPL-3 RIICO INDUSTRIAL AREA
@@ -95229,6 +95236,13 @@
 				Neuhausen a.d.F  73765
 				GERMANY
 
+  5C-15-15   (hex)		ADVAN
+  5C1515     (base 16)		ADVAN
+  				Wisma SMR.JL.Yos Sudarso Kav 89,Lt8.
+				Suite 104
+				Jakarta Jakarta Utara １４３５０
+				INDONESIA
+
   5C-15-E1   (hex)		AIDC TECHNOLOGY (S) PTE LTD
   5C15E1     (base 16)		AIDC TECHNOLOGY (S) PTE LTD
   				NO.1 GOLDHILL PLAZA #03-21
@@ -95798,6 +95812,12 @@
 				Round Rock TX 78782
 				UNITED STATES
 
+  5C-F9-F0   (hex)		Atomos Engineering P/L
+  5CF9F0     (base 16)		Atomos Engineering P/L
+  				36 Park St
+				South Melbourne Victoria 3205
+				AUSTRALIA
+
   5C-FF-35   (hex)		Wistron Corporation
   5CFF35     (base 16)		Wistron Corporation
   				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
@@ -95810,6 +95830,13 @@
 				Fuyong Town, Bao'an District
 				Shenzhen, Guangdong 518101  
 				CHINA
+
+  60-02-92   (hex)		PEGATRON CORPORATION
+  600292     (base 16)		PEGATRON CORPORATION
+  				No. 76, Ligong St., Beitou
+				Beitou
+				Taipei Taiwan 112
+				TAIWAN, PROVINCE OF CHINA
 
   60-02-B4   (hex)		Wistron NeWeb Corp.
   6002B4     (base 16)		Wistron NeWeb Corp.
@@ -96718,6 +96745,12 @@
 				Daejung bldg 5F
 				Seoul  140-896
 				KOREA, REPUBLIC OF
+
+  64-51-06   (hex)		Hewlett Packard
+  645106     (base 16)		Hewlett Packard
+  				11445 Compaq Center Drive
+				Houston Texas 77070
+				UNITED STATES
 
   64-51-7E   (hex)		LONG BEN (DONGGUAN) ELECTRONIC TECHNOLOGY CO.,LTD.
   64517E     (base 16)		LONG BEN (DONGGUAN) ELECTRONIC TECHNOLOGY CO.,LTD.
@@ -100012,6 +100045,12 @@
   				35 Nagog Park
 				Acton MA 01720
 				UNITED STATES
+
+  78-24-AF   (hex)		ASUSTek COMPUTER INC.
+  7824AF     (base 16)		ASUSTek COMPUTER INC.
+  				15,Li-Te Rd., Peitou
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
 
   78-25-44   (hex)		Omnima Limited
   782544     (base 16)		Omnima Limited
@@ -105382,6 +105421,12 @@
 				San Francisco CA 94110
 				UNITED STATES
 
+  98-2F-3C   (hex)		Sichuan Changhong Electric Ltd.
+  982F3C     (base 16)		Sichuan Changhong Electric Ltd.
+  				35 East Mianxing Road,High-Tech Park,
+				MianYang SiChuan 621000
+				CHINA
+
   98-30-00   (hex)		Beijing KEMACOM Technologies Co., Ltd.
   983000     (base 16)		Beijing KEMACOM Technologies Co., Ltd.
   				Room 208, Building 6, No.50, Xi San Huan Bei Road
@@ -110338,6 +110383,12 @@
 				Kulim Kedah 09000
 				MALAYSIA
 
+  B4-B8-59   (hex)		Texa Spa
+  B4B859     (base 16)		Texa Spa
+  				Via I Maggio, 9
+				Monastier di Treviso Treviso 31050
+				ITALY
+
   B4-B8-8D   (hex)		Thuh Company
   B4B88D     (base 16)		Thuh Company
   				605  Territorial Dr
@@ -114879,6 +114930,12 @@
 				Clamart  92140
 				FRANCE
 
+  D0-A0-D6   (hex)		Chengdu TD Tech Ltd.
+  D0A0D6     (base 16)		Chengdu TD Tech Ltd.
+  				3-5F,Building 3, No.219 Tian Hua Road 2, Software Park C,High-Tech Zone
+				Chengdu Sichuan 610041
+				CHINA
+
   D0-A3-11   (hex)		Neuberger Gebäudeautomation GmbH
   D0A311     (base 16)		Neuberger Gebäudeautomation GmbH
   				Oberer Kaiserweg 6
@@ -119000,6 +119057,13 @@
 				NanJing JiangSu 210000
 				CHINA
 
+  EC-22-80   (hex)		 D-Link International
+  EC2280     (base 16)		 D-Link International
+  				1 Internal Business Park, #03-12,
+				The Synergy
+				Singapore 609917
+				SINGAPORE
+
   EC-23-3D   (hex)		Huawei Technologies Co., Ltd
   EC233D     (base 16)		Huawei Technologies Co., Ltd
   				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,
@@ -119298,6 +119362,13 @@
   				5511-6 Wada
 				Matsumoto City Nagano 390-1242
 				JAPAN
+
+  EC-B9-07   (hex)		CloudGenix Inc
+  ECB907     (base 16)		CloudGenix Inc
+  				2933 Bunker Hill Lane
+				Suite 205
+				Santa Clara CA 95054
+				UNITED STATES
 
   EC-BB-AE   (hex)		Digivoice Tecnologia em Eletronica Ltda
   ECBBAE     (base 16)		Digivoice Tecnologia em Eletronica Ltda
@@ -122186,4 +122257,11 @@
 				Ohita-machi
 				Tochigi-shi Tochigi-ken 329-4404
 				JAPAN
+
+  FC-FF-AA   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAL public listing for more information.
+  FCFFAA     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAL public listing for more information.
+  				
+				445 HOES LANE
+				PISCATAWAY NJ 08854
+				UNITED STATES
 

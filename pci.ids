@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.05.09
-#	Date:    2014-05-09 03:15:02
+#	Version: 2014.05.10
+#	Date:    2014-05-10 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -9065,6 +9065,8 @@
 		1028 05e0  GeForce GT 720M
 		1028 05e8  GeForce GT 630M
 		1028 05f4  GeForce GT 720M
+		1028 064e  GeForce 820M
+		1028 068d  GeForce 820M
 		103c 18ef  GeForce GT 630M
 		103c 18f9  GeForce GT 630M
 		103c 18fb  GeForce GT 630M
