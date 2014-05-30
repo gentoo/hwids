@@ -54,13 +54,9 @@ install-base: compress
 	mkdir -p $(DESTDIR)$(DOCDIR)
 	install -p -m 644 README.md $(DESTDIR)$(DOCDIR)
 	mkdir -p $(DESTDIR)$(MISCDIR)
-	for file in usb.ids pci.ids usb.ids.gz pci.ids.gz oui.txt iab.txt; do \
-		install -p -m 644 $$file $(DESTDIR)$(MISCDIR); \
-	done
+	install -p -m 644 usb.ids pci.ids usb.ids.gz pci.ids.gz oui.txt iab.txt $(DESTDIR)$(MISCDIR)
 
 install-hwdb:
 	mkdir -p $(DESTDIR)$(HWDBDIR)
-	for file in udev/*.hwdb; do \
-		install -p -m 644 $$file $(DESTDIR)$(HWDBDIR); \
-	done
+	install -p -m 644 udev/*.hwdb $(DESTDIR)$(HWDBDIR)
 	udevadm hwdb --root $(DESTDIR) --update
