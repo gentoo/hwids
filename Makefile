@@ -8,9 +8,24 @@ else
 endif
 
 PKG_CONFIG ?= pkg-config
+GZIP ?= yes
+NET ?= yes
+PCI ?= yes
 UDEV ?= no
+USB ?= yes
 
-ALL_TARGETS-yes = compress
+COMPRESS_FILES-yes =
+COMPRESS_FILES-$(PCI) += pci.ids.gz
+COMPRESS_FILES-$(USB) += usb.ids.gz
+
+DATA_FILES-yes =
+DATA_FILES-$(GZIP) += $(COMPRESS_FILES-yes)
+DATA_FILES-$(NET) += oui.txt iab.txt
+DATA_FILES-$(PCI) += pci.ids
+DATA_FILES-$(USB) += usb.ids
+
+ALL_TARGETS-yes =
+ALL_TARGETS-$(GZIP) += $(COMPRESS_FILES-yes)
 ALL_TARGETS-$(UDEV) += udev-hwdb
 
 INSTALL_TARGETS-yes = install-base
@@ -51,11 +66,13 @@ MISCDIR=/usr/share/misc
 HWDBDIR=$(shell $(PKG_CONFIG) --variable=udevdir udev)/hwdb.d
 DOCDIR=/usr/share/doc/hwids
 
-install-base: compress
+install-base: $(DATA_FILES-yes)
 	mkdir -p $(DESTDIR)$(DOCDIR)
 	install -p -m 644 README.md $(DESTDIR)$(DOCDIR)
+ifneq ($(strip $(DATA_FILES-yes)),)
 	mkdir -p $(DESTDIR)$(MISCDIR)
-	install -p -m 644 usb.ids pci.ids usb.ids.gz pci.ids.gz oui.txt iab.txt $(DESTDIR)$(MISCDIR)
+	install -p -m 644 $(DATA_FILES-yes) $(DESTDIR)$(MISCDIR)
+endif
 
 install-hwdb:
 	mkdir -p $(DESTDIR)$(HWDBDIR)
