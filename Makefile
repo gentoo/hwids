@@ -8,17 +8,17 @@ else
 endif
 
 PKG_CONFIG ?= pkg-config
-ifeq "$(UDEV)" "yes"
-  ALL_TARGETS=compress udev-hwdb
-  INSTALL_TARGETS=install-base install-hwdb
-else
-  ALL_TARGETS=compress
-  INSTALL_TARGETS=install-base
-endif
+UDEV ?= no
 
-all: $(ALL_TARGETS)
+ALL_TARGETS-yes = compress
+ALL_TARGETS-$(UDEV) += udev-hwdb
 
-install: $(INSTALL_TARGETS)
+INSTALL_TARGETS-yes = install-base
+INSTALL_TARGETS-$(UDEV) += install-hwdb
+
+all: $(ALL_TARGETS-yes)
+
+install: $(INSTALL_TARGETS-yes)
 
 fetch:
 	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
