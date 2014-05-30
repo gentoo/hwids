@@ -7,6 +7,7 @@ else
   Q=
 endif
 
+PKG_CONFIG ?= pkg-config
 ifeq "$(UDEV)" "yes"
   ALL_TARGETS=compress udev-hwdb
   INSTALL_TARGETS=install-base install-hwdb
@@ -47,7 +48,7 @@ compress: pci.ids.gz usb.ids.gz
 	gzip -c $< > $@
 
 MISCDIR=/usr/share/misc
-HWDBDIR=$(shell pkg-config --variable=udevdir udev)/hwdb.d
+HWDBDIR=$(shell $(PKG_CONFIG) --variable=udevdir udev)/hwdb.d
 DOCDIR=/usr/share/doc/hwids
 
 install-base: compress
