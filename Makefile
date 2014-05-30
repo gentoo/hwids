@@ -7,17 +7,33 @@ else
   Q=
 endif
 
-ifeq "$(UDEV)" "yes"
-  ALL_TARGETS=compress udev-hwdb
-  INSTALL_TARGETS=install-base install-hwdb
-else
-  ALL_TARGETS=compress
-  INSTALL_TARGETS=install-base
-endif
+PKG_CONFIG ?= pkg-config
+GZIP ?= yes
+NET ?= yes
+PCI ?= yes
+UDEV ?= no
+USB ?= yes
 
-all: $(ALL_TARGETS)
+COMPRESS_FILES-yes =
+COMPRESS_FILES-$(PCI) += pci.ids.gz
+COMPRESS_FILES-$(USB) += usb.ids.gz
 
-install: $(INSTALL_TARGETS)
+DATA_FILES-yes =
+DATA_FILES-$(GZIP) += $(COMPRESS_FILES-yes)
+DATA_FILES-$(NET) += oui.txt iab.txt
+DATA_FILES-$(PCI) += pci.ids
+DATA_FILES-$(USB) += usb.ids
+
+ALL_TARGETS-yes =
+ALL_TARGETS-$(GZIP) += $(COMPRESS_FILES-yes)
+ALL_TARGETS-$(UDEV) += udev-hwdb
+
+INSTALL_TARGETS-yes = install-base
+INSTALL_TARGETS-$(UDEV) += install-hwdb
+
+all: $(ALL_TARGETS-yes)
+
+install: $(INSTALL_TARGETS-yes)
 
 fetch:
 	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
@@ -47,20 +63,18 @@ compress: pci.ids.gz usb.ids.gz
 	gzip -c $< > $@
 
 MISCDIR=/usr/share/misc
-HWDBDIR=$(shell pkg-config --variable=udevdir udev)/hwdb.d
+HWDBDIR=$(shell $(PKG_CONFIG) --variable=udevdir udev)/hwdb.d
 DOCDIR=/usr/share/doc/hwids
 
-install-base: compress
+install-base: $(DATA_FILES-yes)
 	mkdir -p $(DESTDIR)$(DOCDIR)
 	install -p -m 644 README.md $(DESTDIR)$(DOCDIR)
+ifneq ($(strip $(DATA_FILES-yes)),)
 	mkdir -p $(DESTDIR)$(MISCDIR)
-	for file in usb.ids pci.ids usb.ids.gz pci.ids.gz oui.txt iab.txt; do \
-		install -p -m 644 $$file $(DESTDIR)$(MISCDIR); \
-	done
+	install -p -m 644 $(DATA_FILES-yes) $(DESTDIR)$(MISCDIR)
+endif
 
 install-hwdb:
 	mkdir -p $(DESTDIR)$(HWDBDIR)
-	for file in udev/*.hwdb; do \
-		install -p -m 644 $$file $(DESTDIR)$(HWDBDIR); \
-	done
+	install -p -m 644 udev/*.hwdb $(DESTDIR)$(HWDBDIR)
 	udevadm hwdb --root $(DESTDIR) --update
