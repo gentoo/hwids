@@ -3,3 +3,4 @@
 /udev/20-pci-vendor-product.hwdb
 /udev/20-usb-classes.hwdb
 /udev/20-usb-vendor-product.hwdb
+/*.gz
