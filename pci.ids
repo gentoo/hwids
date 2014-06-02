@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.05.16
-#	Date:    2014-05-16 03:15:02
+#	Version: 2014.06.02
+#	Date:    2014-06-02 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1463,6 +1463,8 @@
 	6631  Oland
 	6640  Saturn XT [FirePro M6100]
 	6641  Saturn PRO [Radeon HD 8930M]
+	6646  Bonaire XT [Radeon R9 M280X]
+	6647  Bonaire PRO [Radeon R9 M270X]
 	6649  Bonaire [FirePro W5100]
 	6650  Bonaire
 	6651  Bonaire
@@ -2022,7 +2024,7 @@
 	67aa  Hawaii
 	67b0  Hawaii XT [Radeon R9 290X]
 	67b1  Hawaii PRO [Radeon R9 290]
-	67b9  Vesuvius [Radeon R9 295 X2]
+	67b9  Vesuvius [Radeon R9 295X2]
 	67be  Hawaii LE
 	6800  Wimbledon XT [Radeon HD 7970M]
 		1002 0124  Radeon HD 7970M
@@ -2084,6 +2086,7 @@
 		1019 0030  Radeon HD 8760 OEM
 		103c 6890  Radeon HD 8760 OEM
 		1043 8760  Radeon HD 8760 OEM
+		1462 2710  R7770-PMD1GD5
 		174b 8304  Radeon HD 8760 OEM
 	683f  Cape Verde PRO [Radeon HD 7750 / R7 250E]
 	6840  Thames [Radeon HD 7500M/7600M Series]
@@ -2659,6 +2662,9 @@
 	6900  Topaz XT [Radeon R7 M260]
 	6901  Topaz PRO [Radeon R5 M255]
 	6920  Tonga
+	6921  Amethyst XT [Radeon R9 M295X]
+	692b  Tonga XT GL [FirePro W8100]
+	692f  Tonga XT GL [FirePro W8100]
 	700f  RS100 AGP Bridge
 	7010  RS200/RS250 AGP Bridge
 	7100  R520 [Radeon X1800 XT]
@@ -4164,6 +4170,7 @@
 		1028 028d  PowerEdge T410 MGA G200eW WPCM450
 		1028 029c  PowerEdge M710 MGA G200eW WPCM450
 		1028 02a4  PowerEdge T310 MGA G200eW WPCM450
+		15d9 0624  X9SCM-F Motherboard
 		15d9 a811  H8DGU
 	0533  MGA G200EH
 		103c 3381  iLO4
@@ -4439,6 +4446,7 @@
 	000a  PCI-to-PCI bridge
 	0016  SiS961/2/3 SMBus controller
 	0018  SiS85C503/5513 (LPC Bridge)
+	0163  163 802.11b/g Wireless LAN Adapter
 	0180  RAID bus controller 180 SATA/PATA  [SiS]
 	0181  SATA
 	0182  182 SATA/RAID Controller
@@ -8256,6 +8264,7 @@
 	063f  G94 [GeForce 9600 GE]
 	0640  G96 [GeForce 9500 GT]
 	0641  G96 [GeForce 9400 GT]
+		1682 4009  PV-T94G-ZAFG
 	0643  G96 [GeForce 9500 GT]
 	0644  G96 [GeForce 9500 GS]
 	0645  G96 [GeForce 9500 GS]
@@ -8852,6 +8861,7 @@
 	0fc2  GK107 [GeForce GT 630 OEM]
 	0fc6  GK107 [GeForce GTX 650]
 		1043 8428  GTX650-DC-1GD5
+	0fc8  GK107 [GeForce GT 740]
 	0fcd  GK107M [GeForce GT 755M]
 	0fce  GK107M [GeForce GT 640M LE]
 	0fd1  GK107M [GeForce GT 650M]
@@ -8902,6 +8912,7 @@
 	0ffd  GK107 [NVS 510]
 	0ffe  GK107GL [Quadro K2000]
 	0fff  GK107GL [Quadro 410]
+	1001  GK110B [GeForce GTX TITAN Z]
 	1003  GK110 [GeForce GTX Titan LE]
 	1004  GK110 [GeForce GTX 780]
 		3842 0784  GK110B [GeForce GTX 780 SC w/ ACX Cooler]
@@ -9045,7 +9056,23 @@
 		1025 0823  GeForce GT 720M
 		1025 0830  GeForce GT 720M
 		1025 0837  GeForce GT 720M
+		1025 083e  GeForce 820M
 		1025 0841  GeForce 710M
+		1025 0854  GeForce 820M
+		1025 0855  GeForce 820M
+		1025 0856  GeForce 820M
+		1025 0857  GeForce 820M
+		1025 0858  GeForce 820M
+		1025 0868  GeForce 820M
+		1025 0869  GeForce 810M
+		1025 0873  GeForce 820M
+		1025 0878  GeForce 820M
+		1025 087b  GeForce 820M
+		1025 087c  GeForce 810M
+		1025 0881  GeForce 820M
+		1025 088a  GeForce 820M
+		1025 090f  GeForce 820M
+		1025 0921  GeForce 820M
 		1028 054d  GeForce GT 630M
 		1028 054e  GeForce GT 630M
 		1028 0554  GeForce GT 620M
@@ -9091,6 +9118,10 @@
 		1043 16cd  GeForce 820M
 		1043 16dd  GeForce 820M
 		1043 170d  GeForce 820M
+		1043 176d  GeForce 820M
+		1043 178d  GeForce 820M
+		1043 179d  GeForce 820M
+		1043 17dd  GeForce 820M
 		1043 2132  GeForce GT 620M
 		1043 2136  NVS 5200M
 		1043 21ba  GeForce GT 720M
@@ -9786,6 +9817,7 @@
 		1102 0018  SB1040
 	000b  EMU20k2 [X-Fi Titanium Series]
 		1102 0041  SB0880 [SoundBlaster X-Fi Titanium PCI-e]
+	0012  SB Recon3D
 	4001  SB Audigy FireWire Port
 		1102 0010  SB Audigy FireWire Port
 	7002  SB Live! Game Port
@@ -10415,6 +10447,7 @@
 	e238  K8T890 PCI to PCI Bridge Controller
 	e340  PT900 PCI to PCI Bridge Controller
 	e353  VX800/VX820 PCI Express Root Port
+	e410  VX900 PCI Express Physical Layer Electrical Sub-block
 	f208  PT890 PCI to PCI Bridge Controller
 	f238  K8T890 PCI to PCI Bridge Controller
 	f340  PT900 PCI to PCI Bridge Controller
@@ -14682,6 +14715,7 @@
 	1003  HCF 56k Data/Fax Modem
 148e  OSI Plus Corporation
 148f  Plant Equipment, Inc.
+	5370  Dexlink AUWL15I1
 1490  Stone Microsystems PTY Ltd.
 1491  ZEAL Corporation
 1492  Time Logic Corporation
@@ -17226,6 +17260,8 @@
 	0115  NT20E2-PTP Network Adapter 2x10Gb
 	0125  NT4E2-4-PTP Network Adapter 4x1Gb
 	0135  NT20E2-PTP Network Adapter 2x10Gb
+	0145  NT40E3-4-PTP Network Adapter 4x10Gb
+	0155  NT100E3-1-PTP Network Adapter 1x100Gb
 18f6  NextIO
 	1000  [Nexsis] Switch Virtual P2P PCIe Bridge
 	1001  [Texsis] Switch Virtual P2P PCIe Bridge
@@ -17671,6 +17707,11 @@
 	0005  ETP v1.4
 	000a  ETP-104 v1.1
 	000e  DSLP-104 v1.1
+# nee Metalink Ltd.
+1a30  Lantiq
+	0680  MtW8171 [Hyperion II]
+	0700  Wave300 PSB8224 [Hyperion III]
+	0710  Wave300 PSB8231 [Hyperion III]
 1a32  Quanta Microsystems, Inc
 1a3b  AzureWave
 	1112  AR9285 Wireless Network Adapter (PCI-Express)
@@ -17936,6 +17977,8 @@
 	0001  ExaNIC X4
 	0002  ExaNIC X2
 1cf7  Subspace Dynamics
+# CEM Solutions Pvt. Ltd.
+1d21  Allo
 1d44  DPT
 	a400  PM2x24/PM3224
 1d5c  Fantasia Trading LLC
@@ -18643,6 +18686,7 @@
 		1028 04cc  Vostro 3350
 	0150  Xeon E3-1200 v2/3rd Gen Core processor DRAM Controller
 		1043 84ca  P8 series motherboard
+		15d9 0624  X9SCM-F Motherboard
 		1849 0150  Motherboard
 	0151  Xeon E3-1200 v2/3rd Gen Core processor PCI Express Root Port
 		1043 1477  N56VZ
@@ -19223,85 +19267,33 @@
 	0efb  Xeon E7 v2/Xeon E5 v2/Core i7 DDRIO
 	0efc  Xeon E7 v2/Xeon E5 v2/Core i7 DDRIO
 	0efd  Xeon E7 v2/Xeon E5 v2/Core i7 DDRIO
-	0f00  ValleyView SSA-CUnit
-	0f01  ValleyView SSA-CUnit
-	0f02  ValleyView SSA-CUnit
-	0f03  ValleyView SSA-CUnit
-	0f04  ValleyView High Definition Audio Controller
-	0f05  ValleyView High Definition Audio Controller
-	0f06  ValleyView LPIO1 DMA Controller
-	0f07  ValleyView LPIO1 DMA Controller
-	0f08  ValleyView LPIO1 PWM Controller
-	0f09  ValleyView LPIO1 PWM Controller
-	0f0a  ValleyView LPIO1 HSUART Controller #1
-	0f0b  ValleyView LPIO1 HSUART Controller #1
-	0f0c  ValleyView LPIO1 HSUART Controller #2
-	0f0d  ValleyView LPIO1 HSUART Controller #2
-	0f0e  ValleyView LPIO1 SPI Controller
-	0f0f  ValleyView LPIO1 SPI Controller
-	0f10  ValleyView LPIO1 Controller
-	0f11  ValleyView LPIO1 Controller
-	0f12  ValleyView SMBus Controller
-	0f13  ValleyView SMBus Controller
-	0f14  ValleyView SDIO Controller
-	0f15  ValleyView SDIO Controller
-	0f16  ValleyView SDIO Controller
-	0f17  ValleyView SDIO Controller
-	0f18  ValleyView SEC
-	0f19  ValleyView SEC
-	0f1a  ValleyView SEC
-	0f1b  ValleyView SEC
-	0f1c  ValleyView Power Control Unit
-	0f1d  ValleyView Power Control Unit
-	0f1e  ValleyView Power Control Unit
-	0f1f  ValleyView Power Control Unit
-	0f20  ValleyView 4-Port SATA Storage Controller
-	0f21  ValleyView 4-Port SATA Storage Controller
-	0f22  ValleyView 6-Port SATA AHCI Controller
-	0f23  ValleyView 6-Port SATA AHCI Controller
-	0f24  ValleyView SATA RAID Storage Controller
-	0f25  ValleyView SATA RAID Storage Controller
-	0f26  ValleyView 2-Port SATA Storage Controller
-	0f27  ValleyView 2-Port SATA Storage Controller
-	0f28  ValleyView LPE Audio Controller
-	0f29  ValleyView LPE Audio Controller
-	0f2a  ValleyView LPE Audio Controller
-	0f2b  ValleyView LPE Audio Controller
-	0f2e  ValleyView SATA RAID Storage Controller
-	0f2f  ValleyView SATA RAID Storage Controller
-	0f30  ValleyView Gen7
-	0f31  ValleyView Gen7
-	0f32  ValleyView Gen7
-	0f33  ValleyView Gen7
-	0f34  ValleyView USB Enhanced Host Controller
-	0f35  ValleyView USB xHCI Host Controller
-	0f36  ValleyView USB xHCI Host Controller
-	0f37  ValleyView OTG
-	0f38  ValleyView ISP
-	0f39  ValleyView ISP
-	0f3a  ValleyView ISP
-	0f3b  ValleyView ISP
-	0f3c  ValleyView ISP
-	0f3d  ValleyView ISP
-	0f3e  ValleyView ISP
-	0f3f  ValleyView ISP
-	0f40  ValleyView LPIO2 DMA Controller
-	0f41  ValleyView LPIO2 I2C Controller #1
-	0f42  ValleyView LPIO2 I2C Controller #2
-	0f43  ValleyView LPIO2 I2C Controller #3
-	0f44  ValleyView LPIO2 I2C Controller #4
-	0f45  ValleyView LPIO2 I2C Controller #5
-	0f46  ValleyView LPIO2 I2C Controller #6
-	0f47  ValleyView LPIO2 I2C Controller #7
-	0f48  ValleyView PCI Express Root Port
-	0f49  ValleyView PCI Express Root Port
-	0f4a  ValleyView PCI Express Root Port
-	0f4b  ValleyView PCI Express Root Port
-	0f4c  ValleyView PCI Express Root Port
-	0f4d  ValleyView PCI Express Root Port
-	0f4e  ValleyView PCI Express Root Port
-	0f4f  ValleyView PCI Express Root Port
-	0f50  ValleyView MIPI-HSI Controller
+	0f00  Atom Processor Z36xxx/Z37xxx Series SoC Transaction Register
+	0f04  Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller
+	0f06  Atom Processor Z36xxx/Z37xxx Series LPIO1 DMA Controller
+	0f08  Atom Processor Z36xxx/Z37xxx Series LPIO1 PWM Controller
+	0f09  Atom Processor Z36xxx/Z37xxx Series LPIO1 PWM Controller
+	0f0a  Atom Processor Z36xxx/Z37xxx Series LPIO1 HSUART Controller #1
+	0f0c  Atom Processor Z36xxx/Z37xxx Series LPIO1 HSUART Controller #2
+	0f0e  Atom Processor Z36xxx/Z37xxx Series LPIO1 SPI Controller
+	0f14  Atom Processor Z36xxx/Z37xxx Series SDIO Controller
+	0f15  Atom Processor Z36xxx/Z37xxx Series SDIO Controller
+	0f16  Atom Processor Z36xxx/Z37xxx Series SDIO Controller
+	0f18  Atom Processor Z36xxx/Z37xxx Series Trusted Execution Engine
+	0f1c  Atom Processor Z36xxx/Z37xxx Series Power Control Unit
+	0f28  Atom Processor Z36xxx/Z37xxx Series LPE Audio Controller
+	0f31  Atom Processor Z36xxx/Z37xxx Series Graphics & Display
+	0f34  Atom Processor Z36xxx/Z37xxx Series USB EHCI
+	0f35  Atom Processor Z36xxx/Z37xxx Series USB xHCI
+	0f37  Atom Processor Z36xxx/Z37xxx Series OTG USB Device
+	0f38  Atom Processor Z36xxx/Z37xxx Series Camera ISP
+	0f40  Atom Processor Z36xxx/Z37xxx Series LPIO2 DMA Controller
+	0f41  Atom Processor Z36xxx/Z37xxx Series LPIO2 I2C Controller #1
+	0f42  Atom Processor Z36xxx/Z37xxx Series LPIO2 I2C Controller #2
+	0f43  Atom Processor Z36xxx/Z37xxx Series LPIO2 I2C Controller #3
+	0f44  Atom Processor Z36xxx/Z37xxx Series LPIO2 I2C Controller #4
+	0f45  Atom Processor Z36xxx/Z37xxx Series LPIO2 I2C Controller #5
+	0f46  Atom Processor Z36xxx/Z37xxx Series LPIO2 I2C Controller #6
+	0f47  Atom Processor Z36xxx/Z37xxx Series LPIO2 I2C Controller #7
 	1000  82542 Gigabit Ethernet Controller (Fiber)
 		0e11 b0df  NC6132 Gigabit Ethernet Adapter (1000-SX)
 		0e11 b0e0  NC6133 Gigabit Ethernet Adapter (1000-LX)
@@ -22801,6 +22793,7 @@
 	2e10  4 Series Chipset DRAM Controller
 	2e11  4 Series Chipset PCI Express Root Port
 	2e12  4 Series Chipset Integrated Graphics Controller
+		17aa 3048  ThinkCentre M6258
 	2e13  4 Series Chipset Integrated Graphics Controller
 	2e14  4 Series Chipset HECI Controller
 	2e15  4 Series Chipset HECI Controller
@@ -24048,6 +24041,42 @@
 	8c5d  8 Series/C220 Series Chipset Family LPC Controller
 	8c5e  8 Series/C220 Series Chipset Family LPC Controller
 	8c5f  8 Series/C220 Series Chipset Family LPC Controller
+	8c80  9 Series Chipset Family SATA Controller [IDE Mode]
+	8c81  9 Series Chipset Family SATA Controller [IDE Mode]
+	8c82  9 Series Chipset Family SATA Controller [AHCI Mode]
+	8c83  9 Series Chipset Family SATA Controller [AHCI Mode]
+	8c84  9 Series Chipset Family SATA Controller [RAID Mode]
+	8c85  9 Series Chipset Family SATA Controller [RAID Mode]
+	8c86  9 Series Chipset Family SATA Controller [RAID Mode]
+	8c87  9 Series Chipset Family SATA Controller [RAID Mode]
+	8c88  9 Series Chipset Family SATA Controller [IDE Mode]
+	8c89  9 Series Chipset Family SATA Controller [IDE Mode]
+	8c8e  9 Series Chipset Family SATA Controller [RAID Mode]
+	8c8f  9 Series Chipset Family SATA Controller [RAID Mode]
+	8c90  9 Series Chipset Family PCI Express Root Port 1
+	8c92  9 Series Chipset Family PCI Express Root Port 2
+	8c94  9 Series Chipset Family PCI Express Root Port 3
+	8c96  9 Series Chipset Family PCI Express Root Port 4
+	8c98  9 Series Chipset Family PCI Express Root Port 5
+	8c9a  9 Series Chipset Family PCI Express Root Port 6
+	8c9c  9 Series Chipset Family PCI Express Root Port 7
+	8c9e  9 Series Chipset Family PCI Express Root Port 8
+	8ca0  9 Series Chipset Family HD Audio Controller
+	8ca2  9 Series Chipset Family SMBus Controller
+	8ca4  9 Series Chipset Family Thermal Controller
+	8ca6  9 Series Chipset Family USB EHCI Controller #1
+	8cad  9 Series Chipset Family USB EHCI Controller #2
+	8cb1  9 Series Chipset Family USB xHCI Controller
+	8cb3  9 Series Chipset Family LAN Controller
+	8cba  9 Series Chipset Family ME Interface #1
+	8cbb  9 Series Chipset Family ME Interface #2
+	8cbc  9 Series Chipset Family IDE-R Controller
+	8cbd  9 Series Chipset Family KT Controller
+	8cc1  9 Series Chipset Family LPC Controller
+	8cc2  9 Series Chipset Family LPC Controller
+	8cc3  9 Series Chipset Family HM97 LPC Controller
+	8cc4  9 Series Chipset Family Z97 LPC Controller
+	8cc6  9 Series Chipset Family H97 Controller
 	8d00  Wellsburg 4-port SATA Controller [IDE mode]
 	8d02  Wellsburg 6-Port SATA Controller [AHCI mode]
 	8d04  Wellsburg SATA Controller [RAID mode]
@@ -24118,74 +24147,74 @@
 	9622  Integrated RAID
 	9641  Integrated RAID
 	96a1  Integrated RAID
-	9c00  Lynx Point-LP SATA Controller 1 [IDE mode]
-	9c01  Lynx Point-LP SATA Controller 1 [IDE mode]
-	9c02  Lynx Point-LP SATA Controller 1 [AHCI mode]
-	9c03  Lynx Point-LP SATA Controller 1 [AHCI mode]
+	9c00  8 Series SATA Controller 1 [IDE mode]
+	9c01  8 Series SATA Controller 1 [IDE mode]
+	9c02  8 Series SATA Controller 1 [AHCI mode]
+	9c03  8 Series SATA Controller 1 [AHCI mode]
 		17aa 2214  ThinkPad X240
-	9c04  Lynx Point-LP SATA Controller 1 [RAID mode]
-	9c05  Lynx Point-LP SATA Controller 1 [RAID mode]
-	9c06  Lynx Point-LP SATA Controller 1 [RAID mode]
-	9c07  Lynx Point-LP SATA Controller 1 [RAID mode]
-	9c08  Lynx Point-LP SATA Controller 2 [IDE mode]
-	9c09  Lynx Point-LP SATA Controller 2 [IDE mode]
-	9c0a  LynxPoint-LP SATA Controller [Reserved]
-	9c0b  LynxPoint-LP SATA Controller [Reserved]
-	9c0c  LynxPoint-LP SATA Controller [Reserved]
-	9c0d  LynxPoint-LP SATA Controller [Reserved]
-	9c0e  Lynx Point-LP SATA Controller 1 [RAID mode]
-	9c0f  Lynx Point-LP SATA Controller 1 [RAID mode]
-	9c10  Lynx Point-LP PCI Express Root Port 1
-	9c11  Lynx Point-LP PCI Express Root Port 1
-	9c12  Lynx Point-LP PCI Express Root Port 2
-	9c13  Lynx Point-LP PCI Express Root Port 2
-	9c14  Lynx Point-LP PCI Express Root Port 3
-	9c15  Lynx Point-LP PCI Express Root Port 3
-	9c16  Lynx Point-LP PCI Express Root Port 4
-	9c17  Lynx Point-LP PCI Express Root Port 4
-	9c18  Lynx Point-LP PCI Express Root Port 5
-	9c19  Lynx Point-LP PCI Express Root Port 5
-	9c1a  Lynx Point-LP PCI Express Root Port 6
-	9c1b  Lynx Point-LP PCI Express Root Port 6
-	9c1c  Lynx Point-LP PCI Express Root Port 7
-	9c1d  Lynx Point-LP PCI Express Root Port 7
-	9c1e  Lynx Point-LP PCI Express Root Port 8
-	9c1f  Lynx Point-LP PCI Express Root Port 8
-	9c20  Lynx Point-LP HD Audio Controller
+	9c04  8 Series SATA Controller 1 [RAID mode]
+	9c05  8 Series SATA Controller 1 [RAID mode]
+	9c06  8 Series SATA Controller 1 [RAID mode]
+	9c07  8 Series SATA Controller 1 [RAID mode]
+	9c08  8 Series SATA Controller 2 [IDE mode]
+	9c09  8 Series SATA Controller 2 [IDE mode]
+	9c0a  8 Series SATA Controller [Reserved]
+	9c0b  8 Series SATA Controller [Reserved]
+	9c0c  8 Series SATA Controller [Reserved]
+	9c0d  8 Series SATA Controller [Reserved]
+	9c0e  8 Series SATA Controller 1 [RAID mode]
+	9c0f  8 Series SATA Controller 1 [RAID mode]
+	9c10  8 Series PCI Express Root Port 1
+	9c11  8 Series PCI Express Root Port 1
+	9c12  8 Series PCI Express Root Port 2
+	9c13  8 Series PCI Express Root Port 2
+	9c14  8 Series PCI Express Root Port 3
+	9c15  8 Series PCI Express Root Port 3
+	9c16  8 Series PCI Express Root Port 4
+	9c17  8 Series PCI Express Root Port 4
+	9c18  8 Series PCI Express Root Port 5
+	9c19  8 Series PCI Express Root Port 5
+	9c1a  8 Series PCI Express Root Port 6
+	9c1b  8 Series PCI Express Root Port 6
+	9c1c  8 Series PCI Express Root Port 7
+	9c1d  8 Series PCI Express Root Port 7
+	9c1e  8 Series PCI Express Root Port 8
+	9c1f  8 Series PCI Express Root Port 8
+	9c20  8 Series HD Audio Controller
 		17aa 2214  ThinkPad X240
-	9c21  Lynx Point-LP HD Audio Controller
-	9c22  Lynx Point-LP SMBus Controller
+	9c21  8 Series HD Audio Controller
+	9c22  8 Series SMBus Controller
 		17aa 2214  ThinkPad X240
-	9c23  Lynx Point-LP CHAP Counters
-	9c24  Lynx Point-LP Thermal
-	9c26  Lynx Point-LP USB EHCI #1
+	9c23  8 Series CHAP Counters
+	9c24  8 Series Thermal
+	9c26  8 Series USB EHCI #1
 		17aa 2214  ThinkPad X240
-	9c2d  Lynx Point-LP USB EHCI #2
-	9c31  Lynx Point-LP USB xHCI HC
+	9c2d  8 Series USB EHCI #2
+	9c31  8 Series USB xHCI HC
 		17aa 2214  ThinkPad X240
-	9c35  Lynx Point-LP SDIO Controller
-	9c36  Lynx Point-LP Audio DSP Controller
-	9c3a  Lynx Point-LP HECI #0
+	9c35  8 Series SDIO Controller
+	9c36  8 Series Audio DSP Controller
+	9c3a  8 Series HECI #0
 		17aa 2214  ThinkPad X240
-	9c3b  Lynx Point-LP HECI #1
-	9c3c  Lynx Point-LP HECI IDER
-	9c3d  Lynx Point-LP HECI KT
-	9c40  Lynx Point-LP LPC Controller
-	9c41  Lynx Point-LP LPC Controller
-	9c42  Lynx Point-LP LPC Controller
-	9c43  Lynx Point-LP LPC Controller
+	9c3b  8 Series HECI #1
+	9c3c  8 Series HECI IDER
+	9c3d  8 Series HECI KT
+	9c40  8 Series LPC Controller
+	9c41  8 Series LPC Controller
+	9c42  8 Series LPC Controller
+	9c43  8 Series LPC Controller
 		17aa 2214  ThinkPad X240
-	9c44  Lynx Point-LP LPC Controller
-	9c45  Lynx Point-LP LPC Controller
-	9c46  Lynx Point-LP LPC Controller
-	9c47  Lynx Point-LP LPC Controller
-	9c60  Lynx Point-LP Low Power Sub-System DMA
-	9c61  Lynx Point-LP I2C Controller #0
-	9c62  Lynx Point-LP I2C Controller #1
-	9c63  Lynx Point-LP UART Controller #0
-	9c64  Lynx Point-LP UART Controller #1
-	9c65  Lynx Point-LP SPI Controller #0
-	9c66  Lynx Point-LP SPI Controller #1
+	9c44  8 Series LPC Controller
+	9c45  8 Series LPC Controller
+	9c46  8 Series LPC Controller
+	9c47  8 Series LPC Controller
+	9c60  8 Series Low Power Sub-System DMA
+	9c61  8 Series I2C Controller #0
+	9c62  8 Series I2C Controller #1
+	9c63  8 Series UART Controller #0
+	9c64  8 Series UART Controller #1
+	9c65  8 Series SPI Controller #0
+	9c66  8 Series SPI Controller #1
 	9c83  Wildcat Point-LP SATA Controller [AHCI Mode]
 	9c85  Wildcat Point-LP SATA Controller [RAID Mode]
 	9c87  Wildcat Point-LP SATA Controller [RAID Mode]
