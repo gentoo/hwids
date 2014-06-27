@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2014.05.05
-# Date:    2014-05-05 20:34:03
+# Version: 2014.06.26
+# Date:    2014-06-26 20:34:04
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -114,7 +114,10 @@
 	2141  ICE debugger
 	2310  EVK11xx evaluation board
 	2fe4  ATxmega32A4U DFU bootloader
+	2fe6  Cactus V6 (DFU)
+	2fea  Cactus RF60 (DFU)
 	2ff0  atmega32u2 DFU bootloader
+	2ff4  atmega32u4 DFU bootloader
 	2ffa  at90usb162 DFU bootloader
 	2ffb  at90usb AVR DFU bootloader
 	2ffd  at89c5130/c5131 DFU bootloader
@@ -1489,6 +1492,7 @@
 	2524  USB MultiSwitch Hub
 	2602  USB 2.0 Hub
 	2640  USB 2.0 Hub
+	2660  Hub
 	4060  Ultra Fast Media Reader
 	4064  Ultra Fast Media Reader
 	7500  LAN7500 Ethernet 10/100/1000 Adapter
@@ -1810,7 +1814,7 @@
 	0150  Super Talent 1GB Flash Drive
 	0151  Super Flash 1GB / GXT  64MB Flash Drive
 	0162  SiS162 usb Wireless LAN Adapter
-	0163  802.11 Wireless LAN Adapter
+	0163  SiS163U 802.11 Wireless LAN Adapter
 	0817  SiS-184-ASUS-4352.17 touch panel
 	5401  Wireless Adapter RO80211GS-USB
 0458  KYE Systems Corp. (Mouse Systems)
@@ -2335,6 +2339,7 @@
 	0828  HD Webcam B990
 	082d  HD Pro Webcam C920
 	0830  QuickClip
+	0837  BCC950 ConferenceCam
 	0840  QuickCam Express
 	0843  Webcam C930e
 	0850  QuickCam Web
@@ -2638,6 +2643,7 @@
 	c52e  MK260 Wireless Combo Receiver
 	c52f  Unifying Receiver
 	c532  Unifying Receiver
+	c534  Unifying Receiver
 	c603  3Dconnexion Spacemouse Plus XT
 	c605  3Dconnexion CADman
 	c606  3Dconnexion Spacemouse Classic
@@ -2932,6 +2938,7 @@
 	a006  External Disk 1.5TB
 	a007  External Disk USB 3.0
 	a009  Stor.E Basics
+	a00d  STOR.E BASICS 500GB
 	d010  External Disk 3TB
 0481  Zenith Data Systems
 0482  Kyocera Corp.
@@ -3667,6 +3674,7 @@
 	3195  PowerShot SX1 IS
 	3196  PowerShot SD880 IS DIGITAL ELPH / Digital IXUS 870 IS / IXY DIGITAL 920 IS
 	319a  EOS 7D
+	319b  EOS 50D
 	31aa  SELPHY CP770
 	31ab  SELPHY CP760
 	31ad  PowerShot E1
@@ -3759,6 +3767,9 @@
 	3276  PowerShot SX170 IS
 	3277  PowerShot SX510 HS
 	327d  Powershot ELPH 115 IS / IXUS 132
+	327f  EOS Rebel T5 / EOS 1200D / EOS Kiss X70
+	3284  PowerShot D30
+	3286  PowerShot SX600 HS
 	3288  Powershot ELPH 135 / IXUS 145
 	3289  PowerShot ELPH 340 HS / IXUS 265 HS
 	328a  PowerShot ELPH 150 IS / IXUS 155
@@ -4366,6 +4377,7 @@
 	0033  PICkit2
 	0036  PICkit Serial Analyzer
 	00e0  PIC32 Starter Board
+	04cd  28Cxxx EEPROM Programmer
 	0a04  AGP LIN Serial Analyzer
 	8000  In-Circuit Debugger
 	8001  ICD2 in-circuit debugger
@@ -4717,9 +4729,11 @@
 	5f04  NEXiO Sync
 	5f05  STORY Station 1TB
 	6032  G2 Portable hard drive
+	6033  G2 Portable device
 	6034  G2 Portable hard drive
 	60b3  M2 Portable Hard Drive
 	60c4  M2 Portable Hard Drive USB 3.0
+	6124  D3 Station External Hard Drive
 	61b6  M3 Portable Hard Drive 1TB
 	6601  Mobile Phone
 	6602  Galaxy
@@ -5094,6 +5108,7 @@
 	0217  MFC-8480DN
 	0223  DCP-365CN
 	0248  DCP-7055 scanner/printer
+	02b3  MFC J4510DW
 	1000  Printer
 	1002  Printer
 	2002  PTUSB Printing
@@ -5201,7 +5216,7 @@
 	0004  Direct Connect
 	0012  F8T012 Bluetooth Adapter
 	0013  F8T013 Bluetooth Adapter
-	0017  B8T017 Bluetooth+EDR 2.1
+	0017  B8T017 Bluetooth+EDR 2.1 / F4U017 USB 2.0 7-port Hub
 	003a  Universal Media Reader
 	0050  F5D6050 802.11b Wireless Adapter v2000 [Atmel at76c503a]
 	0081  F8T001v2 Bluetooth
@@ -5247,6 +5262,7 @@
 	1103  F9L1103 N750 DB 802.11abgn 2x3:3 [Ralink RT3573]
 	1106  F9L1106v1 802.11a/b/g/n/ac Wireless Adapter [Broadcom BCM43526]
 	1109  F9L1109v1 802.11a/b/g/n/ac Wireless Adapter [Realtek RTL8812AU]
+	110a  F9L1101v2 802.11abgn Wireless Adapter [Realtek RTL8192DU]
 	11f2  ISY Wireless Micro Adapter IWL 2000 [RTL8188CUS]
 	1202  F5U120-PC Parallel Printer Port
 	1203  F5U120-PC Serial Port
@@ -5260,7 +5276,7 @@
 	5055  F5D5055 Gigabit Network Adapter [AX88xxx]
 	6050  F6D6050 802.11abgn Wireless Adapter [Broadcom BCM4323]
 	6051  F5D6051 802.11b Wireless Network Adapter [ZyDAS ZD1201]
-	615a  F7D4101 / F9L1101 802.11abgn Wireless Adapter [Broadcom BCM4323]
+	615a  F7D4101 / F9L1101v1 802.11abgn Wireless Adapter [Broadcom BCM4323]
 	7050  F5D7050 Wireless G Adapter v1000/v2000 [Intersil ISL3887]
 	7051  F5D7051 802.11g Adapter v1000 [Broadcom 4320 USB]
 	705a  F5D7050 Wireless G Adapter v3000 [Ralink RT2571W]
@@ -5472,6 +5488,7 @@
 	2750  EZ-Link (EZLNKUSB.SYS)
 	2810  Cypress ATAPI Bridge
 	4d90  AmScope MD1900 camera
+	7000  PowerSpec MCE460 Front Panel LED Display
 	7777  Bluetooth Device
 	9999  AN2131 uninitialized (?)
 0548  Tyan Computer Corp.
@@ -7245,6 +7262,7 @@
 	2206  Datalogic Gryphon GFS4170
 	2601  Datalogin Magellan 1000i Barcode Scanner
 	2602  Datalogic Magellan 1100i Barcode Scanner
+	4204  Datalogic Gryphon GFS4470 Fixed Scanner
 	5204  Datalogic Gryphon GFS4170 (config mode)
 05fa  Siemens Telecommunications Systems, Ltd
 	3301  Keyboard with PS/2 Mouse Port
@@ -7765,6 +7783,7 @@
 068e  CH Products, Inc.
 	00d3  OEM 3 axis 5 button joystick
 	00e2  HFX OEM Joystick
+	00f0  Multi-Function Panel
 	00f1  Pro Throttle
 	00f2  Flight Sim Pedals
 	00f3  Fighterstick
@@ -8633,6 +8652,7 @@
 	74c3  Sansa Fuze V2 (msc)
 	74d0  Sansa Clip+ (mtp)
 	74d1  Sansa Clip+ (msc)
+	74e5  Sansa Clip Zip
 	8181  Pen Flash
 	8183  Hi-Speed Mass Storage Device
 	8185  SDCZ2 Cruzer Mini Flash Drive (older, thick)
@@ -8760,6 +8780,7 @@
 	0018  Wireless LAN USB-11 mini 2
 	001a  ULUSB-11 Key
 	001c  CG-WLUSB2GT 802.11g Wireless Adapter [Intersil ISL3880]
+	0020  CG-WLUSB2GTST 802.11g Wireless Adapter [Intersil ISL3887]
 	002e  CG-WLUSB2GPX [Ralink RT2571W]
 	002f  CG-WLUSB2GNL
 	0031  CG-WLUSB2GS 802.11bg [Atheros AR5523]
@@ -9000,6 +9021,7 @@
 	a815  AVerTV DVB-T Volar X (A815)
 	a827  AVerTV Hybrid Volar HX (A827)
 	a867  AVerTV DVB-T (A867)
+	b300  A300 DVB-T TV receiver
 	b800  MR800 FM Radio
 	e880  MPEG-2 Capture Device (E880)
 	e882  MPEG-2 Capture Device (E882)
@@ -9334,6 +9356,7 @@
 	4505  SMCWUSB-G 802.11bg
 	4507  SMCWUSBT-G2 802.11g Wireless Adapter [Atheros AR5523]
 	4521  Siemens S30863-S1016-R107-2 802.11g Wireless Adapter [Intersil ISL3887]
+	4531  T-Com Sinus 154 data II [Intersil ISL3887]
 	5046  SpeedStream 10/100 Ethernet [pegasus]
 	5501  Wireless Adapter 11g
 	6500  Cable Modem
@@ -10179,6 +10202,7 @@
 	0407  33220A Waveform Generator
 	0518  82357B GPIB Interface
 	0a07  34411A Multimeter
+	1507  33210A Waveform Generator
 	1745  Test and Measurement Device (IVI)
 	2918  U2702A oscilloscope
 0958  CompuLink Research, Inc.
@@ -10312,9 +10336,9 @@
 09d7  Novatel Wireless
 	0100  NovAtel FlexPack GPS receiver
 09d9  KRF Tech, Ltd
-09da  A4 Tech Co., Ltd
+09da  A4Tech Co., Ltd.
 	0006  Optical Mouse WOP-35 / Trust 450L Optical Mouse
-	000a  Optical Mouse Opto 510D
+	000a  Optical Mouse Opto 510D / OP-620D
 	000e  X-F710F Optical Mouse 3xFire Gaming Mouse
 	0018  Trust Human Interface Device
 	001a  Wireless Mouse & RXM-15 Receiver
@@ -10745,6 +10769,7 @@
 0ab0  Arrow Strong Electronics Co., Ltd
 0ab1  FEIG ELECTRONIC GmbH
 	0002  OBID RFID-Reader
+	0004  OBID classic-pro
 0aba  Ellisys
 	8001  Tracker 110 Protocol Analyzer
 	8002  Explorer 200 Protocol Analyzer
@@ -10877,7 +10902,7 @@
 	1706  WL-167G v1 802.11g Adapter [Ralink RT2571]
 	1707  WL-167G v1 802.11g Adapter [Ralink RT2571]
 	1708  Mass Storage Device
-	170b  Mass Storage Device
+	170b  Multi card reader
 	170c  WL-159g 802.11bg
 	170d  802.11b/g Wireless Network Adapter
 	1712  BT-183 Bluetooth 2.0+EDR adapter
@@ -10916,6 +10941,7 @@
 	17a0  Xonar U3 sound card
 	17a1  Eee Note EA800 (mass storage mode)
 	17ab  USB-N13 802.11n Network Adapter (rev. B1) [Realtek RTL8192CU]
+	17c7  WL-330NUL
 	17c9  USB-AC53 802.11a/b/g/n/ac Wireless Adapter [Broadcom BCM43526]
 	4c80  Transformer Pad TF300TG
 	4c90  Transformer Pad Infinity TF700
@@ -10925,6 +10951,7 @@
 	4daf  Transformer Pad Infinity TF700 (Fastboot)
 	5410  MeMO Pad HD 7 (MTP mode)
 	5412  MeMO Pad HD 7 (PTP mode)
+	550f  ASUS fonepad 7
 	6101  Cable Modem
 	620a  Remote NDIS Device
 	b700  Broadcom Bluetooth 2.1
@@ -10939,6 +10966,7 @@
 0b0d  ProjectLab
 	0000  CenturyCD
 0b0e  GN Netcom
+	034c  Jabra UC Voice 750 MS
 	0420  Jabra SPEAK 510
 	094d  GN Netcom / Jabra REVO Wireless
 	1022  Jabra PRO 9450, Type 9400BS (DECT Headset)
@@ -16557,6 +16585,8 @@
 	1211  MediaTV Pro III (US)
 	1212  MediaTV Pro III MiniPCIe (EU)
 	1213  MediaTV Pro III MiniPCIe (US)
+2676  Basler AG
+	ba02  ace
 2730  Citizen
 	200f  CT-S310 Label printer
 2735  DigitalWay
@@ -17231,6 +17261,7 @@ C ef  Miscellaneous Device
 		02  Wire Adapter Multifunction Peripheral
 	03  ?
 		01  Cable Based Association
+	05  USB3 Vision
 C fe  Application Specific Interface
 	01  Device Firmware Update
 	02  IRDA Bridge
