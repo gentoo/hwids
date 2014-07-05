@@ -1,4 +1,4 @@
-  Generated: Fri, 27 Jun 2014 05:00:03 -0400
+  Generated: Sat, 05 Jul 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -49288,8 +49288,8 @@
 				Lawrenceville GA 30044
 				UNITED STATES
 
-  00-1E-6C   (hex)		Carbon Mountain LLC
-  001E6C     (base 16)		Carbon Mountain LLC
+  00-1E-6C   (hex)		Opaque Systems
+  001E6C     (base 16)		Opaque Systems
   				4820 Fisher Road
 				Athens OH 45701
 				UNITED STATES
@@ -82060,6 +82060,12 @@
 				New Berlin WI 53151
 				UNITED STATES
 
+  08-09-B6   (hex)		Masimo Corp
+  0809B6     (base 16)		Masimo Corp
+  				40 Parker
+				Irvine CA 92618
+				UNITED STATES
+
   08-0C-0B   (hex)		SysMik GmbH Dresden
   080C0B     (base 16)		SysMik GmbH Dresden
   				Bertolt-Brecht-Allee 24
@@ -82255,6 +82261,13 @@
   				1975 Landings Dr.
 				Mountain View CA 94043
 				UNITED STATES
+
+  08-46-56   (hex)		VODALYS Ingénierie
+  084656     (base 16)		VODALYS Ingénierie
+  				14 rue du Patis Tatelin
+				Batiment D
+				RENNES Bretagne 35700
+				FRANCE
 
   08-48-2C   (hex)		Raycore Taiwan Co., LTD.
   08482C     (base 16)		Raycore Taiwan Co., LTD.
@@ -84674,6 +84687,12 @@
 				Hannover Garbsen 30823
 				GERMANY
 
+  14-ED-E4   (hex)		Kaiam Corporation
+  14EDE4     (base 16)		Kaiam Corporation
+  				39677 Eureka Drive
+				Newark California 94560
+				UNITED STATES
+
   14-EE-9D   (hex)		AirNav Systems LLC
   14EE9D     (base 16)		AirNav Systems LLC
   				4660 La Jolla Village Dr. - Suite 500
@@ -85217,6 +85236,13 @@
   				11445 Compaq Center Drive
 				Houston Texas 77070
 				UNITED STATES
+
+  18-A9-58   (hex)		PROVISION THAI CO., LTD.
+  18A958     (base 16)		PROVISION THAI CO., LTD.
+  				155/7-10 Rachadapisek Rd.,
+				Bukkalo
+				Thonburi Bangkok 10600
+				THAILAND
 
   18-A9-9B   (hex)		Dell Inc
   18A99B     (base 16)		Dell Inc
@@ -88508,6 +88534,12 @@
 				Seoul  152-848
 				KOREA, REPUBLIC OF
 
+  2C-A3-0E   (hex)		POWER DRAGON DEVELOPMENT LIMITED
+  2CA30E     (base 16)		POWER DRAGON DEVELOPMENT LIMITED
+  				Room D, 10/F Tower A, Billion Centre, 1 Wang Kwong Road, Kowloon Bay
+				HONG KONG HONG KONG 999077
+				CHINA
+
   2C-A7-80   (hex)		True Technologies Inc.
   2CA780     (base 16)		True Technologies Inc.
   				R476, AngelCity 1st,
@@ -89276,6 +89308,12 @@
 				Tokyo  141-0001
 				JAPAN
 
+  30-FA-B7   (hex)		Tunai Creative
+  30FAB7     (base 16)		Tunai Creative
+  				12F, No.221, Sec.4, Zongxiao E. Rd, Taipei 106, Taiwan
+				TAIPEI TAIPEI 10690
+				TAIWAN, PROVINCE OF CHINA
+
   30-FD-11   (hex)		MACROTECH (USA) INC.
   30FD11     (base 16)		MACROTECH (USA) INC.
   				1799 BAYSHORE HIGHWAY
@@ -89388,6 +89426,13 @@
   				Yuehai Building A-13CD,Nanhai Road,Nanshan Area
 				Shenzhen Guangdong 518054
 				CHINA
+
+  34-28-F0   (hex)		ATN International Limited
+  3428F0     (base 16)		ATN International Limited
+  				4210, Office Tower, Convention Plaza
+				1 Harbour Road, Wanchai,
+				Hong Kong 00000
+				HONG KONG
 
   34-29-EA   (hex)		MCD ELECTRONICS SP. Z O.O.
   3429EA     (base 16)		MCD ELECTRONICS SP. Z O.O.
@@ -93789,6 +93834,13 @@
   				1001 Bayhill Dr
 				Ste 200
 				San Bruno CA 94066
+				UNITED STATES
+
+  4C-F5-A0   (hex)		Scalable Network Technologies Inc
+  4CF5A0     (base 16)		Scalable Network Technologies Inc
+  				600 Corporate Pointe
+				Suite 1200
+				Culver City CA 90230
 				UNITED STATES
 
   4C-F7-37   (hex)		SamJi Electronics Co., Ltd
@@ -100448,6 +100500,13 @@
 				Marburg Hessen 35039
 				GERMANY
 
+  74-E1-4A   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  74E14A     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  				
+				445 HOES LANE
+				PISCATAWAY NJ 08854
+				UNITED STATES
+
   74-E1-B6   (hex)		Apple
   74E1B6     (base 16)		Apple
   				1 Infinite Loop
@@ -101449,6 +101508,13 @@
 				Science Park
 				Hsinchu Taiwan 300
 				TAIWAN, PROVINCE OF CHINA
+
+  7C-0E-CE   (hex)		Cisco
+  7C0ECE     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   7C-11-BE   (hex)		Apple
   7C11BE     (base 16)		Apple
@@ -103228,6 +103294,12 @@
 				Hsin-chu Taiwan 300
 				TAIWAN, PROVINCE OF CHINA
 
+  84-96-81   (hex)		Cathay Communication Co.,Ltd
+  849681     (base 16)		Cathay Communication Co.,Ltd
+  				Tsinghua Institude A319 of Hi-tech Park,Nanshan district,Shenzhen China
+				Shenzhen Canton 0755
+				CHINA
+
   84-96-D8   (hex)		Pace plc
   8496D8     (base 16)		Pace plc
   				Victoria Lane
@@ -103373,6 +103445,12 @@
   				Krullelaan 28
 				Zeist Utrecht 3701 TD
 				NETHERLANDS
+
+  84-E0-58   (hex)		Pace plc
+  84E058     (base 16)		Pace plc
+  				Victoria Lane
+				Saltaire West Yorkshire BD18 3LF
+				UNITED KINGDOM
 
   84-E4-D9   (hex)		Shenzhen NEED technology Ltd.
   84E4D9     (base 16)		Shenzhen NEED technology Ltd.
@@ -104604,6 +104682,12 @@
   				20 Hyperion Court
 				Kingston Ontario K7K 7K2
 				CANADA
+
+  8C-DC-D4   (hex)		Hewlett Packard
+  8CDCD4     (base 16)		Hewlett Packard
+  				11445 Compaq Center Drive
+				Houston Texas 77070
+				UNITED STATES
 
   8C-DD-8D   (hex)		Wifly-City System Inc.
   8CDD8D     (base 16)		Wifly-City System Inc.
@@ -106119,6 +106203,12 @@
 				Shenzhen Guangdong 518000
 				CHINA
 
+  98-16-EC   (hex)		IC Intracom
+  9816EC     (base 16)		IC Intracom
+  				550 Commerce Blvd
+				Oldsmar Florida 34677
+				UNITED STATES
+
   98-20-8E   (hex)		Definium Technologies
   98208E     (base 16)		Definium Technologies
   				34 Fairthorne Road
@@ -106445,6 +106535,12 @@
 				Baishizhou, Nanshan District
 				Shenzhen Guangdong 518053
 				CHINA
+
+  98-90-96   (hex)		Dell Inc
+  989096     (base 16)		Dell Inc
+  				One Dell Way
+				Round Rock TX 78682
+				UNITED STATES
 
   98-93-CC   (hex)		LG Electronics Inc.
   9893CC     (base 16)		LG Electronics Inc.
@@ -107749,6 +107845,12 @@
   				49 N. Federal Highway #397
 				Pompano Beach Florida 33062
 				UNITED STATES
+
+  A0-93-47   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD.
+  A09347     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD.
+  				NO.18 HAIBIN ROAD,WUSHA,CHANG'AN
+				DONGGUAN GUANGDONG 523860
+				CHINA
 
   A0-98-05   (hex)		OpenVox Communication Co Ltd
   A09805     (base 16)		OpenVox Communication Co Ltd
@@ -114835,6 +114937,13 @@
 				Lawrenceville GA 30044
 				UNITED STATES
 
+  CC-10-A3   (hex)		Beijing Nan Bao Technology Co., Ltd.
+  CC10A3     (base 16)		Beijing Nan Bao Technology Co., Ltd.
+  				Room 310,Building NO.2
+				Purple Royal International
+				Shijingshan District Beijing 100000
+				CHINA
+
   CC-14-A6   (hex)		Yichun MyEnergy Domain, Inc
   CC14A6     (base 16)		Yichun MyEnergy Domain, Inc
   				349W. Yuanshan Rd, Yichun
@@ -115360,6 +115469,13 @@
 				Taipei City  11494
 				TAIWAN, PROVINCE OF CHINA
 
+  CC-D8-C1   (hex)		Cisco
+  CCD8C1     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   CC-D9-E9   (hex)		SCR Engineers Ltd.
   CCD9E9     (base 16)		SCR Engineers Ltd.
   				6 Haomanut St.
@@ -115710,6 +115826,13 @@
   				750 Central Expressway
 				Santa Clara CA 95050
 				UNITED STATES
+
+  D0-62-A0   (hex)		China Essence Technology (Zhumadian) Co., Ltd.
+  D062A0     (base 16)		China Essence Technology (Zhumadian) Co., Ltd.
+  				4th Floor, Administrative Service Center Office of Yicheng District
+				West Jiefang Road
+				Zhumadian Henan Province 463000
+				CHINA
 
   D0-63-4D   (hex)		Meiko Maschinenbau GmbH &amp; Co. KG
   D0634D     (base 16)		Meiko Maschinenbau GmbH &amp; Co. KG
@@ -118070,6 +118193,12 @@
 				Shenzhen Guangdong 518031
 				CHINA
 
+  DC-DA-4F   (hex)		GET Technology,INC
+  DCDA4F     (base 16)		GET Technology,INC
+  				Room 508, NO .48 ZhengYi road, YangPu District
+				SHANGHAI SHANGHAI 200082
+				CHINA
+
   DC-DE-CA   (hex)		Akyllor
   DCDECA     (base 16)		Akyllor
   				Britannia House, 22, 2F, Cator Road
@@ -120183,6 +120312,13 @@
   				Hataasia 21
 				Raanana  2396
 				ISRAEL
+
+  EC-3C-5A   (hex)		SHEN ZHEN HENG SHENG HUI DIGITAL TECHNOLOGY CO.,LTD
+  EC3C5A     (base 16)		SHEN ZHEN HENG SHENG HUI DIGITAL TECHNOLOGY CO.,LTD
+  				5A 6FLOOR, BLOCK C12, FUYUAN INDUSTRIAL AREA, ZHOU SHI ROAD,
+				NO111, XIXIANG STREET, BAOAN
+				SHENZHEN GUANGDONG 518102
+				CHINA
 
   EC-3E-09   (hex)		PERFORMANCE DESIGNED PRODUCTS, LLC
   EC3E09     (base 16)		PERFORMANCE DESIGNED PRODUCTS, LLC
