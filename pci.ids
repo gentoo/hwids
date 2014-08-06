@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.06.27
-#	Date:    2014-06-27 03:15:01
+#	Version: 2014.08.06
+#	Date:    2014-08-06 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1033,7 +1033,7 @@
 	4c54  264LT [Mach64 LT]
 	4c57  RV200/M7 [Mobility Radeon 7500]
 		1014 0517  ThinkPad T30
-		1014 0530  ThinkPad T42 2373-4WU
+		1014 0530  ThinkPad T4x Series
 		1028 00e6  Radeon Mobility M7 LW (Dell Inspiron 8100)
 		1028 012a  Latitude C640
 		1043 1622  Mobility Radeon M7 (L3C/S)
@@ -2662,7 +2662,9 @@
 		174b e180  Radeon HD 7350
 		17af 3015  Radeon HD 7350
 	68fe  Cedar LE
-	6900  Topaz XT [Radeon R7 M260]
+	6900  Topaz XT [Radeon R7 M260/M265]
+		1028 0640  Radeon R7 M265
+		1179 f934  Radeon R7 M260
 	6901  Topaz PRO [Radeon R5 M255]
 	6920  Tonga
 	6921  Amethyst XT [Radeon R9 M295X]
@@ -3540,6 +3542,7 @@
 		1014 04c7  PCIe3 x 8 Cache SAS RAID Internal Adapter 6GB(2CCA)
 		1014 04c8  PCIe3 x 8 Cache SAS RAID Internal Adapter 6GB(2CD2)
 		1014 0c49  PCIe3 x 8 Cache SAS RAID Internal Adapter 6GB(2CCD)
+	044b  GenWQE Accelerator Adapter
 	04aa  Flash Adapter 90 (PCIe2 0.9TB)
 	3022  QLA3022 Network Adapter
 	4022  QLA3022 Network Adapter
@@ -8894,6 +8897,7 @@
 	0fe1  GK107M [GeForce GT 730M]
 	0fe2  GK107M [GeForce GT 745M]
 	0fe3  GK107M [GeForce GT 745M]
+		103c 2b16  GeForce GT 745A
 		17aa 3675  GeForce GT 745A
 	0fe4  GK107M [GeForce GT 750M]
 	0fe5  GK107 [GeForce K340 USM]
@@ -8906,6 +8910,7 @@
 	0fef  GK107GL [GRID K340]
 	0ff1  GK107 [NVS 1000]
 	0ff2  GK107GL [GRID K1]
+	0ff3  GK107GL [Quadro K420]
 	0ff5  GK107GL [GRID K1 Tesla USM]
 	0ff6  GK107GLM [Quadro K1100M]
 		103c 197b  ZBook 15
@@ -8955,6 +8960,7 @@
 	1028  GK110GL [Tesla K20m]
 	1029  GK110BGL [Tesla K40s]
 	103a  GK110GL [Quadro K6000]
+	103c  GK110GL [Quadro K5200]
 	1040  GF119 [GeForce GT 520]
 	1042  GF119 [GeForce 510]
 	1048  GF119 [GeForce 605]
@@ -9101,6 +9107,8 @@
 		1028 05e8  GeForce GT 630M
 		1028 05f4  GeForce GT 720M
 		1028 064e  GeForce 820M
+		1028 0652  GeForce 820M
+		1028 0662  GeForce 820M
 		1028 068d  GeForce 820M
 		103c 18ef  GeForce GT 630M
 		103c 18f9  GeForce GT 630M
@@ -9187,11 +9195,14 @@
 		152d 0926  GeForce 620M
 		152d 0982  GeForce GT 630M
 		152d 0983  GeForce GT 630M
+		152d 1005  GeForce GT 820M
 		152d 1012  GeForce 710M
+		152d 1019  GeForce 820M
 		152d 1030  GeForce GT 630M
 		152d 1055  GeForce 710M
 		152d 1067  GeForce GT 720M
 		152d 1072  GeForce GT 720M
+		152d 1086  GeForce 820M
 		17aa 2200  NVS 5200M
 		17aa 2213  GeForce GT 720M
 		17aa 2220  GeForce GT 720M
@@ -9302,6 +9313,7 @@
 		10de 101a  GRID K240Q
 		10de 101b  GRID K260Q
 	11b1  GK104GL [GRID K2 Tesla USM]
+	11b4  GK104GL [Quadro K4200]
 	11b6  GK104GLM [Quadro K3100M]
 	11b7  GK104GLM [Quadro K4100M]
 	11b8  GK104GLM [Quadro K5100M]
@@ -9397,6 +9409,7 @@
 		103c 2b0d  GeForce GT 710A
 		103c 2b0f  GeForce GT 710A
 		103c 2b11  GeForce GT 710A
+		103c 2b20  GeForce 810A
 		103c 2b21  GeForce GT 810A
 		103c 2b22  GeForce GT 810A
 	1296  GK208M [GeForce 825M]
@@ -9405,6 +9418,7 @@
 	12b9  GK208GLM [Quadro K610M]
 	12ba  GK208GLM [Quadro K510M]
 	1340  GM108M [GeForce 830M]
+		103c 2b2b  GeForce 830A
 	1341  GM108M [GeForce 840M]
 		17aa 3697  GeForce 840A
 		17aa 3699  GeForce 840A
@@ -9418,6 +9432,9 @@
 		17aa a125  GeForce GTX 850A
 	1392  GM107M [GeForce GTX 860M]
 	1393  GM107M [GeForce 840M]
+	13b3  GM107GLM [Quadro K2200M]
+	13ba  GM107GL [Quadro K2200]
+	13bb  GM107GL [Quadro K620]
 10df  Emulex Corporation
 	0720  OneConnect NIC (Skyhawk)
 		17aa 1056  ThinkServer OCm14102-UX-L AnyFabric
@@ -9877,6 +9894,7 @@
 	0620  RocketRAID 620 2 Port SATA-III Controller
 	0622  RocketRAID 622 2 Port SATA-III Controller
 	0640  RocketRAID 640 4 Port SATA-III Controller
+	0644  RocketRAID 644 4 Port SATA-III Controller (eSATA)
 	1720  RocketRAID 1720 (2x SATA II RAID Controller)
 	1740  RocketRAID 1740
 	1742  RocketRAID 1742
@@ -10930,8 +10948,9 @@
 		13c2 1019  S2-3200
 		13c2 1102  Technotrend/Hauppauge DVB card rev2.1
 		153b 1155  Cinergy 1200 DVB-S
-		153b 1156  Terratec Cynergy 1200C
+		153b 1156  Cinergy 1200 DVB-C
 		153b 1157  Cinergy 1200 DVB-T
+		153b 1176  Cinergy 1200 DVB-C (MK3)
 		1894 0020  KNC One DVB-C V1.0
 		1894 0023  TVStation DVB-C plus
 	7160  SAA7160
@@ -13595,6 +13614,8 @@
 	0204  GPS170PCI GPS Receiver
 	0205  GPS170PEX GPS Receiver (PCI Express)
 	0206  GPS180PEX GPS Receiver (PCI Express)
+	0207  GLN180PEX GPS/GLONASS receiver (PCI Express)
+	0208  GPS180AMC GPS Receiver (PCI Express / MicroTCA / AdvancedMC)
 	0301  TCR510PCI IRIG Timecode Reader
 	0302  TCR167PCI IRIG Timecode Reader
 	0303  TCR511PCI IRIG Timecode Reader
@@ -13995,6 +14016,7 @@
 		1043 838e  Virtuoso 66 (Xonar DS)
 		1043 8428  Virtuoso 100 (Xonar Xense)
 		1043 8467  CMI8786 (Xonar DG)
+		1043 85f4  Virtuoso 100 (Xonar Essence STX II)
 		13f6 8782  PCI 2.0 HD Audio
 		13f6 ffff  CMI8787-HG2PCI
 		14c3 1710  HiFier Fantasia
@@ -14301,7 +14323,7 @@
 	4081  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4082  T420-4082  Unified Wire Ethernet Controller
 	4083  T420X-4083 Unified Wire Ethernet Controller
-	4084  T420-4084 Unified Wire Ethernet Controller
+	4084  T440-4084 Unified Wire Ethernet Controller
 	4085  T420-4085 SFP+ Unified Wire Ethernet Controller
 	4086  T440-4086 10Gbase-T Unified Wire Ethernet Controller
 	4087  T440T-4087 Unified Wire Ethernet Controller
@@ -14325,7 +14347,7 @@
 	4481  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4482  T420-4082  Unified Wire Ethernet Controller
 	4483  T420X-4083 Unified Wire Ethernet Controller
-	4484  T420-4084 Unified Wire Ethernet Controller
+	4484  T440-4084 Unified Wire Ethernet Controller
 	4485  T420-4085 SFP+ Unified Wire Ethernet Controller
 	4486  T440-4086 10Gbase-T Unified Wire Ethernet Controller
 	4487  T440T-4087 Unified Wire Ethernet Controller
@@ -14349,7 +14371,7 @@
 	4581  T440F-4081 T440-FCoE Unified Wire Storage Controller
 	4582  T420-4082  Unified Wire Storage Controller
 	4583  T420X-4083 Unified Wire Storage Controller
-	4584  T420-4084 Unified Wire Storage Controller
+	4584  T440-4084 Unified Wire Storage Controller
 	4585  T420-4085 SFP+ Unified Wire Storage Controller
 	4586  T440-4086 10Gbase-T Unified Wire Storage Controller
 	4587  T440T-4087 Unified Wire Storage Controller
@@ -14373,7 +14395,7 @@
 	4681  T440F-4081 T440-FCoE Unified Wire Storage Controller
 	4682  T420-4082  Unified Wire Storage Controller
 	4683  T420X-4083 Unified Wire Storage Controller
-	4684  T420-4084 Unified Wire Storage Controller
+	4684  T440-4084 Unified Wire Storage Controller
 	4685  T420-4085 SFP+ Unified Wire Storage Controller
 	4686  T440-4086 10Gbase-T Unified Wire Storage Controller
 	4687  T440T-4087 Unified Wire Storage Controller
@@ -14397,7 +14419,7 @@
 	4781  T440F-4081 T440-FCoE Unified Wire Ethernet Controller
 	4782  T420-4082  Unified Wire Ethernet Controller
 	4783  T420X-4083 Unified Wire Ethernet Controller
-	4784  T420-4084 Unified Wire Ethernet Controller
+	4784  T440-4084 Unified Wire Ethernet Controller
 	4785  T420-4085 SFP+ Unified Wire Ethernet Controller
 	4786  T440-4086 10Gbase-T Unified Wire Ethernet Controller
 	4787  T440T-4087 Unified Wire Ethernet Controller
@@ -14421,7 +14443,7 @@
 	4881  T440F-4081 T440-FCoE Unified Wire Ethernet Controller [VF]
 	4882  T420-4082 Unified Wire Ethernet Controller [VF]
 	4883  T420X-4083 Unified Wire Ethernet Controller [VF]
-	4884  T420-4084 Unified Wire Ethernet Controller [VF]
+	4884  T440-4084 Unified Wire Ethernet Controller [VF]
 	4885  T420-4085 SFP+ Unified Wire Ethernet Controller [VF]
 	4886  T440-4086 10Gbase-T Unified Wire Ethernet Controller [VF]
 	4887  T440T-4087 Unified Wire Ethernet Controller [VF]
@@ -14444,7 +14466,7 @@
 	5010  T580-LP-CR Unified Wire Ethernet Controller
 	5011  T520-LL-CR Unified Wire Ethernet Controller
 	5012  T560-CR Unified Wire Ethernet Controller
-	5013  T580-CR Unified Wire Ethernet Controller
+	5013  T580-CHR Unified Wire Ethernet Controller
 	5014  T580-LP-SO-CR Unified Wire Ethernet Controller
 	5015  T502-BT Unified Wire Ethernet Controller
 	5080  T540-5080 Unified Wire Ethernet Controller
@@ -14470,7 +14492,7 @@
 	5410  T580-LP-CR Unified Wire Ethernet Controller
 	5411  T520-LL-CR Unified Wire Ethernet Controller
 	5412  T560-CR Unified Wire Ethernet Controller
-	5413  T580-CR Unified Wire Ethernet Controller
+	5413  T580-CHR Unified Wire Ethernet Controller
 	5414  T580-LP-SO-CR Unified Wire Ethernet Controller
 	5415  T502-BT Unified Wire Ethernet Controller
 	5480  T540-5080 Unified Wire Ethernet Controller
@@ -14496,7 +14518,7 @@
 	5510  T580-LP-CR Unified Wire Storage Controller
 	5511  T520-LL-CR Unified Wire Storage Controller
 	5512  T560-CR Unified Wire Storage Controller
-	5513  T580-CR Unified Wire Storage Controller
+	5513  T580-CHR Unified Wire Storage Controller
 	5514  T580-LP-SO-CR Unified Wire Storage Controller
 	5515  T502-BT Unified Wire Storage Controller
 	5580  T540-5080 Unified Wire Storage Controller
@@ -14522,7 +14544,7 @@
 	5610  T580-LP-CR Unified Wire Storage Controller
 	5611  T520-LL-CR Unified Wire Storage Controller
 	5612  T560-CR Unified Wire Storage Controller
-	5613  T580-CR Unified Wire Storage Controller
+	5613  T580-CHR Unified Wire Storage Controller
 	5614  T580-LP-SO-CR Unified Wire Storage Controller
 	5615  T502-BT Unified Wire Storage Controller
 	5680  T540-5080 Unified Wire Storage Controller
@@ -14574,7 +14596,7 @@
 	5810  T580-LP-CR Unified Wire Ethernet Controller [VF]
 	5811  T520-LL-CR Unified Wire Ethernet Controller [VF]
 	5812  T560-CR Unified Wire Ethernet Controller [VF]
-	5813  T580-CR Unified Wire Ethernet Controller [VF]
+	5813  T580-CHR Unified Wire Ethernet Controller [VF]
 	5814  T580-LP-SO-CR Unified Wire Ethernet Controller [VF]
 	5815  T502-BT Unified Wire Ethernet Controller [VF]
 	5880  T540-5080 Unified Wire Ethernet Controller [VF]
@@ -15181,6 +15203,7 @@
 	16a2  BCM57840 NetXtreme II 10/20-Gigabit Ethernet
 		103c 1916  HP FlexFabric 20Gb 2-port 630FLB Adapter
 		103c 1917  HP FlexFabric 20Gb 2-port 630M Adapter
+	16a3  NetXtreme BCM57786 Gigabit Ethernet PCIe
 	16a4  BCM57840 NetXtreme II Ethernet Multi Function
 		103c 1916  HP NPAR 20Gb 2-port 630FLB Adapter
 		103c 1917  HP NPAR 20Gb 2-port 630M Adapter
@@ -15468,9 +15491,12 @@
 	4359  BCM43228 802.11a/b/g/n
 		1028 0011  Wireless 1530 Half-size Mini PCIe Card
 		103c 182c  BCM943228HM4L 802.11a/b/g/n 2x2 Wi-Fi Adapter
+	4360  BCM4360 802.11ac Wireless Network Adapter
 	4365  BCM43142 802.11b/g/n
 		1028 0016  Wireless 1704 802.11n + BT 4.0
 	43a0  BCM4360 802.11ac Wireless Network Adapter
+	43a9  BCM43217 802.11b/g/n
+	43aa  BCM43131 802.11b/g/n
 	43b1  BCM4352 802.11ac Wireless Network Adapter
 	4401  BCM4401 100Base-T
 		1025 0035  TravelMate 660
@@ -16139,7 +16165,8 @@
 	0740  Virtual Machine Communication Interface
 	0770  USB2 EHCI Controller
 	0774  USB1.1 UHCI Controller
-	0778  USB3 xHCI Controller
+	0778  USB3 xHCI 0.96 Controller
+	0779  USB3 xHCI 1.0 Controller
 	0790  PCI bridge
 	07a0  PCI Express Root Port
 	07b0  VMXNET3 Ethernet Controller
@@ -16686,6 +16713,7 @@
 16b4  Aspex Semiconductor Ltd
 16b8  Sonnet Technologies, Inc.
 16be  Creatix Polymedia GmbH
+16c3  Synopsys, Inc.
 16c6  Micrel-Kendin
 	8695  Centaur KS8695 ARM processor
 	8842  KSZ8842-PMQL 2-Port Ethernet Switch
@@ -17721,6 +17749,7 @@
 1a22  Ambric Inc.
 1a29  Fortinet, Inc.
 	4338  CP8 Content Processor ASIC
+	4e36  NP6 Network Processor
 1a2b  Ascom AG
 	0000  GESP v1.2
 	0001  GESP v1.3
@@ -17779,7 +17808,7 @@
 1a76  Wavesat
 1a77  Lightfleet Corporation
 1a78  Virident Systems Inc.
-	0031  Virident FlashMAX Drive
+	0031  FlashMAX Drive
 		1a78 0034  FlashMAX PCIe SSD [rev 3]
 		1a78 0037  FlashMAX PCIe SSD [rev 3D]
 		1a78 0038  FlashMAX PCIe SSD [rev 4]
@@ -17787,6 +17816,7 @@
 	0040  FlashMAX II
 	0041  FlashMAX II
 	0042  FlashMAX II
+	0050  FlashMAX III
 1a84  Commex Technologies
 	0001  Vulcan SP HT6210 10-Gigabit Ethernet (rev 02)
 1a88  MEN Mikro Elektronik
@@ -20140,7 +20170,7 @@
 		8086 011a  Ethernet Converged Network Adapter X520-4
 		8086 011b  Ethernet Converged Network Adapter X520-4
 		8086 011c  Ethernet Converged Network Adapter X520-4
-	154c  XL710 X710 Virtual Function
+	154c  XL710/X710 Virtual Function
 	154d  Ethernet 10G 2P X520 Adapter
 		8086 7b11  10GbE 2P X520 Adapter
 	1557  82599 10 Gigabit Network Connection
@@ -20159,21 +20189,21 @@
 	1560  Ethernet Controller X540
 	156f  Ethernet Connection I219-LM
 	1570  Ethernet Connection I219-V
-	1571  XL710 X710 Virtual Function
-	1572  Ethernet 10G 2P X710 Adapter
+	1571  XL710/X710 Virtual Function
+	1572  Ethernet Controller X710 for 10GbE SFP+
 		1028 1f99  Ethernet 10G 4P X710/I350 rNDC
 		8086 0000  Ethernet Converged Network Adapter X710
 		8086 0001  Ethernet Converged Network Adapter X710-4
 		8086 0002  Ethernet Converged Network Adapter X710-4
 		8086 0004  Ethernet Converged Network Adapter X710-4
 		8086 0005  Ethernet 10G 4P X710 Adapter
-		8086 0006  Ethernet 10G2P X710 Adapter
+		8086 0006  Ethernet 10G 2P X710 Adapter
 		8086 0007  Ethernet Converged Network Adapter X710-2
 		8086 0008  Ethernet Converged Network Adapter X710-2
 	157b  I210 Gigabit Network Connection
 	157c  I210 Gigabit Backplane Connection
-	1580  Ethernet Controller XL710 for 40Gbe backplane
-	1581  Ethernet Controller X710 for 10Gbe backplane
+	1580  Ethernet Controller XL710 for 40GbE backplane
+	1581  Ethernet Controller X710 for 10GbE backplane
 		1028 1f98  Ethernet 10G 4P X710-k bNDC
 	1583  Ethernet Controller XL710 for 40GbE QSFP+
 		8086 0000  Ethernet Converged Network Adapter XL710-Q2
@@ -20972,7 +21002,7 @@
 	24c5  82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller
 		0e11 00b8  Analog Devices Inc. codec [SoundMAX]
 		1014 0267  NetVista A30p
-		1014 0537  ThinkPad T41
+		1014 0537  ThinkPad T4x Series
 		1014 055f  Thinkpad R50e model 1634
 		1025 005a  TravelMate 290
 		1028 0139  Latitude D400
@@ -20996,7 +21026,7 @@
 		1734 1055  Amilo M1420
 		8086 24c5  Dell Dimension 2400
 	24c6  82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller
-		1014 0524  ThinkPad T41
+		1014 0524  ThinkPad T4x Series
 		1014 0525  ThinkPad
 		1014 0559  ThinkPad R50e
 		1025 003c  Aspire 2001WLCi (Compal CL50 motherboard) implementation
@@ -24940,6 +24970,7 @@ d161  Digium, Inc.
 	1220  Wildcard TE220 dual-span T1/E1/J1 card 3.3V (PCI-Express) (5th gen)
 	1405  Wildcard TE405P/TE407P quad-span T1/E1/J1 card 5.0V (u1)
 	1420  Wildcard TE420 quad-span T1/E1/J1 card 3.3V (PCI-Express) (5th gen)
+	1820  Wildcard TE820 octal-span T1/E1/J1 card 3.3V (PCI-Express)
 	2400  Wildcard TDM2400P 24-port analog card
 	3400  Wildcard TC400P transcoder base card
 	8000  Wildcard TE121 single-span T1/E1/J1 card (PCI-Express)
@@ -24953,6 +24984,7 @@ d161  Digium, Inc.
 	8008  Hx8 Series 8-port Base Card (PCI-Express)
 	800a  Wildcard TE133 single-span T1/E1/J1 card (PCI Express)
 	800b  Wildcard TE134 single-span T1/E1/J1 card
+	800e  Wildcard TE435P quad-span T1/E1/J1 card 3.3V (PCI-Express)
 	b410  Wildcard B410 quad-BRI card
 d4d4  Dy4 Systems Inc
 	0601  PCI Mezzanine Card

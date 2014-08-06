@@ -1,4 +1,4 @@
-  Generated: Fri, 01 Aug 2014 05:00:02 -0400
+  Generated: Wed, 06 Aug 2014 05:00:02 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -80357,6 +80357,12 @@
 				Vantaa  01610
 				FINLAND
 
+  00-F4-6F   (hex)		Samsung Elec Co.,Ltd
+  00F46F     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   00-F4-B9   (hex)		Apple
   00F4B9     (base 16)		Apple
   				1 Infinite Loop
@@ -82720,6 +82726,12 @@
 				 Shanghai  201613
 				CHINA
 
+  08-EE-8B   (hex)		Samsung Elec Co.,Ltd
+  08EE8B     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   08-EF-3B   (hex)		MCS Logic Inc.
   08EF3B     (base 16)		MCS Logic Inc.
   				6F. Samho Center B Bldg., 275-6,Yangjae-Dong, Secho-Ku,Seoul
@@ -83228,6 +83240,12 @@
 				SITAPURA
 				JAIPUR RAJASTHAN 302022
 				INDIA
+
+  0C-B3-19   (hex)		Samsung Elec Co.,Ltd
+  0CB319     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   0C-B4-EF   (hex)		Digience Co.,Ltd.
   0CB4EF     (base 16)		Digience Co.,Ltd.
@@ -84219,6 +84237,13 @@
   				Yrttipellontie 6
 				Oulu Ou 90230
 				FINLAND
+
+  10-FA-CE   (hex)		Reacheng Communication Technology Co.,Ltd
+  10FACE     (base 16)		Reacheng Communication Technology Co.,Ltd
+  				Building No.5-401,
+				 No.3000 Long Dong Avenue,
+				Pu Dong New District, Shanghai 201203
+				CHINA
 
   10-FB-F0   (hex)		KangSheng LTD.
   10FBF0     (base 16)		KangSheng LTD.
@@ -90551,6 +90576,12 @@
 				Tricht Gelderland 4196 HC
 				NETHERLANDS
 
+  38-94-96   (hex)		Samsung Elec Co.,Ltd
+  389496     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   38-95-92   (hex)		Beijing Tendyron Corporation
   389592     (base 16)		Beijing Tendyron Corporation
   				1810,Tower B,Jin-ma,Building,17 East Qing Hua Road
@@ -92520,6 +92551,12 @@
   				4F,90,Chien 1 Road,ChungHo
 				Taipei TaiWan 23585
 				TAIWAN, PROVINCE OF CHINA
+
+  44-6D-6C   (hex)		Samsung Elec Co.,Ltd
+  446D6C     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   44-70-0B   (hex)		IFFU
   44700B     (base 16)		IFFU
@@ -94715,6 +94752,12 @@
 				Ya-Tap 68
 				Bun-Dang, Seong-Nam Gyung-Gi 463-816
 				KOREA, REPUBLIC OF
+
+  50-F4-3C   (hex)		Leeo Inc
+  50F43C     (base 16)		Leeo Inc
+  				989 Comercial St
+				Palo Alto CA 94303
+				UNITED STATES
 
   50-F5-20   (hex)		Samsung Electronics Co.,Ltd
   50F520     (base 16)		Samsung Electronics Co.,Ltd
@@ -97971,6 +98014,12 @@
 				Waldbronn BW 76337
 				GERMANY
 
+  64-B2-1D   (hex)		Chengdu Phycom Tech Co., Ltd.
+  64B21D     (base 16)		Chengdu Phycom Tech Co., Ltd.
+  				No.216 beisen road
+				Chengdu Sichuan 610000
+				CHINA
+
   64-B3-10   (hex)		Samsung Electronics Co.,Ltd
   64B310     (base 16)		Samsung Electronics Co.,Ltd
   				#94-1, Imsoo-Dong
@@ -97994,6 +98043,12 @@
   				451 El Camino Real
 				Santa Clara CA 95050
 				UNITED STATES
+
+  64-B8-53   (hex)		Samsung Elec Co.,Ltd
+  64B853     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
 
   64-B9-E8   (hex)		Apple
   64B9E8     (base 16)		Apple
@@ -103486,6 +103541,12 @@
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
+  84-55-A5   (hex)		Samsung Elec Co.,Ltd
+  8455A5     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   84-56-9C   (hex)		Coho Data, Inc.,
   84569C     (base 16)		Coho Data, Inc.,
   				1230 Midas Way, Suite 110
@@ -108395,6 +108456,12 @@
 				Houston Texas 77070
 				UNITED STATES
 
+  A0-B4-A5   (hex)		Samsung Elec Co.,Ltd
+  A0B4A5     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   A0-B5-DA   (hex)		HongKong THTF Co., Ltd
   A0B5DA     (base 16)		HongKong THTF Co., Ltd
   				2F,Sector C of Tsinghua University Academy,
@@ -109613,6 +109680,12 @@
 				Oulu  90570
 				FINLAND
 
+  A8-7C-01   (hex)		Samsung Elec Co.,Ltd
+  A87C01     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   A8-7E-33   (hex)		Nokia Danmark A/S
   A87E33     (base 16)		Nokia Danmark A/S
   				Frederikskaj
@@ -110070,6 +110143,13 @@
 				 Torch Hi-tech Industry Development Zone
 				Xiamen Fujian 361006
 				CHINA
+
+  AC-3A-7A   (hex)		Roku
+  AC3A7A     (base 16)		Roku
+  				12980 Saratoga Ave
+				Suite D
+				Saratoga California 95070
+				UNITED STATES
 
   AC-3C-0B   (hex)		Apple
   AC3C0B     (base 16)		Apple
@@ -118207,6 +118287,13 @@
 				SHATIN NT  
 				HONG KONG
 
+  D8-CB-8A   (hex)		Micro-Star INTL CO., LTD.
+  D8CB8A     (base 16)		Micro-Star INTL CO., LTD.
+  				No.69, Lide St.,
+				Zhonghe Dist.,
+				New Taipei City Taiwan 235
+				TAIWAN, PROVINCE OF CHINA
+
   D8-CF-9C   (hex)		Apple
   D8CF9C     (base 16)		Apple
   				1 Infinite Loop
@@ -120194,6 +120281,12 @@
 				Geisa Thüringen 36419
 				GERMANY
 
+  E4-F8-EF   (hex)		Samsung Elec Co.,Ltd
+  E4F8EF     (base 16)		Samsung Elec Co.,Ltd
+  				#94-1, Imsoo-Dong
+				Gumi Gyeongbuk 730-350
+				KOREA, REPUBLIC OF
+
   E4-FA-1D   (hex)		PAD Peripheral Advanced Design Inc.
   E4FA1D     (base 16)		PAD Peripheral Advanced Design Inc.
   				1400 Hocquart
@@ -120559,6 +120652,12 @@
 				Satellite Antenna Mansion 204，Zhongxin Road  No.56
 				Suzhou Jiangsu 215021
 				CHINA
+
+  E8-87-A3   (hex)		Loxley Public Company Limited
+  E887A3     (base 16)		Loxley Public Company Limited
+  				102 Na Ranong Road, Klongtoey
+				Bangkok 10110
+				THAILAND
 
   E8-89-2C   (hex)		ARRIS Group, Inc.
   E8892C     (base 16)		ARRIS Group, Inc.
