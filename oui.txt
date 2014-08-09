@@ -1,4 +1,4 @@
-  Generated: Wed, 06 Aug 2014 05:00:02 -0400
+  Generated: Sat, 09 Aug 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -80327,6 +80327,12 @@
 				SANTA CLARA CA 95054
 				UNITED STATES
 
+  00-E6-E8   (hex)		Netzin Technology Corporation,.Ltd.
+  00E6E8     (base 16)		Netzin Technology Corporation,.Ltd.
+  				4F-17, No. 26, Lane 321, Yang-Kuang St.,Neihu District, Taipei, Taiwan,
+				Taiwan Taipei Taiwan Taipei 11491
+				TAIWAN, PROVINCE OF CHINA
+
   00-E8-AB   (hex)		Meggitt Training Systems, Inc.
   00E8AB     (base 16)		Meggitt Training Systems, Inc.
   				296 Brogdon Rd
@@ -80870,6 +80876,13 @@
   				#503，Tower D, HUA HAN Innovation Park,
 				LANGSHAN Rd., NORTH DISTRICT OF HIGH-TECH PARK, NANSHAN DISTRICT, SHENZHEN
 				Shenzhen Guangdong 518000
+				CHINA
+
+  04-9B-9C   (hex)		Eadingcore  Intelligent Technology Co., Ltd.
+  049B9C     (base 16)		Eadingcore  Intelligent Technology Co., Ltd.
+  				No. 169 Lijia city C District comprehensive 3 layer C3-10 mall，Five-One road
+				Taijiang District
+				Fuzhou Fujian 350000
 				CHINA
 
   04-9C-62   (hex)		BMT Medical Technology s.r.o.
@@ -103414,6 +103427,12 @@
 				Kanata Ontario K2K 2E6
 				CANADA
 
+  84-26-90   (hex)		BEIJING THOUGHT SCIENCE CO.,LTD.
+  842690     (base 16)		BEIJING THOUGHT SCIENCE CO.,LTD.
+  				1-1102,Intermational Business Park,No.1 ShangDi Xinxi Rd,Haidian District,Beijing
+				beijing beijing 100085
+				CHINA
+
   84-27-CE   (hex)		Corporation of the Presiding Bishop of The Church of Jesus Christ of Latter-day Saints
   8427CE     (base 16)		Corporation of the Presiding Bishop of The Church of Jesus Christ of Latter-day Saints
   				Audiovisual Engineering - 2LL
@@ -104221,6 +104240,12 @@
 				 Information & Optoelectronics Park, Torch Hi-tech Industry Development Zone
 				Xiamen Fujian 361006
 				CHINA
+
+  88-70-EF   (hex)		SC Professional Trading Co., Ltd.
+  8870EF     (base 16)		SC Professional Trading Co., Ltd.
+  				2 Soi Krungthepkreetar 21
+				Sapansoong Bangkok 10250
+				THAILAND
 
   88-73-98   (hex)		K2E Tekpoint
   887398     (base 16)		K2E Tekpoint
@@ -116361,6 +116386,13 @@
 				Beijing  100089
 				CHINA
 
+  D0-22-12   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  D02212     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  				
+				445 HOES LANE
+				PISCATAWAY NJ 08854
+				UNITED STATES
+
   D0-22-BE   (hex)		Samsung Electro Mechanics co.,LTD.
   D022BE     (base 16)		Samsung Electro Mechanics co.,LTD.
   				93Moo5T. Bangsamak
@@ -120655,7 +120687,7 @@
 
   E8-87-A3   (hex)		Loxley Public Company Limited
   E887A3     (base 16)		Loxley Public Company Limited
-  				102 Na Ranong Road, Klongtoey
+  				102 Na Ranong Road, Klongtoey,
 				Bangkok 10110
 				THAILAND
 
