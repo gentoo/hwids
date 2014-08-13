@@ -1,4 +1,4 @@
-  Generated: Sat, 09 Aug 2014 05:00:03 -0400
+  Generated: Wed, 13 Aug 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -90996,6 +90996,12 @@
 				North Syracuse NY 13212
 				UNITED STATES
 
+  3C-1E-13   (hex)		HANGZHOU SUNRISE TECHNOLOGY CO., LTD
+  3C1E13     (base 16)		HANGZHOU SUNRISE TECHNOLOGY CO., LTD
+  				No.9, LongTan Road, CangQian Town, YuHang District, Hangzhou, China
+				HangZhou ZheJiang 311121
+				CHINA
+
   3C-25-D7   (hex)		Nokia Corporation
   3C25D7     (base 16)		Nokia Corporation
   				Joensuunkatu 7
@@ -100556,6 +100562,13 @@
 				Schramberg BW 78713
 				GERMANY
 
+  74-5C-9F   (hex)		TCT mobile ltd.
+  745C9F     (base 16)		TCT mobile ltd.
+  				NO86,hechang 7th road
+				Zhongkai hi-tech District
+				Hui Zhou Guang Gong 516006
+				CHINA
+
   74-5E-1C   (hex)		PIONEER CORPORATION
   745E1C     (base 16)		PIONEER CORPORATION
   				1-1 Shin-ogura
@@ -104620,6 +104633,12 @@
 				Indianapolis IN 46290
 				UNITED STATES
 
+  8C-05-51   (hex)		Koubachi AG
+  8C0551     (base 16)		Koubachi AG
+  				Technoparkstrasse 1
+				Zurich Zurich 8005
+				SWITZERLAND
+
   8C-07-8C   (hex)		FLOW DATA INC
   8C078C     (base 16)		FLOW DATA INC
   				2309 GRAND PARK DRIVE
@@ -107267,6 +107286,12 @@
 				(Zona Artigianale)
 				Cisterna di Latina  04012
 				ITALY
+
+  98-FA-E3   (hex)		Xiaomi inc.
+  98FAE3     (base 16)		Xiaomi inc.
+  				Office Building,The Rainbow City of China Resources, NO.68,Qinghe Middle Street,Haidian District,Beijing,China,100085
+				Beijing Beijing 100085
+				CHINA
 
   98-FB-12   (hex)		Grand Electronics (HK) Ltd
   98FB12     (base 16)		Grand Electronics (HK) Ltd
@@ -109925,6 +109950,12 @@
 				Geisenheim  65366
 				GERMANY
 
+  A8-D8-8A   (hex)		Wyconn
+  A8D88A     (base 16)		Wyconn
+  				Rennweg 97-99
+				Vienna - 1030
+				AUSTRIA
+
   A8-E0-18   (hex)		Nokia Corporation
   A8E018     (base 16)		Nokia Corporation
   				Yrttipellontie 6
@@ -111130,6 +111161,12 @@
 				Dublin California 94568
 				UNITED STATES
 
+  B0-91-37   (hex)		ISis ImageStream Internet Solutions, Inc
+  B09137     (base 16)		ISis ImageStream Internet Solutions, Inc
+  				4374 FM 1518
+				Selma TX 78154
+				UNITED STATES
+
   B0-97-3A   (hex)		E-Fuel Corporation
   B0973A     (base 16)		E-Fuel Corporation
   				15466 Los Gatos Blvd. #37
@@ -111873,6 +111910,12 @@
   				Kapellenweg 21
 				REICHSHOF-Sinspert  51580
 				GERMANY
+
+  B4-A8-28   (hex)		Shenzhen Concox Information Technology Co., Ltd
+  B4A828     (base 16)		Shenzhen Concox Information Technology Co., Ltd
+  				Floor 4th, Building B, Gaoxinqi Industrial Park, Liuxian 1st Road, district 67, Bao’an, Shenzhen, Guangdong,China
+				Shenzhen Guangdong 518102
+				CHINA
 
   B4-A8-2B   (hex)		Histar Digital Electronics Co., Ltd.
   B4A82B     (base 16)		Histar Digital Electronics Co., Ltd.
@@ -118124,6 +118167,12 @@
 				Seoul  153 706
 				KOREA, REPUBLIC OF
 
+  D8-84-66   (hex)		Extreme Networks
+  D88466     (base 16)		Extreme Networks
+  				145 Rio Robles
+				San Jose CA 95134
+				UNITED STATES
+
   D8-8A-3B   (hex)		UNIT-EM
   D88A3B     (base 16)		UNIT-EM
   				167 Merchants Street
@@ -118179,6 +118228,12 @@
   				255 Mary St
 				Richmond Victoria 3121
 				AUSTRALIA
+
+  D8-97-BA   (hex)		PEGATRON CORPORATION
+  D897BA     (base 16)		PEGATRON CORPORATION
+  				No. 76, Ligong St., Beitou
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
 
   D8-9D-67   (hex)		Hewlett Packard
   D89D67     (base 16)		Hewlett Packard
@@ -119004,6 +119059,13 @@
   				Kleinwoellmiss 53
 				St. Martin a. W. Styria A-8580
 				AUSTRIA
+
+  DC-EC-06   (hex)		Heimi Network Technology Co., Ltd.
+  DCEC06     (base 16)		Heimi Network Technology Co., Ltd.
+  				Room 12B12, Block A2, Long-Term World Building,
+				No. 18 Suzhou Street, Haidian district
+				Beijing Beijing 100080
+				CHINA
 
   DC-F0-5D   (hex)		Letta Teknoloji
   DCF05D     (base 16)		Letta Teknoloji
@@ -121129,8 +121191,9 @@
 
   EC-2C-49   (hex)		University of Tokyo
   EC2C49     (base 16)		University of Tokyo
-  				4-6-1 Komaba
-				Meguro-ku Tokyo 153-8904
+  				Nakao-lab, The University of Tokyo
+				A103 Daiwa Ubiquitous Computing Research Bldg.
+				7-3-1 Hongo, Bunkyo-ku Tokyo 113-0033
 				JAPAN
 
   EC-2E-4E   (hex)		HITACHI-LG DATA STORAGE INC
@@ -121659,6 +121722,12 @@
   				60-39 , Kasan-dong, Gumcheon-gu
 				Seoul  153-801
 				KOREA, REPUBLIC OF
+
+  F0-1C-2D   (hex)		Juniper Networks
+  F01C2D     (base 16)		Juniper Networks
+  				1194 N Mathilda Avenue
+				sunnyvale CA 94089
+				UNITED STATES
 
   F0-1F-AF   (hex)		Dell Inc
   F01FAF     (base 16)		Dell Inc
