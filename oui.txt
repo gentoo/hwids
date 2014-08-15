@@ -1,4 +1,4 @@
-  Generated: Wed, 13 Aug 2014 05:00:03 -0400
+  Generated: Fri, 15 Aug 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -16509,10 +16509,10 @@
 				Seoul  137-819
 				KOREA, REPUBLIC OF
 
-  00-0A-30   (hex)		Johnson Controls-ASG
-  000A30     (base 16)		Johnson Controls-ASG
-  				915 East 32nd Street
-				Holland MI 49423
+  00-0A-30   (hex)		Visteon Corporation
+  000A30     (base 16)		Visteon Corporation
+  				One Village Center Drive
+				Van Buren Twp MI 48111
 				UNITED STATES
 
   00-0A-31   (hex)		HCV Consulting
@@ -83405,10 +83405,10 @@
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-  0C-D9-C1   (hex)		Johnson Controls-ASG
-  0CD9C1     (base 16)		Johnson Controls-ASG
-  				915 E 32nd St
-				Holland MI 49424
+  0C-D9-C1   (hex)		Visteon Corporation
+  0CD9C1     (base 16)		Visteon Corporation
+  				One Village Center Drive
+				Van Buren Twp MI 48111
 				UNITED STATES
 
   0C-DA-41   (hex)		Hangzhou H3C Technologies Co., Limited
@@ -89235,6 +89235,12 @@
 				Hangzhou City Zhe Jiang 311241
 				CHINA
 
+  30-73-50   (hex)		Inpeco SA
+  307350     (base 16)		Inpeco SA
+  				Via San Gottardo 10
+				Lugano Ticino 6900
+				SWITZERLAND
+
   30-75-12   (hex)		Sony Mobile Communications AB
   307512     (base 16)		Sony Mobile Communications AB
   				Nya Vattentornet
@@ -89656,6 +89662,12 @@
   3431C4     (base 16)		AVM GmbH
   				Alt-Moabit 95
 				Berlin Berlin 10559
+				GERMANY
+
+  34-38-AF   (hex)		Inlab Software GmbH
+  3438AF     (base 16)		Inlab Software GmbH
+  				Josef-Wuerth-Str. 3
+				Gruenwald Bavaria 82031
 				GERMANY
 
   34-40-B5   (hex)		IBM
@@ -94847,6 +94859,12 @@
 				Vimercate MB 20059
 				ITALY
 
+  54-09-8D   (hex)		deister electronic GmbH
+  54098D     (base 16)		deister electronic GmbH
+  				Hermann-Bahlsen-Str. 11
+				Barsinghausen Niedersachsen 30890
+				GERMANY
+
   54-11-2F   (hex)		Sulzer Pump Solutions Finland Oy
   54112F     (base 16)		Sulzer Pump Solutions Finland Oy
   				Lentokentaentie 44
@@ -98938,6 +98956,13 @@
   				3-17-4 Ueno
 				Taito-ku Tokyo 1100005
 				JAPAN
+
+  68-F7-28   (hex)		LCFC(HeFei) Electronics Technology co., ltd
+  68F728     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
+  				YunGu Road 3188-1
+				Hefei Economic And Technological Development Zone, HeFei, Anhui, China
+				Hefei Anhui 230000
+				CHINA
 
   68-F8-95   (hex)		Redflow Limited
   68F895     (base 16)		Redflow Limited
@@ -103799,6 +103824,12 @@
 				Hsinchu Taiwan 30078
 				TAIWAN, PROVINCE OF CHINA
 
+  84-A4-66   (hex)		Samsung Electronics Co.,Ltd
+  84A466     (base 16)		Samsung Electronics Co.,Ltd
+  				129, Samsung-ro, Youngtongl-Gu
+				Suwon Gyeonggi-Do 443742
+				KOREA, REPUBLIC OF
+
   84-A6-C8   (hex)		Intel Corporate
   84A6C8     (base 16)		Intel Corporate
   				Lot 8, Jalan Hi-Tech 2/3
@@ -105028,6 +105059,12 @@
   				600 March Drive
 				Ottawa ON K2K 2E6
 				CANADA
+
+  8C-91-09   (hex)		Toyoshima Electric Technoeogy(Suzhou) Co.,Ltd.
+  8C9109     (base 16)		Toyoshima Electric Technoeogy(Suzhou) Co.,Ltd.
+  				No.399,Baisheng Road,Jinxi Town
+				Kunshan Jiangsu 215324
+				CHINA
 
   8C-92-36   (hex)		Aus.Linx Technology Co., Ltd.
   8C9236     (base 16)		Aus.Linx Technology Co., Ltd.
@@ -113444,6 +113481,12 @@
 				Cologne NRW 50829
 				GERMANY
 
+  BC-BC-46   (hex)		SKS Welding Systems GmbH
+  BCBC46     (base 16)		SKS Welding Systems GmbH
+  				Marie-Curie-Str. 14
+				Kaiserslautern Rheinlandpfalz 67661
+				GERMANY
+
   BC-C1-68   (hex)		DinBox Sverige AB
   BCC168     (base 16)		DinBox Sverige AB
   				Surbrunnsgatan 14
@@ -118512,6 +118555,13 @@
 				San Diego California 92121
 				UNITED STATES
 
+  D8-F7-10   (hex)		Libre Wireless Technologies Inc.
+  D8F710     (base 16)		Libre Wireless Technologies Inc.
+  				5405 Alton Parkway
+				Suite A-563
+				Irvine, CA CA 92604
+				UNITED STATES
+
   D8-FB-11   (hex)		AXACORE
   D8FB11     (base 16)		AXACORE
   				2468 HISTORIC DECATUR RD
@@ -120919,6 +120969,13 @@
   				Yrttipellontie 6
 				Oulu  90230
 				FINLAND
+
+  E8-CC-18   (hex)		D-Link International
+  E8CC18     (base 16)		D-Link International
+  				1 Internal Business Park, #03-12
+				The Synergy
+				Singapore 609917
+				SINGAPORE
 
   E8-CC-32   (hex)		Micronet  LTD
   E8CC32     (base 16)		Micronet  LTD
