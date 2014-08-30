@@ -1,4 +1,4 @@
-  Generated: Thu, 28 Aug 2014 05:00:03 -0400
+  Generated: Fri, 29 Aug 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -80363,6 +80363,13 @@
 				St. Margarethen Styria 8321
 				AUSTRIA
 
+  00-F3-DB   (hex)		WOO Sports
+  00F3DB     (base 16)		WOO Sports
+  				11 Elkins St.
+				Suite 230
+				BOSTON Massachusetts 02127
+				UNITED STATES
+
   00-F4-03   (hex)		Orbis Systems Oy
   00F403     (base 16)		Orbis Systems Oy
   				Taivaltie 5
@@ -99501,6 +99508,12 @@
 				Jinan Shandong 250013
 				CHINA
 
+  6C-94-F8   (hex)		Apple
+  6C94F8     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   6C-98-EB   (hex)		Ocedo GmbH
   6C98EB     (base 16)		Ocedo GmbH
   				Erbprinzenstrasse 27
@@ -99984,6 +99997,12 @@
   				Palánkai utca 5.
 				Székesfehérvár Fejér 8000
 				HUNGARY
+
+  70-3E-AC   (hex)		Apple
+  703EAC     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   70-41-B7   (hex)		Edwards Lifesciences LLC
   7041B7     (base 16)		Edwards Lifesciences LLC
@@ -104117,6 +104136,12 @@
   				12500 TI Boulevard
 				Dallas TX 75243
 				UNITED STATES
+
+  84-DD-B7   (hex)		Cilag GmbH International
+  84DDB7     (base 16)		Cilag GmbH International
+  				Gubelstrasse 34
+				Zug _ CH-6300
+				SWITZERLAND
 
   84-DE-3D   (hex)		Crystal Vision Ltd
   84DE3D     (base 16)		Crystal Vision Ltd
@@ -116802,6 +116827,12 @@
 				Taipei N/A 235
 				TAIWAN, PROVINCE OF CHINA
 
+  D0-4F-7E   (hex)		Apple
+  D04F7E     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   D0-50-99   (hex)		ASRock Incorporation
   D05099     (base 16)		ASRock Incorporation
   				2F., No.37, Sec. 2, Jhongyang S. Rd.
@@ -118646,6 +118677,12 @@
 				Cyonglin Township
 				Hsinchu Conuty  307
 				TAIWAN, PROVINCE OF CHINA
+
+  D8-BB-2C   (hex)		Apple
+  D8BB2C     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   D8-BF-4C   (hex)		Victory Concept Electronics Limited
   D8BF4C     (base 16)		Victory Concept Electronics Limited
