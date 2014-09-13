@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.08.30
-#	Date:    2014-08-30 03:15:01
+#	Version: 2014.09.13
+#	Date:    2014-09-13 03:15:01
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -1444,6 +1444,7 @@
 	6604  Opal XT [Radeon R7 M265]
 	6605  Opal PRO [Radeon R7 M260]
 	6606  Mars XTX [Radeon HD 8790M]
+		1028 0684  FirePro W4170M
 	6607  Mars LE [Radeon HD 8530M / R5 M240]
 	6610  Oland XT [Radeon HD 8670 / R7 250]
 		1019 0030  Radeon HD 8670
@@ -2063,6 +2064,10 @@
 	6822  Venus PRO [Radeon E8860]
 	6823  Venus PRO [Radeon HD 8850M / R9 M265X]
 	6825  Heathrow XT [Radeon HD 7870M]
+		1028 053f  FirePro M6000
+		1028 05cd  FirePro M6000
+		1028 15cd  FirePro M6000
+		103c 176c  FirePro M6000
 		8086 2111  Chelsea PRO
 	6826  Chelsea LP [Radeon HD 7700M Series]
 	6827  Heathrow PRO [Radeon HD 7850M/8850M]
@@ -2115,6 +2120,7 @@
 		1028 05a3  Radeon HD 7670M
 		1028 05b9  Radeon HD 7670M
 		1028 05bb  Radeon HD 7670M
+		103c 1789  FirePro M2000
 		103c 17f1  Radeon HD 7570M
 		103c 17f4  Radeon HD 7650M
 		103c 1813  Radeon HD 7590M
@@ -4697,21 +4703,21 @@
 		103c 3211  Smart Array E200i
 		103c 3212  Smart Array E200
 	3239  Smart Array Gen9 Controllers
-		103c 21bd  Smart Array
+		103c 21bd  P244br
 		103c 21be  Smart Array
-		103c 21bf  Smart Array
-		103c 21c0  Smart Array
+		103c 21bf  H240ar
+		103c 21c0  P440ar
 		103c 21c1  Smart Array
-		103c 21c2  Smart Array
-		103c 21c3  Smart Array
+		103c 21c2  P440
+		103c 21c3  P441
 		103c 21c4  Smart Array
 		103c 21c5  Smart Array
-		103c 21c6  Smart Array
-		103c 21c7  Smart Array
-		103c 21c8  Smart Array
+		103c 21c6  H244br
+		103c 21c7  H240
+		103c 21c8  H241
 		103c 21c9  Smart Array
 		103c 21ca  Smart Array
-		103c 21cb  Smart Array
+		103c 21cb  P840
 		103c 21cc  Smart Array
 		103c 21cd  Smart Array
 		103c 21ce  Smart Array
@@ -10004,6 +10010,10 @@
 	13ba  GM107GL [Quadro K2200]
 	13bb  GM107GL [Quadro K620]
 	13bd  GM107GL [Tesla M40]
+	13c0  GM204
+	13c1  GM204
+	13c2  GM204 [GeForce GTX 970]
+	13c3  GM204
 10df  Emulex Corporation
 	0720  OneConnect NIC (Skyhawk)
 		17aa 1056  ThinkServer OCm14102-UX-L AnyFabric
@@ -10464,6 +10474,7 @@
 	0622  RocketRAID 622 2 Port SATA-III Controller
 	0640  RocketRAID 640 4 Port SATA-III Controller
 	0644  RocketRAID 644 4 Port SATA-III Controller (eSATA)
+	0645  RocketRAID 644L 4 Port SATA-III Controller (eSATA)
 	1720  RocketRAID 1720 (2x SATA II RAID Controller)
 	1740  RocketRAID 1740
 	1742  RocketRAID 1742
@@ -15051,6 +15062,7 @@
 	5083  T540-5083 Unified Wire Ethernet Controller
 	5084  T580-5084 Unified Wire Ethernet Controller
 	5085  T580-5085 Unified Wire Ethernet Controller
+	5086  T580-5086 Unified Wire Ethernet Controller
 	5401  T520-CR Unified Wire Ethernet Controller
 	5402  T522-CR Unified Wire Ethernet Controller
 	5403  T540-CR Unified Wire Ethernet Controller
@@ -15077,6 +15089,7 @@
 	5483  T540-5083 Unified Wire Ethernet Controller
 	5484  T580-5084 Unified Wire Ethernet Controller
 	5485  T580-5085 Unified Wire Ethernet Controller
+	5486  T580-5086 Unified Wire Ethernet Controller
 	5501  T520-CR Unified Wire Storage Controller
 	5502  T522-CR Unified Wire Storage Controller
 	5503  T540-CR Unified Wire Storage Controller
@@ -15103,6 +15116,7 @@
 	5583  T540-5083 Unified Wire Storage Controller
 	5584  T580-5084 Unified Wire Storage Controller
 	5585  T580-5085 Unified Wire Storage Controller
+	5586  T580-5086 Unified Wire Storage Controller
 	5601  T520-CR Unified Wire Storage Controller
 	5602  T522-CR Unified Wire Storage Controller
 	5603  T540-CR Unified Wire Storage Controller
@@ -15129,6 +15143,7 @@
 	5683  T540-5083 Unified Wire Storage Controller
 	5684  T580-5084 Unified Wire Storage Controller
 	5685  T580-5085 Unified Wire Storage Controller
+	5686  T580-5086 Unified Wire Storage Controller
 	5701  T520-CR Unified Wire Ethernet Controller
 	5702  T522-CR Unified Wire Ethernet Controller
 	5703  T540-CR Unified Wire Ethernet Controller
@@ -15181,6 +15196,7 @@
 	5883  T540-5083 Unified Wire Ethernet Controller [VF]
 	5884  T580-5084 Unified Wire Ethernet Controller [VF]
 	5885  T580-5085 Unified Wire Ethernet Controller [VF]
+	5886  T580-5086 Unified Wire Ethernet Controller [VF]
 	a000  PE10K Unified Wire Ethernet Controller
 1426  Storage Technology Corp.
 1427  Better On-Line Solutions
@@ -17390,6 +17406,9 @@
 	ab06  USR997901A 10/100 Cardbus NIC
 16ed  Sycron N. V.
 	1001  UMIO communication card
+16f2  ETAS GmbH
+	0200  I/O board
+		16f2 0010  ES53xx I/O board
 16f3  Jetway Information Co., Ltd.
 16f4  Vweb Corp
 	8000  VW2010
@@ -18627,6 +18646,8 @@
 1bbf  Maxeler Technologies Ltd.
 	0003  MAX3
 	0004  MAX4
+1bee  IXXAT Automation GmbH
+	0003  CAN-IB200/PCIe
 1bf4  VTI Instruments Corporation
 	0001  SentinelEX
 1bfd  EeeTOP
@@ -18658,6 +18679,8 @@
 1cb1  Collion UG & Co.KG
 1cc5  Embedded Intelligence, Inc.
 	0100  CAN-PCIe-02
+1cd2  SesKion GmbH
+	0301  Simulyzer-RT CompactPCI Serial DIO-1 card
 1ce4  Exablaze
 	0001  ExaNIC X4
 	0002  ExaNIC X2
@@ -22796,14 +22819,14 @@
 	2822  82801 SATA Controller [RAID mode]
 		1028 020d  Inspiron 530
 		103c 2a6f  Asus IPIBL-LB Motherboard
-	2823  Wellsburg sSATA RAID Controller
+	2823  C610/X99 series chipset sSATA Controller [RAID mode]
 	2824  82801HB (ICH8) 4 port SATA Controller [AHCI mode]
 		1043 81ec  P5B
 	2825  82801HR/HO/HH (ICH8R/DO/DH) 2 port SATA Controller [IDE mode]
 		1028 01da  OptiPlex 745
 		1462 7235  P965 Neo MS-7235 mainboard
 	2826  C600/X79 series chipset SATA RAID Controller
-	2827  Wellsburg sSATA RAID Controller
+	2827  C610/X99 series chipset sSATA Controller [RAID mode]
 	2828  82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [IDE mode]
 		1028 01f3  Inspiron 1420
 		103c 30c0  Compaq 6710b
@@ -23605,165 +23628,165 @@
 	2e94  4 Series Chipset HECI Controller
 	2e95  4 Series Chipset HECI Controller
 	2e96  4 Series Chipset PT IDER Controller
-	2f00  Haswell-E DMI2
-	2f01  Haswell-E PCI Express Root Port 0
-	2f02  Haswell-E PCI Express Root Port 1
-	2f03  Haswell-E PCI Express Root Port 1
-	2f04  Haswell-E PCI Express Root Port 2
-	2f05  Haswell-E PCI Express Root Port 2
-	2f06  Haswell-E PCI Express Root Port 2
-	2f07  Haswell-E PCI Express Root Port 2
-	2f08  Haswell-E PCI Express Root Port 3
-	2f09  Haswell-E PCI Express Root Port 3
-	2f0a  Haswell-E PCI Express Root Port 3
-	2f0b  Haswell-E PCI Express Root Port 3
-	2f10  Haswell-E IIO Debug
-	2f11  Haswell-E IIO Debug
-	2f12  Haswell-E IIO Debug
-	2f13  Haswell-E IIO Debug
-	2f14  Haswell-E IIO Debug
-	2f15  Haswell-E IIO Debug
-	2f16  Haswell-E IIO Debug
-	2f17  Haswell-E IIO Debug
-	2f18  Haswell-E IIO Debug
-	2f19  Haswell-E IIO Debug
-	2f1a  Haswell-E IIO Debug
-	2f1b  Haswell-E IIO Debug
-	2f1c  Haswell-E IIO Debug
-	2f1d  Haswell-E PCIe Ring Interface
-	2f1e  Haswell-E Scratchpad & Semaphore Registers
-	2f1f  Haswell-E Scratchpad & Semaphore Registers
-	2f20  Haswell-E DMA Channel 0
-	2f21  Haswell-E DMA Channel 1
-	2f22  Haswell-E DMA Channel 2
-	2f23  Haswell-E DMA Channel 3
-	2f24  Haswell-E DMA Channel 4
-	2f25  Haswell-E DMA Channel 5
-	2f26  Haswell-E DMA Channel 6
-	2f27  Haswell-E DMA Channel 7
-	2f28  Haswell-E Address Map, VTd_Misc, System Management
-	2f29  Haswell-E Hot Plug
-	2f2a  Haswell-E RAS, Control Status and Global Errors
-	2f2c  Haswell-E I/O Apic
-	2f2e  Haswell-E RAID 5/6
-	2f2f  Haswell-E RAID 5/6
-	2f30  Haswell-E Home Agent 0
-	2f32  Haswell-E QPI Link 0
-	2f33  Haswell-E QPI Link 1
-	2f34  Haswell-E PCIe Ring Interface
-	2f36  Haswell-E R3 QPI Link 0 & 1 Monitoring
-	2f37  Haswell-E R3 QPI Link 0 & 1 Monitoring
-	2f38  Haswell-E Home Agent 1
-	2f39  Haswell-E I/O Performance Monitoring
-	2f3a  Haswell-E QPI Link 2
-	2f3e  Haswell-E R3 QPI Link 2 Monitoring
-	2f3f  Haswell-E R3 QPI Link 2 Monitoring
-	2f40  Haswell-E QPI Link 2
-	2f41  Haswell-E R3 QPI Link 2 Monitoring
-	2f43  Haswell-E QPI Link 2
-	2f45  Haswell-E QPI Link 2 Debug
-	2f46  Haswell-E QPI Link 2 Debug
-	2f47  Haswell-E QPI Link 2 Debug
-	2f60  Haswell-E Home Agent 1
-	2f68  Haswell-E Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
-	2f6a  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
-	2f6b  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
-	2f6c  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
-	2f6d  Haswell-E Integrated Memory Controller 1 Channel Target Address Decoder
-	2f6e  Haswell-E DDRIO Channel 2/3 Broadcast
-	2f6f  Haswell-E DDRIO Global Broadcast
-	2f70  Haswell-E Home Agent 0 Debug
-	2f71  Haswell-E Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
-	2f76  Haswell-E E3 QPI Link Debug
-	2f78  Haswell-E Home Agent 1 Debug
-	2f79  Haswell-E Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
-	2f7d  Haswell-E Scratchpad & Semaphore Registers
-	2f7e  Haswell-E E3 QPI Link Debug
-	2f80  Haswell-E QPI Link 0
-	2f81  Haswell-E R3 QPI Link 0 & 1 Monitoring
-	2f83  Haswell-E QPI Link 0
-	2f85  Haswell-E QPI Link 0 Debug
-	2f86  Haswell-E QPI Link 0 Debug
-	2f87  Haswell-E QPI Link 0 Debug
-	2f88  Haswell-E VCU
-	2f8a  Haswell-E VCU
-	2f90  Haswell-E QPI Link 1
-	2f93  Haswell-E QPI Link 1
-	2f95  Haswell-E QPI Link 1 Debug
-	2f96  Haswell-E QPI Link 1 Debug
-	2f98  Haswell-E Power Control Unit
-	2f99  Haswell-E Power Control Unit
-	2f9a  Haswell-E Power Control Unit
-	2f9c  Haswell-E Power Control Unit
-	2fa0  Haswell-E Home Agent 0
-	2fa8  Haswell-E Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
-	2faa  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
-	2fab  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
-	2fac  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
-	2fad  Haswell-E Integrated Memory Controller 0 Channel Target Address Decoder
-	2fae  Haswell-E DDRIO Channel 0/1 Broadcast
-	2faf  Haswell-E DDRIO Global Broadcast
-	2fb0  Haswell-E Integrated Memory Controller 0 Channel 0 Thermal Control
-	2fb1  Haswell-E Integrated Memory Controller 0 Channel 1 Thermal Control
-	2fb2  Haswell-E Integrated Memory Controller 0 Channel 0 ERROR Registers
-	2fb3  Haswell-E Integrated Memory Controller 0 Channel 1 ERROR Registers
-	2fb4  Haswell-E Integrated Memory Controller 0 Channel 2 Thermal Control
-	2fb5  Haswell-E Integrated Memory Controller 0 Channel 3 Thermal Control
-	2fb6  Haswell-E Integrated Memory Controller 0 Channel 2 ERROR Registers
-	2fb7  Haswell-E Integrated Memory Controller 0 Channel 3 ERROR Registers
-	2fb8  Haswell-E DDRIO (VMSE) 2 & 3
-	2fb9  Haswell-E DDRIO (VMSE) 2 & 3
-	2fba  Haswell-E DDRIO (VMSE) 2 & 3
-	2fbb  Haswell-E DDRIO (VMSE) 2 & 3
-	2fbc  Haswell-E DDRIO (VMSE) 0 & 1
-	2fbd  Haswell-E DDRIO (VMSE) 0 & 1
-	2fbe  Haswell-E DDRIO (VMSE) 0 & 1
-	2fbf  Haswell-E DDRIO (VMSE) 0 & 1
-	2fc0  Haswell-E Power Control Unit
-	2fc1  Haswell-E Power Control Unit
-	2fc2  Haswell-E Power Control Unit
-	2fc3  Haswell-E Power Control Unit
-	2fc4  Haswell-E Power Control Unit
-	2fc5  Haswell-E Power Control Unit
-	2fd0  Haswell-E Integrated Memory Controller 1 Channel 0 Thermal Control
-	2fd1  Haswell-E Integrated Memory Controller 1 Channel 1 Thermal Control
-	2fd2  Haswell-E Integrated Memory Controller 1 Channel 0 ERROR Registers
-	2fd3  Haswell-E Integrated Memory Controller 1 Channel 1 ERROR Registers
-	2fd4  Haswell-E Integrated Memory Controller 1 Channel 2 Thermal Control
-	2fd5  Haswell-E Integrated Memory Controller 1 Channel 3 Thermal Control
-	2fd6  Haswell-E Integrated Memory Controller 1 Channel 2 ERROR Registers
-	2fd7  Haswell-E Integrated Memory Controller 1 Channel 3 ERROR Registers
-	2fe0  Haswell-E Unicast Registers
-	2fe1  Haswell-E Unicast Registers
-	2fe2  Haswell-E Unicast Registers
-	2fe3  Haswell-E Unicast Registers
-	2fe4  Haswell-E Unicast Registers
-	2fe5  Haswell-E Unicast Registers
-	2fe6  Haswell-E Unicast Registers
-	2fe7  Haswell-E Unicast Registers
-	2fe8  Haswell-E Unicast Registers
-	2fe9  Haswell-E Unicast Registers
-	2fea  Haswell-E Unicast Registers
-	2feb  Haswell-E Unicast Registers
-	2fec  Haswell-E Unicast Registers
-	2fed  Haswell-E Unicast Registers
-	2fee  Haswell-E Unicast Registers
-	2fef  Haswell-E Unicast Registers
-	2ff0  Haswell-E Unicast Registers
-	2ff1  Haswell-E Unicast Registers
-	2ff2  Haswell-E Unicast Registers
-	2ff3  Haswell-E Unicast Registers
-	2ff4  Haswell-E Unicast Registers
-	2ff5  Haswell-E Unicast Registers
-	2ff6  Haswell-E Unicast Registers
-	2ff7  Haswell-E Unicast Registers
-	2ff8  Haswell-E Buffered Ring Agent
-	2ff9  Haswell-E Buffered Ring Agent
-	2ffa  Haswell-E Buffered Ring Agent
-	2ffb  Haswell-E Buffered Ring Agent
-	2ffc  Haswell-E System Address Decoder & Broadcast Registers
-	2ffd  Haswell-E System Address Decoder & Broadcast Registers
-	2ffe  Haswell-E System Address Decoder & Broadcast Registers
+	2f00  Xeon E5 v3/Core i7 DMI2
+	2f01  Xeon E5 v3/Core i7 PCI Express Root Port 0
+	2f02  Xeon E5 v3/Core i7 PCI Express Root Port 1
+	2f03  Xeon E5 v3/Core i7 PCI Express Root Port 1
+	2f04  Xeon E5 v3/Core i7 PCI Express Root Port 2
+	2f05  Xeon E5 v3/Core i7 PCI Express Root Port 2
+	2f06  Xeon E5 v3/Core i7 PCI Express Root Port 2
+	2f07  Xeon E5 v3/Core i7 PCI Express Root Port 2
+	2f08  Xeon E5 v3/Core i7 PCI Express Root Port 3
+	2f09  Xeon E5 v3/Core i7 PCI Express Root Port 3
+	2f0a  Xeon E5 v3/Core i7 PCI Express Root Port 3
+	2f0b  Xeon E5 v3/Core i7 PCI Express Root Port 3
+	2f10  Xeon E5 v3/Core i7 IIO Debug
+	2f11  Xeon E5 v3/Core i7 IIO Debug
+	2f12  Xeon E5 v3/Core i7 IIO Debug
+	2f13  Xeon E5 v3/Core i7 IIO Debug
+	2f14  Xeon E5 v3/Core i7 IIO Debug
+	2f15  Xeon E5 v3/Core i7 IIO Debug
+	2f16  Xeon E5 v3/Core i7 IIO Debug
+	2f17  Xeon E5 v3/Core i7 IIO Debug
+	2f18  Xeon E5 v3/Core i7 IIO Debug
+	2f19  Xeon E5 v3/Core i7 IIO Debug
+	2f1a  Xeon E5 v3/Core i7 IIO Debug
+	2f1b  Xeon E5 v3/Core i7 IIO Debug
+	2f1c  Xeon E5 v3/Core i7 IIO Debug
+	2f1d  Xeon E5 v3/Core i7 PCIe Ring Interface
+	2f1e  Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+	2f1f  Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+	2f20  Xeon E5 v3/Core i7 DMA Channel 0
+	2f21  Xeon E5 v3/Core i7 DMA Channel 1
+	2f22  Xeon E5 v3/Core i7 DMA Channel 2
+	2f23  Xeon E5 v3/Core i7 DMA Channel 3
+	2f24  Xeon E5 v3/Core i7 DMA Channel 4
+	2f25  Xeon E5 v3/Core i7 DMA Channel 5
+	2f26  Xeon E5 v3/Core i7 DMA Channel 6
+	2f27  Xeon E5 v3/Core i7 DMA Channel 7
+	2f28  Xeon E5 v3/Core i7 Address Map, VTd_Misc, System Management
+	2f29  Xeon E5 v3/Core i7 Hot Plug
+	2f2a  Xeon E5 v3/Core i7 RAS, Control Status and Global Errors
+	2f2c  Xeon E5 v3/Core i7 I/O APIC
+	2f2e  Xeon E5 v3/Core i7 RAID 5/6
+	2f2f  Xeon E5 v3/Core i7 RAID 5/6
+	2f30  Xeon E5 v3/Core i7 Home Agent 0
+	2f32  Xeon E5 v3/Core i7 QPI Link 0
+	2f33  Xeon E5 v3/Core i7 QPI Link 1
+	2f34  Xeon E5 v3/Core i7 PCIe Ring Interface
+	2f36  Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+	2f37  Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+	2f38  Xeon E5 v3/Core i7 Home Agent 1
+	2f39  Xeon E5 v3/Core i7 I/O Performance Monitoring
+	2f3a  Xeon E5 v3/Core i7 QPI Link 2
+	2f3e  Xeon E5 v3/Core i7 R3 QPI Link 2 Monitoring
+	2f3f  Xeon E5 v3/Core i7 R3 QPI Link 2 Monitoring
+	2f40  Xeon E5 v3/Core i7 QPI Link 2
+	2f41  Xeon E5 v3/Core i7 R3 QPI Link 2 Monitoring
+	2f43  Xeon E5 v3/Core i7 QPI Link 2
+	2f45  Xeon E5 v3/Core i7 QPI Link 2 Debug
+	2f46  Xeon E5 v3/Core i7 QPI Link 2 Debug
+	2f47  Xeon E5 v3/Core i7 QPI Link 2 Debug
+	2f60  Xeon E5 v3/Core i7 Home Agent 1
+	2f68  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
+	2f6a  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6b  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6c  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6d  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel Target Address Decoder
+	2f6e  Xeon E5 v3/Core i7 DDRIO Channel 2/3 Broadcast
+	2f6f  Xeon E5 v3/Core i7 DDRIO Global Broadcast
+	2f70  Xeon E5 v3/Core i7 Home Agent 0 Debug
+	2f71  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+	2f76  Xeon E5 v3/Core i7 E3 QPI Link Debug
+	2f78  Xeon E5 v3/Core i7 Home Agent 1 Debug
+	2f79  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
+	2f7d  Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+	2f7e  Xeon E5 v3/Core i7 E3 QPI Link Debug
+	2f80  Xeon E5 v3/Core i7 QPI Link 0
+	2f81  Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+	2f83  Xeon E5 v3/Core i7 QPI Link 0
+	2f85  Xeon E5 v3/Core i7 QPI Link 0 Debug
+	2f86  Xeon E5 v3/Core i7 QPI Link 0 Debug
+	2f87  Xeon E5 v3/Core i7 QPI Link 0 Debug
+	2f88  Xeon E5 v3/Core i7 VCU
+	2f8a  Xeon E5 v3/Core i7 VCU
+	2f90  Xeon E5 v3/Core i7 QPI Link 1
+	2f93  Xeon E5 v3/Core i7 QPI Link 1
+	2f95  Xeon E5 v3/Core i7 QPI Link 1 Debug
+	2f96  Xeon E5 v3/Core i7 QPI Link 1 Debug
+	2f98  Xeon E5 v3/Core i7 Power Control Unit
+	2f99  Xeon E5 v3/Core i7 Power Control Unit
+	2f9a  Xeon E5 v3/Core i7 Power Control Unit
+	2f9c  Xeon E5 v3/Core i7 Power Control Unit
+	2fa0  Xeon E5 v3/Core i7 Home Agent 0
+	2fa8  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+	2faa  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+	2fab  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+	2fac  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+	2fad  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+	2fae  Xeon E5 v3/Core i7 DDRIO Channel 0/1 Broadcast
+	2faf  Xeon E5 v3/Core i7 DDRIO Global Broadcast
+	2fb0  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 Thermal Control
+	2fb1  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 Thermal Control
+	2fb2  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 ERROR Registers
+	2fb3  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 ERROR Registers
+	2fb4  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 Thermal Control
+	2fb5  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 Thermal Control
+	2fb6  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 ERROR Registers
+	2fb7  Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 ERROR Registers
+	2fb8  Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+	2fb9  Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+	2fba  Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+	2fbb  Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+	2fbc  Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+	2fbd  Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+	2fbe  Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+	2fbf  Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+	2fc0  Xeon E5 v3/Core i7 Power Control Unit
+	2fc1  Xeon E5 v3/Core i7 Power Control Unit
+	2fc2  Xeon E5 v3/Core i7 Power Control Unit
+	2fc3  Xeon E5 v3/Core i7 Power Control Unit
+	2fc4  Xeon E5 v3/Core i7 Power Control Unit
+	2fc5  Xeon E5 v3/Core i7 Power Control Unit
+	2fd0  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 0 Thermal Control
+	2fd1  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 1 Thermal Control
+	2fd2  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 0 ERROR Registers
+	2fd3  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 1 ERROR Registers
+	2fd4  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 2 Thermal Control
+	2fd5  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 3 Thermal Control
+	2fd6  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 2 ERROR Registers
+	2fd7  Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 3 ERROR Registers
+	2fe0  Xeon E5 v3/Core i7 Unicast Registers
+	2fe1  Xeon E5 v3/Core i7 Unicast Registers
+	2fe2  Xeon E5 v3/Core i7 Unicast Registers
+	2fe3  Xeon E5 v3/Core i7 Unicast Registers
+	2fe4  Xeon E5 v3/Core i7 Unicast Registers
+	2fe5  Xeon E5 v3/Core i7 Unicast Registers
+	2fe6  Xeon E5 v3/Core i7 Unicast Registers
+	2fe7  Xeon E5 v3/Core i7 Unicast Registers
+	2fe8  Xeon E5 v3/Core i7 Unicast Registers
+	2fe9  Xeon E5 v3/Core i7 Unicast Registers
+	2fea  Xeon E5 v3/Core i7 Unicast Registers
+	2feb  Xeon E5 v3/Core i7 Unicast Registers
+	2fec  Xeon E5 v3/Core i7 Unicast Registers
+	2fed  Xeon E5 v3/Core i7 Unicast Registers
+	2fee  Xeon E5 v3/Core i7 Unicast Registers
+	2fef  Xeon E5 v3/Core i7 Unicast Registers
+	2ff0  Xeon E5 v3/Core i7 Unicast Registers
+	2ff1  Xeon E5 v3/Core i7 Unicast Registers
+	2ff2  Xeon E5 v3/Core i7 Unicast Registers
+	2ff3  Xeon E5 v3/Core i7 Unicast Registers
+	2ff4  Xeon E5 v3/Core i7 Unicast Registers
+	2ff5  Xeon E5 v3/Core i7 Unicast Registers
+	2ff6  Xeon E5 v3/Core i7 Unicast Registers
+	2ff7  Xeon E5 v3/Core i7 Unicast Registers
+	2ff8  Xeon E5 v3/Core i7 Buffered Ring Agent
+	2ff9  Xeon E5 v3/Core i7 Buffered Ring Agent
+	2ffa  Xeon E5 v3/Core i7 Buffered Ring Agent
+	2ffb  Xeon E5 v3/Core i7 Buffered Ring Agent
+	2ffc  Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+	2ffd  Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+	2ffe  Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
 	3200  GD31244 PCI-X SATA HBA
 		1775 c200  C2K onboard SATA host bus adapter
 	3310  IOP348 I/O Processor
@@ -25008,68 +25031,68 @@
 	8cc3  9 Series Chipset Family HM97 LPC Controller
 	8cc4  9 Series Chipset Family Z97 LPC Controller
 	8cc6  9 Series Chipset Family H97 Controller
-	8d00  Wellsburg 4-port SATA Controller [IDE mode]
-	8d02  Wellsburg 6-Port SATA Controller [AHCI mode]
-	8d04  Wellsburg SATA Controller [RAID mode]
-	8d06  Wellsburg SATA Controller [RAID mode]
+	8d00  C610/X99 series chipset 4-port SATA Controller [IDE mode]
+	8d02  C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+	8d04  C610/X99 series chipset SATA Controller [RAID mode]
+	8d06  C610/X99 series chipset SATA Controller [RAID mode]
 		17aa 1031  ThinkServer RAID 110i
-	8d08  Wellsburg 2-port SATA Controller [IDE mode]
-	8d0e  Wellsburg SATA Controller [RAID mode]
-	8d10  Wellsburg PCI Express Root Port #1
-	8d11  Wellsburg PCI Express Root Port #1
-	8d12  Wellsburg PCI Express Root Port #2
-	8d13  Wellsburg PCI Express Root Port #2
-	8d14  Wellsburg PCI Express Root Port #3
-	8d15  Wellsburg PCI Express Root Port #3
-	8d16  Wellsburg PCI Express Root Port #4
-	8d17  Wellsburg PCI Express Root Port #4
-	8d18  Wellsburg PCI Express Root Port #5
-	8d19  Wellsburg PCI Express Root Port #5
-	8d1a  Wellsburg PCI Express Root Port #6
-	8d1b  Wellsburg PCI Express Root Port #6
-	8d1c  Wellsburg PCI Express Root Port #7
-	8d1d  Wellsburg PCI Express Root Port #7
-	8d1e  Wellsburg PCI Express Root Port #8
-	8d1f  Wellsburg PCI Express Root Port #8
-	8d20  Wellsburg HD Audio Controller
-	8d21  Wellsburg HD Audio Controller
-	8d22  Wellsburg SMBus Controller
-	8d24  Wellsburg Thermal Subsystem
-	8d26  Wellsburg USB Enhanced Host Controller #1
-	8d2d  Wellsburg USB Enhanced Host Controller #2
-	8d31  Wellsburg USB xHCI Host Controller
-	8d33  Wellsburg LAN Controller
-	8d34  Wellsburg NAND Controller
-	8d3a  Wellsburg MEI Controller #1
-	8d3b  Wellsburg MEI Controller #2
-	8d3c  Wellsburg IDE-r Controller
-	8d3d  Wellsburg KT Controller
-	8d40  Wellsburg LPC Controller
-	8d41  Wellsburg LPC Controller
-	8d42  Wellsburg LPC Controller
-	8d43  Wellsburg LPC Controller
-	8d44  Wellsburg LPC Controller
-	8d45  Wellsburg LPC Controller
-	8d46  Wellsburg LPC Controller
-	8d47  Wellsburg LPC Controller
-	8d48  Wellsburg LPC Controller
-	8d49  Wellsburg LPC Controller
-	8d4a  Wellsburg LPC Controller
-	8d4b  Wellsburg LPC Controller
-	8d4c  Wellsburg LPC Controller
-	8d4d  Wellsburg LPC Controller
-	8d4e  Wellsburg LPC Controller
-	8d4f  Wellsburg LPC Controller
-	8d60  Wellsburg sSATA Controller [IDE mode]
-	8d62  Wellsburg sSATA Controller [AHCI mode]
-	8d64  Wellsburg sSATA Controller [RAID mode]
-	8d66  Wellsburg sSATA Controller [RAID mode]
-	8d68  Wellsburg sSATA Controller [IDE mode]
-	8d6e  Wellsburg sSATA Controller [RAID mode]
-	8d7c  Wellsburg SPSR
-	8d7d  Wellsburg MS SMBus 0
-	8d7e  Wellsburg MS SMBus 1
-	8d7f  Wellsburg MS SMBus 2
+	8d08  C610/X99 series chipset 2-port SATA Controller [IDE mode]
+	8d0e  C610/X99 series chipset SATA Controller [RAID mode]
+	8d10  C610/X99 series chipset PCI Express Root Port #1
+	8d11  C610/X99 series chipset PCI Express Root Port #1
+	8d12  C610/X99 series chipset PCI Express Root Port #2
+	8d13  C610/X99 series chipset PCI Express Root Port #2
+	8d14  C610/X99 series chipset PCI Express Root Port #3
+	8d15  C610/X99 series chipset PCI Express Root Port #3
+	8d16  C610/X99 series chipset PCI Express Root Port #4
+	8d17  C610/X99 series chipset PCI Express Root Port #4
+	8d18  C610/X99 series chipset PCI Express Root Port #5
+	8d19  C610/X99 series chipset PCI Express Root Port #5
+	8d1a  C610/X99 series chipset PCI Express Root Port #6
+	8d1b  C610/X99 series chipset PCI Express Root Port #6
+	8d1c  C610/X99 series chipset PCI Express Root Port #7
+	8d1d  C610/X99 series chipset PCI Express Root Port #7
+	8d1e  C610/X99 series chipset PCI Express Root Port #8
+	8d1f  C610/X99 series chipset PCI Express Root Port #8
+	8d20  C610/X99 series chipset HD Audio Controller
+	8d21  C610/X99 series chipset HD Audio Controller
+	8d22  C610/X99 series chipset SMBus Controller
+	8d24  C610/X99 series chipset Thermal Subsystem
+	8d26  C610/X99 series chipset USB Enhanced Host Controller #1
+	8d2d  C610/X99 series chipset USB Enhanced Host Controller #2
+	8d31  C610/X99 series chipset USB xHCI Host Controller
+	8d33  C610/X99 series chipset LAN Controller
+	8d34  C610/X99 series chipset NAND Controller
+	8d3a  C610/X99 series chipset MEI Controller #1
+	8d3b  C610/X99 series chipset MEI Controller #2
+	8d3c  C610/X99 series chipset IDE-r Controller
+	8d3d  C610/X99 series chipset KT Controller
+	8d40  C610/X99 series chipset LPC Controller
+	8d41  C610/X99 series chipset LPC Controller
+	8d42  C610/X99 series chipset LPC Controller
+	8d43  C610/X99 series chipset LPC Controller
+	8d44  C610/X99 series chipset LPC Controller
+	8d45  C610/X99 series chipset LPC Controller
+	8d46  C610/X99 series chipset LPC Controller
+	8d47  C610/X99 series chipset LPC Controller
+	8d48  C610/X99 series chipset LPC Controller
+	8d49  C610/X99 series chipset LPC Controller
+	8d4a  C610/X99 series chipset LPC Controller
+	8d4b  C610/X99 series chipset LPC Controller
+	8d4c  C610/X99 series chipset LPC Controller
+	8d4d  C610/X99 series chipset LPC Controller
+	8d4e  C610/X99 series chipset LPC Controller
+	8d4f  C610/X99 series chipset LPC Controller
+	8d60  C610/X99 series chipset sSATA Controller [IDE mode]
+	8d62  C610/X99 series chipset sSATA Controller [AHCI mode]
+	8d64  C610/X99 series chipset sSATA Controller [RAID mode]
+	8d66  C610/X99 series chipset sSATA Controller [RAID mode]
+	8d68  C610/X99 series chipset sSATA Controller [IDE mode]
+	8d6e  C610/X99 series chipset sSATA Controller [RAID mode]
+	8d7c  C610/X99 series chipset SPSR
+	8d7d  C610/X99 series chipset MS SMBus 0
+	8d7e  C610/X99 series chipset MS SMBus 1
+	8d7f  C610/X99 series chipset MS SMBus 2
 	9000  IXP2000 Family Network Processor
 	9001  IXP2400 Network Processor
 	9002  IXP2300 Network Processor
@@ -25727,6 +25750,7 @@ bdbd  Blackmagic Design
 	a11c  DeckLink HD Extreme 3
 	a11d  DeckLink Studio
 	a11e  DeckLink Optical Fibre
+	a120  Decklink Studio 2
 	a121  DeckLink HD Extreme 3D/3D+
 	a124  Intensity Extreme
 	a126  Intensity Shuttle
@@ -25929,7 +25953,11 @@ eace  Endace Measurement Systems, Ltd
 	820f  DAG 8.2X 10G Ethernet (2nd bus)
 	8400  DAG 8.4I Infiniband x4 SDR
 	8500  DAG 8.5I Infiniband x4 DDR
+	9200  DAG 9.2SX2 10G Ethernet
 	920e  DAG 9.2X2 10G Ethernet
+	a120  DAG 10X2-P 10G Ethernet
+	a12e  DAG 10X2-S 10G Ethernet
+	a140  DAG 10X4-P 10G Ethernet
 ec80  Belkin Corporation
 	ec00  F5D6000
 ecc0  Echo Digital Audio Corporation
