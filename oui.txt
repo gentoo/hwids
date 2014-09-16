@@ -1,4 +1,4 @@
-  Generated: Sat, 13 Sep 2014 05:00:02 -0400
+  Generated: Tue, 16 Sep 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -90060,6 +90060,12 @@
 				Cambridge MA 02139
 				UNITED STATES
 
+  34-A3-95   (hex)		Apple
+  34A395     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   34-A3-BF   (hex)		Terewave. Inc.
   34A3BF     (base 16)		Terewave. Inc.
   				Room 217, Ssangyong Research Center
@@ -93251,6 +93257,12 @@
   				201-60 Bastion Sq
 				Victoria BC V8W 1J2
 				CANADA
+
+  48-43-7C   (hex)		Apple
+  48437C     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   48-44-87   (hex)		Cisco SPVTG
   484487     (base 16)		Cisco SPVTG
@@ -101729,6 +101741,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  78-7E-61   (hex)		Apple
+  787E61     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   78-7F-62   (hex)		GiK mbH
   787F62     (base 16)		GiK mbH
   				Goethestraße 5
@@ -102206,6 +102224,12 @@
   78F7D0     (base 16)		Silverbrook Research
   				3 Montague Street
 				Balmain New South Wales 2041
+				AUSTRALIA
+
+  78-FC-14   (hex)		B Communications Pty Ltd
+  78FC14     (base 16)		B Communications Pty Ltd
+  				175 Heytesbury Rd
+				Subiaco WA 6008
 				AUSTRALIA
 
   78-FD-94   (hex)		Apple
@@ -104964,6 +104988,12 @@
   				1194 N Mathilda Avenue
 				Sunnyvale CA 94089
 				UNITED STATES
+
+  88-E1-61   (hex)		Art Beijing Science and Technology Development Co., Ltd.
+  88E161     (base 16)		Art Beijing Science and Technology Development Co., Ltd.
+  				Room 210,Building 1#, No. 27 Qinghe Longgang Rd., Haidian District, Beijing,100192,China
+				Beijing Beijing 100192
+				CHINA
 
   88-E3-AB   (hex)		Huawei Technologies Co., Ltd
   88E3AB     (base 16)		Huawei Technologies Co., Ltd
@@ -107743,6 +107773,13 @@
 				shenzhen guangdong 518057
 				CHINA
 
+  98-F5-A9   (hex)		OHSUNG ELECTRONICS CO.,LTD.
+  98F5A9     (base 16)		OHSUNG ELECTRONICS CO.,LTD.
+  				181
+				GONGDAN-DONG
+				GUMI KYUNGBUK 730-030
+				KOREA, REPUBLIC OF
+
   98-F8-C1   (hex)		IDT Technology Limited
   98F8C1     (base 16)		IDT Technology Limited
   				Block C, 9/F.,Kaiser Estate, Phase 1,
@@ -108439,6 +108476,12 @@
 				Kunshan City Jiangsu Province 215300
 				CHINA
 
+  9C-F3-87   (hex)		Apple
+  9CF387     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   9C-F6-1A   (hex)		UTC Fire and Security
   9CF61A     (base 16)		UTC Fire and Security
   				2955 Red Hill Ave.
@@ -109033,6 +109076,12 @@
 				JK Bld., #301
 				Seoul  135-833
 				KOREA, REPUBLIC OF
+
+  A0-C2-DE   (hex)		Costar Video Systems
+  A0C2DE     (base 16)		Costar Video Systems
+  				101 Wrangler, Suite 201
+				Coppell Texas 75019
+				UNITED STATES
 
   A0-C3-DE   (hex)		Triton Electronic Systems Ltd.
   A0C3DE     (base 16)		Triton Electronic Systems Ltd.
