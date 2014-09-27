@@ -1,4 +1,4 @@
-  Generated: Fri, 26 Sep 2014 05:00:02 -0400
+  Generated: Sat, 27 Sep 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -89949,6 +89949,12 @@
 				Seoul  158-808
 				KOREA, REPUBLIC OF
 
+  34-68-95   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  346895     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District,
+				Chongqing  401332
+				CHINA
+
   34-6B-D3   (hex)		Huawei Technologies Co., Ltd
   346BD3     (base 16)		Huawei Technologies Co., Ltd
   				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,
@@ -98796,6 +98802,12 @@
 				Toorak Vic 3142
 				AUSTRALIA
 
+  68-28-F6   (hex)		Vubiq Networks, Inc.
+  6828F6     (base 16)		Vubiq Networks, Inc.
+  				9231 Irvine Blvd.
+				Irvine California 92618
+				UNITED STATES
+
   68-2D-DC   (hex)		Wuhan Changjiang Electro-Communication Equipment CO.,LTD
   682DDC     (base 16)		Wuhan Changjiang Electro-Communication Equipment CO.,LTD
   				No.8,Yinghu Sience&Technology industrial park
@@ -101849,6 +101861,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  78-71-9C   (hex)		ARRIS Group, Inc.
+  78719C     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive
+				San Diego CA 92121
+				UNITED STATES
+
   78-7E-61   (hex)		Apple
   787E61     (base 16)		Apple
   				1 Infinite Loop
@@ -104426,6 +104444,12 @@
   				1 International Business Park, #03-12, The Synergy
 				609917
 				SINGAPORE
+
+  84-CF-BF   (hex)		Fairphone
+  84CFBF     (base 16)		Fairphone
+  				Piet Heinkade 181A
+				Amsterdam North Holland 1019HC
+				NETHERLANDS
 
   84-D3-2A   (hex)		IEEE 1905.1
   84D32A     (base 16)		IEEE 1905.1
@@ -110661,6 +110685,12 @@
 				Quebec H9S 0A8
 				CANADA
 
+  A8-F0-38   (hex)		SHEN ZHEN SHI JIN HUA TAI ELECTRONICS CO.,LTD
+  A8F038     (base 16)		SHEN ZHEN SHI JIN HUA TAI ELECTRONICS CO.,LTD
+  				Room A,Forth Floor,Building B,Hengmingzhu Industrial Park,Xixiang Forist and Fruit Bureau,Qianjin Road, Baoan District,Shenzhen city,Guangdong provice
+				518126
+				CHINA
+
   A8-F2-74   (hex)		Samsung Electronics
   A8F274     (base 16)		Samsung Electronics
   				#94-1, Imsoo-Dong
@@ -111192,6 +111222,12 @@
 				Shanghai  201206
 				CHINA
 
+  AC-9E-17   (hex)		ASUSTek COMPUTER INC.
+  AC9E17     (base 16)		ASUSTek COMPUTER INC.
+  				15,Li-Te Rd., Peitou,
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
+
   AC-A0-16   (hex)		CISCO SYSTEMS, INC.
   ACA016     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -111305,6 +111341,13 @@
 				Kawasaki-shi Kanagawa 215-8521
 				JAPAN
 
+  AC-C7-3F   (hex)		VITSMO CO., LTD.
+  ACC73F     (base 16)		VITSMO CO., LTD.
+  				RM1418-1419, HansinIntervalley 24 Bldg.
+				322 Teheranro Gangnamgu
+				SEOUL 135-918
+				KOREA, REPUBLIC OF
+
   AC-C9-35   (hex)		Ness Corporation
   ACC935     (base 16)		Ness Corporation
   				4/167 Prospect Highway
@@ -111368,6 +111411,12 @@
 				Suite A-265
 				Phoenix AZ 85044
 				UNITED STATES
+
+  AC-D1-B8   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  ACD1B8     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District,Chongqing,China
+				Chongqing Chongqing 401332
+				CHINA
 
   AC-D3-64   (hex)		ABB SPA, ABB SACE DIV.
   ACD364     (base 16)		ABB SPA, ABB SACE DIV.
@@ -112471,6 +112520,12 @@
   				5F, No.3 Building, Fortune Center
 				No.18, Qinling Road, Laoshan District
 				Qingdao Shandong 266061
+				CHINA
+
+  B4-73-56   (hex)		Hangzhou Treebear Networking Co., Ltd.
+  B47356     (base 16)		Hangzhou Treebear Networking Co., Ltd.
+  				2F,Block A, Lianhe Building, 2#, Zijinghua RD, Xihu District
+				Hangzhou Zhejiang 310012
 				CHINA
 
   B4-74-9F   (hex)		askey computer corp
@@ -114813,6 +114868,13 @@
   				Komenskeho 821
 				Trutnov  54101
 				CZECH REPUBLIC
+
+  C0-BD-D1   (hex)		Samsung Electro Mechanics co., LTD.
+  C0BDD1     (base 16)		Samsung Electro Mechanics co., LTD.
+  				93Moo5T. Bangsamak
+				SEMTHAI. WELLGROW INDUSTRIAL ESTATE
+				Bangpakong Chachoengsao 24180
+				THAILAND
 
   C0-C1-C0   (hex)		Cisco-Linksys, LLC
   C0C1C0     (base 16)		Cisco-Linksys, LLC
@@ -117845,6 +117907,12 @@
   D4024A     (base 16)		Delphian Systems LLC
   				720 Dartmouth Lane
 				Buffalo Grove IL 60089
+				UNITED STATES
+
+  D4-05-98   (hex)		ARRIS Group, Inc.
+  D40598     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive
+				San Diego CA 92121
 				UNITED STATES
 
   D4-0B-1A   (hex)		HTC Corporation
