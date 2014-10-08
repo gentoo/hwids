@@ -1,4 +1,4 @@
-  Generated: Sat, 04 Oct 2014 05:00:03 -0400
+  Generated: Wed, 08 Oct 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -91306,6 +91306,13 @@
 				North Syracuse NY 13212
 				UNITED STATES
 
+  3C-1E-04   (hex)		D-Link International
+  3C1E04     (base 16)		D-Link International
+  				1 Internal Business Park, #03-12,
+				The Synergy
+				609917
+				SINGAPORE
+
   3C-1E-13   (hex)		HANGZHOU SUNRISE TECHNOLOGY CO., LTD
   3C1E13     (base 16)		HANGZHOU SUNRISE TECHNOLOGY CO., LTD
   				No.9, LongTan Road, CangQian Town, YuHang District, Hangzhou, China
@@ -94186,6 +94193,12 @@
   				c Sofía 10. Polígono Európolis
 				Las Rozas de Madrid Madrid 28230
 				SPAIN
+
+  4C-76-25   (hex)		Dell Inc.
+  4C7625     (base 16)		Dell Inc.
+  				One Dell way
+				Round Rock Texas 78682
+				UNITED STATES
 
   4C-77-4F   (hex)		Embedded Wireless Labs
   4C774F     (base 16)		Embedded Wireless Labs
@@ -101342,6 +101355,12 @@
 				Scottsdale AZ 85258
 				UNITED STATES
 
+  74-96-37   (hex)		Todaair Electronic Co., Ltd
+  749637     (base 16)		Todaair Electronic Co., Ltd
+  				F.6 Electronic Building, No.1 Shuinan Guangdeli Road，Peng’Jiang District, Jiangmen, Guangdong, China
+				JiangMen Guangdong 529000
+				CHINA
+
   74-99-75   (hex)		IBM Corporation
   749975     (base 16)		IBM Corporation
   				4400 North First Street
@@ -105289,6 +105308,12 @@
 				Tangtou 3nd Industrial Estate,Shiyan Baoan District,
 				Shenzhen GuangDong 518057
 				CHINA
+
+  88-E6-03   (hex)		Avotek corporation
+  88E603     (base 16)		Avotek corporation
+  				9-17, Dongil-ro 174-gil, Nowon-gu, Seoul
+				Seoul Seoul 139-808
+				KOREA, REPUBLIC OF
 
   88-E7-12   (hex)		Whirlpool Corporation
   88E712     (base 16)		Whirlpool Corporation
@@ -114511,10 +114536,10 @@
 				Shenzhen Guangdong 518067
 				CHINA
 
-  BC-E7-67   (hex)		TDX Electronics Co., Ltd
-  BCE767     (base 16)		TDX Electronics Co., Ltd
+  BC-E7-67   (hex)		Quanzhou  TDX Electronics Co., Ltd
+  BCE767     (base 16)		Quanzhou  TDX Electronics Co., Ltd
   				Hi-tech Park economic and tech development zone
-				Quanzhou Fujian province 362212
+				Quanzhou Fujian province 362005
 				CHINA
 
   BC-EA-2B   (hex)		CityCom GmbH
@@ -120979,6 +121004,13 @@
   				ul.Platanowa 2
 				Sopot pomorskie 81-855
 				POLAND
+
+  E0-FF-F7   (hex)		Softiron Inc.
+  E0FFF7     (base 16)		Softiron Inc.
+  				6540 Central Avenue
+				Unit O
+				Newark California 94560
+				UNITED STATES
 
   E4-04-39   (hex)		TomTom Software Ltd
   E40439     (base 16)		TomTom Software Ltd

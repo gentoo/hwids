@@ -153,6 +153,7 @@ keyboard:dmi:bvn*:bvr*:bd*:svnASUS:pn*
 
 keyboard:name:Asus WMI hotkeys:dmi:bvn*:bvr*:bd*:svnASUS*:pn*:pvr*
 keyboard:name:Eee PC WMI hotkeys:dmi:bvn*:bvr*:bd*:svnASUS*:pn*:pvr*
+keyboard:name:Asus Laptop extra buttons:dmi:bvn*:bvr*:bd*:svnASUS*:pn*:pvr*
  KEYBOARD_KEY_6b=f21                                    # Touchpad Toggle
 
 ###########################################################
@@ -1094,7 +1095,7 @@ keyboard:name:Toshiba*input*device:dmi:bvn*:bvr*:bd*:svnTOSHIBA*:pnSatellite*P75
  KEYBOARD_KEY_13c=brightnessdown
  KEYBOARD_KEY_13d=brightnessup
  KEYBOARD_KEY_13e=switchvideomode
- KEYBOARD_KEY_13f=touchpad_toggle
+ KEYBOARD_KEY_13f=f21                                   # Touchpad toggle
  KEYBOARD_KEY_9e=wlan
 
 ###########################################################
