@@ -1,4 +1,4 @@
-  Generated: Wed, 08 Oct 2014 05:00:03 -0400
+  Generated: Fri, 10 Oct 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -24198,7 +24198,7 @@
   000EF4     (base 16)		Kasda Networks Inc
   				B-31 Building, Tanglang Industry Zone
 				Xili, Nanshan District
-				Shenzhen Guangdong Province 518029
+				Shenzhen Guangdong Province 518055
 				CHINA
 
   00-0E-F5   (hex)		iPAC Technology Co., Ltd.
@@ -25564,11 +25564,10 @@
 				Hemel Hempstead Herts HP2 4NW
 				UNITED KINGDOM
 
-  00-0F-CC   (hex)		Netopia, Inc.
-  000FCC     (base 16)		Netopia, Inc.
-  				6001 Shellmound Street
-				4th Floor
-				Emeryville CA 94608
+  00-0F-CC   (hex)		ARRIS Group, Inc.
+  000FCC     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive6001 Shellmound Street
+				San Diego CA 92128
 				UNITED STATES
 
   00-0F-CD   (hex)		Nortel Networks
@@ -84721,6 +84720,12 @@
 				Lohmar Germany D-53797
 				GERMANY
 
+  14-8F-21   (hex)		Garmin International
+  148F21     (base 16)		Garmin International
+  				1200 E. 151st St
+				Olathe KS 66062
+				UNITED STATES
+
   14-8F-C6   (hex)		Apple
   148FC6     (base 16)		Apple
   				1 Infinite Loop
@@ -85751,6 +85756,13 @@
 				North Tower Unit 204
 				Shanghai 201203
 				CHINA
+
+  18-FF-0F   (hex)		Intel Corporate
+  18FF0F     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
   18-FF-2E   (hex)		Shenzhen Rui Ying Da Technology Co., Ltd
   18FF2E     (base 16)		Shenzhen Rui Ying Da Technology Co., Ltd
@@ -88031,6 +88043,13 @@
   				11445 Compaq Center Drive
 				Houston Texas 77070
 				UNITED STATES
+
+  28-84-FA   (hex)		SHARP Corporation
+  2884FA     (base 16)		SHARP Corporation
+  				22-22,Nagaike-Cho
+				Abeno-Ku
+				Osaka-City Osaka-Prefecture 545-8522
+				JAPAN
 
   28-85-2D   (hex)		Touch Networks
   28852D     (base 16)		Touch Networks
@@ -93295,6 +93314,12 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  44-F4-77   (hex)		Juniper Networks
+  44F477     (base 16)		Juniper Networks
+  				1194 N Mathilda Avenue
+				Sunnyvale CA 94089
+				UNITED STATES
 
   44-F8-49   (hex)		Union Pacific Railroad
   44F849     (base 16)		Union Pacific Railroad
@@ -100055,6 +100080,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  6C-CA-08   (hex)		ARRIS Group, Inc.
+  6CCA08     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive
+				San Diego CA 92121
+				UNITED STATES
+
   6C-D0-32   (hex)		LG Electronics
   6CD032     (base 16)		LG Electronics
   				16, Woomyeon-dong, Seocho-gu
@@ -103801,8 +103832,8 @@
 				Deerfield Beach FL 33442
 				UNITED STATES
 
-  80-AD-67   (hex)		Kasda Digital Technology Co.,Ltd
-  80AD67     (base 16)		Kasda Digital Technology Co.,Ltd
+  80-AD-67   (hex)		Kasda Networks Inc
+  80AD67     (base 16)		Kasda Networks Inc
   				B-31 Building, Tanglang Industry Zone, Xili, Nanshan District
 				Shenzhen Guangdong 518055
 				CHINA
@@ -104310,6 +104341,12 @@
   				8/F,1 Building,Finance Base,No.8,Kefa Road,High-Tech Park
 				Shenzhen Guangdong 518057
 				CHINA
+
+  84-61-A0   (hex)		ARRIS Group, Inc.
+  8461A0     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive
+				San Diego CA 92121
+				UNITED STATES
 
   84-62-23   (hex)		Shenzhen Coship Electronics Co., Ltd.
   846223     (base 16)		Shenzhen Coship Electronics Co., Ltd.
@@ -108470,6 +108507,12 @@
   				Room 904, No.1-2 LanYuan Road, HuaYuan Industrial Area
 				TianJin TianJin 300384
 				CHINA
+
+  9C-68-5B   (hex)		Octonion SA
+  9C685B     (base 16)		Octonion SA
+  				EPFL Innovation Park, Bâtiment C
+				Lausanne Vaud 1015
+				SWITZERLAND
 
   9C-6A-BE   (hex)		QEES ApS.
   9C6ABE     (base 16)		QEES ApS.
@@ -122823,6 +122866,12 @@
 				SJCM/2
 				San Jose CA 95134
 				UNITED STATES
+
+  EC-E2-FD   (hex)		SKG Electric Group(Thailand) Co., Ltd.
+  ECE2FD     (base 16)		SKG Electric Group(Thailand) Co., Ltd.
+  				3F,The Second Building,Sanhe village , Longhua Rd, Baoan Dist., Shenzhen, China
+				Shenzhen Guangdong 518301
+				CHINA
 
   EC-E5-12   (hex)		tado GmbH
   ECE512     (base 16)		tado GmbH

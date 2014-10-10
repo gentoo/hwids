@@ -1,8 +1,8 @@
 #
 #	List of PCI ID's
 #
-#	Version: 2014.10.08
-#	Date:    2014-10-08 03:15:02
+#	Version: 2014.10.10
+#	Date:    2014-10-10 03:15:02
 #
 #	Maintained by Martin Mares <mj@ucw.cz> and other volunteers from the
 #	PCI ID Project at http://pci-ids.ucw.cz/.
@@ -11689,12 +11689,22 @@
 1137  Cisco Systems Inc
 	0023  VIC 81 PCIe Upstream Port
 	0040  VIC PCIe Upstream Port
+		1137 004f  VIC 1280 Dual 40Gb Mezzanine
+		1137 0084  VIC 1240 Dual 40Gb MLOM
+		1137 0085  VIC 1225 Dual 10Gb SFP+ PCIe
+		1137 00cd  VIC 1285 Dual 40Gb QSFP+ PCIe
+		1137 00ce  VIC 1225T Dual 10GBaseT PCIe
+		1137 012a  VIC M4308 Dual 40Gb
+		1137 012c  VIC 1340 Dual 40Gb MLOM
+		1137 012e  VIC 1227 Dual 10Gb SFP+ PCIe
+		1137 0137  VIC 1380 Dual 40Gb Mezzanine
 	0041  VIC PCIe Downstream Port
 	0042  VIC Management Controller
 		1137 0047  VIC P81E PCIe Management Controller
 		1137 0085  VIC 1225 PCIe Management Controller
 		1137 00cd  VIC 1285 PCIe Management Controller
 		1137 00ce  VIC 1225T PCIe Management Controller
+		1137 012e  VIC 1227 PCIe Management Controller
 	0043  VIC Ethernet NIC
 		1137 0047  VIC P81E PCIe Ethernet NIC
 		1137 0048  VIC M81KR Mezzanine Ethernet NIC
@@ -11703,6 +11713,10 @@
 		1137 0085  VIC 1225 PCIe Ethernet NIC
 		1137 00cd  VIC 1285 PCIe Ethernet NIC
 		1137 00ce  VIC 1225T PCIe Ethernet NIC
+		1137 012a  VIC M4308 Ethernet NIC
+		1137 012c  VIC 1340 MLOM Ethernet NIC
+		1137 012e  VIC 1227 PCIe Ethernet NIC
+		1137 0137  VIC 1380 Mezzanine Ethernet NIC
 	0044  VIC Ethernet NIC Dynamic
 		1137 0047  VIC P81E PCIe Ethernet NIC Dynamic
 		1137 0048  VIC M81KR Mezzanine Ethernet NIC Dynamic
@@ -11711,6 +11725,10 @@
 		1137 0085  VIC 1225 PCIe Ethernet NIC Dynamic
 		1137 00cd  VIC 1285 PCIe Ethernet NIC Dynamic
 		1137 00ce  VIC 1225T PCIe Ethernet NIC Dynamic
+		1137 012a  VIC M4308 Ethernet NIC Dynamic
+		1137 012c  VIC 1340 MLOM Ethernet NIC Dynamic
+		1137 012e  VIC 1227 PCIe Ethernet NIC Dynamic
+		1137 0137  VIC 1380 Mezzanine Ethernet NIC Dynamic
 	0045  VIC FCoE HBA
 		1137 0047  VIC P81E PCIe FCoE HBA
 		1137 0048  VIC M81KR Mezzanine FCoE HBA
@@ -11719,9 +11737,28 @@
 		1137 0085  VIC 1225 PCIe FCoE HBA
 		1137 00cd  VIC 1285 PCIe FCoE HBA
 		1137 00ce  VIC 1225T PCIe FCoE HBA
+		1137 012a  VIC M4308 FCoE HBA
+		1137 012c  VIC 1340 MLOM FCoE HBA
+		1137 012e  VIC 1227 PCIe FCoE HBA
+		1137 0137  VIC 1380 Mezzanine FCoE HBA
+	0046  VIC SCSI Controller
+		1137 012a  VIC M4308 SCSI Controller
 	004e  VIC 82 PCIe Upstream Port
 	0071  VIC SR-IOV VF
+	007a  VIC 1300 PCIe Upstream Port
+		1137 012a  VIC M4308 Dual 40Gb
+		1137 012c  VIC 1340 Dual 40Gb MLOM
+		1137 0137  VIC 1380 Dual 40Gb Mezzanine
 	00cf  VIC Userspace NIC
+		1137 004f  VIC 1280 Mezzanine Userspace NIC
+		1137 0084  VIC 1240 MLOM Userspace NIC
+		1137 0085  VIC 1225 PCIe Userspace NIC
+		1137 00cd  VIC 1285 PCIe Userspace NIC
+		1137 00ce  VIC 1225T PCIe Userspace NIC
+		1137 012a  VIC M4308 Userspace NIC
+		1137 012c  VIC 1340 MLOM Userspace NIC
+		1137 012e  VIC 1227 PCIe Userspace NIC
+		1137 0137  VIC 1380 Mezzanine Userspace NIC
 1138  Ziatech Corporation
 	8905  8905 [STD 32 Bridge]
 1139  Dynamic Pictures, Inc
@@ -18251,6 +18288,11 @@
 	0440  T4240 with security
 	0441  T4240 without security
 	0446  T4160 with security
+	0447  T4160 without security
+	0830  T2080 with security
+	0831  T2080 without security
+	0838  T2081 with security
+	0839  T2081 without security
 	580c  MPC5121e
 	7010  MPC8641 PCI Host Bridge
 	7011  MPC8641D PCI Host Bridge
