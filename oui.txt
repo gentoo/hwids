@@ -1,4 +1,4 @@
-  Generated: Fri, 10 Oct 2014 05:00:03 -0400
+  Generated: Wed, 15 Oct 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -1249,10 +1249,10 @@
 				MILFORD MA 01757
 				UNITED STATES
 
-  00-00-C5   (hex)		FARALLON COMPUTING/NETOPIA
-  0000C5     (base 16)		FARALLON COMPUTING/NETOPIA
-  				2470 MARINER SQUARE LOOP
-				ALAMEDA CA 94501
+  00-00-C5   (hex)		ARRIS Group, Inc.
+  0000C5     (base 16)		ARRIS Group, Inc.
+  				6450 Sequence Drive
+				San Diego CA 92121
 				UNITED STATES
 
   00-00-C6   (hex)		EON SYSTEMS
@@ -10280,9 +10280,9 @@
 
   00-06-44   (hex)		Neix,Inc
   000644     (base 16)		Neix,Inc
-  				3-5-3-24, Higashisapporo
-				Shiroishi-ku
-				Sapporo Hokkaido 003-0003
+  				KKS Higashi-Sapporo Bldg.
+				3-5-3-24, Higashi-Sapporo
+				Shiroishi-ku, Sapporo-city Hokkaido 003-0003
 				JAPAN
 
   00-06-45   (hex)		Meisei Electric Co. Ltd.
@@ -12606,10 +12606,10 @@
 				Austin TX 78759
 				UNITED STATES
 
-  00-07-AF   (hex)		N-TRON Corporation
-  0007AF     (base 16)		N-TRON Corporation
-  				3101 International Drive
-				Mobile AL 36606
+  00-07-AF   (hex)		Red Lion Controls, LP
+  0007AF     (base 16)		Red Lion Controls, LP
+  				20 Willow Springs Circle
+				York PA 17402
 				UNITED STATES
 
   00-07-B0   (hex)		Office Details, Inc.
@@ -31178,11 +31178,11 @@
 				Hsin-Tien, Taipei 231
 				TAIWAN, PROVINCE OF CHINA
 
-  00-13-47   (hex)		BlueTree Wireless Data Inc.
-  001347     (base 16)		BlueTree Wireless Data Inc.
-  				2425 46e Avenue
-				Lachine Quebec H8T 3C9
-				CANADA
+  00-13-47   (hex)		Red Lion Controls, LP
+  001347     (base 16)		Red Lion Controls, LP
+  				20 Willow Springs Circle
+				York PA 17402
+				UNITED STATES
 
   00-13-48   (hex)		Artila Electronics Co., Ltd.
   001348     (base 16)		Artila Electronics Co., Ltd.
@@ -69628,10 +69628,10 @@
 				ST. LAURENT, QUEBEC H4T 1W5  
 				CANADA
 
-  00-60-DA   (hex)		JBM ELECTRONICS CO.
-  0060DA     (base 16)		JBM ELECTRONICS CO.
-  				4645 LaGuardian Drive
-				ST. LOUIS MO 63134
+  00-60-DA   (hex)		Red Lion Controls, LP
+  0060DA     (base 16)		Red Lion Controls, LP
+  				20 Willow Springs Circle
+				York PA 17402
 				UNITED STATES
 
   00-60-DB   (hex)		NTP ELEKTRONIK A/S
@@ -73492,10 +73492,10 @@
 				MARLBORO MA 01752
 				UNITED STATES
 
-  00-A0-1D   (hex)		SIXNET
-  00A01D     (base 16)		SIXNET
-  				P.O. BOX 767
-				CLIFTON PARK NY 12065
+  00-A0-1D   (hex)		Red Lion Controls, LP
+  00A01D     (base 16)		Red Lion Controls, LP
+  				20 Willow Springs Circle
+				York NY 17402
 				UNITED STATES
 
   00-A0-1E   (hex)		EST CORPORATION
@@ -88391,6 +88391,13 @@
 				Taipei Taiwan 23585
 				TAIWAN, PROVINCE OF CHINA
 
+  28-E4-76   (hex)		Pi-Coral
+  28E476     (base 16)		Pi-Coral
+  				2130 Gold Street, Ste. 200
+				suite 200
+				San Jose CA - California 95002
+				UNITED STATES
+
   28-E6-08   (hex)		Tokheim
   28E608     (base 16)		Tokheim
   				Industrieweg 5
@@ -92895,6 +92902,13 @@
 				Waukasha WI 53186
 				UNITED STATES
 
+  44-5E-CD   (hex)		Razer Inc
+  445ECD     (base 16)		Razer Inc
+  				2035 Corte Del Nogal
+				Suite 101
+				Carlsbad CA 92011
+				UNITED STATES
+
   44-5E-F3   (hex)		Tonalite Holding B.V.
   445EF3     (base 16)		Tonalite Holding B.V.
   				Nieuw Amsterdamsestraat 40
@@ -94357,6 +94371,12 @@
   				Via trento, 30
 				Vimercate MB 20059
 				ITALY
+
+  4C-A9-28   (hex)		Insensi
+  4CA928     (base 16)		Insensi
+  				2025 Broadway, 2CD
+				New York City New York 10023
+				UNITED STATES
 
   4C-AA-16   (hex)		AzureWave Technologies (Shanghai) Inc.
   4CAA16     (base 16)		AzureWave Technologies (Shanghai) Inc.
@@ -96814,6 +96834,9 @@
   				12500 TI Boulevard
 				Dallas TX 75243
 				UNITED STATES
+
+  5C-6B-4F   (hex)		PRIVATE
+  5C6B4F     (base 16)		 
 
   5C-6D-20   (hex)		Hon Hai Precision Ind. Co.,Ltd.
   5C6D20     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
@@ -99490,6 +99513,13 @@
 				80 HUNG TO ROAD, KWUN TONG ,KL
 				HONG KONG 
 				HONG KONG
+
+  68-F0-BC   (hex)		Shenzhen LiWiFi Technology Co., Ltd
+  68F0BC     (base 16)		Shenzhen LiWiFi Technology Co., Ltd
+  				No.7, Xinxi Road, Hi-Tech Park (North Zone)
+				Nanshan District
+				Shenzhen Guangdong 518057
+				CHINA
 
   68-F1-25   (hex)		Data Controls Inc.
   68F125     (base 16)		Data Controls Inc.
@@ -104292,6 +104322,12 @@
 				Suite 308
 				SANTA CLARA CA 95054-1807
 				UNITED STATES
+
+  84-4B-B7   (hex)		Beijing Sankuai Online Technology Co.,Ltd
+  844BB7     (base 16)		Beijing Sankuai Online Technology Co.,Ltd
+  				Block F&G, Wangjing International R & D Park,     No.6 Wang Jing East Rd,   Chaoyang District,   Beijing, 100102,   China
+				BEIJING BEIJING 100102
+				CHINA
 
   84-4B-F5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
   844BF5     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
@@ -114541,6 +114577,12 @@
 				Taoyuan County  330
 				TAIWAN, PROVINCE OF CHINA
 
+  BC-D1-65   (hex)		Cisco SPVTG
+  BCD165     (base 16)		Cisco SPVTG
+  				5030 Sugarloaf Parkway
+				Lawrenceville GA 30044
+				UNITED STATES
+
   BC-D1-77   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
   BCD177     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
   				Building 24(floors 1,3,4,5)and 28(floors1-4) Central Science and Technology Park,Shennan Rd
@@ -120628,6 +120670,13 @@
   				101 West 103rd St
 				INH 720
 				Indianapolis IN 46290
+				UNITED STATES
+
+  E0-89-9D   (hex)		Cisco
+  E0899D     (base 16)		Cisco
+  				170 West Tasman Drive
+				SJCM/2
+				San Jose CA 95134
 				UNITED STATES
 
   E0-8A-7E   (hex)		Exponent
