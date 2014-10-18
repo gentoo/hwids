@@ -1,4 +1,4 @@
-  Generated: Fri, 17 Oct 2014 05:00:04 -0400
+  Generated: Sat, 18 Oct 2014 05:00:06 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -99383,6 +99383,12 @@
 				Seoul  138-834
 				KOREA, REPUBLIC OF
 
+  68-B9-83   (hex)		b-plus GmbH
+  68B983     (base 16)		b-plus GmbH
+  				Ulrichsberger Str. 17
+				Deggendorf Bavaria 94469
+				GERMANY
+
   68-BC-0C   (hex)		CISCO SYSTEMS, INC.
   68BC0C     (base 16)		CISCO SYSTEMS, INC.
   				170 W. TASMAN DRIVE
@@ -102308,6 +102314,13 @@
   				416,Maetan 3Dong,Yeongtong-Gu
 				Suwon Gyeonggi-Do 443742
 				KOREA, REPUBLIC OF
+
+  78-AC-BF   (hex)		Igneous Systems
+  78ACBF     (base 16)		Igneous Systems
+  				2401 4th Ave
+				Suite 200
+				Seattle WA 98121
+				UNITED STATES
 
   78-AC-C0   (hex)		Hewlett-Packard Company
   78ACC0     (base 16)		Hewlett-Packard Company
