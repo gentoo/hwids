@@ -1,4 +1,4 @@
-  Generated: Mon, 20 Oct 2014 05:00:03 -0400
+  Generated: Tue, 21 Oct 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -85890,6 +85890,12 @@
 				Limerick  00
 				IRELAND
 
+  1C-39-47   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
+  1C3947     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
+  				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN SUZHOU 215300
+				CHINA
+
   1C-3A-4F   (hex)		AccuSpec Electronics, LLC
   1C3A4F     (base 16)		AccuSpec Electronics, LLC
   				8140 Hawthorne Drive
@@ -88986,6 +88992,12 @@
 				Lawrenceville GA 30044
 				UNITED STATES
 
+  2C-AD-13   (hex)		SHENZHEN ZHILU TECHNOLOGY CO.,LTD
+  2CAD13     (base 16)		SHENZHEN ZHILU TECHNOLOGY CO.,LTD
+  				B2-402 Kexin Science Park, Keyuan Road, Hi-tech Park, Nanshan District, Shenzhen
+				shenzhen Guangdong 518052
+				CHINA
+
   2C-B0-5D   (hex)		NETGEAR
   2CB05D     (base 16)		NETGEAR
   				350 EAST PLUMERIA DRIVE
@@ -91782,6 +91794,12 @@
 				P.O. Box 86
 				Salo  24101
 				FINLAND
+
+  3C-C2-E1   (hex)		XINHUA CONTROL ENGINEERING CO.,LTD
+  3CC2E1     (base 16)		XINHUA CONTROL ENGINEERING CO.,LTD
+  				160 Wenjing Road, Minhang
+				Shanghai Shanghai 200245
+				CHINA
 
   3C-C9-9E   (hex)		Huiyang Technology Co., Ltd
   3CC99E     (base 16)		Huiyang Technology Co., Ltd
@@ -104479,6 +104497,13 @@
 				Seongnam-si Gyeonggi-do 463-400,Korea
 				KOREA, REPUBLIC OF
 
+  84-73-03   (hex)		Letv Mobile and Intelligent Information Technology (Beijing) Corporation Ltd.
+  847303     (base 16)		Letv Mobile and Intelligent Information Technology (Beijing) Corporation Ltd.
+  				5th floor,Hongchengxintai building,No.105,Yaojiayuan Road,Chaoyang District,Beijing
+				WENHUAYING NORTH (No.1, LINKONG 2nd St), GAOLIYING, SHUNYI DISTRICT, BEIJING
+				Beijing Chaoyang 100025
+				CHINA
+
   84-74-2A   (hex)		zte corporation
   84742A     (base 16)		zte corporation
   				12/F.,R&D building,kejinan Road
@@ -104717,6 +104742,12 @@
 				 Yuhuatai Area
 				Nanjing Jiangsu 210012
 				CHINA
+
+  84-C3-E8   (hex)		Vaillant GmbH
+  84C3E8     (base 16)		Vaillant GmbH
+  				Berghauser Straße 40
+				Remscheid NRW D-42859
+				GERMANY
 
   84-C7-27   (hex)		Gnodal Ltd
   84C727     (base 16)		Gnodal Ltd
@@ -111758,6 +111789,12 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  AC-D0-74   (hex)		Espressif Inc.
+  ACD074     (base 16)		Espressif Inc.
+  				A207-1, 456 Bibo Road, Zhangjiang High-tech Park,Shanghai  201203, China
+				Shanghai Shanghai 201203
+				CHINA
 
   AC-D1-80   (hex)		Crexendo Business Solutions, Inc.
   ACD180     (base 16)		Crexendo Business Solutions, Inc.
@@ -121527,6 +121564,12 @@
 				Suwanee GA 30024
 				UNITED STATES
 
+  E4-85-01   (hex)		Geberit International AG
+  E48501     (base 16)		Geberit International AG
+  				Schachenstrasse 77
+				Jona SG 8645
+				SWITZERLAND
+
   E4-8A-D5   (hex)		RF WINDOW CO., LTD.
   E48AD5     (base 16)		RF WINDOW CO., LTD.
   				14F, Daerung Posttower3
@@ -121982,6 +122025,13 @@
   				2F., No.22, Zhongxing Rd., Xizhi Dist.
 				New Taipei City  221
 				TAIWAN, PROVINCE OF CHINA
+
+  E8-44-7E   (hex)		Bitdefender SRL
+  E8447E     (base 16)		Bitdefender SRL
+  				24 Delea Veche St.
+				Offices Building A, floor 7, district 2
+				Bucharest Romania 024102
+				ROMANIA
 
   E8-48-1F   (hex)		Advanced Automotive Antennas
   E8481F     (base 16)		Advanced Automotive Antennas
