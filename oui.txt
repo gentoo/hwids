@@ -1,4 +1,4 @@
-  Generated: Sat, 25 Oct 2014 05:00:03 -0400
+  Generated: Wed, 29 Oct 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -10278,8 +10278,8 @@
 				Taipei  
 				TAIWAN, PROVINCE OF CHINA
 
-  00-06-44   (hex)		Neix,Inc
-  000644     (base 16)		Neix,Inc
+  00-06-44   (hex)		neix,Inc
+  000644     (base 16)		neix,Inc
   				KKS Higashi-Sapporo Bldg.
 				3-5-3-24, Higashi-Sapporo
 				Shiroishi-ku, Sapporo-city Hokkaido 003-0003
@@ -90095,6 +90095,13 @@
 				Shenzhen Guangdong 518057
 				CHINA
 
+  34-6C-0F   (hex)		Pramod Telecom Pvt. Ltd
+  346C0F     (base 16)		Pramod Telecom Pvt. Ltd
+  				Plot No. 6-B, Malviya Nagar,
+				Aishbagh
+				Lucknow Uttar Pradesh 226004
+				INDIA
+
   34-6E-8A   (hex)		Ecosense
   346E8A     (base 16)		Ecosense
   				1414 Kolon science vallet-II., #811
@@ -91674,6 +91681,12 @@
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
+  3C-91-2B   (hex)		Vexata Inc
+  3C912B     (base 16)		Vexata Inc
+  				1735 Technology Dr Suite 520
+				San Jose CA 95110
+				UNITED STATES
+
   3C-91-57   (hex)		Hangzhou Yulong Conmunication Co.,Ltd
   3C9157     (base 16)		Hangzhou Yulong Conmunication Co.,Ltd
   				5F Building 2,No.56,Liuhe Road,Xihu District
@@ -93206,6 +93219,12 @@
   				2288, Oaza-Ohshinohara, Yasu-cho,
 				Yasu-gun Shiga 520-2393
 				JAPAN
+
+  44-A8-42   (hex)		Dell Inc.
+  44A842     (base 16)		Dell Inc.
+  				One dell Way
+				Round rock TX 78682
+				UNITED STATES
 
   44-A8-C2   (hex)		SEWOO TECH CO., LTD
   44A8C2     (base 16)		SEWOO TECH CO., LTD
@@ -115734,6 +115753,12 @@
 				Houston Texas 77070
 				UNITED STATES
 
+  C4-36-6C   (hex)		LG Innotek
+  C4366C     (base 16)		LG Innotek
+  				978-1, Jangduk-dong
+				Gwangsan-gu Gwang-ju 506-731
+				KOREA, REPUBLIC OF
+
   C4-36-DA   (hex)		Rusteletech Ltd.
   C436DA     (base 16)		Rusteletech Ltd.
   				Ordzhonikidze Str. 11, Bldg. 40, Off. 15
@@ -116052,6 +116077,13 @@
   				#94-1, Imsoo-Dong
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
+
+  C4-8E-8F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  C48E8F     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				Building D21,No.1, East Zone 1st Road
+				Xiyong Town,Shapingba District
+				Chongqing 401332
+				CHINA
 
   C4-91-3A   (hex)		Shenzhen Sanland Electronic Co., ltd.
   C4913A     (base 16)		Shenzhen Sanland Electronic Co., ltd.
@@ -119490,6 +119522,13 @@
   				Noettinger Strasse 3
 				Karlsbad BW 76307
 				GERMANY
+
+  D8-5D-E2   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  D85DE2     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				Building D21,No.1, East Zone 1st Road
+				Xiyong Town,Shapingba District
+				Chongqing 401332
+				CHINA
 
   D8-5D-FB   (hex)		PRIVATE
   D85DFB     (base 16)		 
