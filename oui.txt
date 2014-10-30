@@ -1,4 +1,4 @@
-  Generated: Wed, 29 Oct 2014 05:00:03 -0400
+  Generated: Thu, 30 Oct 2014 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -90628,6 +90628,12 @@
 				Marcoussis  91460
 				FRANCE
 
+  34-FC-EF   (hex)		LG Electronics
+  34FCEF     (base 16)		LG Electronics
+  				60-39, Gasan-dong, Geumcheon-gu
+				Seoul 153-023
+				KOREA, REPUBLIC OF
+
   38-01-97   (hex)		Toshiba Samsung Storage Technolgoy Korea Corporation
   380197     (base 16)		Toshiba Samsung Storage Technolgoy Korea Corporation
   				14 Floor, Bldg. No. 102, Digital Empire2, 486, Sin-dong, Yeongtong-gu, Suwon-si,
@@ -92007,6 +92013,13 @@
 				Suite 208C
 				Oceanside CA 92054
 				UNITED STATES
+
+  3C-FD-FE   (hex)		Intel Corporate
+  3CFDFE     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
   40-01-07   (hex)		Arista Corp
   400107     (base 16)		Arista Corp
@@ -96437,6 +96450,13 @@
 				6-10
 				hakodate hokkaido 040-0011
 				JAPAN
+
+  58-A8-39   (hex)		Intel Corporate
+  58A839     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
   58-B0-35   (hex)		Apple
   58B035     (base 16)		Apple
@@ -101033,6 +101053,12 @@
   				Franz Oechsle Str. 4
 				Plochingen  D-73201
 				GERMANY
+
+  70-C7-6F   (hex)		INNO S
+  70C76F     (base 16)		INNO S
+  				215beon-gil, 119
+				Guri-si Gyeonggi-do 471-060
+				KOREA, REPUBLIC OF
 
   70-CA-9B   (hex)		CISCO SYSTEMS, INC.
   70CA9B     (base 16)		CISCO SYSTEMS, INC.
