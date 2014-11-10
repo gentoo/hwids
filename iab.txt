@@ -1,4 +1,4 @@
-  Generated: Thu, 30 Oct 2014 05:00:03 -0400
+  Generated: Mon, 10 Nov 2014 06:00:02 -0500
 
   OUI     			Organization
   IAB Range    			Organization
@@ -20333,7 +20333,7 @@
 
   00-50-C2	(hex)		CODE BLUE CORPORATION
   CBE000-CBEFFF	(base 16)	CODE BLUE CORPORATION
-  				92 EAST 64TH STREET
+  				259 Hedcor St
 				HOLLAND MI 49423
 				UNITED STATES
 
@@ -22431,10 +22431,10 @@
 				Jubei Hsinchu County 30271
 				TAIWAN, PROVINCE OF CHINA
 
-  00-50-C2	(hex)		RF Neulink
-  E11000-E11FFF	(base 16)	RF Neulink
-  				7610 Miramar Road
-				San Diego CA 92126
+  00-50-C2	(hex)		RadioMobile Inc
+  E11000-E11FFF	(base 16)	RadioMobile Inc
+  				8801 Kenamar Drive
+				San Diego CA 92121
 				UNITED STATES
 
   00-50-C2	(hex)		Kago Electronics BV
