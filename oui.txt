@@ -1,4 +1,4 @@
-  Generated: Mon, 10 Nov 2014 06:00:02 -0500
+  Generated: Tue, 11 Nov 2014 06:00:02 -0500
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -82894,6 +82894,12 @@
 				Gumi Gyeongbuk 730-350
 				KOREA, REPUBLIC OF
 
+  0C-15-39   (hex)		Apple
+  0C1539     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   0C-15-C5   (hex)		SDTEC Co., Ltd.
   0C15C5     (base 16)		SDTEC Co., Ltd.
   				167, Churye-2Dong, Sasang-Gu,
@@ -85739,6 +85745,12 @@
 				No.3 Huang Huai Road, Futian Free Trade Zone
 				Shenzhen Guangdong 518038
 				CHINA
+
+  18-EE-69   (hex)		Apple
+  18EE69     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   18-EF-63   (hex)		CISCO SYSTEMS, INC.
   18EF63     (base 16)		CISCO SYSTEMS, INC.
@@ -94431,6 +94443,12 @@
 				Kulim Kedah 09000
 				MALAYSIA
 
+  4C-7C-5F   (hex)		Apple
+  4C7C5F     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   4C-7F-62   (hex)		Nokia Corporation
   4C7F62     (base 16)		Nokia Corporation
   				Joensuunkatu 7
@@ -95087,6 +95105,12 @@
 				Heshan City
 				Jiangmen Guangdong 529728
 				CHINA
+
+  50-72-24   (hex)		Texas Instruments
+  507224     (base 16)		Texas Instruments
+  				12500 TI Blvd
+				Dallas Texas 75243
+				UNITED STATES
 
   50-72-4D   (hex)		BEG Brueck Electronic GmbH
   50724D     (base 16)		BEG Brueck Electronic GmbH
@@ -97403,6 +97427,12 @@
   				Na Valentince 1003/1
 				Praha  15000
 				CZECH REPUBLIC
+
+  5C-F5-DA   (hex)		Apple
+  5CF5DA     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   5C-F6-DC   (hex)		Samsung Electronics Co.,LTD
   5CF6DC     (base 16)		Samsung Electronics Co.,LTD
@@ -101315,6 +101345,12 @@
 				Dallas TX 75243
 				UNITED STATES
 
+  74-03-BD   (hex)		Buffalo Inc.
+  7403BD     (base 16)		Buffalo Inc.
+  				 	AKAMONDORI Bldg, 30-20, Ohsu 3-chome,
+				Minami-ku, Nagoya Aichi Pref. 457-8520
+				JAPAN
+
   74-0A-BC   (hex)		JSJS Designs (Europe) Limited
   740ABC     (base 16)		JSJS Designs (Europe) Limited
   				Ezekiel House
@@ -101858,6 +101894,12 @@
 				Cambuci
 				São Paulo  01523-000
 				BRAZIL
+
+  74-D6-EA   (hex)		Texas Instruments
+  74D6EA     (base 16)		Texas Instruments
+  				12500 TI Blvd
+				Dallas Texas 75243
+				UNITED STATES
 
   74-D8-50   (hex)		Evrisko Systems
   74D850     (base 16)		Evrisko Systems
@@ -106712,6 +106754,12 @@
 				Suite 300
 				Suwanee Georgia 30024
 				UNITED STATES
+
+  90-45-06   (hex)		Tokyo Boeki Medisys Inc.
+  904506     (base 16)		Tokyo Boeki Medisys Inc.
+  				1-14-21, Higashitoyoda
+				 Hino Tokyo 191-0052
+				JAPAN
 
   90-46-B7   (hex)		Vadaro Pte Ltd
   9046B7     (base 16)		Vadaro Pte Ltd
@@ -115179,6 +115227,12 @@
 				Shanghai  201613
 				CHINA
 
+  C0-1A-DA   (hex)		Apple
+  C01ADA     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   C0-1E-9B   (hex)		Pixavi AS
   C01E9B     (base 16)		Pixavi AS
   				Dusavikveien 39
@@ -123092,6 +123146,12 @@
 				SHENZHEN GUANGDONG 518102
 				CHINA
 
+  EC-3C-88   (hex)		MCNEX Co.,Ltd.
+  EC3C88     (base 16)		MCNEX Co.,Ltd.
+  				Hanshin IT Tower2 11F, Digital lo 9 gil
+				Geumcheon-Gu Seoul 153-712
+				KOREA, REPUBLIC OF
+
   EC-3E-09   (hex)		PERFORMANCE DESIGNED PRODUCTS, LLC
   EC3E09     (base 16)		PERFORMANCE DESIGNED PRODUCTS, LLC
   				14144 Ventura Blvd
@@ -123890,6 +123950,12 @@
   				15F KINS Tower 25-1,Jeongja-dong,Bungdang-gu,
 				Seongnam Gyeonggi 463811
 				KOREA, REPUBLIC OF
+
+  F0-79-59   (hex)		ASUSTek COMPUTER INC.
+  F07959     (base 16)		ASUSTek COMPUTER INC.
+  				15,Li-Te Rd., Peitou
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
 
   F0-7B-CB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
   F07BCB     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
