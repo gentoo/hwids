@@ -38,7 +38,7 @@ install: $(INSTALL_TARGETS-yes)
 fetch:
 	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
 	$(Q)curl -z usb.ids -o usb.ids -R http://www.linux-usb.org/usb.ids
-	$(Q)curl -z oui.txt -o oui.txt -R http://standards.ieee.org/develop/regauth/oui/oui.txt
+	$(Q)curl -z oui.txt -o oui.txt -R http://www.ieee.org/netstorage/standards/oui.txt
 	$(Q)curl -z iab.txt -o iab.txt -R http://standards.ieee.org/develop/regauth/iab/iab.txt
 	$(Q)curl -z sdio.ids -o sdio.ids -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/sdio.ids
 	$(Q)curl -z udev/20-acpi-vendor.hwdb -o udev/20-acpi-vendor.hwdb -R http://cgit.freedesktop.org/systemd/systemd/plain/hwdb/20-acpi-vendor.hwdb
