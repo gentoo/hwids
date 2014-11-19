@@ -1,4 +1,4 @@
-  Generated: Tue, 11 Nov 2014 06:00:02 -0500
+  Generated: Fri, 14 Nov 2014 17:14:45 -0500
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -29506,10 +29506,11 @@
 				Philadelphia PA 19104
 				UNITED STATES
 
-  00-12-3D   (hex)		GES
-  00123D     (base 16)		GES
-  				Room 5403, DongSeoul College, 423, Bokjeong-Dong, Sujeong-Gu, Seongnam-Si, Gyeonggi-Do,
-				Gyeonggi-Do Seongnam-Si 461-714
+  00-12-3D   (hex)		GES Co, Ltd
+  00123D     (base 16)		GES Co, Ltd
+  				 Room 710, Bundang Technopark, 700
+				Pangyo-Ro,  Bundang-Gu, Seongnam-Si
+				Gyeonggi-Do  463-400
 				KOREA, REPUBLIC OF
 
   00-12-3E   (hex)		ERUNE technology Co., Ltd.
@@ -33493,11 +33494,12 @@
 				Seoul Guro-Gu 152779
 				KOREA, REPUBLIC OF
 
-  00-14-B1   (hex)		Avitec AB
-  0014B1     (base 16)		Avitec AB
-  				Box 7139
-				SUNDBYBERG  SE-174 07
-				SWEDEN
+  00-14-B1   (hex)		Axell Wireless Limited
+  0014B1     (base 16)		Axell Wireless Limited
+  				Aerial HOuse
+				Asheridge Road
+				Chesham Buckinghamshire HP5 2QD
+				UNITED KINGDOM
 
   00-14-B2   (hex)		mCubelogics Corporation
   0014B2     (base 16)		mCubelogics Corporation
@@ -100511,6 +100513,12 @@
 				Sunnyvale CA 94089
 				UNITED STATES
 
+  6C-F5-E8   (hex)		Mooredoll Inc.
+  6CF5E8     (base 16)		Mooredoll Inc.
+  				5F,No.50,Ln.316,Ruiguan Rd.,Neihu Dist.,Taipei 114, Taiwan
+				Taipei Neihu 114
+				TAIWAN, PROVINCE OF CHINA
+
   6C-F9-7C   (hex)		Nanoptix Inc.
   6CF97C     (base 16)		Nanoptix Inc.
   				699 Champlain St
@@ -107272,6 +107280,12 @@
 				Taipei  112
 				TAIWAN, PROVINCE OF CHINA
 
+  90-E7-C4   (hex)		HTC Corporation
+  90E7C4     (base 16)		HTC Corporation
+  				No. 23, Xinghua Rd., Taoyuan City
+				Taoyuan County Taiwan 330
+				TAIWAN, PROVINCE OF CHINA
+
   90-EA-60   (hex)		SPI Lasers Ltd
   90EA60     (base 16)		SPI Lasers Ltd
   				6 wellington Park
@@ -111204,6 +111218,13 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  A8-90-08   (hex)		Beijing Yuecheng Technology Co. Ltd.
+  A89008     (base 16)		Beijing Yuecheng Technology Co. Ltd.
+  				Room 1601, Floor 16
+				Tian Zuo International Tower
+				ZhongGuanCun South Street Beijing 100000
+				CHINA
 
   A8-92-2C   (hex)		LG Electronics
   A8922C     (base 16)		LG Electronics
