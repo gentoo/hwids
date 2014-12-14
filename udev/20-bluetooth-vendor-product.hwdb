@@ -937,7 +937,7 @@ bluetooth:v0135*
  ID_VENDOR_FROM_DATABASE=Airewear LLC
 
 bluetooth:v0136*
- ID_VENDOR_FROM_DATABASE=ETC sp. z.o.o.
+ ID_VENDOR_FROM_DATABASE=Seed Labs, Inc. (formerly ETC sp. z.o.o.)
 
 bluetooth:v0137*
  ID_VENDOR_FROM_DATABASE=Prestigio Plaza Ltd.
@@ -1223,3 +1223,81 @@ bluetooth:v0194*
 
 bluetooth:v0195*
  ID_VENDOR_FROM_DATABASE=Zuli
+
+bluetooth:v0196*
+ ID_VENDOR_FROM_DATABASE=Paxton Access Ltd
+
+bluetooth:v0197*
+ ID_VENDOR_FROM_DATABASE=WiSilica Inc
+
+bluetooth:v0198*
+ ID_VENDOR_FROM_DATABASE=Vengit Limited
+
+bluetooth:v0199*
+ ID_VENDOR_FROM_DATABASE=SALTO SYSTEMS S.L.
+
+bluetooth:v019A*
+ ID_VENDOR_FROM_DATABASE=T-Engine Forum
+
+bluetooth:v019B*
+ ID_VENDOR_FROM_DATABASE=CUBETECH s.r.o.
+
+bluetooth:v019C*
+ ID_VENDOR_FROM_DATABASE=Cokiya Incorporated
+
+bluetooth:v019D*
+ ID_VENDOR_FROM_DATABASE=CVS Health
+
+bluetooth:v019E*
+ ID_VENDOR_FROM_DATABASE=Ceruus
+
+bluetooth:v019F*
+ ID_VENDOR_FROM_DATABASE=Strainstall Ltd
+
+bluetooth:v01A0*
+ ID_VENDOR_FROM_DATABASE=Channel Enterprises (HK) Ltd.
+
+bluetooth:v01A1*
+ ID_VENDOR_FROM_DATABASE=FIAMM
+
+bluetooth:v01A2*
+ ID_VENDOR_FROM_DATABASE=GIGALANE.CO.,LTD
+
+bluetooth:v01A3*
+ ID_VENDOR_FROM_DATABASE=EROAD
+
+bluetooth:v01A4*
+ ID_VENDOR_FROM_DATABASE=Mine Safety Appliances
+
+bluetooth:v01A5*
+ ID_VENDOR_FROM_DATABASE=Icon Health and Fitness
+
+bluetooth:v01A6*
+ ID_VENDOR_FROM_DATABASE=Asandoo GmbH
+
+bluetooth:v01A7*
+ ID_VENDOR_FROM_DATABASE=ENERGOUS CORPORATION
+
+bluetooth:v01A8*
+ ID_VENDOR_FROM_DATABASE=Taobao
+
+bluetooth:v01A9*
+ ID_VENDOR_FROM_DATABASE=Canon Inc.
+
+bluetooth:v01AA*
+ ID_VENDOR_FROM_DATABASE=Geophysical Technology Inc.
+
+bluetooth:v01AB*
+ ID_VENDOR_FROM_DATABASE=Facebook, Inc.
+
+bluetooth:v01AC*
+ ID_VENDOR_FROM_DATABASE=Nipro Diagnostics, Inc.
+
+bluetooth:v01AD*
+ ID_VENDOR_FROM_DATABASE=FlightSafety International
+
+bluetooth:v01AE*
+ ID_VENDOR_FROM_DATABASE=Earlens Corporation
+
+bluetooth:v01AF*
+ ID_VENDOR_FROM_DATABASE=Sunrise Micro Devices, Inc.
