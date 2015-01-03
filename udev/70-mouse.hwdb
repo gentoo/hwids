@@ -82,12 +82,27 @@
 # For mice with switchable resolution, sort by the starred entry.
 
 ##########################################
+# Chicony
+##########################################
+
+# Chicony 2.4G Multimedia Wireless Kit MG-0919
+mouse:usb:v04f2p0963:name:Chicony 2.4G Multimedia Wireless Kit:
+ MOUSE_DPI=1000@142
+
+##########################################
 # Dell
 ##########################################
 
 # Dell USB Laser Mouse
 mouse:usb:v046dpc063:name:DELL DELL USB Laser Mouse:
  MOUSE_DPI=1000@125
+
+##########################################
+# Fujitsu Siemens
+##########################################
+
+mouse:usb:v0461p4d16:name:USB Optical Mouse:
+ MOUSE_DPI=500@125
 
 ##########################################
 # Lenovo
@@ -118,17 +133,37 @@ mouse:usb:v046dpc01b:name:Logitech USB-PS/2 Optical Mouse:
 mouse:usb:v046dpc03e:name:Logitech USB-PS/2 Optical Mouse:
  MOUSE_DPI=400@125
 
+# Lenovo USB mouse model MO28UOL
+mouse:usb:v04b3p310c:name:USB Optical Mouse:
+ MOUSE_DPI=400@142
+
 # Logitech USB-PS/2 M-BZ96C
 mouse:usb:v046dpc045:name:Logitech USB-PS/2 Optical Mouse:
+# Logitech Optical USB Mouse
+mouse:usb:v046dpc016:name:Logitech Optical USB Mouse:
  MOUSE_DPI=600@125
 
 # Logitech Wirless Mouse M325
 mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:400a:
  MOUSE_DPI=600@166
 
+# Logitech MX1000 Laser Cordless Mouse
+mouse:usb:v046dpc50e:name:Logitech USB RECEIVER:
 # Logitech Cordless Click! Plus
 mouse:usb:v046dpc50e:name:Logitech USB Receiver:
+# Logitech, Inc. RX 300 Optical Mouse
+mouse:usb:v046dpc040:name:Logitech USB-PS/2 Optical Mouse:
+# Logitech, Inc. RX 250 Optical Mouse
+mouse:usb:v046dpc050:name:Logitech USB-PS/2 Optical Mouse:
  MOUSE_DPI=800@125
+
+# Logitech MX 518
+mouse:usb:v046dpc01e:name:Logitech USB-PS/2 Optical Mouse:
+ MOUSE_DPI=400@125 *800@125 1600@125
+
+# Logitech G400s (Wired)
+mouse:usb:v046dpc24c:name:Logitech G400s Optical Gaming Mouse:
+ MOUSE_DPI=400@1000 *800@1000 2000@1000 4000@1000
 
 # Logitech Wireless Mouse M185
 mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:4008:
@@ -148,13 +183,23 @@ mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:101d:
 mouse:usb:v046dpc046:name:Logitech USB Optical Mouse:
 # Logitech M100 Optical Mouse
 mouse:usb:v046dpc05a:name:Logitech USB Optical Mouse:
+# Logitech USB Laser Mouse M-U0011-O rebranded as "terra Laser"
+mouse:usb:v046dpc065:name:Logitech USB Laser Mouse:
  MOUSE_DPI=1000@125
+
+# Logitech MK260 Wireless Combo Receiver aka M-R0011
+mouse:usb:v046dpc52e:name:Logitech USB Receiver:
+ MOUSE_DPI=1000@200
 
 # Logitech G700 Laser Mouse (Wired)
 mouse:usb:v046dpc06b:name:Logitech G700 Laser Mouse:
 # Logitech G700 Laser Mouse (Wireless)
 mouse:usb:v046dpc531:name:Logitech USB Receiver:
  MOUSE_DPI=*1000@500 3800@500 500@1000 1500@1000 2000@1000
+
+# Logitech USB Laser Mouse M-UAS144 [LS1 Laser Mouse]
+mouse:usb:v046dpc062:name:Logitech USB Laser Mouse:
+ MOUSE_DPI=1200@125
 
 # Logitech T620 (or, the soap)
 mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:4027:
@@ -168,18 +213,41 @@ mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:4026:
 mouse:bluetooth:v046dpb00d:name:Ultrathin Touch Mouse:
  MOUSE_DPI=1000@1000
 
+# ImExPS/2 Logitech Wheel Mouse
+mouse:ps2:*:name:ImExPS/2 Logitech Wheel Mouse:
+ MOUSE_DPI=400@250
+
 ##########################################
 # Microsoft
 ##########################################
+
+# Note: unsure that these work, it's likely that all devices on these
+# receivers show up with the same vid/pid/name
+
+# Microsoft Sculpt Ergonomic Mouse
+mouse:usb:v045ep07a5:name:Microsoft Microsoft® 2.4GHz Transceiver v9.0:
+ MOUSE_DPI=1000@142
 
 # Microsoft Arc Touch Mouse USB
 mouse:usb:v045ep07b1:name:Microsoft Microsoft® Nano Transceiver v1.0:
  MOUSE_DPI=1400@142
 
+# Microsoft  Wireless Laser Mouse 8000
+mouse:bluetooth:v045ep0702:name:Microsoft  Wireless Laser Mouse 8000:
+ MOUSE_DPI=1000@1000
+
 ##########################################
 # Oklick
 ##########################################
 
-# Oklick 406S Bluetooth Laster Mouse
+# Oklick 406S Bluetooth Laser Mouse
 mouse:bluetooth:v056ep0061:name:Laser  BTmouse:
  MOUSE_DPI=*800@333 1600@333
+
+##########################################
+# Razer
+##########################################
+
+# Razer Abyssus
+mouse:usb:v1532p0042:name:Razer Razer Abyssus:
+ MOUSE_DPI=3500@1000
