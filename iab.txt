@@ -1,4 +1,4 @@
-  Generated: Tue, 13 Jan 2015 15:06:13 -0500
+  Generated: Sun, 18 Jan 2015 06:00:02 -0500
 
   OUI     			Organization
   IAB Range    			Organization
