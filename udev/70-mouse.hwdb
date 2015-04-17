@@ -196,6 +196,8 @@ mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:4008:
 mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:101b:
  MOUSE_DPI=800@166
 
+# Logitech G5 Laser Mouse
+mouse:usb:v046dpc049:name:Logitech USB Gaming Mouse:
 # Logitech G500s Laser Gaming Mouse
 mouse:usb:v046dpc24e:name:Logitech G500s Laser Gaming Mouse:
  MOUSE_DPI=400@500 *800@500 2000@500
@@ -248,6 +250,9 @@ mouse:ps2:*:name:ImExPS/2 Logitech Wheel Mouse:
 # Microsoft
 ##########################################
 
+mouse:usb:v045ep0040:name:Microsoft Microsoft 3-Button Mouse with IntelliEye(TM):
+ MOUSE_DPI=400@125
+
 # Note: unsure that these work, it's likely that all devices on these
 # receivers show up with the same vid/pid/name
 
@@ -278,3 +283,12 @@ mouse:bluetooth:v056ep0061:name:Laser  BTmouse:
 # Razer Abyssus
 mouse:usb:v1532p0042:name:Razer Razer Abyssus:
  MOUSE_DPI=3500@1000
+
+##########################################
+# Roccat
+##########################################
+
+# Roccat Lua (ROC-11-310)
+mouse:usb:v1e7dp2c2e:name:ROCCAT ROCCAT Lua:
+ MOUSE_DPI=250@125 500@125 1000@125 1250@125 1500@125 1750@125 2000@125 250@250 500@250 1000@250 1250@250 1500@250 1750@250 2000@250 250@500 500@500 1000@500 1250@500 1500@500 1750@500 2000@500 250@1000 500@1000 *1000@1000 1250@1000 1500@1000 1750@1000 2000@1000
+ MOUSE_WHEEL_CLICK_ANGLE=15
