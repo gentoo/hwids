@@ -1,4 +1,4 @@
-  Generated: Fri, 17 Apr 2015 05:00:03 -0400
+  Generated: Tue, 21 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -82548,6 +82548,12 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  08-74-02   (hex)		Apple, Inc.
+  087402     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   08-74-F6   (hex)		Winterhalter Gastronom GmbH
   0874F6     (base 16)		Winterhalter Gastronom GmbH
   				Tettnanger Straße 72
@@ -87269,6 +87275,12 @@
 				Beijing 100085
 				CHINA
 
+  20-78-F0   (hex)		Apple, Inc.
+  2078F0     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   20-7C-8F   (hex)		Quanta Microsystems,Inc.
   207C8F     (base 16)		Quanta Microsystems,Inc.
   				No.5 Lane 91,Dongmei Rd.
@@ -89060,6 +89072,12 @@
 
   28-EF-01   (hex)		PRIVATE
   28EF01     (base 16)		 
+
+  28-F0-76   (hex)		Apple
+  28F076     (base 16)		Apple
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   28-F3-58   (hex)		2C - Trifonov & Co
   28F358     (base 16)		2C - Trifonov & Co
@@ -93013,6 +93031,12 @@
 				Durban Kwa-zulu Natal 4000
 				SOUTH AFRICA
 
+  40-33-1A   (hex)		Apple, Inc.
+  40331A     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   40-33-6C   (hex)		Godrej & Boyce Mfg. co. ltd
   40336C     (base 16)		Godrej & Boyce Mfg. co. ltd
   				PSS TECH CELL, 2ND FLOOR, PLANT 17, SECURITY SOLUTIONS DIVISION
@@ -93919,6 +93943,13 @@
 				No. 234, ChungLun,
 				HsinChu HsinFun Shiang 304
 				TAIWAN, PROVINCE OF CHINA
+
+  44-5F-8C   (hex)		Intercel Group Limited
+  445F8C     (base 16)		Intercel Group Limited
+  				Unit 6, 17/F, Vanta industrial Centre,
+				21~23 Tai Lin Pai Road, Kwai Chung
+				New Territories, Hong Kong  
+				CHINA
 
   44-61-32   (hex)		ecobee inc
   446132     (base 16)		ecobee inc
@@ -96136,6 +96167,12 @@
   				Cerro Colorado 5240 piso 14
 				Santiago Region Metropolitana 8320000
 				CHILE
+
+  50-7A-55   (hex)		Apple, Inc.
+  507A55     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   50-7D-02   (hex)		BIODIT
   507D02     (base 16)		BIODIT
@@ -103580,6 +103617,13 @@
 				San Rafael California 94901
 				UNITED STATES
 
+  74-F8-DB   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  74F8DB     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  				
+				445 HOES LANE
+				PISCATAWAY NJ 08854
+				UNITED STATES
+
   74-FD-A0   (hex)		Compupal (Group) Corporation
   74FDA0     (base 16)		Compupal (Group) Corporation
   				No.1555 Jiashan Avenue
@@ -103610,6 +103654,13 @@
   				ul. Kruczkowskiego 39
 				Zabrze  41-813
 				POLAND
+
+  78-0C-B8   (hex)		Intel Corporate
+  780CB8     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
 
   78-11-85   (hex)		NBS Payment Solutions Inc.
   781185     (base 16)		NBS Payment Solutions Inc.
@@ -104356,6 +104407,12 @@
 				Bantian,Longgang
 				ShenZhen GuangDong 518129
 				CHINA
+
+  78-D7-5F   (hex)		Apple, Inc.
+  78D75F     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
 
   78-D9-9F   (hex)		NuCom HK Ltd.
   78D99F     (base 16)		NuCom HK Ltd.
@@ -110017,6 +110074,12 @@
 				Bucheon-city Kyunggi-do 420-857
 				KOREA, REPUBLIC OF
 
+  94-F6-A3   (hex)		Apple, Inc.
+  94F6A3     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   94-F7-20   (hex)		Tianjin Deviser Electronics Instrument Co., Ltd
   94F720     (base 16)		Tianjin Deviser Electronics Instrument Co., Ltd
   				No.40 Yibin Road,Nankai district,
@@ -113395,6 +113458,12 @@
 				Chung-Ho City Taipei Hsien 23500
 				TAIWAN, PROVINCE OF CHINA
 
+  A8-74-1D   (hex)		PHOENIX CONTACT Electronics GmbH
+  A8741D     (base 16)		PHOENIX CONTACT Electronics GmbH
+  				Dringenauer Str. 30
+				Bad Pyrmont - D-31812
+				GERMANY
+
   A8-75-D6   (hex)		FreeTek International Co., Ltd.
   A875D6     (base 16)		FreeTek International Co., Ltd.
   				Unit D, 15/F, Tai Ping Ind.Ctr., Blk 2
@@ -116496,6 +116565,13 @@
   B888E3     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD
   				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone, Jiangsu,
 				KUNSHAN SUZHOU 215300
+				CHINA
+
+  B8-89-81   (hex)		Chengdu InnoThings Technology Co., Ltd.
+  B88981     (base 16)		Chengdu InnoThings Technology Co., Ltd.
+  				West Port Technology Enterprise Incubator Park
+				Southwest Airport Economic Development Zone Industrial Concentration Area, Shuangliu Xian, Chengdu
+				Chengdu Sichuan 610000
 				CHINA
 
   B8-89-CA   (hex)		ILJIN ELECTRIC Co., Ltd.
@@ -120684,6 +120760,12 @@
 				Hachioji Tokyo 192-0904
 				JAPAN
 
+  CC-C7-60   (hex)		Apple, Inc.
+  CCC760     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
+				UNITED STATES
+
   CC-C8-D7   (hex)		CIAS Elettronica srl
   CCC8D7     (base 16)		CIAS Elettronica srl
   				Via Giovanni Durando 38
@@ -123088,6 +123170,12 @@
 				Yokohama City Kanagawa 224-8539
 				JAPAN
 
+  D8-B1-90   (hex)		Cisco Systems
+  D8B190     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				San Jose CA 95134
+				UNITED STATES
+
   D8-B3-77   (hex)		HTC Corporation
   D8B377     (base 16)		HTC Corporation
   				No. 23, Xinghua Rd.,
@@ -123583,6 +123671,13 @@
 				KOBE HYOGO 650-0047
 				JAPAN
 
+  DC-53-60   (hex)		Intel Corporate
+  DC5360     (base 16)		Intel Corporate
+  				Lot 8, Jalan Hi-Tech Park 2/3
+				Kulim Hi-Tech Park
+				Kulim Kedah 09000
+				MALAYSIA
+
   DC-53-7C   (hex)		Compal Broadband Networks, Inc.
   DC537C     (base 16)		Compal Broadband Networks, Inc.
   				13F., No.1, Taiyuan 1st St.
@@ -123653,6 +123748,12 @@
   				170 W. TASMAN DRIVE
 				M/S SJA-2
 				SAN JOSE CA 95134-1706
+				UNITED STATES
+
+  DC-7F-A4   (hex)		2Wire
+  DC7FA4     (base 16)		2Wire
+  				1764 Automation Parkway
+				San JOse ca 95131
 				UNITED STATES
 
   DC-82-5B   (hex)		JANUS, spol. s r.o.
@@ -124468,6 +124569,12 @@
   				428 13th Street
 				3rd Floor
 				Oakland CA 94612
+				UNITED STATES
+
+  E0-AC-CB   (hex)		Apple, Inc.
+  E0ACCB     (base 16)		Apple, Inc.
+  				1 Infinite Loop
+				Cupertino CA 95014
 				UNITED STATES
 
   E0-AC-F1   (hex)		Cisco
@@ -127452,6 +127559,12 @@
 				Sunnyvale CA 94089
 				UNITED STATES
 
+  F0-B2-E5   (hex)		Cisco Systems
+  F0B2E5     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				San Jose CA 94568
+				UNITED STATES
+
   F0-B4-29   (hex)		XIAOMI Electronics,CO.,LTD
   F0B429     (base 16)		XIAOMI Electronics,CO.,LTD
   				Xiaomi Building, No.68 Qinghe Middle Street
@@ -128284,6 +128397,12 @@
 				Hong Kong 528133
 				CHINA
 
+  F4-C6-13   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
+  F4C613     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
+  				No. 389, Ningqiao Road, Pudong Jinqiao,Shanghai, P.R.China
+				Shanghai Shanghai 201206
+				CHINA
+
   F4-C6-D7   (hex)		blackned GmbH
   F4C6D7     (base 16)		blackned GmbH
   				Am Hartholz 21
@@ -128799,6 +128918,12 @@
   				1800 South McDowell Blvd.
 				Petaluma CA 94954
 				UNITED STATES
+
+  F8-5B-9C   (hex)		SB SYSTEMS Co.,Ltd
+  F85B9C     (base 16)		SB SYSTEMS Co.,Ltd
+  				2F Ventureforum, 323, Pangyo-ro, Bundang-gu
+				Seongnam-si Gyeonngi-do 453-400
+				KOREA, REPUBLIC OF
 
   F8-5B-C9   (hex)		M-Cube Spa
   F85BC9     (base 16)		M-Cube Spa
