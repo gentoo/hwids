@@ -40,11 +40,14 @@ all: $(ALL_TARGETS-yes)
 
 install: $(INSTALL_TARGETS-yes)
 
+# OUI/IAB: https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
 fetch:
 	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
 	$(Q)curl -z usb.ids -o usb.ids -R http://www.linux-usb.org/usb.ids
-	$(Q)curl -z oui.txt -o oui.txt -R http://standards-oui.ieee.org/oui.txt
-	$(Q)curl -z iab.txt -o iab.txt -R http://standards.ieee.org/develop/regauth/iab/iab.txt
+	$(Q)curl -z oui.txt -o oui.txt -R http://standards-oui.ieee.org/oui/oui.txt
+	$(Q)curl -z ma-medium.txt -o ma-medium.txt -R http://standards-oui.ieee.org/oui28/mam.txt
+	$(Q)curl -z ma-small.txt -o ma-small.txt -R http://standards-oui.ieee.org/oui36/oui36.txt
+	$(Q)curl -z iab.txt -o iab.txt -R http://standards-oui.ieee.org/iab/iab.txt
 	$(Q)curl -L -z sdio.ids -o sdio.ids -R $(SYSTEMD_SOURCE)/sdio.ids
 	$(Q)curl -L -z udev-hwdb-update.pl -o udev-hwdb-update.pl -R $(SYSTEMD_SOURCE)/ids-update.pl
 	$(Q)for f in $(UDEV_FILES); do curl -L -z udev/$$f -o udev/$$f -R $(SYSTEMD_SOURCE)/$$f; done
