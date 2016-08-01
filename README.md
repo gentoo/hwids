@@ -31,6 +31,17 @@ there are new files available. You can download the tags in form of
 tarballs directly from [the GitHub
 repository](https://github.com/gentoo/hwids).
 
+Bug Reports
+-----------
+
+Errors in the databases (e.g. pci.ids is missing a device, or has the wrong
+info for a device) should be reported to the respective upstream projects.
+We don't maintain changes to these databases for obvious reasons.
+
+If you wish to report a bug about how things are packaged, or make a request
+for updated data, please use the normal Gentoo bug reporting site:
+https://bugs.gentoo.org/
+
 udev
 ----
 
