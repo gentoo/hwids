@@ -42,7 +42,7 @@ install: $(INSTALL_TARGETS-yes)
 
 # OUI/IAB: https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
 fetch:
-	$(Q)curl -z pci.ids -o pci.ids -R https://pci-ids.ucw.cz/v2.2/pci.ids
+	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
 	$(Q)curl -z usb.ids -o usb.ids -R http://www.linux-usb.org/usb.ids
 	$(Q)curl -z oui.txt -o oui.txt -R http://standards-oui.ieee.org/oui/oui.txt
 	$(Q)curl -z ma-medium.txt -o ma-medium.txt -R http://standards-oui.ieee.org/oui28/mam.txt

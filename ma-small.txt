@@ -1994,6 +1994,186 @@ A8E000-A8EFFF     (base 16)		OMESH CITY GROUP
 				Nangjing  Jiangsu  240042
 				CN
 
+70-B3-D5   (hex)		DR.BRIDGE AQUATECH
+779000-779FFF     (base 16)		DR.BRIDGE AQUATECH
+				4F., No.40, Sec. 3, Chengde Rd., Datong Dist.,
+				 Taipei    103
+				TW
+
+70-B3-D5   (hex)		Nable Communications, Inc.
+F5C000-F5CFFF     (base 16)		Nable Communications, Inc.
+				A-dong 702-ho, 660, Daewangpangyo-ro, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13494
+				KR
+
+70-B3-D5   (hex)		Merten GmbH&CoKG
+550000-550FFF     (base 16)		Merten GmbH&CoKG
+				Fritz-Kotz-Str. 8
+				Wiehl  NRW  51674
+				DE
+
+70-B3-D5   (hex)		EFENTO T P SZYDŁOWSKI K ZARĘBA SPÓŁKA JAWNA
+1BB000-1BBFFF     (base 16)		EFENTO T P SZYDŁOWSKI K ZARĘBA SPÓŁKA JAWNA
+				Miodowa 26/3.3
+				Kraków    31-055
+				PL
+
+70-B3-D5   (hex)		XGEM SAS
+498000-498FFF     (base 16)		XGEM SAS
+				9 Rue de la Négresse
+				Biarritz    64200
+				FR
+
+70-B3-D5   (hex)		Xemex NV
+AAA000-AAAFFF     (base 16)		Xemex NV
+				Metropoolstraat 11a
+				Schoten  Antwerp  BE-2900
+				BE
+
+70-B3-D5   (hex)		Lattech Systems Pty Ltd
+197000-197FFF     (base 16)		Lattech Systems Pty Ltd
+				24 Richelieu Street
+				Durbanville  Western Cape  7550
+				ZA
+
+70-B3-D5   (hex)		Asis Pro
+593000-593FFF     (base 16)		Asis Pro
+				27 Shaked st
+				Hevel Modiin Industrial Park    7319900
+				IL
+
+70-B3-D5   (hex)		Instec, Inc.
+22F000-22FFFF     (base 16)		Instec, Inc.
+				5589 Arapahoe Avenue, Ste. 208
+				Boulder  CO  80303
+				US
+
+70-B3-D5   (hex)		EMSCAN Corp. 
+DD8000-DD8FFF     (base 16)		EMSCAN Corp. 
+				1 - 1715 27 ave NE
+				Calgary  Alberta  T2E 7E1
+				CA
+
+70-B3-D5   (hex)		CRDE
+ACD000-ACDFFF     (base 16)		CRDE
+				ZI DES GRANDS CAMPS
+				MERCUES  LOT  46090
+				FR
+
+70-B3-D5   (hex)		MB connect line GmbH Fernwartungssysteme
+BCC000-BCCFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
+				Winnettener Straße 6
+				Dinkelsbuehl  Bavaria  91550
+				DE
+
+70-B3-D5   (hex)		BMT Messtechnik Gmbh
+5D6000-5D6FFF     (base 16)		BMT Messtechnik Gmbh
+				Güterfelder Damm 87-91
+				Stahnsdorf    14532
+				DE
+
+70-B3-D5   (hex)		MyDefence Communication ApS
+3BE000-3BEFFF     (base 16)		MyDefence Communication ApS
+				Sundsholmen 25
+				Noerresundby  Danmark  9400
+				DK
+
+70-B3-D5   (hex)		Shenzhen Rongda Computer Co.,Ltd
+289000-289FFF     (base 16)		Shenzhen Rongda Computer Co.,Ltd
+				Room A616, Aoshida Building, Zhongkang Road, Futian District
+				Shenzhen  Guangdong    518049
+				CN
+
+70-B3-D5   (hex)		DOSADORES ALLTRONIC
+C3E000-C3EFFF     (base 16)		DOSADORES ALLTRONIC
+				RUA VALENTE DE NOVAIS, 270
+				SÃO PAULO  SAO PAULO  08120-420
+				BR
+
+70-B3-D5   (hex)		Unicom Global, Inc.
+9FB000-9FBFFF     (base 16)		Unicom Global, Inc.
+				581, Ruiguang Road, Neihu Dist.
+				Taipei    11492
+				TW
+
+70-B3-D5   (hex)		INFO CREATIVE (HK) LTD
+24D000-24DFFF     (base 16)		INFO CREATIVE (HK) LTD
+				44A 12/F,LUENTAK BLD.,JORDAN RD.,KOWLOON
+				HONGKONG    999077
+				HK
+
+70-B3-D5   (hex)		Beijing DamingWuzhou Science&Technology Co., Ltd.
+A36000-A36FFF     (base 16)		Beijing DamingWuzhou Science&Technology Co., Ltd.
+				8001,8 Floor,Building C,KanjianBaoshen Square,Haidian District
+				Beijing    100192
+				CN
+
+70-B3-D5   (hex)		Asymmetric Technologies
+9F8000-9F8FFF     (base 16)		Asymmetric Technologies
+				1395 Grandview Avenue, Suite 3
+				Columbus  OH  43212
+				US
+
+70-B3-D5   (hex)		exceet electronics GesmbH
+A85000-A85FFF     (base 16)		exceet electronics GesmbH
+				Wildbichlerstraße 2e
+				Ebbs  Austria  6341
+				AT
+
+70-B3-D5   (hex)		ATOM GIKEN Co.,Ltd.
+AC5000-AC5FFF     (base 16)		ATOM GIKEN Co.,Ltd.
+				92-2 KATASE
+				FUJISAWA  KANAGAWA  251-0032
+				JP
+
+70-B3-D5   (hex)		DUVAL MESSIEN
+F07000-F07FFF     (base 16)		DUVAL MESSIEN
+				30 RUE DE LA VARENNE
+				ST MAUR DES FOSSES    94100
+				FR
+
+70-B3-D5   (hex)		Invertek Drives Ltd
+939000-939FFF     (base 16)		Invertek Drives Ltd
+				Offa's Dyke Business Park 
+				Welshpool  Powys  SY21 8JF
+				GB
+
+70-B3-D5   (hex)		Code Blue Corporation 
+6D0000-6D0FFF     (base 16)		Code Blue Corporation 
+				259 Hedcor Street
+				Holland  MI  49423
+				US
+
+70-B3-D5   (hex)		Proterra
+2C3000-2C3FFF     (base 16)		Proterra
+				1 Whitlee Ct
+				Greenville  SC  29607
+				US
+
+70-B3-D5   (hex)		Smith Meter, Inc.
+816000-816FFF     (base 16)		Smith Meter, Inc.
+				1602 Wagner Ave.
+				Erie  PA  16514
+				US
+
+70-B3-D5   (hex)		Altron, a.s.
+693000-693FFF     (base 16)		Altron, a.s.
+				Novodvorska 994/138
+				Praha    14221
+				CZ
+
+70-B3-D5   (hex)		Supracon AG
+5D3000-5D3FFF     (base 16)		Supracon AG
+				An der Lehmgrube 11
+				Jena  Thüringen  07751
+				DE
+
+70-B3-D5   (hex)		Opgal Optronic Industries
+2AD000-2ADFFF     (base 16)		Opgal Optronic Industries
+				Hanapach 21
+				Carmiel    2161401
+				IL
+
 70-B3-D5   (hex)		Flintab AB
 D60000-D60FFF     (base 16)		Flintab AB
 				Kabelvägen 4
@@ -2074,12 +2254,6 @@ AE0000-AE0FFF     (base 16)		AnyComm.Co.,Ltd.
 				4F Kojimachi Shimira Bldg., 4-1-5 Kojimachi
 				Chiyoda-ku  TOKYO  1020083
 				JP
-
-70-B3-D5   (hex)		Texka Labs
-11D000-11DFFF     (base 16)		Texka Labs
-				Moravska 552
-				Mikulcice  Hodonin  69619
-				CZ
 
 70-B3-D5   (hex)		WyreStorm Technologies Ltd
 D5A000-D5AFFF     (base 16)		WyreStorm Technologies Ltd
@@ -3614,6 +3788,126 @@ A10000-A10FFF     (base 16)		w-tec AG
 				Boulder  CO  80301
 				US
 
+70-B3-D5   (hex)		Vocality International Ltd
+10C000-10CFFF     (base 16)		Vocality International Ltd
+				Lydling Barn
+				Guildford  Surrey  GU86AP
+				GB
+
+70-B3-D5   (hex)		LOGIX ITS Inc
+B7D000-B7DFFF     (base 16)		LOGIX ITS Inc
+				990 upton
+				lasalle  Quebec  h8r2t9
+				CA
+
+70-B3-D5   (hex)		Energi innovation Aps
+307000-307FFF     (base 16)		Energi innovation Aps
+				HC andersens alle 3
+				Vejen  Danmark  6600
+				DK
+
+70-B3-D5   (hex)		Ideas srl
+9FA000-9FAFFF     (base 16)		Ideas srl
+				Via dei Brughi, 21
+				Gessate  Milan  20060
+				IT
+
+70-B3-D5   (hex)		swissled technologies AG
+649000-649FFF     (base 16)		swissled technologies AG
+				chemin des chalets 7
+				chavannes de bogis    1279
+				CH
+
+70-B3-D5   (hex)		SYSDEV Srl
+C0E000-C0EFFF     (base 16)		SYSDEV Srl
+				via Lamarmora 16
+				Torino  TO  10128
+				IT
+
+70-B3-D5   (hex)		SOLVERIS sp. z o.o.
+4C7000-4C7FFF     (base 16)		SOLVERIS sp. z o.o.
+				Majdan Krasieniński 16A
+				Niemce  lubelskie  21-025
+				PL
+
+70-B3-D5   (hex)		Potter Electric Signal Co. LLC
+7A4000-7A4FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood    63042
+				US
+
+70-B3-D5   (hex)		Woodam Co., Ltd.
+C86000-C86FFF     (base 16)		Woodam Co., Ltd.
+				Na 555, EZEN Mecha zone, 117 Hwanggeum-ro, Yangchon-eup
+				Gimpo  Gyeonggi-do  10048
+				KR
+
+70-B3-D5   (hex)		AndFun Co.,Ltd.
+BE8000-BE8FFF     (base 16)		AndFun Co.,Ltd.
+				5972-2 Ohkusa
+				Komaki  Aichi  4850802
+				JP
+
+70-B3-D5   (hex)		TD ECOPHISIKA
+27A000-27AFFF     (base 16)		TD ECOPHISIKA
+				Vernadskogo,77
+				Moscow    119415
+				RU
+
+70-B3-D5   (hex)		Assembly Contracts Limited
+54F000-54FFFF     (base 16)		Assembly Contracts Limited
+				Ledson Road
+				Wythenshawe  Manchester  M23 9GP
+				GB
+
+70-B3-D5   (hex)		Infosocket Co., Ltd.
+C0A000-C0AFFF     (base 16)		Infosocket Co., Ltd.
+				1-6-1-303
+				Musashino  Tokyo  180-0005
+				JP
+
+70-B3-D5   (hex)		SANO SERVICE Co.,Ltd
+D95000-D95FFF     (base 16)		SANO SERVICE Co.,Ltd
+				2-10-3 Sotokanda Chiyoda-ku
+				Tokyo    1010021
+				JP
+
+70-B3-D5   (hex)		New Imaging Technologies
+2AC000-2ACFFF     (base 16)		New Imaging Technologies
+				1 impasse de la noisette, Bâtiment D, BP 426
+				Verrières le buisson  Essonne  91370
+				FR
+
+70-B3-D5   (hex)		TSAT AS
+0D3000-0D3FFF     (base 16)		TSAT AS
+				Martin Linges v 25
+				Fornebu    1364
+				NO
+
+70-B3-D5   (hex)		GBS COMMUNICATIONS, LLC
+A89000-A89FFF     (base 16)		GBS COMMUNICATIONS, LLC
+				10773 NW 58TH STREET, STE 712
+				DORAL  FL  33178
+				US
+
+70-B3-D5   (hex)		Applied Materials
+7E1000-7E1FFF     (base 16)		Applied Materials
+				35 Dory Rd
+				Gloucester  MA  01930
+				US
+
+70-B3-D5   (hex)		Husty M.Styczen J.Hupert Sp.J.
+54C000-54CFFF     (base 16)		Husty M.Styczen J.Hupert Sp.J.
+				Rzepakowa 5e
+				Krakow  malopolska  31-989
+				PL
+
+70-B3-D5   (hex)		FIBERNET LTD
+041000-041FFF     (base 16)		FIBERNET LTD
+				9 Hakidma st. Hi-Tech City Park,
+				Yokneam  Non-US/Canada  2069206
+				IL
+
 70-B3-D5   (hex)		Nuviz Oy
 AAE000-AAEFFF     (base 16)		Nuviz Oy
 				Joensuunkatu 7
@@ -3794,59 +4088,179 @@ B9E000-B9EFFF     (base 16)		POLSYSTEM SI SP. Z O.O., S.K.A.
 				Verona    37139
 				IT
 
-70-B3-D5   (hex)		Vocality International Ltd
-10C000-10CFFF     (base 16)		Vocality International Ltd
-				Lydling Barn
-				Guildford  Surrey  GU86AP
+70-B3-D5   (hex)		DISMUNTEL, S.A.
+E8F000-E8FFFF     (base 16)		DISMUNTEL, S.A.
+				P.I Cotes c/aiguaders, 15
+				Valencia  Algemesi  46680
+				ES
+
+70-B3-D5   (hex)		Medisafe International
+7B0000-7B0FFF     (base 16)		Medisafe International
+				Twyford Road
+				Bishops Stortford  Hertfordshire  CM23 3LJ
 				GB
 
-70-B3-D5   (hex)		LOGIX ITS Inc
-B7D000-B7DFFF     (base 16)		LOGIX ITS Inc
-				990 upton
-				lasalle  Quebec  h8r2t9
-				CA
+70-B3-D5   (hex)		COMTECH Kft.
+09F000-09FFFF     (base 16)		COMTECH Kft.
+				Torok Ignac u. 66.
+				Gyor  Gyor-Moson-Sopron  9028
+				HU
 
-70-B3-D5   (hex)		Energi innovation Aps
-307000-307FFF     (base 16)		Energi innovation Aps
-				HC andersens alle 3
-				Vejen  Danmark  6600
-				DK
-
-70-B3-D5   (hex)		Ideas srl
-9FA000-9FAFFF     (base 16)		Ideas srl
-				Via dei Brughi, 21
-				Gessate  Milan  20060
-				IT
-
-70-B3-D5   (hex)		swissled technologies AG
-649000-649FFF     (base 16)		swissled technologies AG
-				chemin des chalets 7
-				chavannes de bogis    1279
-				CH
-
-70-B3-D5   (hex)		SYSDEV Srl
-C0E000-C0EFFF     (base 16)		SYSDEV Srl
-				via Lamarmora 16
-				Torino  TO  10128
-				IT
-
-70-B3-D5   (hex)		SOLVERIS sp. z o.o.
-4C7000-4C7FFF     (base 16)		SOLVERIS sp. z o.o.
-				Majdan Krasieniński 16A
-				Niemce  lubelskie  21-025
-				PL
-
-70-B3-D5   (hex)		Potter Electric Signal Co. LLC
-7A4000-7A4FFF     (base 16)		Potter Electric Signal Co. LLC
-				1609 Park 370 Place
-				Hazelwood    63042
+70-B3-D5   (hex)		HolidayCoro
+009000-009FFF     (base 16)		HolidayCoro
+				27719 Nelson St
+				Spring  TX  77373
 				US
 
-70-B3-D5   (hex)		Woodam Co., Ltd.
-C86000-C86FFF     (base 16)		Woodam Co., Ltd.
-				Na 555, EZEN Mecha zone, 117 Hwanggeum-ro, Yangchon-eup
-				Gimpo  Gyeonggi-do  10048
+70-B3-D5   (hex)		OSR R&D ISRAEL LTD
+AB0000-AB0FFF     (base 16)		OSR R&D ISRAEL LTD
+				24 Magshimim St
+				Petah-Tikva    4934833
+				IL
+
+70-B3-D5   (hex)		Iotopia Solutions
+317000-317FFF     (base 16)		Iotopia Solutions
+				711 Atlantic Ave
+				Boston  MA  02111
+				US
+
+70-B3-D5   (hex)		Euklis by GSG International
+D32000-D32FFF     (base 16)		Euklis by GSG International
+				via Colombo 23
+				Trezzano sul Naviglio  MI  20090
+				IT
+
+70-B3-D5   (hex)		PTYPE Co., LTD.
+6B0000-6B0FFF     (base 16)		PTYPE Co., LTD.
+				B121, B-dong, Keumkang Penterium IT Tower, 810, Gwanyand 2-dong, Dongan-gu
+				Anyang-si  Gyeonggi-do  14056
 				KR
+
+70-B3-D5   (hex)		comtime GmbH
+1E9000-1E9FFF     (base 16)		comtime GmbH
+				Gutenbergring 22
+				Norderstedt    22848
+				DE
+
+70-B3-D5   (hex)		eeas gmbh
+86C000-86CFFF     (base 16)		eeas gmbh
+				Bachstrasse 44
+				Schwertberg    4311
+				AT
+
+70-B3-D5   (hex)		Vigilate srl
+B0C000-B0CFFF     (base 16)		Vigilate srl
+				Via Napoleonica, 6
+				Rezzato  BS  25086
+				IT
+
+70-B3-D5   (hex)		CODEC Co., Ltd.
+B37000-B37FFF     (base 16)		CODEC Co., Ltd.
+				1-29-18 Tamagawa
+				Choufu-shi  Tokyo  182-0025
+				JP
+
+70-B3-D5   (hex)		VAPE RAIL INTERNATIONAL
+597000-597FFF     (base 16)		VAPE RAIL INTERNATIONAL
+				9 RUE DES NOISETIERS
+				MONTREAL LA CLUSE    01460
+				FR
+
+70-B3-D5   (hex)		REO AG
+850000-850FFF     (base 16)		REO AG
+				Brühlerstr. 100
+				Solingen    42657
+				DE
+
+70-B3-D5   (hex)		APG Cash Drawer, LLC
+37A000-37AFFF     (base 16)		APG Cash Drawer, LLC
+				5250 Industrial Blvd NE
+				Minneapolis  MN  55421
+				US
+
+70-B3-D5   (hex)		CISTECH Solutions
+C3D000-C3DFFF     (base 16)		CISTECH Solutions
+				170 JAMES ST
+				TOOWOOMBA  QLD  4350
+				AU
+
+70-B3-D5   (hex)		IOOOTA Srl
+F8B000-F8BFFF     (base 16)		IOOOTA Srl
+				Via Molino Rosso, 8
+				Imola  BO  40026
+				IT
+
+70-B3-D5   (hex)		Grupo Epelsa S.L.
+2EC000-2ECFFF     (base 16)		Grupo Epelsa S.L.
+				C/ Punto Net,3
+				Alcala de Henares  Madrid  28805
+				ES
+
+70-B3-D5   (hex)		Trinity College Dublin
+99E000-99EFFF     (base 16)		Trinity College Dublin
+				Dunlop Oriel House, Fenian Street
+				Dublin 2    2
+				IE
+
+70-B3-D5   (hex)		EarTex
+462000-462FFF     (base 16)		EarTex
+				Flat 11 Princes Park Apartments South,, 52 Prince Of Wales Road
+				London  England  NW5 3LN
+				GB
+
+70-B3-D5   (hex)		Agilack
+4CE000-4CEFFF     (base 16)		Agilack
+				12 avenue Jules Verne
+				Saint Sebastien sur loire    44230
+				FR
+
+70-B3-D5   (hex)		VITEC
+F17000-F17FFF     (base 16)		VITEC
+				99 rue pierre sémard
+				Chatillon  France  92320
+				FR
+
+70-B3-D5   (hex)		Dakton Microlabs LLC
+11D000-11DFFF     (base 16)		Dakton Microlabs LLC
+				520 Brickell Key Drive, A-1811
+				Miami  FL  33131
+				US
+
+70-B3-D5   (hex)		Meridian Technologies Inc
+924000-924FFF     (base 16)		Meridian Technologies Inc
+				700 Elmont Rd
+				Elmont  NY  11003
+				US
+
+70-B3-D5   (hex)		QUERCUS TECHNOLOGIES, S.L.
+03D000-03DFFF     (base 16)		QUERCUS TECHNOLOGIES, S.L.
+				Av. Onze de Setembre 19
+				Reus  Tarragona  43203
+				ES
+
+70-B3-D5   (hex)		Canam Technology, Inc.
+B97000-B97FFF     (base 16)		Canam Technology, Inc.
+				5318 East 2nd. St, #700
+				Long Beach  CA  90803
+				US
+
+70-B3-D5   (hex)		Globalcom Engineering SPA
+352000-352FFF     (base 16)		Globalcom Engineering SPA
+				Via Volta 39
+				CARDANO AL CAMPO  VA  21010
+				IT
+
+70-B3-D5   (hex)		KST technology
+7F4000-7F4FFF     (base 16)		KST technology
+				164-1, KST b/d., Bangi-dong, songpa-gu
+				SEOUL  N/A  138-050
+				KR
+
+70-B3-D5   (hex)		Henri Systems Holland bv
+122000-122FFF     (base 16)		Henri Systems Holland bv
+				Scheepmalersstraat 33
+				Zwijndrecht  ZH  3334 KG
+				NL
 
 70-B3-D5   (hex)		Schildknecht AG
 494000-494FFF     (base 16)		Schildknecht AG
@@ -5702,6 +6116,258 @@ A33000-A33FFF     (base 16)		TIAMA
 				VOURLES     69390 
 				FR
 
+70-B3-D5   (hex)		Qualitronix Madrass Pvt Ltd
+A19000-A19FFF     (base 16)		Qualitronix Madrass Pvt Ltd
+				No112, Tiny Sector, Guindy Industrial Estate, 
+				Chennai  TamilNadu  600032
+				IN
+
+70-B3-D5   (hex)		Littlemore Scientific
+F81000-F81FFF     (base 16)		Littlemore Scientific
+				Gutchpool Farm
+				Gillingham  Dorset  SP8 5QP
+				GB
+
+70-B3-D5   (hex)		Orbit International
+B3F000-B3FFFF     (base 16)		Orbit International
+				80 Cabot Ct
+				Hauppauge  NY  11788
+				US
+
+70-B3-D5   (hex)		Technica Engineering GmbH
+28D000-28DFFF     (base 16)		Technica Engineering GmbH
+				Leopoldstraße 236
+				Munich    80807
+				DE
+
+70-B3-D5   (hex)		Sakura Seiki Co.,Ltd.
+B62000-B62FFF     (base 16)		Sakura Seiki Co.,Ltd.
+				75-5, Imojiya
+				Chikuma-city  Nagano Prefecture  387-0015
+				JP
+
+70-B3-D5   (hex)		Netberg
+CCF000-CCFFFF     (base 16)		Netberg
+				2F-1 No.36, Park St., Nangang District
+				Taipei    11560
+				TW
+
+70-B3-D5   (hex)		Inova Design Solutions Ltd
+131000-131FFF     (base 16)		Inova Design Solutions Ltd
+				40 Occam Road
+				Guildford  SURREY  GU2 7YG
+				GB
+
+70-B3-D5   (hex)		AXIS CORPORATION
+987000-987FFF     (base 16)		AXIS CORPORATION
+				Higashi Tokorozawa 2-24-5
+				Tokorozawa-shi  Saitama  359-0021
+				JP
+
+70-B3-D5   (hex)		Active Brains
+2BA000-2BAFFF     (base 16)		Active Brains
+				30-5 Tsuruyacyou 3 Kanagawaku
+				Yokohama  Kanagawa  221-0835
+				JP
+
+70-B3-D5   (hex)		Innominds Software Inc
+0CE000-0CEFFF     (base 16)		Innominds Software Inc
+				2055 Junction Ave Suite 122, San Jose CA 95131
+				San Jose  CA  95131
+				US
+
+70-B3-D5   (hex)		ATX Networks Corp
+644000-644FFF     (base 16)		ATX Networks Corp
+				1-501 Clements Road West
+				Ajax  Ontario  L1s7H4
+				CA
+
+70-B3-D5   (hex)		Private
+376000-376FFF     (base 16)		Private
+
+70-B3-D5   (hex)		Centuryarks Ltd.,
+52C000-52CFFF     (base 16)		Centuryarks Ltd.,
+				 3-13-1,Nishiazabu
+				Minato-ku  Tokyo  106-0031
+				JP
+
+70-B3-D5   (hex)		DWEWOONG ELECTRIC Co., Ltd.
+BC2000-BC2FFF     (base 16)		DWEWOONG ELECTRIC Co., Ltd.
+				10, Hwanggeum-ro 127beon-gil Yangchon-eup
+				Gimpo-si  Gyeonggi-do  10048
+				KR
+
+70-B3-D5   (hex)		ELECTRONIC SYSTEMS DESIGN SPRL
+DFC000-DFCFFF     (base 16)		ELECTRONIC SYSTEMS DESIGN SPRL
+				Rue de l'Etang 40
+				Waterloo    1410
+				BE
+
+70-B3-D5   (hex)		Megaflex Oy
+7E5000-7E5FFF     (base 16)		Megaflex Oy
+				Nuijamiestentie 3 c 1
+				Helsinki  Select State  00400
+				FI
+
+70-B3-D5   (hex)		Itest communication Tech Co., LTD
+503000-503FFF     (base 16)		Itest communication Tech Co., LTD
+				F2,#2,2nd Southern IND Zone of HongHualing,Nanshan District
+				shenzhen  guangdong  518000
+				CN
+
+70-B3-D5   (hex)		George Wilson Industries Ltd
+48A000-48AFFF     (base 16)		George Wilson Industries Ltd
+				Barlow Road, Aldermans Green Industrial Estate
+				Coventry  West Midlands  CV2 2LD
+				GB
+
+70-B3-D5   (hex)		Delta Solutions LLC
+0E5000-0E5FFF     (base 16)		Delta Solutions LLC
+				Kolokolnikov per., 22, building 5
+				Moscow    107045
+				RU
+
+70-B3-D5   (hex)		Novathings
+81E000-81EFFF     (base 16)		Novathings
+				100 Impasse des houilleres
+				MEYREUIL    13590
+				FR
+
+70-B3-D5   (hex)		Dream I System Co., Ltd
+04B000-04BFFF     (base 16)		Dream I System Co., Ltd
+				#510, 298, Beotkkot-ro, Ceumcheon-gu
+				Seoul    08510
+				KR
+
+70-B3-D5   (hex)		HAXE SYSTEME
+49A000-49AFFF     (base 16)		HAXE SYSTEME
+				1, rue de Lorraine
+				La Chapelle sur Erdre  Pays de la Loire  44240
+				FR
+
+70-B3-D5   (hex)		Pivothead
+63C000-63CFFF     (base 16)		Pivothead
+				1224 Speer Blvd. 
+				Denver  CO  80204
+				US
+
+70-B3-D5   (hex)		RF Code
+ADB000-ADBFFF     (base 16)		RF Code
+				2600 Longhorn Blvd. ste 111
+				Austin    78758
+				US
+
+70-B3-D5   (hex)		Revolution Retail Systems, LLC
+B53000-B53FFF     (base 16)		Revolution Retail Systems, LLC
+				1840 Hutton Drive Ste 130
+				Carrollton  TX  75006
+				US
+
+70-B3-D5   (hex)		BirdDog Australia
+C7E000-C7EFFF     (base 16)		BirdDog Australia
+				Unit 1, 8 Theobald St
+				THORNBURY  VIC  3071
+				AU
+
+70-B3-D5   (hex)		GMI Ltd
+F03000-F03FFF     (base 16)		GMI Ltd
+				Inchinnan Business Park
+				Renfre    PA4 9RG
+				GB
+
+70-B3-D5   (hex)		F-domain corporation
+8C2000-8C2FFF     (base 16)		F-domain corporation
+				157 Nakayashiki Sobue town
+				Inazawa city   Aichi pref.  495-0001
+				JP
+
+70-B3-D5   (hex)		Private
+6CF000-6CFFFF     (base 16)		Private
+
+70-B3-D5   (hex)		NuRi&G Engineering co,.Ltd.
+72C000-72CFFF     (base 16)		NuRi&G Engineering co,.Ltd.
+				#66-33, Elevator road, Geochang Industrial Complex
+				Geochang-gun  Gyeongsangnam-do  50148
+				KR
+
+70-B3-D5   (hex)		Swiss Audio
+735000-735FFF     (base 16)		Swiss Audio
+				6 Rue de Saint-Léger
+				Geneva  Geneva  1205
+				CH
+
+70-B3-D5   (hex)		ModuSystems, Inc
+260000-260FFF     (base 16)		ModuSystems, Inc
+				780 Montague Expressway Suite 203
+				San Jose  CA  95131
+				US
+
+70-B3-D5   (hex)		CMI, Inc.
+4EF000-4EFFFF     (base 16)		CMI, Inc.
+				316 East 9th Street
+				Owensboro  KY  42303
+				US
+
+70-B3-D5   (hex)		Beijing Wisetone Information Technology Co.,Ltd.
+C12000-C12FFF     (base 16)		Beijing Wisetone Information Technology Co.,Ltd.
+				B-7A ,48A Zhichun Road,Haidian District,Beijing
+				Beijing  Beijing  100098
+				CN
+
+70-B3-D5   (hex)		The Institute of Mine Seismology
+930000-930FFF     (base 16)		The Institute of Mine Seismology
+				175 Tinderbox Road
+				Tinderbox, Hobart  Tasmania  7054
+				AU
+
+70-B3-D5   (hex)		Birket Engineering
+188000-188FFF     (base 16)		Birket Engineering
+				162 W Plant St
+				Winter Garden  FL  34787
+				US
+
+70-B3-D5   (hex)		Grossenbacher Systeme AG
+5E2000-5E2FFF     (base 16)		Grossenbacher Systeme AG
+				Spinnereistrasse 10
+				St. Gallen    9008
+				CH
+
+70-B3-D5   (hex)		DEUTA-WERKE GmbH
+25A000-25AFFF     (base 16)		DEUTA-WERKE GmbH
+				Paffrather Str. 140
+				Bergisch Gladbach  North Rhine-Westphalia  51465
+				DE
+
+70-B3-D5   (hex)		NimbeLink Corp
+16F000-16FFFF     (base 16)		NimbeLink Corp
+				3131 Fernbrook LN N, STE 100
+				Plymouth    55447
+				US
+
+70-B3-D5   (hex)		Schneider Displaytechnik GmbH
+9C0000-9C0FFF     (base 16)		Schneider Displaytechnik GmbH
+				Tegelweg, 14
+				Paderborn    33102
+				DE
+
+70-B3-D5   (hex)		JSC Kaluga Astral
+E98000-E98FFF     (base 16)		JSC Kaluga Astral
+				Tsyolkovsky 4
+				Kaluga  Kaluga  248000
+				RU
+
+70-B3-D5   (hex)		Slot3 GmbH
+443000-443FFF     (base 16)		Slot3 GmbH
+				Am Brambusch 22
+				Luenen  Germany  44536
+				DE
+
+70-B3-D5   (hex)		eleven-x
+149000-149FFF     (base 16)		eleven-x
+				295 Hagey Blvd
+				Waterloo  Ontario  N2L 6R5
+				CA
+
 70-B3-D5   (hex)		Innitive B.V.
 66B000-66BFFF     (base 16)		Innitive B.V.
 				Brouwerijstraat 20
@@ -7238,120 +7904,6 @@ A96000-A96FFF     (base 16)		Östling Marking Systems GmbH
 				Livermore  CA  94551
 				US
 
-70-B3-D5   (hex)		Project H Pty Ltd
-114000-114FFF     (base 16)		Project H Pty Ltd
-				168 Abbotts Rd
-				Glen Innes  NSW  2370
-				AU
-
-70-B3-D5   (hex)		Aplex Technology Inc.
-906000-906FFF     (base 16)		Aplex Technology Inc.
-				2nd Floor,Tower3,District5,HongHuaLing industrial park,  Nanshan District
-				Shenzhen  Guangdong  518055
-				CN
-
-70-B3-D5   (hex)		Rohde&Schwarz Topex SA
-243000-243FFF     (base 16)		Rohde&Schwarz Topex SA
-				71th-73th Nicolae Caramfil street, 2nd floor, 1th district
-				Bucuresti  Romania  014142
-				RO
-
-70-B3-D5   (hex)		IEEE Registration Authority
-9F3000-9F3FFF     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-70-B3-D5   (hex)		SensoTec GmbH
-AAC000-AACFFF     (base 16)		SensoTec GmbH
-				Hinter dem Turme 15
-				Braunschweig    38114
-				DE
-
-70-B3-D5   (hex)		Krabbenhøft og Ingolfsson
-F9A000-F9AFFF     (base 16)		Krabbenhøft og Ingolfsson
-				Thorsgade 59, 4. tv.
-				København N  Danmark  2200
-				DK
-
-70-B3-D5   (hex)		SLAT
-349000-349FFF     (base 16)		SLAT
-				11 Rue Jean-Elysée DUPUY
-				Champagne au Mont d'Or  Rhône  69543
-				FR
-
-70-B3-D5   (hex)		FoodALYT GmbH
-D91000-D91FFF     (base 16)		FoodALYT GmbH
-				Robert-Hooke-Str.8
-				Bremen  Bremen  28359
-				DE
-
-70-B3-D5   (hex)		Exicom Technologies fze
-3AE000-3AEFFF     (base 16)		Exicom Technologies fze
-				Technology park , P.O.box 327792
-				Ras Al Khaimah FTZ  Ras Al Khaimah   327792
-				AE
-
-70-B3-D5   (hex)		Excel Medical Electronics LLC
-7DD000-7DDFFF     (base 16)		Excel Medical Electronics LLC
-				801 Maplewood Dr.
-				Jupiter    33458
-				US
-
-70-B3-D5   (hex)		SiS Technology
-E71000-E71FFF     (base 16)		SiS Technology
-				Business Park Varna, building B1, floor 4
-				Varna    9000
-				BG
-
-70-B3-D5   (hex)		PARK24
-EA0000-EA0FFF     (base 16)		PARK24
-				48 rue René CLAIR
-				PARIS    75018
-				FR
-
-70-B3-D5   (hex)		Colmek
-D05000-D05FFF     (base 16)		Colmek
-				6526 S Cottonwood St
-				Murray  UT  84107
-				US
-
-70-B3-D5   (hex)		Acacia Research
-BF5000-BF5FFF     (base 16)		Acacia Research
-				5 Butler Drive
-				HENDON  South Australia  5014
-				AU
-
-70-B3-D5   (hex)		Pycom Ltd
-499000-499FFF     (base 16)		Pycom Ltd
-				57 Avenue Road
-				Cranleigh  Surrey  GU6 7LJ
-				GB
-
-70-B3-D5   (hex)		Hildebrand Technology Limited
-21E000-21EFFF     (base 16)		Hildebrand Technology Limited
-				16 Mortimer Street
-				London  London  W1T 3JL
-				GB
-
-70-B3-D5   (hex)		ALPHA　Corporation
-D67000-D67FFF     (base 16)		ALPHA　Corporation
-				1-6-8 Fukuura, 
-				Yokohama City, Kanazawa-ku,   Kanagawa  236-0004
-				JP
-
-70-B3-D5   (hex)		AE Van de Vliet BVBA
-C4F000-C4FFFF     (base 16)		AE Van de Vliet BVBA
-				INDUSTRIEDIJK 14
-				TURNHOUT  ANTWERPEN  2300
-				BE
-
-70-B3-D5   (hex)		SolwayTech
-BD9000-BD9FFF     (base 16)		SolwayTech
-				124, Jungdae-ro, Songpa-gu
-				seoul    05829
-				KR
-
 70-B3-D5   (hex)		Kratos Analytical Ltd
 8DB000-8DBFFF     (base 16)		Kratos Analytical Ltd
 				Trafford Wharf Road
@@ -7508,11 +8060,380 @@ CE5000-CE5FFF     (base 16)		GridBridge Inc
 				New Taipei City  Taiwan,(R.O.C)  24159
 				TW
 
+70-B3-D5   (hex)		Netfort Solutions
+EDB000-EDBFFF     (base 16)		Netfort Solutions
+				10 Hamlin Manor,, GLENLUCE DRIVE,
+				Douglasdale  Johannesburg  2191
+				ZA
+
+70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau GmbH
+CD9000-CD9FFF     (base 16)		Peter Huber Kaeltemaschinenbau GmbH
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
+
+70-B3-D5   (hex)		Private
+1D7000-1D7FFF     (base 16)		Private
+
+70-B3-D5   (hex)		Atonarp Micro-Systems India Pvt. Ltd.
+976000-976FFF     (base 16)		Atonarp Micro-Systems India Pvt. Ltd.
+				The Millenia, Tower A, 3rd Floor, No. 1&2 Murphy Road – Ulsoor, 
+				Bangalore  Karnataka  560008
+				IN
+
+70-B3-D5   (hex)		Aquavision Distribution Ltd
+0DA000-0DAFFF     (base 16)		Aquavision Distribution Ltd
+				unit 7 Riverpark, Billet Lane
+				Berkhamsted  Hertfordshire  HP4 1HL
+				GB
+
+70-B3-D5   (hex)		DCNS
+989000-989FFF     (base 16)		DCNS
+				40-42 Rue du docteur Finlay
+				PARIS CEDEX 15    75732
+				FR
+
+70-B3-D5   (hex)		Alpiq InTec Management AG
+833000-833FFF     (base 16)		Alpiq InTec Management AG
+				Hohlstrasse 188
+				Zürich     8004
+				CH
+
+70-B3-D5   (hex)		COSMOS web Co., Ltd.
+3E8000-3E8FFF     (base 16)		COSMOS web Co., Ltd.
+				5-4-1 Kuryu Aoba-ku
+				Sendai-shi  Miyagi  989-3122
+				JP
+
+70-B3-D5   (hex)		BISTOS.,Co.,Ltd
+97F000-97FFFF     (base 16)		BISTOS.,Co.,Ltd
+				7th Fl., A Bldg., Woolim Lions Valley 5-cha, 144-3, Sangdaewon-dong, Jungwon-gu
+				Seongnam-si  Gyeonggi-do  462-739
+				KR
+
+70-B3-D5   (hex)		FOSHAN SHILANTIAN NETWORK S.T. CO., LTD.
+C5D000-C5DFFF     (base 16)		FOSHAN SHILANTIAN NETWORK S.T. CO., LTD.
+				NO.11,ZHANGCHA ROAD,CHANCHENG DISTRICT
+				FOSHAN  GUANGDONG  528000
+				CN
+
+70-B3-D5   (hex)		S-I-C
+73B000-73BFFF     (base 16)		S-I-C
+				Schornbacher Weg 37-8
+				Schorndorf  BW  73614
+				DE
+
+70-B3-D5   (hex)		Project H Pty Ltd
+114000-114FFF     (base 16)		Project H Pty Ltd
+				168 Abbotts Rd
+				Glen Innes  NSW  2370
+				AU
+
+70-B3-D5   (hex)		Aplex Technology Inc.
+906000-906FFF     (base 16)		Aplex Technology Inc.
+				2nd Floor,Tower3,District5,HongHuaLing industrial park,  Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+70-B3-D5   (hex)		Rohde&Schwarz Topex SA
+243000-243FFF     (base 16)		Rohde&Schwarz Topex SA
+				71th-73th Nicolae Caramfil street, 2nd floor, 1th district
+				Bucuresti  Romania  014142
+				RO
+
+70-B3-D5   (hex)		IEEE Registration Authority
+9F3000-9F3FFF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+70-B3-D5   (hex)		SensoTec GmbH
+AAC000-AACFFF     (base 16)		SensoTec GmbH
+				Hinter dem Turme 15
+				Braunschweig    38114
+				DE
+
+70-B3-D5   (hex)		Krabbenhøft og Ingolfsson
+F9A000-F9AFFF     (base 16)		Krabbenhøft og Ingolfsson
+				Thorsgade 59, 4. tv.
+				København N  Danmark  2200
+				DK
+
+70-B3-D5   (hex)		SLAT
+349000-349FFF     (base 16)		SLAT
+				11 Rue Jean-Elysée DUPUY
+				Champagne au Mont d'Or  Rhône  69543
+				FR
+
+70-B3-D5   (hex)		FoodALYT GmbH
+D91000-D91FFF     (base 16)		FoodALYT GmbH
+				Robert-Hooke-Str.8
+				Bremen  Bremen  28359
+				DE
+
+70-B3-D5   (hex)		Exicom Technologies fze
+3AE000-3AEFFF     (base 16)		Exicom Technologies fze
+				Technology park , P.O.box 327792
+				Ras Al Khaimah FTZ  Ras Al Khaimah   327792
+				AE
+
+70-B3-D5   (hex)		Excel Medical Electronics LLC
+7DD000-7DDFFF     (base 16)		Excel Medical Electronics LLC
+				801 Maplewood Dr.
+				Jupiter    33458
+				US
+
+70-B3-D5   (hex)		SiS Technology
+E71000-E71FFF     (base 16)		SiS Technology
+				Business Park Varna, building B1, floor 4
+				Varna    9000
+				BG
+
+70-B3-D5   (hex)		PARK24
+EA0000-EA0FFF     (base 16)		PARK24
+				48 rue René CLAIR
+				PARIS    75018
+				FR
+
+70-B3-D5   (hex)		Colmek
+D05000-D05FFF     (base 16)		Colmek
+				6526 S Cottonwood St
+				Murray  UT  84107
+				US
+
+70-B3-D5   (hex)		Acacia Research
+BF5000-BF5FFF     (base 16)		Acacia Research
+				5 Butler Drive
+				HENDON  South Australia  5014
+				AU
+
+70-B3-D5   (hex)		Pycom Ltd
+499000-499FFF     (base 16)		Pycom Ltd
+				57 Avenue Road
+				Cranleigh  Surrey  GU6 7LJ
+				GB
+
+70-B3-D5   (hex)		Hildebrand Technology Limited
+21E000-21EFFF     (base 16)		Hildebrand Technology Limited
+				16 Mortimer Street
+				London  London  W1T 3JL
+				GB
+
+70-B3-D5   (hex)		ALPHA　Corporation
+D67000-D67FFF     (base 16)		ALPHA　Corporation
+				1-6-8 Fukuura, 
+				Yokohama City, Kanazawa-ku,   Kanagawa  236-0004
+				JP
+
+70-B3-D5   (hex)		AE Van de Vliet BVBA
+C4F000-C4FFFF     (base 16)		AE Van de Vliet BVBA
+				INDUSTRIEDIJK 14
+				TURNHOUT  ANTWERPEN  2300
+				BE
+
+70-B3-D5   (hex)		SolwayTech
+BD9000-BD9FFF     (base 16)		SolwayTech
+				124, Jungdae-ro, Songpa-gu
+				seoul    05829
+				KR
+
 70-B3-D5   (hex)		carbonTRACK
 F35000-F35FFF     (base 16)		carbonTRACK
 				Level 2 104 Burwood Road
 				Hawthorn   Vic  3122
 				AU
+
+70-B3-D5   (hex)		Code Hardware SA
+29F000-29FFFF     (base 16)		Code Hardware SA
+				100 Metros Norte Hogar de Ancianos
+				Quesada    21001
+				CR
+
+70-B3-D5   (hex)		Thermo Fisher Scientific
+F76000-F76FFF     (base 16)		Thermo Fisher Scientific
+				27 forge Parkway
+				Franklin  MA  02038
+				US
+
+70-B3-D5   (hex)		BELECTRIC GmbH
+2B9000-2B9FFF     (base 16)		BELECTRIC GmbH
+				Wadenbrunner Str, 10
+				Kolitzheim  Bavaria  97509
+				DE
+
+70-B3-D5   (hex)		Fortuna Impex Pvt ltd
+9AD000-9ADFFF     (base 16)		Fortuna Impex Pvt ltd
+				12D Harrington Mansions , 8 Ho Chi Minh Sarani
+				Kolkata  West Bengal  700071
+				IN
+
+70-B3-D5   (hex)		ATE Systems Inc
+594000-594FFF     (base 16)		ATE Systems Inc
+				85 Rangeway Road
+				N Billerica  MA  01862
+				US
+
+70-B3-D5   (hex)		WELT Corporation
+8CB000-8CBFFF     (base 16)		WELT Corporation
+				Seocho, Bangbae, 481-5
+				Seoul    06699
+				KR
+
+70-B3-D5   (hex)		MG s.r.l.
+405000-405FFF     (base 16)		MG s.r.l.
+				via Monte Bianco, 1
+				Solbiate Olona  VA  21058
+				IT
+
+70-B3-D5   (hex)		Septentrio NV
+87E000-87EFFF     (base 16)		Septentrio NV
+				Interleuvenlaan 15i
+				Leuven    3001
+				BE
+
+70-B3-D5   (hex)		Re spa - Controlli Industriali - IT01782300154
+ECB000-ECBFFF     (base 16)		Re spa - Controlli Industriali - IT01782300154
+				via Firenze 3
+				Bussero    20060
+				IT
+
+70-B3-D5   (hex)		FDSTiming
+5F4000-5F4FFF     (base 16)		FDSTiming
+				Rue du Nord 123
+				la Chaux-de-Fonds    2300
+				CH
+
+70-B3-D5   (hex)		Hyundai MNSOFT
+D75000-D75FFF     (base 16)		Hyundai MNSOFT
+				74, Wonhyoro, Yongsan-gu, Seoul 140-711, korea
+				Seoul  N/A  KS013
+				KR
+
+70-B3-D5   (hex)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+D9A000-D9AFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+				NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China
+				Wuhan  Hubei  430074
+				CN
+
+70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
+9C7000-9C7FFF     (base 16)		YUYAMA MFG Co.,Ltd
+				3-3-1
+				TOYONAKASHI  OSAKA  561-0841
+				JP
+
+70-B3-D5   (hex)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+32A000-32AFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+				NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China
+				Wuhan  Hubei  430074
+				CN
+
+70-B3-D5   (hex)		HDANYWHERE
+60E000-60EFFF     (base 16)		HDANYWHERE
+				Unit 23 Link Business Centre
+				Malvern  Worcs  WR14 1UQ
+				GB
+
+70-B3-D5   (hex)		Beijing Wing ICT Technology Co., Ltd.
+EBB000-EBBFFF     (base 16)		Beijing Wing ICT Technology Co., Ltd.
+				Room901，Fuhai international harbour Building,Daliushu Road No.17,Haidian District
+				Beijing  Beijing  100081
+				CN
+
+70-B3-D5   (hex)		FIRST LIGHT IMAGING
+B09000-B09FFF     (base 16)		FIRST LIGHT IMAGING
+				100 route des Houilleres
+				MEYREUIL    13590
+				FR
+
+70-B3-D5   (hex)		CMC Industrial Electronics Ltd
+18C000-18CFFF     (base 16)		CMC Industrial Electronics Ltd
+				305-3602 Gilmore Way
+				Burnaby  BC  v5g4w9
+				CA
+
+70-B3-D5   (hex)		digital-spice
+AFF000-AFFFFF     (base 16)		digital-spice
+				toyohira529-2
+				chino  nagano  391-0213
+				JP
+
+70-B3-D5   (hex)		Zhejiang Hao Teng Electronic Technology Co., Ltd.
+563000-563FFF     (base 16)		Zhejiang Hao Teng Electronic Technology Co., Ltd.
+				Liandu District Information Industry Park 12
+				Lishui  ZhejiangZhejiang Hao Teng Electronic Technology Co., Ltd.  323000
+				CN
+
+70-B3-D5   (hex)		XotonicsMED GmbH
+C06000-C06FFF     (base 16)		XotonicsMED GmbH
+				Gewerbestrasse, 19
+				Treuen OT Hartmannsgrün  Saxony  08233
+				DE
+
+70-B3-D5   (hex)		ProtoPixel SL
+2DB000-2DBFFF     (base 16)		ProtoPixel SL
+				C/Pujades 77-79, 5e 4a
+				Barcelona  Barcelona  08005
+				ES
+
+70-B3-D5   (hex)		MCQ TECH GmbH
+A58000-A58FFF     (base 16)		MCQ TECH GmbH
+				Ottilienweg 9
+				Blumberg  BW  78176
+				DE
+
+70-B3-D5   (hex)		RBS Netkom GmbH
+934000-934FFF     (base 16)		RBS Netkom GmbH
+				Muenchnerstrasse 87b
+				Dachau    85221
+				DE
+
+70-B3-D5   (hex)		Elsist Srl
+13D000-13DFFF     (base 16)		Elsist Srl
+				Via G. Brodolini, 15
+				Casale Monf.to  Alessandria  15033
+				IT
+
+70-B3-D5   (hex)		Paul Scherrer Institut (PSI)
+3B7000-3B7FFF     (base 16)		Paul Scherrer Institut (PSI)
+				WHGA/U130
+				Villigen-PSI  Aargau  CH-5232
+				CH
+
+70-B3-D5   (hex)		SEASON DESIGN TECHNOLOGY
+94D000-94DFFF     (base 16)		SEASON DESIGN TECHNOLOGY
+				FLOOR 4, WARDS EXCHANGE, 199 ECCLESALL ROAD
+				SHEFFIELD  SOUTH YORKSHIRE  S11 8HW
+				GB
+
+70-B3-D5   (hex)		Alere Technologies AS
+A4C000-A4CFFF     (base 16)		Alere Technologies AS
+				Kjelsaasveien 161
+				Oslo  Oslo  0382
+				NO
+
+70-B3-D5   (hex)		Matrix Switch Corporation
+90B000-90BFFF     (base 16)		Matrix Switch Corporation
+				431 Crown Point Circle, Suite 200
+				Grass Valley  CA  95945
+				US
+
+70-B3-D5   (hex)		ANKER-EAST
+C4B000-C4BFFF     (base 16)		ANKER-EAST
+				B. Raznochinnaya 28
+				St Petersburg    197110
+				RU
+
+70-B3-D5   (hex)		CEA Technologies Pty Ltd
+68E000-68EFFF     (base 16)		CEA Technologies Pty Ltd
+				59-65 Gladstone St
+				Fyshwick  ACT  2609
+				AU
+
+70-B3-D5   (hex)		RTDS Technologies Inc.
+542000-542FFF     (base 16)		RTDS Technologies Inc.
+				100-150 Innovation Drive
+				Winnipeg  Manitoba  R3T 2E1
+				CA
 
 70-B3-D5   (hex)		EMAC, Inc.
 8AB000-8ABFFF     (base 16)		EMAC, Inc.
@@ -8045,12 +8966,6 @@ A81000-A81FFF     (base 16)		Sienda New Media Technologies GmbH
 				Basel  Basel-land  4052
 				CH
 
-70-B3-D5   (hex)		Potter Electric Signal Co.
-A1B000-A1BFFF     (base 16)		Potter Electric Signal Co.
-				1609 Park 370 Place
-				Hazelwood  MO  63042
-				US
-
 70-B3-D5   (hex)		Kentech Instruments Limited
 EAC000-EACFFF     (base 16)		Kentech Instruments Limited
 				The Isis Building
@@ -8121,12 +9036,6 @@ DCF000-DCFFFF     (base 16)		KLS Netherlands B.V.
 A25000-A25FFF     (base 16)		PulseTor LLC
 				1580 Reed Road
 				Pennington  NJ  08534
-				US
-
-70-B3-D5   (hex)		NimbeLink Corp
-D3B000-D3BFFF     (base 16)		NimbeLink Corp
-				12805 HWY 55
-				Plymouth  MN  55441
 				US
 
 70-B3-D5   (hex)		SIMON TECH, S.L.
@@ -9029,6 +9938,174 @@ DFF000-DFFFFF     (base 16)		Spanawave Corporation
 				Roseville  CA  95661
 				US
 
+70-B3-D5   (hex)		Amada Miyachi America Inc.
+7B6000-7B6FFF     (base 16)		Amada Miyachi America Inc.
+				1820 S. Myrtle Avenue
+				Monrovia  CA  91016
+				US
+
+70-B3-D5   (hex)		Sontay Ltd.
+55A000-55AFFF     (base 16)		Sontay Ltd.
+				Four Elms Road
+				Edenbridge    TN86AB
+				GB
+
+70-B3-D5   (hex)		Samriddi Automations Pvt. Ltd.
+11C000-11CFFF     (base 16)		Samriddi Automations Pvt. Ltd.
+				F-365
+				Noida  up  201307
+				IN
+
+70-B3-D5   (hex)		SECLAB
+CB2000-CB2FFF     (base 16)		SECLAB
+				40 Avenue Theroigne de Mericourt
+				MONTPELLIER    34000
+				FR
+
+70-B3-D5   (hex)		IDEAL INDUSTRIES Ltd t/a Casella
+A91000-A91FFF     (base 16)		IDEAL INDUSTRIES Ltd t/a Casella
+				Regent House, Wolseley Road
+				Kempston, Bedford  Bedfordshire  MK427JY
+				GB
+
+70-B3-D5   (hex)		BeatCraft, Inc.
+AE5000-AE5FFF     (base 16)		BeatCraft, Inc.
+				5F, S.HARUYAMA BLDG, Kinshi2-13-6 
+				Sumida  Tokyo  1300013
+				JP
+
+70-B3-D5   (hex)		RF CREATIONS LTD
+1DD000-1DDFFF     (base 16)		RF CREATIONS LTD
+				St John's Innovation Centre
+				Cambridge  Cambridgeshire  CB4 0WS
+				GB
+
+70-B3-D5   (hex)		Promess Inc.
+1DA000-1DAFFF     (base 16)		Promess Inc.
+				11429 Grand River
+				Brighton  MI  48116
+				US
+
+70-B3-D5   (hex)		Procon Electronics Pty Ltd
+55B000-55BFFF     (base 16)		Procon Electronics Pty Ltd
+				P O Box 164
+				Seven Hills  NSW  1730
+				AU
+
+70-B3-D5   (hex)		Norsat International Inc.
+0AE000-0AEFFF     (base 16)		Norsat International Inc.
+				110-4020 Viking Way
+				Richmond  BC  V6V 2L4
+				CA
+
+70-B3-D5   (hex)		TESEC Corporation
+461000-461FFF     (base 16)		TESEC Corporation
+				391-1, Kamikitadai 3-Chome
+				Higasiyamato  Tokyo  2070023
+				JP
+
+70-B3-D5   (hex)		db Broadcast Products Ltd
+7FB000-7FBFFF     (base 16)		db Broadcast Products Ltd
+				Kestrel House Sedgeway Business Park Witchford 
+				Ely  Cambridgeshire  CB6 2HY
+				GB
+
+70-B3-D5   (hex)		AKEO PLUS
+6FF000-6FFFFF     (base 16)		AKEO PLUS
+				ZA EN BEAUVOIR 769 RUE DE LA OUTARDE
+				CHATEAU GAILLARD    01500
+				FR
+
+70-B3-D5   (hex)		HBH Microwave GmbH
+CD2000-CD2FFF     (base 16)		HBH Microwave GmbH
+				Helmholtzstr. 1
+				Stutensee    76297
+				DE
+
+70-B3-D5   (hex)		Supervision Test et Pilotage
+B23000-B23FFF     (base 16)		Supervision Test et Pilotage
+				70 avenue de Rome
+				LA SEYNE SUR MER    83500
+				FR
+
+70-B3-D5   (hex)		Gamber Johnson-LLC
+178000-178FFF     (base 16)		Gamber Johnson-LLC
+				3001 Borham Ave
+				Stevens Point  WI  54481
+				US
+
+70-B3-D5   (hex)		Molekule
+A5C000-A5CFFF     (base 16)		Molekule
+				2507 Bryant St.
+				San Francisco  CA  94110
+				US
+
+70-B3-D5   (hex)		KST technology
+012000-012FFF     (base 16)		KST technology
+				164-1, KST b/d., Bangi-dong, songpa-gu
+				SEOUL  N/A  138-050
+				KR
+
+70-B3-D5   (hex)		Finder SpA
+FEC000-FECFFF     (base 16)		Finder SpA
+				via Drubiaglio 14
+				Almese  TO  10040
+				IT
+
+70-B3-D5   (hex)		J-Factor Embedded Technologies
+19E000-19EFFF     (base 16)		J-Factor Embedded Technologies
+				1441 Laura Lane #201
+				Pottstown  PA  19464
+				US
+
+70-B3-D5   (hex)		Design For Life Systems
+A20000-A20FFF     (base 16)		Design For Life Systems
+				Unit 15, Jubilee Enterprise Centre
+				Weymouth    DT47BS
+				GB
+
+70-B3-D5   (hex)		Hangzhou SunTown Intelligent Science & Technology Co.,Ltd.
+90A000-90AFFF     (base 16)		Hangzhou SunTown Intelligent Science & Technology Co.,Ltd.
+				Hangzhou Zhenhua Road, Xihu District No. 298 West Port A District 2 16F
+				Hangzhou  Zhejiang Province  310030
+				CN
+
+70-B3-D5   (hex)		Hudson Robotics
+1DB000-1DBFFF     (base 16)		Hudson Robotics
+				10 Stern Ave
+				Springfield  NJ  07081
+				US
+
+70-B3-D5   (hex)		Akse srl
+5CC000-5CCFFF     (base 16)		Akse srl
+				Via Aldo Moro, 39
+				Reggio Emilia  Italy  42124
+				IT
+
+70-B3-D5   (hex)		Autonomic Controls, Inc.
+973000-973FFF     (base 16)		Autonomic Controls, Inc.
+				28 Kaysal Ct
+				ARMONK  NY  10504
+				US
+
+70-B3-D5   (hex)		ZAO ZEO
+083000-083FFF     (base 16)		ZAO ZEO
+				Khachaturiana 14a
+				Moscow    127562
+				RU
+
+70-B3-D5   (hex)		Critical Link LLC
+42A000-42AFFF     (base 16)		Critical Link LLC
+				6712 Brooklawn Parkway
+				Syracuse    13211
+				US
+
+70-B3-D5   (hex)		Honeywell Safety Products USA, Inc
+C0F000-C0FFFF     (base 16)		Honeywell Safety Products USA, Inc
+				7828 Waterville Road
+				San Diego  CA  92154
+				US
+
 70-B3-D5   (hex)		Aplex Technology Inc.
 65C000-65CFFF     (base 16)		Aplex Technology Inc.
 				2Q , NanYouTianAn industrial park Tower4 ,Nanshan District
@@ -9143,12 +10220,6 @@ A4A000-A4AFFF     (base 16)		Beijing Arrow SEED Technology Co,.Ltd.
 				Kita-ku  Osaka  530-0005
 				JP
 
-70-B3-D5   (hex)		AKEO PLUS
-6FF000-6FFFFF     (base 16)		AKEO PLUS
-				ZA EN BEAUVOIR 769 RUE DE LA OUTARDE
-				CHATEAU GAILLARD    01500
-				FR
-
 70-B3-D5   (hex)		ControlWorks, Inc.
 89B000-89BFFF     (base 16)		ControlWorks, Inc.
 				Jinil Bldg. Suite401, 13 Eonju-ro 81 gil, Gangnam-gu,
@@ -9166,96 +10237,6 @@ A4A000-A4AFFF     (base 16)		Beijing Arrow SEED Technology Co,.Ltd.
 				10 Magdala Place
 				Christchurch  Canterbury  8024
 				NZ
-
-70-B3-D5   (hex)		HBH Microwave GmbH
-CD2000-CD2FFF     (base 16)		HBH Microwave GmbH
-				Helmholtzstr. 1
-				Stutensee    76297
-				DE
-
-70-B3-D5   (hex)		Supervision Test et Pilotage
-B23000-B23FFF     (base 16)		Supervision Test et Pilotage
-				70 avenue de Rome
-				LA SEYNE SUR MER    83500
-				FR
-
-70-B3-D5   (hex)		Gamber Johnson-LLC
-178000-178FFF     (base 16)		Gamber Johnson-LLC
-				3001 Borham Ave
-				Stevens Point  WI  54481
-				US
-
-70-B3-D5   (hex)		Amada Miyachi America Inc.
-7B6000-7B6FFF     (base 16)		Amada Miyachi America Inc.
-				1820 S. Myrtle Avenue
-				Monrovia  CA  91016
-				US
-
-70-B3-D5   (hex)		Sontay Ltd.
-55A000-55AFFF     (base 16)		Sontay Ltd.
-				Four Elms Road
-				Edenbridge    TN86AB
-				GB
-
-70-B3-D5   (hex)		SECLAB
-CB2000-CB2FFF     (base 16)		SECLAB
-				40 Avenue Theroigne de Mericourt
-				MONTPELLIER    34000
-				FR
-
-70-B3-D5   (hex)		Samriddi Automations Pvt. Ltd.
-11C000-11CFFF     (base 16)		Samriddi Automations Pvt. Ltd.
-				F-365
-				Noida  up  201307
-				IN
-
-70-B3-D5   (hex)		BeatCraft, Inc.
-AE5000-AE5FFF     (base 16)		BeatCraft, Inc.
-				5F, S.HARUYAMA BLDG, Kinshi2-13-6 
-				Sumida  Tokyo  1300013
-				JP
-
-70-B3-D5   (hex)		IDEAL INDUSTRIES Ltd t/a Casella
-A91000-A91FFF     (base 16)		IDEAL INDUSTRIES Ltd t/a Casella
-				Regent House, Wolseley Road
-				Kempston, Bedford  Bedfordshire  MK427JY
-				GB
-
-70-B3-D5   (hex)		RF CREATIONS LTD
-1DD000-1DDFFF     (base 16)		RF CREATIONS LTD
-				St John's Innovation Centre
-				Cambridge  Cambridgeshire  CB4 0WS
-				GB
-
-70-B3-D5   (hex)		Norsat International Inc.
-0AE000-0AEFFF     (base 16)		Norsat International Inc.
-				110-4020 Viking Way
-				Richmond  BC  V6V 2L4
-				CA
-
-70-B3-D5   (hex)		Promess Inc.
-1DA000-1DAFFF     (base 16)		Promess Inc.
-				11429 Grand River
-				Brighton  MI  48116
-				US
-
-70-B3-D5   (hex)		Procon Electronics Pty Ltd
-55B000-55BFFF     (base 16)		Procon Electronics Pty Ltd
-				P O Box 164
-				Seven Hills  NSW  1730
-				AU
-
-70-B3-D5   (hex)		TESEC Corporation
-461000-461FFF     (base 16)		TESEC Corporation
-				391-1, Kamikitadai 3-Chome
-				Higasiyamato  Tokyo  2070023
-				JP
-
-70-B3-D5   (hex)		db Broadcast Products Ltd
-7FB000-7FBFFF     (base 16)		db Broadcast Products Ltd
-				Kestrel House Sedgeway Business Park Witchford 
-				Ely  Cambridgeshire  CB6 2HY
-				GB
 
 70-B3-D5   (hex)		Advanced Products Corporation Pte Ltd
 CED000-CEDFFF     (base 16)		Advanced Products Corporation Pte Ltd
@@ -9281,8 +10262,176 @@ CCD000-CCDFFF     (base 16)		Suzhou PowerCore Technology Co.,Ltd.
 				BANGALORE  KARNATAKA  560026
 				IN
 
-70-B3-D5   (hex)		Molekule
-A5C000-A5CFFF     (base 16)		Molekule
-				2507 Bryant St.
-				San Francisco  CA  94110
+70-B3-D5   (hex)		Montalvo
+227000-227FFF     (base 16)		Montalvo
+				50 hutcherson drive
+				Gorham  ME  04038
 				US
+
+70-B3-D5   (hex)		Eginity, Inc.
+910000-910FFF     (base 16)		Eginity, Inc.
+				37 N Orange Ave STE 770
+				Orlando    32801
+				US
+
+70-B3-D5   (hex)		Schneider Electric Motion USA
+7D1000-7D1FFF     (base 16)		Schneider Electric Motion USA
+				370 N. Main St.
+				Marlborough  CT  06447
+				US
+
+70-B3-D5   (hex)		Alion Science & Technology
+70F000-70FFFF     (base 16)		Alion Science & Technology
+				220 Salina Meadows Pkwy, Suite 210
+				Syracuse  NY  13212
+				US
+
+70-B3-D5   (hex)		Potter Electric Signal Co. LLC
+A1B000-A1BFFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
+
+70-B3-D5   (hex)		Checkbill Co,Ltd.
+947000-947FFF     (base 16)		Checkbill Co,Ltd.
+				3306~7-ho, Beonyeonggwan, Chungnam Techno Park, 136, Jiksan-ro, Jiksan-eup, Seobuk-gu
+				Cheonan-si  Chungcheongnam-do   31035
+				KR
+
+70-B3-D5   (hex)		Motec Pty Ltd
+B77000-B77FFF     (base 16)		Motec Pty Ltd
+				121 Merrindale Drive
+				Croydon South  Victoria  3136
+				AU
+
+70-B3-D5   (hex)		Electroimpact, Inc.
+D9D000-D9DFFF     (base 16)		Electroimpact, Inc.
+				4413 Chennault Beach Rd
+				Mukilteo  WA  98275
+				US
+
+70-B3-D5   (hex)		nyantec UG (haftungsbeschränkt)
+C6F000-C6FFFF     (base 16)		nyantec UG (haftungsbeschränkt)
+				Marienstraße 14
+				Berlin    10117
+				DE
+
+70-B3-D5   (hex)		EWATTCH
+475000-475FFF     (base 16)		EWATTCH
+				13, rue Maurice Jeandon
+				Saint Die des Vosges  Lorraine  88100
+				FR
+
+70-B3-D5   (hex)		ADE Technology Inc.
+F30000-F30FFF     (base 16)		ADE Technology Inc.
+				15F. No.90, Xingde Rd., Sanchong Dist.
+				New Taipei City    24158
+				TW
+
+70-B3-D5   (hex)		Get SAT
+F95000-F95FFF     (base 16)		Get SAT
+				Hamada 12
+				Rehovot  Select From Dropdown  7670316
+				IL
+
+70-B3-D5   (hex)		Vivaldi Clima Srl
+457000-457FFF     (base 16)		Vivaldi Clima Srl
+				Via Pascoli 13
+				Casazza  Lombardia  24060
+				IT
+
+70-B3-D5   (hex)		Apantac LLC
+CD5000-CD5FFF     (base 16)		Apantac LLC
+				7556 SW Bridgeport Road
+				Durham  OR  97224
+				US
+
+70-B3-D5   (hex)		Geppetto Electronics
+11F000-11FFFF     (base 16)		Geppetto Electronics
+				2784 Homestead Rd. #323
+				Santa Clara  CA  95051
+				US
+
+70-B3-D5   (hex)		Miguel Corporate Services Pte Ltd
+136000-136FFF     (base 16)		Miguel Corporate Services Pte Ltd
+				18 Sin Ming Lane #06-32 Midview City
+				Singapore    573960
+				SG
+
+70-B3-D5   (hex)		BIZERBA LUCEO
+E1A000-E1AFFF     (base 16)		BIZERBA LUCEO
+				16 RUE LAENNEC
+				VERN SUR SEICHE    35772
+				FR
+
+70-B3-D5   (hex)		CT Company
+5D5000-5D5FFF     (base 16)		CT Company
+				Godovikova , 9, Moscow
+				Moscow  RUSSIA  129085
+				RU
+
+70-B3-D5   (hex)		GlobalTest LLC
+A1F000-A1FFFF     (base 16)		GlobalTest LLC
+				Pavlika Morozova 6
+				Sarov  Nizhnij Novgorod  607185
+				RU
+
+70-B3-D5   (hex)		Allied Data Systems
+8CA000-8CAFFF     (base 16)		Allied Data Systems
+				67/176 South Creek Road
+				Cromer  NSW  2099
+				AU
+
+70-B3-D5   (hex)		Density Inc.
+785000-785FFF     (base 16)		Density Inc.
+				235 HARRISON ST, Mail Drop 24
+				Syracuse  NY  13202
+				US
+
+70-B3-D5   (hex)		TTC TELEKOMUNIKACE, s.r.o.
+6B1000-6B1FFF     (base 16)		TTC TELEKOMUNIKACE, s.r.o.
+				Trebohosticka 5
+				Praha 10  Praha  10000
+				CZ
+
+70-B3-D5   (hex)		Synics AG
+BD5000-BD5FFF     (base 16)		Synics AG
+				Querstr. 8
+				Regensdorf    8105
+				CH
+
+70-B3-D5   (hex)		Shanghai JaWay Information Technology Co., Ltd.
+5C1000-5C1FFF     (base 16)		Shanghai JaWay Information Technology Co., Ltd.
+				Rm. 1102, Science and Technology Building A, No. 900 of Yishan Road, Xuhui District,
+				Shanghai    200030
+				CN
+
+70-B3-D5   (hex)		Telecast Inc.
+BE9000-BE9FFF     (base 16)		Telecast Inc.
+				Jindaiji-Motomachi 3-36-11-103
+				Chofu  Tokyo  182-0017
+				JP
+
+70-B3-D5   (hex)		WIZNOVA
+C62000-C62FFF     (base 16)		WIZNOVA
+				403, Daedeok Plaza1, 12, Dochon-ro, Jungwon-gu, Gyeonggi-do
+				Seongnam    KS009
+				KR
+
+70-B3-D5   (hex)		NimbeLink Corp
+D3B000-D3BFFF     (base 16)		NimbeLink Corp
+				3131 Fernbrook LN N, Ste 100
+				Plymouth  MN  55447
+				US
+
+70-B3-D5   (hex)		Serveron Corporation
+FF4000-FF4FFF     (base 16)		Serveron Corporation
+				20325 NW Von Neumann Dr
+				Beaverton    97006
+				US
+
+70-B3-D5   (hex)		QUALITTEQ LLC
+760000-760FFF     (base 16)		QUALITTEQ LLC
+				16th Parkovaya 26/1
+				Moscow    105484
+				RU
