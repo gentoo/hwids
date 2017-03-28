@@ -1,10 +1,17 @@
 # This file is part of systemd.
 #
-# Keyboard mapping of scan codes to key codes, and
-# scan codes to add to the AT keyboard's 'force-release' list.
+# This file contains 3 types of metadata to apply to keyboards and
+# keyboard-like input devices:
+# - Key mapping
+# - Hard-coded layouts
+# - Absence of modifier LEDs
+#
+# The matching process is the same for the different types of metadata.
+#
+# ########################### MATCHING #######################################
 #
 # The lookup keys are composed in:
-#   60-keyboard.rules
+#   60-evdev.rules
 #
 # Note: The format of the "evdev:" prefix match key is a
 # contract between the rules file and the hardware data, it might
@@ -18,17 +25,34 @@
 #    ZZZZ is the bus-id (see /usr/include/linux/input.h BUS_*), YYYY, XXXX and
 #    WWW are the 4-digit hex uppercase vendor, product and version ID and VVVV
 #    is an arbitrary length input-modalias describing the device capabilities.
+#    The vendor, product and version ID for a device node "eventX" is listed
+#    in /sys/class/input/eventX/device/id.
 #
 #  - AT keyboard DMI data matches:
 #      evdev:atkbd:dmi:bvn*:bvr*:bd*:svn<vendor>:pn<product>:pvr*
 #    <vendor> and <product> are the firmware-provided strings
-#    exported by the kernel DMI modalias.
+#    exported by the kernel DMI modalias, see /sys/class/dmi/id/modalias
 #
 #  - Input driver device name and DMI data match:
 #      evdev:name:<input device name>:dmi:bvn*:bvr*:bd*:svn<vendor>:pn*
 #    <input device name> is the name device specified by the
 #    driver, <vendor> is the firmware-provided string exported
-#    by the kernel DMI modalias.
+#    by the kernel DMI modalias, see /sys/class/dmi/id/modalias
+#
+#  - Extended input driver device name, properties and DMI data match:
+#      evdev:name:<input device name>:phys:<phys>:ev:<ev>:dmi:bvn*:bvr*:bd*:svn<vendor>:pn*
+#    <input device name> is the name device specified by the
+#    driver, <phys> is the physical-device-path, "cat
+#    /sys/class/input/input?/phys", <ev> is the event bitmask, "cat
+#    /sys/class/input/input?/capabilities/ev" and <vendor> is the
+#    firmware-provided string exported by the kernel DMI modalias,
+#    see /sys/class/dmi/id/modalias
+
+
+# ######################### KEY MAPPING ######################################
+#
+# Keyboard mapping of scan codes to key codes, and
+# scan codes to add to the AT keyboard's 'force-release' list.
 #
 # Scan codes are specified as:
 #   KEYBOARD_KEY_<hex scan code>=<key code identifier>
@@ -42,11 +66,18 @@
 #
 # To debug key presses and access scan code mapping data of
 # an input device use the commonly available tool: evtest(1).
+
+# A device with a fixed keyboard layout that must not be changed by
+# the desktop environment may specify that layout as:
+#   XKB_FIXED_LAYOUT="us"
+#   XKB_FIXED_VARIANT=""
+# Examples of such devices: the Yubikey or other key-code generating
+# devices.
 #
 # To update this file, create a new file
 #   /etc/udev/hwdb.d/70-keyboard.hwdb
 # and add your rules there. To load the new rules execute (as root):
-#   udevadm hwdb --update
+#   systemd-hwdb update
 #   udevadm trigger /dev/input/eventXX
 # where /dev/input/eventXX is the keyboard in question. If in
 # doubt, simply use /dev/input/event* to reload all input rules.
@@ -114,6 +145,9 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pnAspire*8930:*
  KEYBOARD_KEY_83=rewind
  KEYBOARD_KEY_89=fastforward
  KEYBOARD_KEY_9e=back
+
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pnAspire*7750G:pvr*
+ KEYBOARD_KEY_e0=!pageup
 
 # Travelmate C300
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pnTravelMate*C3[01]0*:pvr*
@@ -197,6 +231,14 @@ evdev:input:b0003v049Fp0051*
  KEYBOARD_KEY_0c0015=messenger
 
 ###########################################################
+# Cube
+###########################################################
+
+evdev:name:gpio-keys:phys:gpio-keys/input0:ev:3:dmi:bvn*:bvr*:bd*:svncube:pni1-TF:*
+ KEYBOARD_KEY_0=home
+ KEYBOARD_KEY_1=power
+
+###########################################################
 # Dell
 ###########################################################
 
@@ -275,7 +317,7 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnDell*:pnXPS12-9Q33*:pvr*
 evdev:name:Dell WMI hotkeys:dmi:bvn*:bvr*:bd*:svnDell*:pnLatitude*
 # Dell Precision microphone mute
 evdev:name:Dell WMI hotkeys:dmi:bvn*:bvr*:bd*:svnDell*:pnPrecision*
- KEYBOARD_KEY_150=f20                                   # Mic mute toggle, should be micmute
+ KEYBOARD_KEY_100150=f20                                   # Mic mute toggle, should be micmute
 
 ###########################################################
 # Everex
@@ -414,6 +456,10 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnHewlett-Packard*:pnHP*Pavilion*dv7*Notebook*PC:
  KEYBOARD_KEY_c2=media                                  # FIXME: quick play
  KEYBOARD_KEY_c6=break
  KEYBOARD_KEY_94=reserved
+
+# Pavilion x360 13 (Prevents random airplane mode activation)
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnHewlett-Packard*:pn*[pP][aA][vV][iI][lL][iI][oO][nN]*13*x360*:pvr*
+ KEYBOARD_KEY_d7=unknown
 
 # Elitebook
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnHewlett-Packard*:pn*Compaq*:pvr*
@@ -858,6 +904,7 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnMicro-Star*:pn*:pvr*
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnMICRO-STAR*:pn*U-100*:pvr*
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnMICRO-STAR*:pn*U100*:pvr*
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnMICRO-STAR*:pn*N033:*
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnMicro-Star*:pn*VR420*:pvr*
  KEYBOARD_KEY_f7=reserved
  KEYBOARD_KEY_f8=reserved
 
@@ -1239,3 +1286,35 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnDIXONSP:pnDIXON*:pvr*
  KEYBOARD_KEY_a0=!                                      # mute
  KEYBOARD_KEY_ae=!                                      # volume down
  KEYBOARD_KEY_b0=!                                      # volume up
+
+######################### FIXED LAYOUT DEVICES #############################
+# This section lists devices for which only one keyboard layout is possible
+# or useful such as devices which "type" expecting the user's keymap to match
+# a particular one. For example, barcode readers and OTP keys.
+#
+# The layout must be an xkb compatible layout (defined with XKB_FIXED_LAYOUT),
+# with an accompanying variant (defined with XKB_FIXED_VARIANT) if necessary.
+
+# Yubico Yubico Yubikey II"
+evdev:input:b0003v1050p0010*
+# Yubico Yubikey NEO OTP+CCID
+evdev:input:b0003v1050p0111*
+# Yubico Yubikey NEO OTP+U2F+CCID
+evdev:input:b0003v1050p0116*
+# OKE Electron Company USB barcode reader
+evdev:input:b0003v05FEp1010*
+ XKB_FIXED_LAYOUT="us"
+ XKB_FIXED_VARIANT=""
+
+######################### LACK OF MODIFIER LEDS ############################
+# This section lists keyboard which do not have their own LEDs for some
+# modifiers. Only Caps-Lock (KEYBOARD_LED_CAPSLOCK) and Num-Lock
+# (KEYBOARD_LED_CAPSLOCK) are currently handled and need their values set
+# to "0" to indicate the absence of LED.
+#
+# Presence of a LED is implicit when the property is absent.
+
+# Logitech K750
+evdev:input:b0003v046Dp4002*
+ KEYBOARD_LED_NUMLOCK=0
+ KEYBOARD_LED_CAPSLOCK=0
