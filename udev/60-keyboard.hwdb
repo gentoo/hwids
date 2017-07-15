@@ -58,6 +58,8 @@
 #   KEYBOARD_KEY_<hex scan code>=<key code identifier>
 # The scan code should be expressed in hex lowercase. The key codes
 # are retrieved and normalized from the kernel input API header.
+# Keycodes are either KEY_* defines in lowercase with the key_ prefix
+# optionally removed or BTN_ defines in lowercase with btn_ preserved.
 #
 # An '!' as the first character of the key identifier string
 # will add the scan code to the AT keyboard's list of scan codes
@@ -80,7 +82,8 @@
 #   systemd-hwdb update
 #   udevadm trigger /dev/input/eventXX
 # where /dev/input/eventXX is the keyboard in question. If in
-# doubt, simply use /dev/input/event* to reload all input rules.
+# doubt, simply reload all input rules
+#   udevadm trigger --verbose --sysname-match="event*"
 #
 # If your changes are generally applicable, preferably send them as a pull
 # request to
@@ -97,6 +100,7 @@
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pn*
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnGateway*:pnA0A1*:pvr*
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svneMachines:pneMachines*E725:pvr*
+ KEYBOARD_KEY_86=wlan                                   # Fn+F3 or Fn+Q for comunication key
  KEYBOARD_KEY_a5=help                                   # Fn+F1
  KEYBOARD_KEY_a6=setup                                  # Fn+F2 Acer eSettings
  KEYBOARD_KEY_a7=battery                                # Fn+F3 Power Management
@@ -118,6 +122,7 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svneMachines:pneMachines*E725:pvr*
  KEYBOARD_KEY_f3=prog2                                  # "P2" programmable button
  KEYBOARD_KEY_f4=prog1                                  # "P1" programmable button
  KEYBOARD_KEY_f5=presentation
+ KEYBOARD_KEY_f6=power                                  # Power button
  KEYBOARD_KEY_f8=fn
  KEYBOARD_KEY_f9=prog1                                  # Launch NTI shadow
 
@@ -157,6 +162,10 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pnTravelMate*C3[01]0*:pvr*
  KEYBOARD_KEY_6b=fn
  KEYBOARD_KEY_6c=screenlock                             # FIXME: lock tablet device/buttons
 
+# Travelmate P648-G2-MG
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pnTravelMate*P648-G2-MG*:pvr*
+ KEYBOARD_KEY_8a=f20                                    # Microphone mute button; should be micmute
+
 # on some models this isn't brightnessup
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pn*5210*:pvr*
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pn*5220*:pvr*
@@ -170,6 +179,10 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pnAspire*1640:*
 
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnAcer*:pnAOA*:pvr*
  KEYBOARD_KEY_a9=!switchvideomode                       # Fn+F5
+
+# Easynote models
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnPackard*Bell*:pnEasynote*:pvr*
+ KEYBOARD_KEY_86=wlan                                   # Fn+F3 or Fn+Q for comunication key
 
 ###########################################################
 # Alienware
@@ -235,7 +248,7 @@ evdev:input:b0003v049Fp0051*
 ###########################################################
 
 evdev:name:gpio-keys:phys:gpio-keys/input0:ev:3:dmi:bvn*:bvr*:bd*:svncube:pni1-TF:*
- KEYBOARD_KEY_0=home
+ KEYBOARD_KEY_0=leftmeta
  KEYBOARD_KEY_1=power
 
 ###########################################################
@@ -303,6 +316,10 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnDell*:pnLatitude*:pvr*
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnDell*:pnPrecision*:pvr*
  KEYBOARD_KEY_88=!                                      # wireless switch
  KEYBOARD_KEY_9e=!f21
+
+# Dell Latitude E7*
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnDell*:pnLatitude*E7*:pvr*
+ KEYBOARD_KEY_88=unknown                                # Fn-PrtScr rfkill - handled in HW
 
 # Dell XPS
 evdev:atkbd:dmi:bvn*:bvr*:bd*:svnDell*:pnXPS*:pvr*
@@ -844,6 +861,7 @@ evdev:atkbd:dmi:bvn*:bvr*:bd*:svnMAXDATA:pnPro*7000*:pvr*
 ###########################################################
 
 # Akoya
+evdev:atkbd:dmi:bvn*:bvr*:svnMEDION*:pnS3409*:pvr*
 evdev:atkbd:dmi:bvn*:bvr*:svnMedion*:pnAkoya*:pvr*
  KEYBOARD_KEY_a0=!mute
  KEYBOARD_KEY_ae=!volumedown
