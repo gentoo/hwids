@@ -1,10 +1,1 @@
-/udev/20-OUI.hwdb
-/udev/20-pci-classes.hwdb
-/udev/20-pci-vendor-model.hwdb
-/udev/20-pci-vendor-product.hwdb
-/udev/20-sdio-classes.hwdb
-/udev/20-sdio-vendor-model.hwdb
-/udev/20-usb-classes.hwdb
-/udev/20-usb-vendor-model.hwdb
-/udev/20-usb-vendor-product.hwdb
 /*.gz
