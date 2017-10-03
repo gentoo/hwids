@@ -8,6 +8,7 @@ else
 endif
 
 PKG_CONFIG ?= pkg-config
+PYTHON ?= python3
 GZIP ?= yes
 NET ?= yes
 PCI ?= yes
@@ -49,18 +50,18 @@ fetch:
 	$(Q)curl -z ma-small.txt -o ma-small.txt -R http://standards-oui.ieee.org/oui36/oui36.txt
 	$(Q)curl -z iab.txt -o iab.txt -R http://standards-oui.ieee.org/iab/iab.txt
 	$(Q)curl -L -z sdio.ids -o sdio.ids -R $(SYSTEMD_SOURCE)/sdio.ids
-	$(Q)curl -L -z udev-hwdb-update.pl -o udev-hwdb-update.pl -R $(SYSTEMD_SOURCE)/ids-update.pl
+	$(Q)curl -L -z ids_parser.py -o ids_parser.py -R $(SYSTEMD_SOURCE)/ids_parser.py
 	$(Q)for f in $(UDEV_FILES); do curl -L -z udev/$$f -o udev/$$f -R $(SYSTEMD_SOURCE)/$$f; done
 	$(Q)$(STATUS)
 
-PV ?= $(shell ( awk '$$2 == "Date:" { print $$3; nextfile }' pci.ids usb.ids; git log --format=format:%ci -1 -- oui.txt $(addprefix udev/,$(UDEV_FILES)) udev-hwdb-update.pl | cut -d ' ' -f1; ) | sort | tail -n 1 | tr -d -)
+PV ?= $(shell ( awk '$$2 == "Date:" { print $$3; nextfile }' pci.ids usb.ids; git log --format=format:%ci -1 -- oui.txt $(addprefix udev/,$(UDEV_FILES)) ids_parser.py | cut -d ' ' -f1; ) | sort | tail -n 1 | tr -d -)
 P = hwids-$(PV)
 
 tag:
 	git tag $(P)
 
 udev-hwdb:
-	perl ./udev-hwdb-update.pl && mv *.hwdb udev/
+	$(PYTHON) ids_parser.py && mv *.hwdb udev/
 
 compress: pci.ids.gz usb.ids.gz
 
