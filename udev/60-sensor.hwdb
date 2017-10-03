@@ -56,8 +56,8 @@ sensor:modalias:acpi:INVN6500*:dmi:*svnASUSTeK*:*pnT100CHI*
 sensor:modalias:acpi:INVN6500*:dmi:*svnASUSTeK*:*pnT100TA*
  ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
 
-sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP500LB*
- ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 0
+sensor:modalias:acpi:INVN6500*:dmi:*svn*ASUSTeK*:*pn*TP300LD*
+ ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
 
 sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP300LJ*
  ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
@@ -70,6 +70,10 @@ sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP300LJ*
 sensor:modalias:acpi:BOSC0200*:dmi:*:svnHampoo:pnD2D3_Vi8A1:*
  ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
 
+# Chuwi Hi13
+sensor:modalias:acpi:KIOX000A*:dmi:svnChuwi*:pnHi13
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
 #########################################
 # Cube
 #########################################
@@ -77,6 +81,10 @@ sensor:modalias:acpi:BOSC0200*:dmi:*:svnHampoo:pnD2D3_Vi8A1:*
 # Cube iWork8 Air
 sensor:modalias:acpi:KIOX000A*:dmi:*:svncube:pni1-TF:*
  ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
+# Cube i7 Stylus
+sensor:modalias:acpi:KIOX000A*:dmi:*:svnCube:pni7Stylus:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
 #########################################
 # Endless
@@ -124,6 +132,15 @@ sensor:modalias:acpi:BOSC0200*:dmi:bvnINSYDECorp.:bvrjumperx.T87.KFBNEE*
 sensor:modalias:acpi:SMO8500*:dmi:*svnLamina*:*pnT701BR.SE*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
+sensor:modalias:acpi:KIOX000A*:dmi:*svnLAMINA:pnT-1016BNORD*
+ ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
+
+#########################################
+# Lenovo
+#########################################
+sensor:modalias:acpi:NCPE0388*:dmi:*:rnLenovoYOGA510-14IKB:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, -1, 0; 0, 0, 1
+
 #########################################
 # Peaq
 #########################################
@@ -157,12 +174,6 @@ sensor:modalias:acpi:BMA250E*:dmi:bvnAmericanMegatrendsInc.:bvr3BAIR1013:bd08/22
 #########################################
 sensor:modalias:acpi:BMA250*:dmi:*:bvrTREK.G.WI71C.JGBMRBA*:*:svnInsyde:pnST70416-6:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
-
-#########################################
-# Winbook
-#########################################
-sensor:modalias:acpi:BMA250*:dmi:*svn*WinBook*:*pn*TW100*
- ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 0
 
 #########################################
 # Cytrix (Mytrix)
