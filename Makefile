@@ -27,7 +27,6 @@ DATA_FILES-$(USB) += usb.ids
 
 ALL_TARGETS-yes =
 ALL_TARGETS-$(GZIP) += $(COMPRESS_FILES-yes)
-ALL_TARGETS-$(UDEV) += udev-hwdb
 
 INSTALL_TARGETS-yes = install-base
 INSTALL_TARGETS-$(UDEV) += install-hwdb
