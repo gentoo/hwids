@@ -44,9 +44,6 @@ install: $(INSTALL_TARGETS-yes)
 fetch:
 	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
 	$(Q)curl -z usb.ids -o usb.ids -R http://www.linux-usb.org/usb.ids
-	$(Q)sed -e 's/\x20\xB4/\x20\xC2\xB4/' usb.ids > usb.ids.temp
-	$(Q)touch -r usb.ids usb.ids.temp
-	$(Q)mv usb.ids.temp usb.ids
 	$(Q)curl -z oui.txt -o oui.txt -R http://standards-oui.ieee.org/oui/oui.txt
 	$(Q)curl -z ma-medium.txt -o ma-medium.txt -R http://standards-oui.ieee.org/oui28/mam.txt
 	$(Q)curl -z ma-small.txt -o ma-small.txt -R http://standards-oui.ieee.org/oui36/oui36.txt
