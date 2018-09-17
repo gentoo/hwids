@@ -3098,12 +3098,6 @@ A1F000-A1FFFF                 (base 16)                     Flight Data Systems 
                                                             Mountsorrel  Leics  LE12 7AT                 
                                                             GB                                           
 
-00-50-C2                      (hex)                         Pigeon Point Systems LLC                     
-4A1000-4A1FFF                 (base 16)                     Pigeon Point Systems LLC                     
-                                                            2191 S. El Camino Real                       
-                                                            Oceanside  CA  95054                         
-                                                            US                                           
-
 00-50-C2                      (hex)                         Telecom Protection Technologies Limited      
 438000-438FFF                 (base 16)                     Telecom Protection Technologies Limited      
                                                             Unit 1A, Garden Close                        
@@ -3432,12 +3426,6 @@ A1F000-A1FFFF                 (base 16)                     Flight Data Systems 
 3FF000-3FFFFF                 (base 16)                     Cast Iron Systems                            
                                                             2593 Coast Ave Suite 200                     
                                                             Mountain View  CA  94043                     
-                                                            US                                           
-
-00-50-C2                      (hex)                         Pigeon Point Systems LLC                     
-3FB000-3FBFFF                 (base 16)                     Pigeon Point Systems LLC                     
-                                                            2191 S. El Camino Real                       
-                                                            Oceanside  CA  95054                         
                                                             US                                           
 
 00-50-C2                      (hex)                         Weinberger Deutschland GmbH                  
@@ -4628,6 +4616,18 @@ F55000-F55FFF                 (base 16)                     Honeywell
                                                             Clearwater  FL  33764-7290                   
                                                             US                                           
 
+00-50-C2                      (hex)                         nVent, Schroff GmbH                          
+3FB000-3FBFFF                 (base 16)                     nVent, Schroff GmbH                          
+                                                            Langenalber Strasse 96-100                   
+                                                            Straubenhardt    75334                       
+                                                            DE                                           
+
+00-50-C2                      (hex)                         nVent, Schroff GmbH                          
+4A1000-4A1FFF                 (base 16)                     nVent, Schroff GmbH                          
+                                                            Langenalber Strasse 96-100                   
+                                                            Straubenhardt    75334                       
+                                                            DE                                           
+
 00-50-C2                      (hex)                         EMAC, Inc.                                   
 0E0000-0E0FFF                 (base 16)                     EMAC, Inc.                                   
                                                             2390 EMAC Way                                
@@ -4801,12 +4801,6 @@ F55000-F55FFF                 (base 16)                     Honeywell
                                                             253 Passaic Avenue                           
                                                             Fairfield  NJ  07004                         
                                                             US                                           
-
-40-D8-55                      (hex)                         ARGUS-SPECTRUM                               
-17A000-17AFFF                 (base 16)                     ARGUS-SPECTRUM                               
-                                                            Serdobolskaya str.,65A                       
-                                                            Saint-Petersburg    197342                   
-                                                            RU                                           
 
 40-D8-55                      (hex)                         Servo-Robot Inc.                             
 179000-179FFF                 (base 16)                     Servo-Robot Inc.                             
@@ -9746,6 +9740,12 @@ FD1000-FD1FFF                 (base 16)                     Enyx SA
                                                             Clearwater  FL  33764                        
                                                             US                                           
 
+40-D8-55                      (hex)                         ARGUS-SPECTRUM                               
+17A000-17AFFF                 (base 16)                     ARGUS-SPECTRUM                               
+                                                            Serdobolskaya str.,65A                       
+                                                            Saint-Petersburg    197342                   
+                                                            RU                                           
+
 40-D8-55                      (hex)                         Patria Aviation Oy                           
 19F000-19FFFF                 (base 16)                     Patria Aviation Oy                           
                                                             Naulakatu 3                                  
@@ -10535,12 +10535,6 @@ F12000-F12FFF                 (base 16)                     General Industrial C
                                                             Pune  Maharashtra  411026                    
                                                             IN                                           
 
-00-50-C2                      (hex)                         Treehaven Technologies, Inc.                 
-F0B000-F0BFFF                 (base 16)                     Treehaven Technologies, Inc.                 
-                                                            24 Village Pointe Drive                      
-                                                            Powell  OH  43065                            
-                                                            US                                           
-
 00-50-C2                      (hex)                         SKYCHANNEL LTD                               
 F0C000-F0CFFF                 (base 16)                     SKYCHANNEL LTD                               
                                                             567 - 5 TH FLOOR BUILDING 1                  
@@ -11152,12 +11146,6 @@ D42000-D42FFF                 (base 16)                     Hagenuk KMT GmbH
                                                             Röderaue 41                                  
                                                             Radeburg  Sachsen  01471                     
                                                             DE                                           
-
-00-50-C2                      (hex)                         CSS, LLC                                     
-D3F000-D3FFFF                 (base 16)                     CSS, LLC                                     
-                                                            6030 S 58th St, STE C                        
-                                                            Lincoln  NE  68516                           
-                                                            US                                           
 
 00-50-C2                      (hex)                         Gitsn Inc.                                   
 D3B000-D3BFFF                 (base 16)                     Gitsn Inc.                                   
@@ -14426,12 +14414,6 @@ A05000-A05FFF                 (base 16)                     Adgil Design Inc.
                                                             Southampton  Hampshire  SO18 2RX             
                                                             GB                                           
 
-00-50-C2                      (hex)                         Pigeon Point Systems LLC                     
-225000-225FFF                 (base 16)                     Pigeon Point Systems LLC                     
-                                                            2191 S. El Camino Real                       
-                                                            Oceanside  CA  95054                         
-                                                            US                                           
-
 00-50-C2                      (hex)                         eko systems inc.                             
 229000-229FFF                 (base 16)                     eko systems inc.                             
                                                             2750 Prosperity Ave                          
@@ -15608,6 +15590,24 @@ DA2000-DA2FFF                 (base 16)                     metraTec GmbH
                                                             Clearwater  Fl  33764-7290                   
                                                             US                                           
 
+00-50-C2                      (hex)                         Treehaven Technologies, Inc.                 
+F0B000-F0BFFF                 (base 16)                     Treehaven Technologies, Inc.                 
+                                                            3960 Presidential Pkwy Suite B               
+                                                            Powell  OH  43065-9033                       
+                                                            US                                           
+
+00-50-C2                      (hex)                         nVent, Schroff GmbH                          
+225000-225FFF                 (base 16)                     nVent, Schroff GmbH                          
+                                                            Langenalber Strasse 96-100                   
+                                                            Straubenhardt    75334                       
+                                                            DE                                           
+
+00-50-C2                      (hex)                         Communication Systems Solutions              
+D3F000-D3FFFF                 (base 16)                     Communication Systems Solutions              
+                                                            6030 S 58th St, STE C                        
+                                                            Lincoln  NE  68516                           
+                                                            US                                           
+
 00-50-C2                      (hex)                         Aeroflex GmbH                                
 B51000-B51FFF                 (base 16)                     Aeroflex GmbH                                
                                                             Gutenbergstrasse 2-4                         
@@ -15983,12 +15983,6 @@ B51000-B51FFF                 (base 16)                     Aeroflex GmbH
                                                             Norderstedt    22848                         
                                                             US                                           
 
-40-D8-55                      (hex)                         APG CASH DRAWER                              
-0C3000-0C3FFF                 (base 16)                     APG CASH DRAWER                              
-                                                            5250 INDUSTRIAL BLVD NE                      
-                                                            MINNEAPOLIS  Minnesota  55421                
-                                                            US                                           
-
 40-D8-55                      (hex)                         WxBR Sistemas de Telecomunicacoes Ltda       
 0B9000-0B9FFF                 (base 16)                     WxBR Sistemas de Telecomunicacoes Ltda       
                                                             Rua Dr Ricardo Benetton Martins, S/N         
@@ -16084,12 +16078,6 @@ B51000-B51FFF                 (base 16)                     Aeroflex GmbH
                                                             546A, SECTOR - 37                            
                                                             GURGAON  HARYANA  122001                     
                                                             IN                                           
-
-40-D8-55                      (hex)                         APG CASH DRAWER                              
-010000-010FFF                 (base 16)                     APG CASH DRAWER                              
-                                                            5250 INDUSTRIAL BLVD NE                      
-                                                            MINNEAPOLIS  Minnesota  55421                
-                                                            US                                           
 
 40-D8-55                      (hex)                         HuNS                                         
 00D000-00DFFF                 (base 16)                     HuNS                                         
@@ -16312,12 +16300,6 @@ FB8000-FB8FFF                 (base 16)                     TECHNO CO.,LTD.
                                                             1304-5                                       
                                                             Iruma City  Saitama Pref.  358-0011          
                                                             JP                                           
-
-00-50-C2                      (hex)                         ARGUS-SPECTRUM                               
-FB6000-FB6FFF                 (base 16)                     ARGUS-SPECTRUM                               
-                                                            Serdobolskaya street 65A                     
-                                                            St.Petersburg    197342                      
-                                                            RU                                           
 
 00-50-C2                      (hex)                         Digital Barriers                             
 F94000-F94FFF                 (base 16)                     Digital Barriers                             
@@ -18902,12 +18884,6 @@ A41000-A41FFF                 (base 16)                     Meiryo Denshi Corp.
                                                             Mainz  Rheinland-Pfalz  55129                
                                                             DE                                           
 
-00-50-C2                      (hex)                         Argus-Spectrum                               
-764000-764FFF                 (base 16)                     Argus-Spectrum                               
-                                                            65, Serdobolskaya str.                       
-                                                            St-Peterburg    197342                       
-                                                            RU                                           
-
 00-50-C2                      (hex)                         Gaisler Research AB                          
 75A000-75AFFF                 (base 16)                     Gaisler Research AB                          
                                                             Forsta Langgatan 19                          
@@ -19327,12 +19303,6 @@ A41000-A41FFF                 (base 16)                     Meiryo Denshi Corp.
                                                             P.O. Box 113                                 
                                                             FORSSA  HÄME  FIN-30101                      
                                                             FI                                           
-
-00-50-C2                      (hex)                         HoseoTelnet Inc...                           
-6C2000-6C2FFF                 (base 16)                     HoseoTelnet Inc...                           
-                                                            Hoseo B/D 4F 608 Deungchon-3dong             
-                                                            Seoul    157-731                             
-                                                            KR                                           
 
 00-50-C2                      (hex)                         iTRACS Corporation                           
 6C3000-6C3FFF                 (base 16)                     iTRACS Corporation                           
@@ -20101,12 +20071,6 @@ A41000-A41FFF                 (base 16)                     Meiryo Denshi Corp.
                                                             357-1, Jangdae-Dong, Yusung-Gu               
                                                             Daejeon    305-308                           
                                                             KR                                           
-
-00-50-C2                      (hex)                         RDC Specstroy-Svyaz Ltd                      
-3B1000-3B1FFF                 (base 16)                     RDC Specstroy-Svyaz Ltd                      
-                                                            Office 208, Shevchenko street, 2             
-                                                            Taganrog  Rostov region  347922              
-                                                            RU                                           
 
 00-50-C2                      (hex)                         Engim, Inc.                                  
 3A8000-3A8FFF                 (base 16)                     Engim, Inc.                                  
@@ -21832,6 +21796,42 @@ D95000-D95FFF                 (base 16)                     Honeywell
                                                             Riedenburgstraße 48                          
                                                             Horn  Niederösterreich  A-3580               
                                                             AT                                           
+
+00-50-C2                      (hex)                         ARGUS-SPECTRUM                               
+764000-764FFF                 (base 16)                     ARGUS-SPECTRUM                               
+                                                            65, Serdobolskaya str.                       
+                                                            St-Peterburg    197342                       
+                                                            RU                                           
+
+00-50-C2                      (hex)                         ARGUS-SPECTRUM                               
+FB6000-FB6FFF                 (base 16)                     ARGUS-SPECTRUM                               
+                                                            Serdobolskaya street 65A                     
+                                                            St.Petersburg    197342                      
+                                                            RU                                           
+
+00-50-C2                      (hex)                         Specstroy-Svyaz Ltd                          
+3B1000-3B1FFF                 (base 16)                     Specstroy-Svyaz Ltd                          
+                                                            Bolshaya Bulvarnaya Street 13-26             
+                                                            Taganrog    347913                           
+                                                            RU                                           
+
+00-50-C2                      (hex)                         HoseoTelnet Inc...                           
+6C2000-6C2FFF                 (base 16)                     HoseoTelnet Inc...                           
+                                                            Hoseo Plaza B/D 7F, 416                      
+                                                            Gangseo-ro, Gangseo-gu  Seoul   07583        
+                                                            KR                                           
+
+40-D8-55                      (hex)                         APG Cash Drawer, LLC                         
+0C3000-0C3FFF                 (base 16)                     APG Cash Drawer, LLC                         
+                                                            5250 INDUSTRIAL BLVD NE                      
+                                                            MINNEAPOLIS  Minnesota  55421                
+                                                            US                                           
+
+40-D8-55                      (hex)                         APG Cash Drawer, LLC                         
+010000-010FFF                 (base 16)                     APG Cash Drawer, LLC                         
+                                                            5250 INDUSTRIAL BLVD NE                      
+                                                            MINNEAPOLIS  Minnesota  55421                
+                                                            US                                           
 
 00-50-C2                      (hex)                         Baxter International Inc                     
 2E0000-2E0FFF                 (base 16)                     Baxter International Inc                     
@@ -23708,12 +23708,6 @@ B59000-B59FFF                 (base 16)                     SLICAN sp. z o.o.
                                                             Bydgoszcz  Kujawsko-Pomorskie  85-124        
                                                             PL                                           
 
-00-50-C2                      (hex)                         APG CASH DRAWER                              
-B54000-B54FFF                 (base 16)                     APG CASH DRAWER                              
-                                                            5250 Industrial Blvd NE                      
-                                                            Minneapolis  MN  55421                       
-                                                            US                                           
-
 00-50-C2                      (hex)                         KRISTECH                                     
 B77000-B77FFF                 (base 16)                     KRISTECH                                     
                                                             Porzeczkowa 12                               
@@ -25471,12 +25465,6 @@ A18000-A18FFF                 (base 16)                     Eoslink
                                                             14 Avenue de Raspail                         
                                                             GENTILLY Cedex  Val de Marne  94257          
                                                             FR                                           
-
-00-50-C2                      (hex)                         Pigeon Point Systems LLC                     
-57A000-57AFFF                 (base 16)                     Pigeon Point Systems LLC                     
-                                                            2191 S. El Camino Real                       
-                                                            Oceanside  CA  95054                         
-                                                            US                                           
 
 00-50-C2                      (hex)                         Oberon Service srl                           
 571000-571FFF                 (base 16)                     Oberon Service srl                           
@@ -27378,4 +27366,16 @@ B0B000-B0BFFF                 (base 16)                     Honeywell
 C7B000-C7BFFF                 (base 16)                     Honeywell                                    
                                                             13350 US Hwy 19 North                        
                                                             Clearwater  FL  33764-7290                   
+                                                            US                                           
+
+00-50-C2                      (hex)                         nVent, Schroff GmbH                          
+57A000-57AFFF                 (base 16)                     nVent, Schroff GmbH                          
+                                                            Langenalber Strasse 96-100                   
+                                                            Straubenhardt    75334                       
+                                                            DE                                           
+
+00-50-C2                      (hex)                         APG Cash Drawer, LLC                         
+B54000-B54FFF                 (base 16)                     APG Cash Drawer, LLC                         
+                                                            5250 Industrial Blvd NE                      
+                                                            Minneapolis  MN  55421                       
                                                             US                                           
