@@ -38,6 +38,8 @@ UDEV_FILES += 70-joystick.hwdb 70-mouse.hwdb 70-pointingstick.hwdb 70-touchpad.h
 
 all: $(ALL_TARGETS-yes)
 
+.PHONY: all install install-base install-hwdb fetch tag udev-hwdb compress
+
 install: $(INSTALL_TARGETS-yes)
 
 # OUI/IAB: https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
