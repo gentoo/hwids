@@ -31,7 +31,7 @@ ALL_TARGETS-$(GZIP) += $(COMPRESS_FILES-yes)
 INSTALL_TARGETS-yes = install-base
 INSTALL_TARGETS-$(UDEV) += install-hwdb
 
-SYSTEMD_SOURCE = https://github.com/systemd/systemd/raw/master/hwdb
+SYSTEMD_SOURCE = https://github.com/systemd/systemd/raw/master/hwdb.d
 UDEV_FILES = 20-acpi-vendor.hwdb 20-bluetooth-vendor-product.hwdb
 UDEV_FILES += 20-net-ifname.hwdb 60-evdev.hwdb 60-keyboard.hwdb 60-sensor.hwdb
 UDEV_FILES += 70-joystick.hwdb 70-mouse.hwdb 70-pointingstick.hwdb 70-touchpad.hwdb
