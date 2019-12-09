@@ -36,23 +36,47 @@ UDEV_FILES = 20-acpi-vendor.hwdb 20-bluetooth-vendor-product.hwdb
 UDEV_FILES += 20-net-ifname.hwdb 60-evdev.hwdb 60-keyboard.hwdb 60-sensor.hwdb
 UDEV_FILES += 70-joystick.hwdb 70-mouse.hwdb 70-pointingstick.hwdb 70-touchpad.hwdb
 
+UDEV_PATHS = $(addprefix udev/,$(UDEV_FILES))
+
 all: $(ALL_TARGETS-yes)
 
 .PHONY: all install install-base install-hwdb fetch tag udev-hwdb compress
+.PHONY: pci.ids usb.ids oui.txt ma-medium.txt ma-small.txt iab.txt sdio.ids ids_parser.py
+.PHONY: $(UDEV_PATHS)
 
 install: $(INSTALL_TARGETS-yes)
 
+curl-get = $(Q)curl -s -L -z $@ -o $@ -R $1
+
+pci.ids:
+	$(call curl-get,http://pci-ids.ucw.cz/v2.2/pci.ids)
+
+usb.ids:
+	$(call curl-get,http://www.linux-usb.org/usb.ids)
+
 # OUI/IAB: https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
-fetch:
-	$(Q)curl -z pci.ids -o pci.ids -R http://pci-ids.ucw.cz/v2.2/pci.ids
-	$(Q)curl -z usb.ids -o usb.ids -R http://www.linux-usb.org/usb.ids
-	$(Q)curl -z oui.txt -o oui.txt -R http://standards-oui.ieee.org/oui/oui.txt
-	$(Q)curl -z ma-medium.txt -o ma-medium.txt -R http://standards-oui.ieee.org/oui28/mam.txt
-	$(Q)curl -z ma-small.txt -o ma-small.txt -R http://standards-oui.ieee.org/oui36/oui36.txt
-	$(Q)curl -z iab.txt -o iab.txt -R http://standards-oui.ieee.org/iab/iab.txt
-	$(Q)curl -L -z sdio.ids -o sdio.ids -R $(SYSTEMD_SOURCE)/sdio.ids
-	$(Q)curl -L -z ids_parser.py -o ids_parser.py -R $(SYSTEMD_SOURCE)/ids_parser.py
-	$(Q)for f in $(UDEV_FILES); do curl -L -z udev/$$f -o udev/$$f -R $(SYSTEMD_SOURCE)/$$f; done
+oui.txt:
+	$(call curl-get,http://standards-oui.ieee.org/oui/oui.txt)
+
+ma-medium.txt:
+	$(call curl-get,http://standards-oui.ieee.org/oui28/mam.txt)
+
+ma-small.txt:
+	$(call curl-get,http://standards-oui.ieee.org/oui36/oui36.txt)
+
+iab.txt:
+	$(call curl-get,http://standards-oui.ieee.org/iab/iab.txt)
+
+sdio.ids:
+	$(call curl-get,$(SYSTEMD_SOURCE)/sdio.ids)
+
+ids_parser.py:
+	$(call curl-get,$(SYSTEMD_SOURCE)/ids_parser.py)
+
+$(UDEV_PATHS):
+	$(call curl-get,$(SYSTEMD_SOURCE)/$(notdir $@))
+
+fetch: pci.ids usb.ids oui.txt ma-medium.txt ma-small.txt iab.txt sdio.ids ids_parser.py $(UDEV_PATHS)
 	$(Q)$(STATUS)
 
 PV ?= $(shell ( awk '$$2 == "Date:" { print $$3; nextfile }' pci.ids usb.ids; git log --format=format:%ci -1 -- oui.txt $(addprefix udev/,$(UDEV_FILES)) ids_parser.py | cut -d ' ' -f1; ) | sort | tail -n 1 | tr -d -)
