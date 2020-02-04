@@ -83,7 +83,7 @@ PV ?= $(shell ( awk '$$2 == "Date:" { print $$3; nextfile }' pci.ids usb.ids; gi
 P = hwids-$(PV)
 
 tag:
-	git tag $(P)
+	git tag -s $(P)
 
 udev-hwdb:
 	$(PYTHON) ids_parser.py && mv *.hwdb udev/
