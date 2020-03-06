@@ -41,11 +41,15 @@
 #
 # Allowed properties are:
 #    ACCEL_MOUNT_MATRIX=<matrix>
+#    PROXIMITY_NEAR_LEVEL=<value>
 #
 # where <matrix> is a mount-matrix in the format specified in the IIO
 # subsystem[1]. The default, when unset, is equivalent to:
 #   ACCEL_MOUNT_MATRIX=1, 0, 0; 0, 1, 0; 0, 0, 1
 # eg. the identity matrix.
+# and <value> is an integer value above which an object is considered
+# close by a proximity sensor:
+#   PROXIMITY_NEAR_LEVEL=100
 #
 # [1]: https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=dfc57732ad38f93ae6232a3b4e64fd077383a0f1
 #
@@ -207,6 +211,10 @@ sensor:modalias:acpi:KIOX000A*:dmi:*:svnConnect:pnTablet9:*
 
 # Cube iWork8 Air
 sensor:modalias:acpi:KIOX000A*:dmi:*:svncube:pni1-TF:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
+# Cube i7
+sensor:modalias:acpi:SMO8500*:dmi:*:svncube:pni7:*
  ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
 
 # Cube i7 Stylus
@@ -384,7 +392,7 @@ sensor:modalias:acpi:KIOX000A*:dmi:*svnLAMINA:pnT-1016BNORD*
 sensor:modalias:acpi:NCPE0388*:dmi:*:rnLenovoYOGA510-14IKB:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, -1, 0; 0, 0, 1
 
-sensor:modalias:acpi:BOSC0200:BOSC0200:dmi:*ThinkPadYoga11e3rdGen*
+sensor:modalias:acpi:BOSC0200*:dmi:*ThinkPadYoga11e3rdGen*
  ACCEL_MOUNT_MATRIX=0, 1, 0; -1, 0, 0; 0, 0, 1
 
 # Miix3-1030
@@ -431,6 +439,12 @@ sensor:modalias:acpi:KIOX000A*:dmi:*:svnLINX*:pnLINX12*64:*
 #########################################
 # Medion
 #########################################
+
+# Medion Akoya E1239T MD60568
+sensor:modalias:acpi:KIOX0009*:dmi:*:svnMEDION:pnE1239TMD60568:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
+# Medion Akoya E2212T MD99720
 sensor:modalias:acpi:SMO8500*:dmi:*:svnMEDION:pnAkoyaE2212TMD99720:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
@@ -472,6 +486,10 @@ sensor:modalias:acpi:KIOX000A*:dmi:*:svnTMAX:pnTM800W560L:*
 # Nuvision Solo 10 Draw. TM101W610L
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnTMAX:pnTM101W610L:*
  ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
+
+# Nuvision Encite Split 11. NES11-C432SSA
+sensor:modalias:acpi:BOSC0200*:dmi:*:svnNuvision:pnNES11:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
 
 #########################################
 # Onda
