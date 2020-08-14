@@ -35,7 +35,6 @@ SYSTEMD_SOURCE = https://github.com/systemd/systemd/raw/master/hwdb.d
 UDEV_FILES = 20-acpi-vendor.hwdb
 UDEV_FILES += 20-bluetooth-vendor-product.hwdb
 UDEV_FILES += 20-net-ifname.hwdb
-UDEV_FILES += 60-autosuspend-chromiumos.hwdb
 UDEV_FILES += 60-evdev.hwdb
 UDEV_FILES += 60-keyboard.hwdb
 UDEV_FILES += 60-sensor.hwdb
@@ -70,7 +69,9 @@ tag:
 	git tag -s $(P)
 
 udev-hwdb:
-	$(PYTHON) ids_parser.py && mv *.hwdb udev/
+	$(PYTHON) ids_parser.py
+	$(PYTHON) make-autosuspend-rules.py > 60-autosuspend-chromiumos.hwdb
+	mv *.hwdb udev/
 
 compress: pci.ids.gz usb.ids.gz
 
