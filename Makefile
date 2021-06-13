@@ -31,7 +31,7 @@ ALL_TARGETS-$(GZIP) += $(COMPRESS_FILES-yes)
 INSTALL_TARGETS-yes = install-base
 INSTALL_TARGETS-$(UDEV) += install-hwdb
 
-SYSTEMD_SOURCE = https://github.com/systemd/systemd/raw/master/hwdb.d
+SYSTEMD_SOURCE = https://github.com/systemd/systemd/raw/main/hwdb.d
 UDEV_FILES = 20-acpi-vendor.hwdb
 UDEV_FILES += 20-bluetooth-vendor-product.hwdb
 UDEV_FILES += 20-dmi-id.hwdb
