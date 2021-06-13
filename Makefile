@@ -34,14 +34,20 @@ INSTALL_TARGETS-$(UDEV) += install-hwdb
 SYSTEMD_SOURCE = https://github.com/systemd/systemd/raw/master/hwdb.d
 UDEV_FILES = 20-acpi-vendor.hwdb
 UDEV_FILES += 20-bluetooth-vendor-product.hwdb
+UDEV_FILES += 20-dmi-id.hwdb
 UDEV_FILES += 20-net-ifname.hwdb
+UDEV_FILES += 20-vmbus-class.hwdb
+UDEV_FILES += 60-autosuspend.hwdb
+UDEV_FILES += 60-autosuspend-fingerprint-reader.hwdb
 UDEV_FILES += 60-evdev.hwdb
+UDEV_FILES += 60-input-id.hwdb
 UDEV_FILES += 60-keyboard.hwdb
 UDEV_FILES += 60-sensor.hwdb
 UDEV_FILES += 70-joystick.hwdb
 UDEV_FILES += 70-mouse.hwdb
 UDEV_FILES += 70-pointingstick.hwdb
 UDEV_FILES += 70-touchpad.hwdb
+UDEV_FILES += 80-ieee1394-unit-function.hwdb
 
 all: $(ALL_TARGETS-yes)
 
