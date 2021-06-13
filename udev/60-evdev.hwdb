@@ -39,6 +39,15 @@
 # Sort by brand, model
 
 #########################################
+# ACECAD
+#########################################
+
+# Acecad Flair / Pentagram Quadpen
+evdev:input:b0003v0460p0004*
+ EVDEV_ABS_00=::40
+ EVDEV_ABS_01=::40
+
+#########################################
 # AIPTEK
 #########################################
 
@@ -226,6 +235,13 @@ evdev:name:SynPS/2 Synaptics TouchPad:dmi:*bvn*:bvr*:bd*:svnDellInc.:pnMM061:*
  EVDEV_ABS_00=1008:5793:66
  EVDEV_ABS_01=687:5176:107
 
+# Dell Latitude E5510
+evdev:name:AlpsPS/2 ALPS GlidePoint:dmi:*svnDellInc.:pnLatitudeE5510:*
+ EVDEV_ABS_00=73:1828:26
+ EVDEV_ABS_01=101:1319:27
+ EVDEV_ABS_35=73:1828:26
+ EVDEV_ABS_36=101:1319:27
+
 # Dell Latitude E6220
 evdev:name:AlpsPS/2 ALPS DualPoint TouchPad:dmi:bvn*:bvr*:bd*:svnDellInc.:pnLatitudeE6220:*
  EVDEV_ABS_00=76:1815:22
@@ -249,10 +265,10 @@ evdev:name:AlpsPS/2 ALPS GlidePoint:dmi:bvn*:bvr*:bd*:svnDellInc.:pnLatitudeE725
 
 # Dell Latitude E7470
 evdev:name:AlpsPS/2 ALPS DualPoint TouchPad:dmi:bvn*:bvr*:bd*:svnDellInc.:pnLatitudeE7470:*
- EVDEV_ABS_00=29:2930:30
- EVDEV_ABS_01=26:1533:29
- EVDEV_ABS_35=29:2930:30
- EVDEV_ABS_36=26:1533:29
+ EVDEV_ABS_00=29:2930:30:16
+ EVDEV_ABS_01=26:1533:29:16
+ EVDEV_ABS_35=29:2930:30:16
+ EVDEV_ABS_36=26:1533:29:16
 
 # Dell Precision 5510
 evdev:name:SynPS/2 Synaptics TouchPad:dmi:bvn*:bvr*:bd*:svnDellInc.:pnPrecision5510:*
@@ -560,6 +576,15 @@ evdev:name:MSFT0001:02 04F3:304B Touchpad:dmi:*svnLENOVO:*pvrLenovoLegionY9000X2
  EVDEV_ABS_36=::30
 
 #########################################
+# NEWYES
+#########################################
+
+# NEWYES 10" LCD writing tablet
+evdev:input:b0003v6161p4D15*
+ EVDEV_ABS_00=::152
+ EVDEV_ABS_01=::244
+
+#########################################
 # Razer
 #########################################
 
@@ -658,7 +683,12 @@ evdev:input:b0003v172Fp0031*
  EVDEV_ABS_00=0:10000:400
  EVDEV_ABS_01=0:6250:400
 
-#WALTOP International Corp. Graphics Tablet
+# WALTOP International Corp. Graphics Tablet
 evdev:input:b0003v172Fp0047*
  EVDEV_ABS_00=0:20000:80
  EVDEV_ABS_01=0:12500:80
+
+# WALTOP International Corp. Batteryless Tablet
+evdev:input:b0003v172Fp0505*
+ EVDEV_ABS_00=::160
+ EVDEV_ABS_01=::160

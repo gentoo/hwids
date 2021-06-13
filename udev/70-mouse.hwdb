@@ -191,6 +191,14 @@ mouse:usb:v0461p4d46:name:USB Optical Mouse:*
  MOUSE_DPI=1000@125
 
 ##########################################
+# Elecom
+#########################################
+
+# Elecom HUGE TrackBall (M-HT1DR)
+mouse:usb:v056ep010d:name:ELECOM TrackBall Mouse HUGE TrackBall:*
+ MOUSE_DPI=500@125 *1000@125 1500@125
+
+##########################################
 # Fujitsu Siemens
 ##########################################
 
@@ -267,6 +275,7 @@ mouse:usb:v04b3p3107:name:*
 # Kensington Expert Mouse trackball
 mouse:usb:v047dp1020:*Kensington Expert Mouse*:*
  ID_INPUT_TRACKBALL=1
+ MOUSE_DPI=400@125
 
 ##########################################
 # Lenovo
@@ -424,6 +433,10 @@ mouse:usb:v046dpc51a:name:Logitech USB Receiver:*
 mouse:usb:v046dpc01e:name:Logitech USB-PS/2 Optical Mouse:*
  MOUSE_DPI=400@125 *800@125 1600@125
 
+# Logitech MX 518 Legendary (HERO sensor)
+mouse:usb:v046dpc08e:name:Logitech MX518 Gaming Mouse:*
+ MOUSE_DPI=400@1000 *800@1000 1600@1000 3200@1000 6400@1000
+
 # Logitech MX1000 Laser Cordless Mouse
 mouse:bluetooth:v046dpb003:name:Logitech MX1000 mouse:*
  MOUSE_DPI=800@80
@@ -478,7 +491,9 @@ mouse:bluetooth:v046dpb019:name:MX Master 2S Mouse:*
  MOUSE_WHEEL_CLICK_COUNT=24
  MOUSE_WHEEL_CLICK_COUNT_HORIZONTAL=14
 
-# Logitech MX Ergo (via Bluetooth)
+# Logitech MX Ergo
+mouse:usb:v046dp406f:name:Logitech MX Ergo:*
+mouse:usb:v046dpc52b:name:Logitech Unifying Device. Wireless PID:406f:*
 mouse:bluetooth:v046dpb01d:name:MX Ergo Mouse:*
  ID_INPUT_TRACKBALL=1
 
@@ -650,6 +665,10 @@ mouse:bluetooth:v0000p0000:name:Surface Mouse:*
 # Microsoft Classic IntelliMouse
 mouse:usb:v045ep0823:name:Microsoft Microsoft?? Classic IntelliMouse??:*
  MOUSE_DPI=3200@1000
+
+# Microsoft Pro Intellimouse
+mouse:usb:v045ep082a:name:Microsoft Microsoft Pro Intellimouse Mouse:*
+ MOUSE_DPI=1600@1000
 
 ##########################################
 # Mionix

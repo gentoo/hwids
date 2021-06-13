@@ -150,6 +150,7 @@ sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP300LJ:*
 
 sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP500LAB:*
 sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP500LB:*
+sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP550LA:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
 
 sensor:modalias:acpi:SMO8500*:dmi:*svn*ASUSTeK*:*pn*TP300LD:*
@@ -251,16 +252,11 @@ sensor:modalias:acpi:KIOX000A*:dmi:*:svncube:pni1-TF:*
 sensor:modalias:acpi:SMO8500*:dmi:*:svncube:pni7:*
  ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
 
-# Cube i7 Stylus
+# Cube i7 Stylus, i7 Stylus I8L Model, i7 Book (i16) and Mix Plus (i18B)
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnCube:pni7Stylus:*
- ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
-
-# Cube i7 Book (i16)
-sensor:modalias:acpi:KIOX000A*:dmi:*:svnCube:pni16:*
- ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
-
-# Cube i7 Stylus I8L Model
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnCube:pni8-L:*
+sensor:modalias:acpi:KIOX000A*:dmi:*:svnCube:pni16:*
+sensor:modalias:acpi:KIOX000A*:dmi:*:svnCube:pni18B:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
 # Cube iWork 10 Flagship
@@ -308,6 +304,14 @@ sensor:modalias:acpi:SMO8500*:dmi:*svn*DEXP*:*pn*DEXPOEM:*
  ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
 
 #########################################
+# Digibras
+#########################################
+
+# Digibras F10-30
+sensor:modalias:acpi:SMO8500*:dmi:*:svnDigibras:pnF10-30:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
+
+#########################################
 # DIGMA
 #########################################
 
@@ -322,6 +326,12 @@ sensor:modalias:acpi:ACCE0001*:dmi:*svnEndless*:*pnELT-NL3:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 0, 0, -1; -1, 0, 0
 
 #########################################
+# Estar
+#########################################
+sensor:modalias:acpi:SMO8500*:dmi:*:svnEstar:pneSTARBEAUTYHDIntelQuadcore:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
+#########################################
 # Eve Technology
 #########################################
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnEVE*:pnEveV:*
@@ -334,6 +344,14 @@ sensor:modalias:acpi:KIOX000A*:dmi:*:svnEVE*:pnEveV:*
 # Geoflex
 sensor:modalias:acpi:KIOX010A*:dmi:*:svnGEO*:pnGeoFlex*:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, -1, 0; 0, 0, 1
+
+#########################################
+# Glavey
+#########################################
+
+# Glavey TM800A550L
+sensor:modalias:acpi:KXCJ9000*:dmi:*:bvrZY-8-BI-PX4S70VTR400-X423B-005-D:*:rvnAMICorporation:rnAptioCRB:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
 #########################################
 # Google Chromebooks
@@ -445,6 +463,10 @@ sensor:modalias:acpi:BOSC0200*:dmi:bvnINSYDECorp.:bvrjumperx.T87.KFBNEE:*
 sensor:modalias:acpi:BOSC0200*:dmi:*:svnJumper:pnEZpad:*:rvr.A006:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, -1, 0; 0, 0, 1
 
+# EZpad 7
+sensor:modalias:acpi:KIOX0009*:dmi:*:bvrJumper12x.WJ2012.bsBKRCP*:svnJumper:pnEZpad:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
+
 # EZpad Go
 sensor:modalias:acpi:KIOX000A*:dmi:bvnAmericanMegatrendsInc.:*:svnjumper:pnEZpad:*:ct31:*
  ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
@@ -454,6 +476,12 @@ sensor:modalias:acpi:KIOX000A*:dmi:bvnAmericanMegatrendsInc.:*:svnjumper:pnEZpad
 #########################################
 sensor:modalias:acpi:KIOX000A*:dmi:bvnINSYDECorp.:bvrVISION.I22K*:svnKAZAM:pnVISION:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
+
+#########################################
+# KD / Kurio
+#########################################
+sensor:modalias:acpi:SMO8500*:dmi:*:svnKDInteractive:pnKurioSmart:*:rnKDM960BCP:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
 
 #########################################
 # Lamina
@@ -484,8 +512,8 @@ sensor:modalias:acpi:BMA250E*:dmi:bvnLENOVO:*:pvrLenovoMIIX3-1030:*
 sensor:modalias:acpi:SMO8500*:dmi:bvnLENOVO:*:pvrLenovoMIIX3-830:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
-# IdeaPad D330
-sensor:modalias:acpi:BOSC0200*:dmi:*:svnLENOVO:pn81H3:*
+# IdeaPad D330-10IGM (both 81H3 and 81MD product names)
+sensor:modalias:acpi:BOSC0200*:dmi:*:svnLENOVO:*:pvrLenovoideapadD330-10IGM:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; -1, 0, 0; 0, 0, 1
 
 # IdeaPad Miix 300
@@ -509,6 +537,16 @@ sensor:modalias:acpi:*BOSC0200*:dmi:*:svnLENOVO*:pn80XE:*
 sensor:modalias:acpi:*BOSC0200*:dmi:*:svnLENOVO*:pn80U1:*
  ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
 
+# Yoga 300-11IBR, display sensor
+sensor:modalias:acpi:DUAL250E*:dmi:*:svnLENOVO:*:pvrLenovoYoga300-11IBR:*
+ ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
+ ACCEL_LOCATION=display
+
+# Yoga 300-11IBR, base sensor
+sensor:modalias:i2c:bmc150_accel:dmi:*:svnLENOVO:*:pvrLenovoYoga300-11IBR:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, 1, 0; 0, 0, -1
+ ACCEL_LOCATION=base
+
 #########################################
 # LINX
 #########################################
@@ -517,13 +555,25 @@ sensor:modalias:acpi:*BOSC0200*:dmi:*:svnLENOVO*:pn80U1:*
 sensor:modalias:acpi:BOSC0200*:dmi:*:svnLINX*:pnLINX1010B:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, -1
 
-# Linx 12X64 and 12V64
+# Linx 12X64, 12V64 and Vision 8
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnLINX*:pnLINX12*64:*
+sensor:modalias:acpi:KIOX000A*:dmi:*:svnLINX:pnVISION004:*
+ ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
+
+#########################################
+# Mediacom
+#########################################
+# Mediacom Winpad 7.0 W700
+sensor:modalias:acpi:BMA250*:dmi:*svnMEDIACOM*:pnWinPad7W10-WPW700:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
 
 #########################################
 # Medion
 #########################################
+# Medion Akoya E2228T MD61900
+sensor:modalias:acpi:KIOX020A*:dmi:*:svnMEDION:pnE2228TMD61900:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, -1, 0; 0, 0, -1
+ ACCEL_LOCATION=base
 
 # Medion Akoya E1239T MD60568
 sensor:modalias:acpi:KIOX0009*:dmi:*:svnMEDION:pnE1239TMD60568:*
@@ -580,6 +630,10 @@ sensor:modalias:acpi:SMO8500*:dmi:*:svnMicro-StarInternationalCo.,Ltd.:pnS100:*
 sensor:modalias:acpi:BOSC0200*:dmi:*:svnCompletElectroServ:pnMY8307:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
+# MY8312
+sensor:modalias:acpi:KIOX010A*:dmi:*:svnCompletElectroServSA:pnMY8312:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, -1, 0; 0, 0, 1
+
 #########################################
 # Nuvision (TMax)
 #########################################
@@ -623,6 +677,11 @@ sensor:modalias:acpi:SMO8500*:dmi:bvnAmericanMegatrendsInc.:bvr5.6.5:bd07/25/201
 
 # One-netbook OneMix 3 Pro
 sensor:modalias:acpi:BOSC0200*:dmi:*svnONE-NETBOOKTECHNOLOGYCO*:pnOne-Mix3Pro:*
+ ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
+
+# One-netbook OneMix 3s
+# OneMix 3s has no product name filled, matching entire dmi-alias
+sensor:modalias:acpi:BOSC0200*:dmi:bvnAmericanMegatrendsInc.:bvr5.12:bd07/17/2019:br5.12:svnDefaultstring:pnDefaultstring:pvrDefaultstring:rvnDefaultstring:rnDefaultstring:rvrDefaultstring:cvnDefaultstring:ct3:cvrDefaultstring:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
 #########################################
@@ -681,6 +740,14 @@ sensor:modalias:acpi:SMO8500*:dmi:*:svnProwise:pnPT301:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
 #########################################
+# Reeder
+#########################################
+
+# A8iW-Rev.A
+sensor:modalias:acpi:SMO8500*:dmi:*:rvnReeder:rnA8iW-Rev.A:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
+#########################################
 # Schneider
 #########################################
 
@@ -703,6 +770,14 @@ sensor:modalias:acpi:KIOX010A*:dmi:*:svnTECLAST:pnF6Pro:*
 sensor:modalias:acpi:KIOX020A*:dmi:*:svnTECLAST:pnF6Pro:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
  ACCEL_LOCATION=base
+
+# Teclast Tbook 11 (E5A6)
+sensor:modalias:acpi:KIOX000A*:dmi:*:svnTECLAST:pnTbooK11:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
+# Teclast X4 2-in-1 (G4M6)
+sensor:modalias:acpi:KIOX000A*:dmi:*:svnTECLAST:pnX4:*
+ ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
 
 # Teclast X80 Plus (H5C5)
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnTECLAST:pnDefaultstring:*
@@ -736,6 +811,10 @@ sensor:modalias:acpi:BMA250E*:dmi:bvnAmericanMegatrendsInc.:bvr5.6.5:bd04/15/201
 # Toshiba
 #########################################
 
+# Toshiba Encore WT8-B tablet
+sensor:modalias:acpi:INVN6500*:dmi:*:svnTOSHIBA:pnTOSHIBAENCORE2WT8-B:*
+ ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
+
 # Toshiba Encore WT10A tablet
 sensor:modalias:acpi:INVN6500*:dmi:*:svnTOSHIBA:pnTOSHIBAWT10-A-103:*
  ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
@@ -746,6 +825,10 @@ sensor:modalias:acpi:INVN6500*:dmi:*:svnTOSHIBA:pnTOSHIBAWT10-A-103:*
 sensor:modalias:acpi:BMA250*:dmi:*:bvrTREK.G.WI71C.JGBMRBA*:*:svnInsyde:pnST70416-6:*
 sensor:modalias:acpi:BMA250*:dmi:*:bvrTREK.G.WI71C.JGBMRBA*:*:svnTrekStor:pnSurfTabwintron7.0ST70416-6:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
+
+# SurfTab Wintron 10.1 ST10432-3, generic DMI string, use partial BIOS version match
+sensor:modalias:acpi:SMO8500*:dmi:*:bvrWintron.R25M.02.0*:*:svnInsyde:pnBayTrail:*
+ ACCEL_MOUNT_MATRIX=0, -1, 0; -1, 0, 0; 0, 0, 1
 
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnTrekStor:pnSurfTabtwin10.1:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
@@ -761,11 +844,15 @@ sensor:modalias:acpi:BOSC0200*:dmi:*:bvrTP15-VT5.2.1.3:*:svnTrekStor*:pnSurfTabt
 
 sensor:modalias:acpi:KIOX010A*:dmi:*:svnTREKSTOR:pnPrimebookC11B:*
 sensor:modalias:acpi:KIOX010A*:dmi:*:svnTREKSTOR:pnPRIMEBOOKC11B:*
+sensor:modalias:acpi:KIOX010A*:dmi:*:svnTREKSTOR:pnYourbookC11B:*
+sensor:modalias:acpi:KIOX010A*:dmi:*:svnTREKSTOR:pnYOURBOOKC11B:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, -1, 0; 0, 0, -1
  ACCEL_LOCATION=display
 
 sensor:modalias:acpi:KIOX020A*:dmi:*:svnTREKSTOR:pnPrimebookC11B:*
 sensor:modalias:acpi:KIOX020A*:dmi:*:svnTREKSTOR:pnPRIMEBOOKC11B:*
+sensor:modalias:acpi:KIOX020A*:dmi:*:svnTREKSTOR:pnYourbookC11B:*
+sensor:modalias:acpi:KIOX020A*:dmi:*:svnTREKSTOR:pnYOURBOOKC11B:*
  ACCEL_MOUNT_MATRIX=0, 1, 0; 1, 0, 0; 0, 0, 1
  ACCEL_LOCATION=base
 
