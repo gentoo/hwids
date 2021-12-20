@@ -1,3 +1,9 @@
+Inactive project
+================
+
+This project is no longer active.
+[hwdata](https://github.com/vcrhonek/hwdata) is an active alternative.
+
 Combined hardware identification databases
 ==========================================
 
